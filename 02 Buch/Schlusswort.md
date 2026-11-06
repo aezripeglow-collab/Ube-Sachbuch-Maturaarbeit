@@ -1,0 +1,13 @@
+---
+tags: [buch]
+---
+# Schlusswort
+
+Ube gehört für uns bis heute zum Alltag. Neu ist, dass man sie in den letzten Jahren auch in der Schweiz immer öfter antrifft. Plötzlich gab es Schokolade, Kaffee und viele andere Produkte mit Ube, die es hier früher nicht gab. Zuerst haben wir uns darüber einfach gefreut. Es ist ein schönes Gefühl, wenn etwas, das man von zu Hause kennt, auf einmal auch anderen gefällt. Gleichzeitig ist uns aufgefallen, wie sehr sich diese Produkte von unserer Kultur unterscheiden. Bei uns ist Ube mit Feiern und mit der Familie verbunden. In einem Café ist sie dagegen eine Geschmacksrichtung unter vielen, die man schnell zum Mitnehmen bestellt. Beides hat seine Berechtigung, aber es ist nicht dasselbe.
+Durch die Recherche haben wir ausserdem viel Neues über eine Zutat gelernt, die wir eigentlich gut zu kennen glaubten. Dass auf den Philippinen schon vor über 10'000 Jahren Ube gegessen wurde, wussten wir vorher nicht. Genauso neu war für uns, dass die Anbaufläche dort seit 2010 ungefähr um die Hälfte kleiner geworden ist. Wenn wir heute in einem Café oder Laden ein Ube-Produkt sehen, schauen wir deshalb eher auf die Zutatenliste, weil manche Produkte nur wenig echte Ube enthalten.
+Am meisten beschäftigt hat uns, dass auf den Philippinen immer weniger Ube geerntet wird, obwohl die Nachfrage auf der ganzen Welt steigt. Die Ernte ist zwar schon vor dem Boom zurückgegangen. Die grosse Nachfrage hat die Knappheit aber noch verstärkt. In unserem Interview haben wir ausserdem erfahren, dass es jedes Jahr weniger Ube-Bauern gibt, weil die jüngere Generation den Anbau nicht übernehmen will. Gerade weil uns Ube so viel bedeutet, hat uns das nachdenklich gemacht.
+Im Nachhinein finden wir, dass es die richtige Entscheidung war, uns auf Ube zu konzentrieren statt auf die ganze philippinische Küche. So konnten wir an einem einzigen Beispiel genauer anschauen, wie ein Trend im Ausland mit der Landwirtschaft auf den Philippinen zusammenhängt. Gelernt haben wir auch, Zahlen aus Zeitungsartikeln und Marktstudien selbst nachzurechnen, bevor wir sie übernehmen.
+Ein paar Fragen sind offen geblieben. Wir wissen zum Beispiel nicht, wie viel ein Bauer für Pflanzgut, Dünger und Arbeit ausgibt. Bei einer weiteren Arbeit würden wir deshalb mit mehreren Ube-Bauern sprechen und sie genau danach fragen. Erst dann könnte man sagen, ob sich der Ube-Anbau trotz der höheren Preise wirklich lohnt. Spannend wäre ausserdem, wie sich der Exportstopp vom August 2026 in den nächsten Jahren auf die Bauern und den Handel auswirkt.
+
+---
+Zurück: [[3.5 Was bleibt von unserer Leitthese]]

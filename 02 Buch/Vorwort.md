@@ -1,0 +1,14 @@
+---
+tags: [buch]
+---
+# Vorwort
+
+Für unsere Maturaarbeit an der Kantonsschule Baden wollten wir zuerst ein philippinisches Kochbuch machen. Wir kommen ursprünglich von den Philippinen und wollten uns mit der Maturaarbeit genauer mit der Küche unserer Herkunft beschäftigen. Viele Gerichte kennen wir von zu Hause, aber wie sie entstanden sind oder warum sie so gekocht werden, wussten wir oft nicht. Als wir mit der Recherche angefangen haben, haben wir aber gemerkt, dass es schon sehr viele philippinische Kochbücher gibt. Dazu kommen Bücher über die Geschichte des philippinischen Essens. Wir hatten deshalb das Gefühl, dass wir mit einem weiteren Buch zum gleichen Thema nicht viel Neues schreiben könnten.
+Beim Lesen ist uns aufgefallen, dass in vielen dieser Bücher Ube vorkommt. Ein Buch nur über Ube haben wir dagegen kaum gefunden, sondern vor allem Zeitungsartikel. So sind wir auf die Idee gekommen, uns ganz auf die Knolle zu konzentrieren. Lange überlegen mussten wir nicht, denn Ube hat für uns eine besondere Bedeutung.
+Wir kannten Ube schon viel länger, als es sie auf TikTok und Instagram gibt. Seit wir klein sind, kommen wir immer wieder mit ihr in Berührung, sei es an einer Feier oder in einem Kuchen. Exotisch war sie für uns deshalb nie. Sie gehörte einfach dazu, wenn in unseren Familien gegessen und gefeiert wurde. Besonders ist Ube für uns auch, weil sie lange Zeit fast nur auf den Philippinen bekannt war. Ausserhalb kannten sie vor allem Filipinos, die sie aus ihrer Heimat mitgebracht hatten. Für uns war sie dadurch ein Stück philippinische Kultur, das man in der Schweiz kaum mit anderen teilen konnte.
+Umso mehr hat es uns interessiert, dass Ube auf den Philippinen schon seit Jahrtausenden gegessen wird, bei uns in Europa aber plötzlich als etwas Neues verkauft wird. Wir wollten herausfinden, wie es dazu gekommen ist und ob die Menschen, die Ube anbauen, etwas vom Erfolg haben.
+In den ersten zwei Kapiteln geht es darum, woher Ube kommt und wie sie im Ausland bekannt wurde. Im dritten Kapitel untersuchen wir dann mit Statistiken, Studien und einem eigenen Interview, welche Folgen der Boom für die Philippinen hat. Geschrieben haben wir das Buch für alle, die Ube vielleicht schon einmal als violettes Getränk oder Dessert gesehen haben, aber nicht genau wissen, woher diese Zutat kommt.
+Zum Schluss möchten wir uns bei allen bedanken, die uns bei dieser Arbeit unterstützt haben. Besonders geholfen haben uns die Antworten aus unserem Interview. Durch sie haben wir gemerkt, dass es für die Bauern einen grossen Unterschied macht, ob sie ihre Ube selbst auf dem Markt verkaufen oder an Zwischenhändler. Das haben wir in unserem Fazit zu These 1 berücksichtigt. Auch die Rückmeldungen zu unseren Entwürfen haben uns beim Schreiben weitergebracht.
+
+---
+Weiter: [[Kapitel 1 – Kurzeinleitung]]
