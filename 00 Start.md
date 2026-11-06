@@ -29,7 +29,8 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 5. [[Schlusswort]]
 
 ## Arbeitsjournal
-- [[Arbeitsjournal – Übersicht]] (11 Einträge, 26.08.–04.11.2026)
+- [[Arbeitsjournal – Übersicht]] (April bis November 2026, ab Juni mittwochs und freitags)
+- Word-Version zum Abgeben: [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
 ## Quellen und Interview
 - [[Quellenverzeichnis Kapitel 3]]

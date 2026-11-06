@@ -33,13 +33,12 @@ Abgabe: **10.11.2026**
 - [ ] Anführungszeichen vereinheitlichen (« » statt " " bei «nächster Matcha»)
 
 ## Arbeitsjournal ([[Arbeitsjournal – Übersicht]])
-- [ ] Wocheneinteilung mit echten Daten abgleichen (Versionsverlauf der Dokumente, Gruppenchat)
-- [ ] Angenommene Details prüfen: Treffen am Montag nach dem Exportstopp, Zettel beim Sortieren der Fragen, geplante Stichprobe von 100 Beiträgen, Lesen der Interviewfragen durch Tim und John, Feedback-Runden
-- [ ] Prüfen, wer Vorwort und Schlusswort geschrieben hat
-- [ ] Beschreiben, wie der Kontakt zu Tita und die Aussage von Anja Guevarra zustande kamen
-- [ ] Quellen zu Teil 1 mit genauen Titeln ergänzen (Ille-Höhle, Alcina, Halaya)
+- [ ] Ganzes Journal durchlesen und Stellen anpassen, die nicht so passiert sind
+- [ ] Angenommene Daten prüfen: Abgabe des Kochbuch-Kommentars am 17.06., Treffen und Calls (17.06. und 25.09. in Turgi, 26.06., 03.07., 19.08., 30.09. und 23.10. per Teams), Montags-Treffen am 14.09.
+- [ ] Angenommene Details prüfen: Tims und Johns Daten auf den Philippinen, Fragenliste für die Ferien, wer die Interviewfragen gelesen hat, wer Vorwort und Schlusswort geschrieben hat
+- [ ] Leeren Eintrag von Aezri am 27.05. ergänzen oder löschen
+- [ ] KI-Nachweis mit genauen Prompts erstellen (in der Beurteilung verlangt)
 - [ ] Falls verlangt: Zeitaufwand pro Eintrag ergänzen
-- [ ] Falls verlangt: Nutzung von KI-Werkzeugen angeben
 
 ## Buch fertigstellen
 - [ ] ganzes Buch Korrektur lesen

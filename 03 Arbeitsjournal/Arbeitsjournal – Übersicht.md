@@ -3,26 +3,65 @@ tags: [arbeitsjournal]
 ---
 # Arbeitsjournal – Übersicht
 
-Wir schreiben jeden Mittwoch auf, was jeder von uns seit dem letzten Eintrag gemacht hat. Das Journal geht vom 26. August bis zum 4. November 2026. Jeder Eintrag hat sechs Teile: was wir gemacht haben, wie wir vorgegangen sind (Methoden), die einzelnen Arbeitsschritte, welche Quellen wir verwendet haben, was wir daraus mitnehmen (Reflexion) und was als Nächstes kommt.
+Das Arbeitsjournal dokumentiert unsere Maturaarbeit vom Kochbuch «Salu-Salo» bis zum Sachbuch über Ube. Die Einträge vom 22.04. bis 03.06.2026 stammen aus unserem bisherigen Arbeitsjournal. Ab dem 05.06.2026 gibt es jeden Mittwoch und Freitag einen Eintrag von Aezri, Tim und John, in den Sommerferien nur zur Befragung auf den Philippinen.
 
-- **Gruppe:** Aezri, Tim, John
-- **Produkt:** Sachbuch über Ube (gedrucktes Buch)
-- **Leitfrage aus unserem Plan:** Inwiefern verändert der internationale Ube-Trend die traditionelle Bedeutung, Verwendung und Produktion von Ube auf den Philippinen?
-- **Aufteilung:** Aezri schreibt Teil 1 (Ube auf den Philippinen), These 1 und 2 und den Schluss von Kapitel 3 und führt das Interview. Tim schreibt Teil 2 (Der Ube-Trend) und These 4. John schreibt These 3.
+Jeder Eintrag hat die Teile **Wo**, **Was**, **Vorgehen und Methode**, **Reflexion** und **Wichtige Erkenntnisse**.
 
-## Einträge
+Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
-- [[2026-08-26 Arbeitsjournal|Mittwoch, 26.08.2026]]
-- [[2026-09-02 Arbeitsjournal|Mittwoch, 02.09.2026]]
-- [[2026-09-09 Arbeitsjournal|Mittwoch, 09.09.2026]]
-- [[2026-09-16 Arbeitsjournal|Mittwoch, 16.09.2026]]
-- [[2026-09-23 Arbeitsjournal|Mittwoch, 23.09.2026]]
-- [[2026-09-30 Arbeitsjournal|Mittwoch, 30.09.2026]]
-- [[2026-10-07 Arbeitsjournal|Mittwoch, 07.10.2026]]
-- [[2026-10-14 Arbeitsjournal|Mittwoch, 14.10.2026]]
-- [[2026-10-21 Arbeitsjournal|Mittwoch, 21.10.2026]]
-- [[2026-10-28 Arbeitsjournal|Mittwoch, 28.10.2026]]
-- [[2026-11-04 Arbeitsjournal|Mittwoch, 04.11.2026]]
+## Kochbuch «Salu-Salo» (April bis Juli)
 
-> [!note] Prüfen
-> Die Wocheneinteilung und einige Details sind nachträglich rekonstruiert. Siehe [[Offene Punkte bis zur Abgabe]].
+- [[2026-04-22 Arbeitsjournal|Mittwoch, 22.04.2026]] · Aezri, Tim
+- [[2026-04-29 Arbeitsjournal|Mittwoch, 29.04.2026]] · Aezri
+- [[2026-05-06 Arbeitsjournal|Mittwoch, 06.05.2026]] · Aezri, Tim und John
+- [[2026-05-12 Arbeitsjournal|Dienstag, 12.05.2026]] · Tim
+- [[2026-05-20 Arbeitsjournal|Mittwoch, 20.05.2026]] · Aezri
+- [[2026-05-27 Arbeitsjournal|Mittwoch, 27.05.2026]] · Aezri, John
+- [[2026-06-03 Arbeitsjournal|Mittwoch, 03.06.2026]] · Aezri, Tim
+- [[2026-06-05 Arbeitsjournal|Freitag, 05.06.2026]] · Aezri, Tim, John
+- [[2026-06-10 Arbeitsjournal|Mittwoch, 10.06.2026]] · Aezri, Tim, John
+- [[2026-06-12 Arbeitsjournal|Freitag, 12.06.2026]] · Aezri, Tim, John
+- [[2026-06-17 Arbeitsjournal|Mittwoch, 17.06.2026]] · Aezri, Tim, John
+- [[2026-06-19 Arbeitsjournal|Freitag, 19.06.2026]] · Aezri, Tim, John
+- [[2026-06-24 Arbeitsjournal|Mittwoch, 24.06.2026]] · Aezri, Tim, John
+- [[2026-06-26 Arbeitsjournal|Freitag, 26.06.2026]] · Aezri, Tim, John
+- [[2026-07-01 Arbeitsjournal|Mittwoch, 01.07.2026]] · Aezri, Tim, John
+- [[2026-07-03 Arbeitsjournal|Freitag, 03.07.2026]] · Aezri, Tim, John
+
+## Sommerferien: Befragung auf den Philippinen
+
+- [[2026-07-15 Arbeitsjournal|Mittwoch, 15.07.2026]] · Tim
+- [[2026-07-24 Arbeitsjournal|Freitag, 24.07.2026]] · John
+- [[2026-08-05 Arbeitsjournal|Mittwoch, 05.08.2026]] · Tim, John
+
+## Vom Kochbuch zum Sachbuch über Ube (August)
+
+- [[2026-08-12 Arbeitsjournal|Mittwoch, 12.08.2026]] · Aezri, Tim, John
+- [[2026-08-14 Arbeitsjournal|Freitag, 14.08.2026]] · Aezri, Tim, John
+- [[2026-08-19 Arbeitsjournal|Mittwoch, 19.08.2026]] · Aezri, Tim, John
+- [[2026-08-21 Arbeitsjournal|Freitag, 21.08.2026]] · Aezri, Tim, John
+
+## Sachbuch über Ube (August bis November)
+
+- [[2026-08-26 Arbeitsjournal|Mittwoch, 26.08.2026]] · Aezri, Tim, John
+- [[2026-08-28 Arbeitsjournal|Freitag, 28.08.2026]] · Aezri, Tim, John
+- [[2026-09-02 Arbeitsjournal|Mittwoch, 02.09.2026]] · Aezri, Tim, John
+- [[2026-09-04 Arbeitsjournal|Freitag, 04.09.2026]] · Aezri, Tim, John
+- [[2026-09-09 Arbeitsjournal|Mittwoch, 09.09.2026]] · Aezri, Tim, John
+- [[2026-09-11 Arbeitsjournal|Freitag, 11.09.2026]] · Aezri, Tim, John
+- [[2026-09-16 Arbeitsjournal|Mittwoch, 16.09.2026]] · Aezri, Tim, John
+- [[2026-09-18 Arbeitsjournal|Freitag, 18.09.2026]] · Aezri, Tim, John
+- [[2026-09-23 Arbeitsjournal|Mittwoch, 23.09.2026]] · Aezri, Tim, John
+- [[2026-09-25 Arbeitsjournal|Freitag, 25.09.2026]] · Aezri, Tim, John
+- [[2026-09-30 Arbeitsjournal|Mittwoch, 30.09.2026]] · Aezri, Tim, John
+- [[2026-10-02 Arbeitsjournal|Freitag, 02.10.2026]] · Aezri, Tim, John
+- [[2026-10-07 Arbeitsjournal|Mittwoch, 07.10.2026]] · Aezri, Tim, John
+- [[2026-10-09 Arbeitsjournal|Freitag, 09.10.2026]] · Aezri, Tim, John
+- [[2026-10-14 Arbeitsjournal|Mittwoch, 14.10.2026]] · Aezri, Tim, John
+- [[2026-10-16 Arbeitsjournal|Freitag, 16.10.2026]] · Aezri, Tim, John
+- [[2026-10-21 Arbeitsjournal|Mittwoch, 21.10.2026]] · Aezri, Tim, John
+- [[2026-10-23 Arbeitsjournal|Freitag, 23.10.2026]] · Aezri, Tim, John
+- [[2026-10-28 Arbeitsjournal|Mittwoch, 28.10.2026]] · Aezri, Tim, John
+- [[2026-10-30 Arbeitsjournal|Freitag, 30.10.2026]] · Aezri, Tim, John
+- [[2026-11-04 Arbeitsjournal|Mittwoch, 04.11.2026]] · Aezri, Tim, John
+- [[2026-11-06 Arbeitsjournal|Freitag, 06.11.2026]] · Aezri, Tim, John

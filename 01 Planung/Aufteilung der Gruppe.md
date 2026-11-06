@@ -14,6 +14,7 @@ tags: [planung, gruppe]
 | [[3.4 These 4 – Mehr Felder allein reichen nicht]] | [[Tim]] |
 | [[3.5 Was bleibt von unserer Leitthese]] | [[Aezri]] |
 | [[Interview mit Tita]] | [[Aezri]] |
+| Layout in Adobe InDesign | [[John]] |
 | [[Quellenverzeichnis Kapitel 3]] | [[Aezri]] |
 
 Abgabe des Produkts: **10.11.2026**

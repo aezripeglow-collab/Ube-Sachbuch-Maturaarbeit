@@ -5,7 +5,7 @@ autor: Aezri
 # Interview mit Tita
 
 - **Wer:** Ube-Bäuerin und Marktverkäuferin aus Talisay. Sie wollte anonym bleiben und hat sich «Tita» genannt (Filipino für «Tante»).
-- **Form:** zehn Fragen auf Englisch, zwei davon blieben unbeantwortet
+- **Form:** zehn Fragen auf Englisch, über Aezris Familie weitergeleitet. Tita hat acht davon als Sprachnachrichten beantwortet, zwei blieben unbeantwortet.
 - **Transkript:** englisch, im Anhang des Buches. Übersetzt haben wir die Antworten selbst.
 - **Kurzbeleg im Text:** (Interview mit Tita 2026)
 
