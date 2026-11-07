@@ -2,7 +2,7 @@
 
 Gruppe: Aezri, Tim, John · Abgabe: 10.11.2026
 
-Dieses Repository ist ein Obsidian-Vault. Startpunkt in Obsidian ist die Notiz **00 Start**.
+Dieses Repository ist ein Obsidian-Vault. Alle Dateien liegen im Ordner **Ube Sachbuch Maturaarbeit**, Startpunkt ist die Notiz **00 Start**.
 
 | Ordner | Inhalt |
 | --- | --- |
