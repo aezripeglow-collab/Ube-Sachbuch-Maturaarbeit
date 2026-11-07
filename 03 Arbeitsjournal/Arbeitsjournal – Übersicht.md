@@ -30,9 +30,9 @@ Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_M
 
 ## Sommerferien: Befragung auf den Philippinen
 
-- [[2026-07-15 Arbeitsjournal|Mittwoch, 15.07.2026]] · Tim
-- [[2026-07-24 Arbeitsjournal|Freitag, 24.07.2026]] · John
-- [[2026-08-05 Arbeitsjournal|Mittwoch, 05.08.2026]] · Tim, John
+- [[2026-07-15 Arbeitsjournal|Mittwoch, 15.07.2026]] · Aezri, Tim, John
+- [[2026-07-24 Arbeitsjournal|Freitag, 24.07.2026]] · Aezri, Tim, John
+- [[2026-08-05 Arbeitsjournal|Mittwoch, 05.08.2026]] · Aezri, Tim, John
 
 ## Vom Kochbuch zum Sachbuch über Ube (August)
 

@@ -36,6 +36,7 @@ Abgabe: **10.11.2026**
 - [ ] Ganzes Journal durchlesen und Stellen anpassen, die nicht so passiert sind
 - [ ] Angenommene Daten prüfen: Abgabe des Kochbuch-Kommentars am 17.06., Treffen und Calls (17.06. und 25.09. in Turgi, 26.06., 03.07., 19.08., 30.09. und 23.10. per Teams), Montags-Treffen am 14.09.
 - [ ] Angenommene Details prüfen: Tims und Johns Daten auf den Philippinen, Fragenliste für die Ferien, wer die Interviewfragen gelesen hat, wer Vorwort und Schlusswort geschrieben hat
+- [ ] Neu ergänzte Details prüfen: Aezris Einträge in den Sommerferien (15.07., 24.07., 05.08., zu Hause), Nachrichten zwischen uns in den Ferien, Johns Skizze für das Titelblatt am 21.08., gegenseitiges Lesen der Thesen Ende Oktober
 - [ ] Leeren Eintrag von Aezri am 27.05. ergänzen oder löschen
 - [ ] KI-Nachweis mit genauen Prompts erstellen (in der Beurteilung verlangt)
 - [ ] Falls verlangt: Zeitaufwand pro Eintrag ergänzen
