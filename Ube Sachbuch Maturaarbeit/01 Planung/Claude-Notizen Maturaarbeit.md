@@ -4,7 +4,7 @@ tags: [maturaarbeit, ube, claude]
 
 # Claude-Notizen zur Maturaarbeit
 
-Was Claude über eure Maturaarbeit weiss (Stand: 8. November 2026). Du kannst diese Notiz jederzeit selbst ergänzen oder korrigieren.
+Was Claude über eure Maturaarbeit weiss (Stand: 9. November 2026). Du kannst diese Notiz jederzeit selbst ergänzen oder korrigieren.
 
 ## Eckdaten
 - **Thema:** Sachbuch über Ube (lila Yamswurzel)
@@ -45,6 +45,12 @@ Was Claude über eure Maturaarbeit weiss (Stand: 8. November 2026). Du kannst di
 - Die Karte von Bohol (S. 9) hat John gemacht. Tim hat Bilder gesucht und Korrektur gelesen.
 - Was am Buch noch fehlt: [[Offene Punkte bis zur Abgabe]], Abschnitt «Buch fertigstellen»
 - Arbeitsjournal: Die Arbeit am Buch steht in den Mittwochseinträgen vom 28.10. und 04.11. Wenn Aezri das fertige Buch schickt, den Rest ergänzen.
+
+## Finalisierung (9. November 2026)
+- Aezri hat Claude am 8.11. einen Master-Prompt gegeben (Wortlaut in Anhang B des Kommentars v2). Ergebnis: Ordner `09 Finalisierung` mit [[00_PROJEKTSTATUS]] (zuerst lesen), [[01_MATERIALANALYSE]] (mit Stilprofil in Abschnitt 8), [[02_ARGUMENTATIONSSTRUKTUR]], [[03_KOMMENTAR_ENTWURF]] (Kommentar v2, auch als Word `Schriftlicher_Kommentar_Ube_v2.docx`), [[04_ARBEITSJOURNAL_ENTWURF]], [[05_KONSISTENZPRUEFUNG]], [[06_OFFENE_AUFGABEN]].
+- Geprüfte Korrekturen: 300 Mio. Pesos sind rund 5,1 Mio. USD (nicht 4,7); erste Berichte zum Exportstopp ab 11.9.2026; USDA-Bericht heisst «Ube – Purple Yam – A High-Value Specialty Crop …», RP2026-0019, 26.6.2026.
+- Im Vault fehlen weiterhin: Transkript und Fragen des Interviews, Zitierregeln, Beurteilung vom 19.6., Wegleitung.
+- Werkzeuge: `build_v2.py` baut Word und Lesekopie aus `kommentar_quelle_v2.txt`; `make_figures_v2.py` zeichnet Abb. 2; `journal_v2.py` erzeugt den Journal-Entwurf.
 
 ## Quellen und Material
 - 2-minütiges Interview mit einer Bäuerin von den Philippinen

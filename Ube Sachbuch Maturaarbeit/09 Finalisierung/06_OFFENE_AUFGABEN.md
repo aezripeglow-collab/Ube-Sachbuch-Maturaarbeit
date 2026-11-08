@@ -4,63 +4,75 @@ stand: 2026-11-09
 ---
 # 06 Offene Aufgaben
 
-Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punkte bis zur Abgabe]] (dort steht die Checkliste vom 8.11., die weiterhin gilt). Wird bis zum Schluss der Finalisierung fortgeschrieben. Reihenfolge: zuerst das, was den Kommentar blockiert.
+Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punkte bis zur Abgabe]] (die Checkliste vom 8.11. gilt weiter). Reihenfolge: zuerst das, was Kommentar und Buch blockiert. Erledigt durch die Finalisierung am 9.11.: siehe Abschnitt G.
 
-## A. Blockiert den Kommentar
+## A. Zuerst (blockiert Kommentar und Buch)
 
-- [ ] **Transkript und die zehn Fragen des Interviews** in [[Interview mit Tita]] einfügen (englisch, wörtlich, mit Markierung der unsicheren Stellen). Ohne das kann ich Titas Aussagen nicht prüfen, die Auswertung im Kommentar nicht schreiben und den Anhang nicht füllen.
-- [ ] Datum der Sprachnachrichten (Aufnahme) und ob Tita das Transkript bestätigt hat (Zitierregeln verlangen bestätigte Antworten). Welche zwei Fragen blieben unbeantwortet?
-- [ ] **Buchtitel entscheiden:** «Ube» oder «Ube – Zwischen Tradition und Trend». Davon hängen Titelblatt, Abstract und Kapitel 3.2 des Kommentars ab.
-- [ ] **Kapitelnamen** endgültig: im PDF «Die Geschichte von Ube», «Der Ube-Trend», «Einfluss von Ube auf den Philippinen». Der Kommentar übernimmt die gedruckten Namen.
-- [ ] **Vorwort:** lange Fassung (Obsidian, mit Herkunft und persönlicher Bedeutung) oder kurze Fassung (PDF S. 1)? Der Kommentar zitiert die lange.
+- [ ] **Transkript und die zehn Fragen** in [[Interview mit Tita]] einfügen (englisch, wörtlich, unsichere Stellen markiert), dann in den Anhang des Buches und in Anhang A des Kommentars (Quelle `kommentar_quelle_v2.txt`, dann `python3 build_v2.py`).
+- [ ] Datum der Sprachnachrichten, Bestätigung des Transkripts durch Tita, welche zwei Fragen offen blieben.
+- [ ] **Buchtitel** («Ube» oder «Ube – Zwischen Tradition und Trend») und **Kapitelnamen** festlegen; im Kommentar die Platzhalter in Abstract, 3.2, 4.2, 6.1, 10.5 auflösen.
+- [ ] **Vorwort**: lange oder kurze Fassung drucken; Kommentar 1.1 und 4.1 passen zur langen.
+- [ ] **Kommentar v2 zu dritt lesen und in eigene Worte bringen** (Zitierregeln 1.7). Besonders Kapitel 7.4: Wollt ihr die vorsichtigere Formulierung der Leitthese so vertreten? Sonst letzten Absatz streichen.
+- [ ] Alle 60 gelben Stellen in der Word-Datei `Schriftlicher_Kommentar_Ube_v2.docx` entscheiden oder ausfüllen (Suche nach gelber Markierung).
+- [ ] KI-Nachweis (10.6): bei jedem Eintrag ergänzen, was ihr selbst geändert habt; Prompt und Datum zur Ausformulierung des Journals eintragen; Anhang B behalten oder streichen.
 
 ## B. Angaben aus InDesign und vom Druck
 
-- [ ] Farbwerte (CMYK/RGB) von Ube-Violett, Grün, Braun; Schriftgrössen von Fliesstext, Zwischentiteln, Titeln; Zeichen pro Zeile in einer Spalte (für Kommentar 3.3 und 4.4). Aus dem PDF weiss ich: A4, Minion Pro, zwei Spalten, Kopfzeile mit Kapitelname, Seitenzahl unten mittig.
-- [ ] Endgültige Seitenzahl, Papier, Bindung, Anzahl Exemplare, Copyshop.
-- [ ] Cover: Gestaltung und Bild (für Abb. 5 im Kommentar) und eine Doppelseite aus Kapitel 3 (Abb. 6).
-- [ ] Bilddatenbank und Lizenz der Fotos; welche Bilder sind eigene Fotos, welche Stock, welche KI-generiert (S. 7, 8, 16, 18 sehen danach aus)? KI-Bilder müssen in Bildnachweis und KI-Nachweis.
+- [ ] Farbwerte von Violett, Grün, Braun; Schriftgrössen; Zeichen pro Zeile in einer Spalte (Kommentar 3.3, 4.4).
+- [ ] Endgültige Seitenzahl, Papier, Bindung, Auflage, Copyshop (4.5, 6.2).
+- [ ] Cover (Abb. 5) und eine Doppelseite aus Kapitel 3 (Abb. 6) als Bild in den Kommentar; Text zu 6.2 schreiben (fünf bis acht Sätze, Stichworte stehen im Platzhalter).
+- [ ] Bilddatenbank und Lizenz; welche Bilder eigene Fotos, welche Stock, welche KI (S. 7, 8, 16, 18 sehen danach aus); KI-Bilder in Bildnachweis und KI-Nachweis.
 - [ ] Fotos von Firmen (Starbucks, Papa Oro's, Romulo Café, Kapwa Gardens): Verwendung geklärt?
-
-## C. Fürs Buch (Korrekturliste für John, Stand PDF 8.11.)
-
-- [ ] S. 24/25: aktuelle Einleitung von Kapitel 3 einsetzen (drei Teilfragen, Absatz zu Quellen und Tita; im PDF steht eine ältere Fassung mit zwei Fragen).
-- [ ] S. 31 (These 1, erster Einwand): Beleg «(DTI, zit. nach Baltasar 2026)» statt SunStar.
-- [ ] Tippfehler: S. 7 «In der Bergprovinz», S. 12 «Der violette Latte», S. 17 und Inhaltsverzeichnis «nächste Matcha» mit « », «Der Ube-Trend» im Inhaltsverzeichnis mit Bindestrich.
-- [ ] Teil 1 verweist auf das Kapitel «Ube zwischen Tradition und Trend» → auf den gedruckten Kapitelnamen ändern.
-- [ ] Erntezeit in Teil 1 an These 1 angleichen (November bis Februar, DA).
-- [ ] «Björn» → «Bjorn» DelaCruz (Teil 2), Donut-Datierung angleichen.
-- [ ] «Pflanzgut»/«Pflanzmaterial» vereinheitlichen (Vorschlag: Pflanzgut im Fliesstext, Pflanzmaterial nur in Zitaten der Behörden).
-- [ ] «Teil 1/2» → «Kapitel 1/2» im Haupttext.
-- [ ] Behauptungsüberschriften in Kapitel 3 als Zwischentitel auszeichnen; Fazits hervorheben (Kommentar 4.4 beschreibt das so).
-- [ ] S. 13 Verzeichnis zur Karte, Legende der Violett-Töne und der Punkte, Quelle der Grundkarte.
-- [ ] S. 52 Schlusswort, Quellenverzeichnis (Kapitel 3, dazu Kapitel 1 und 2), Bildnachweis, Anhang mit Fragen und Transkript, Cover/Titelseite, Impressum.
-- [ ] Bildauflösung S. 10, 11, 17, 18, 21, 22 (130–160 ppi).
-
-## D. Quellen (siehe auch [[Quellenverzeichnis Kapitel 3]])
-
-- [ ] 12 unvollständige Einträge ergänzen (Asian Journal, BusinessWorld, CNBC, FreshPlaza, Fruitnet, Oman Observer, PDI 2026a, SCMP, Süddeutsche Zeitung, The Sun, USDA FAS, Manila Times 2026c Datum).
-- [ ] Links und Abrufdaten bei allen Online-Quellen.
-- [ ] «GMA News 2026b» → «GMA News 2026».
-- [ ] Context.ph: drei Artikel 2026 → 2026a/b/c in Buch und Kommentar.
-- [ ] CPBRD PB2026-10: Link und Abrufdatum (Buch, Kommentar, Abb. 4).
-- [ ] 300 Mio. Pesos ≈ 4,7 Mio. USD: steht die Umrechnung so in SunStar/Fruitnet? Sonst Kurs und Datum angeben oder «rund 5 Millionen» schreiben.
-
-## E. Kommentar
-
 - [ ] Klassen auf dem Titelblatt.
-- [ ] Absprache mit Frau Büschlen zur Zitierweise im Buch (Kurzbelege statt Fussnoten) festhalten oder nachholen.
-- [ ] KI-Nachweis: beschreiben, was ihr am Entwurf selbst geändert, gestrichen oder neu geschrieben habt; Prompt und Datum zur Ausformulierung des Journals; Prompt vom 8.11. zu den Buch-Einträgen; **Master-Prompt vom 8.11. (diese Sitzung)** mit Art der Übernahme; weitere KI-Nutzung (Buchtext, Bilder).
-- [ ] Angaben zu Papa Oro's («im Aargau», «seit 2022») und zum Starbucks-Datum («Anfang März») im Swissinfo-Artikel vom 20.3.2026 prüfen.
-- [ ] Zitierregeln: Seitenangaben 6–8, 8, 9, 29 in den Fussnoten 3, 23, 52, 39 prüfen.
-- [ ] Beurteilung vom 19.06.: Zitat «inhaltlich noch wenig Wissenschaftlichkeit erkennbar» und die Lobpunkte (Titel, Aufbau) wörtlich prüfen.
 
-## F. Arbeitsjournal
+## C. Korrekturliste für das Buch (für John, Stand PDF 8.11.)
 
-- [ ] Alle in [[Offene Punkte bis zur Abgabe]] als angenommen markierten Daten und Details bestätigen oder korrigieren.
-- [ ] Eintrag 06.11. (John) an den tatsächlichen Stand anpassen (keine farbigen Fazits, keine Bilder in Kapitel 3, welche eigenen Fotos?).
-- [ ] Arbeit vom 07.–10.11. festhalten (Kapitel 3 im Layout, Bilder, Cover, Korrektur, Verzeichnisse, Druck) – als Eintrag Mo 09.11. oder Abschlusseintrag; Inhalt kommt von euch.
-- [ ] Wer hat die drei Kurzeinleitungen geschrieben?
-- [ ] 27.05.: Aezris Eintrag ergänzen oder «kein Eintrag» stehen lassen.
-- [ ] Pronomen «sie/ihr» für Aezri bestätigen.
-- [ ] Entscheiden, ob der KI-Anteil am Journal (Ausformulierung ab 05.06.) in der Übersicht des Journals selbst genannt wird (empfohlen, weil die Zitierregeln Nachvollziehbarkeit verlangen).
+- [ ] S. 24/25: aktuelle Einleitung von Kapitel 3 aus dem Word-Text (drei Teilfragen, Absatz zu Quellen und Tita).
+- [ ] S. 31: Beleg «(DTI, zit. nach Baltasar 2026)» statt SunStar.
+- [ ] These 2: «rund 5 Millionen US-Dollar» statt 4,7 (FreshPlaza 6.10.2026 rechnet 5,1 Mio.).
+- [ ] «seit Mitte August 2026» überall gleich (Kurzeinleitung Kap. 3, These 2, 3, 4, Schlusswort).
+- [ ] Erntezeit Teil 1 → «meist zwischen November und Februar» wie These 1.
+- [ ] Donut: Teil 2 und These 3 gleich datieren; «Bjorn» DelaCruz.
+- [ ] «Pflanzgut» einheitlich (Pflanzmaterial nur in Behördenzitaten); «Kapitel» statt «Teil»; Verweis in Teil 1 auf den gedruckten Kapitelnamen.
+- [ ] Tippfehler: S. 7 «In der Bergprovinz», S. 12 «Der violette Latte», S. 17 und Inhaltsverzeichnis «nächste Matcha» mit « », «Der Ube-Trend» mit Bindestrich; in Teil 1 und 2 « » statt " ".
+- [ ] Kapitel 3: Behauptungen als Zwischentitel, Fazits hervorheben, Interviewzitate auszeichnen (so beschreibt es der Kommentar; sonst dort ändern).
+- [ ] S. 13: Verzeichnis zur Karte, Legende (Violett-Töne, Punkte), Quelle der Grundkarte.
+- [ ] Fehlende Teile: Schlusswort (S. 52), Quellenverzeichnis Kapitel 3 (mit den Ergänzungen aus D), Verzeichnis für Kapitel 1 und 2, Bildnachweis, Anhang mit Fragen und Transkript, Cover, Impressum.
+- [ ] Bildauflösung S. 10, 11, 17, 18, 21, 22 (130–160 ppi).
+- [ ] «GMA News 2026b» → «GMA News 2026» (These 2 und Verzeichnis).
+
+## D. Quellen ([[Quellenverzeichnis Kapitel 3]])
+
+- [ ] 11 unvollständige Einträge ergänzen: Asian Journal, BusinessWorld, CNBC, FreshPlaza (11.06.2026 laut Kommentar), Fruitnet, Oman Observer, PDI 2026a, SCMP (Beltran, Anfang Juli 2026), Süddeutsche Zeitung, The Sun, Manila Times 2026c.
+- [ ] USDA FAS: **erledigt gefunden** → «USDA Foreign Agricultural Service: Ube – Purple Yam – A High-Value Specialty Crop with Growing Domestic and Export Market Potential, Report RP2026-0019, Manila, 26.06.2026» (Link im Kommentar 10.2). Abrufdatum eintragen.
+- [ ] Links und Abrufdaten bei allen Online-Quellen.
+- [ ] CPBRD PB2026-10: Link und Abrufdatum (cpbrd.congress.gov.ph → Publications → Policy Brief). Für Buch, Kommentar 10.2 und Abb. 4.
+- [ ] Im Kommentar 10.2/10.3: URL der DA-Mitteilung vom 23.06.2026, Abrufdaten für IPOPHL 16.06., USDA, Mendoza 08.05.
+- [ ] Optional für Kapitel 1: Ladrido, R. C.: Know your Philippine ube. History, culture, and identity, in: VERA Files, 03.07.2026 (deckt Ille-Höhle 8250–3050 v. Chr., Bohol 35 %, Alcina, Wörterbuch 1851, Benguet 101 Sorten).
+
+## E. Arbeitsjournal ([[04_ARBEITSJOURNAL_ENTWURF]])
+
+- [ ] Kästen «Prüfen» in den Einträgen abarbeiten (angenommene Treffen, Calls, Reisedaten, Skizze, Bilder, Karte, InDesign).
+- [ ] Johns Eintrag vom 06.11. in der Word-Datei durch die angepasste Fassung ersetzen (oder, falls Kapitel 3 inzwischen Bilder und farbige Fazits hat, Original behalten).
+- [ ] 16.09. und 21.10. anpassen (Berichte ab 11.09.; Umrechnung).
+- [ ] Einträge für 08.11., 09.11. und 10.11. aus den Vorlagen füllen, nur mit dem, was war.
+- [ ] Satz zum KI-Anteil in die [[Arbeitsjournal – Übersicht]] (Vorschlag in 04, Regel 5).
+- [ ] Pronomen «sie/ihr» für Aezri bestätigen; 27.05. ergänzen oder lassen; wer schrieb die Kurzeinleitungen.
+- [ ] Zeitaufwand pro Eintrag, falls verlangt.
+
+## F. Kommentar, Rest
+
+- [ ] Zitierregeln: Seitenangaben 6–8, 8, 9, 29 prüfen (Fussnoten 3, 23, 39, 52 im alten Entwurf; im neuen mit Platzhalter markiert).
+- [ ] Beurteilung 19.06.: Zitat «inhaltlich noch wenig Wissenschaftlichkeit erkennbar» und Lob (Titel, Aufbau) wörtlich prüfen.
+- [ ] Absprache mit Frau Büschlen zur Zitierweise im Buch (4.3).
+- [ ] Umfang: 29 Seiten Haupttext. Falls 25 verlangt: 2.1–2.3 straffen, 5.2 Beispiele kürzen, 5.5 knapper, 8.3 kürzen.
+- [ ] Zum Schluss in Word: Inhaltsverzeichnis aktualisieren (Rechtsklick, «Feld aktualisieren»), als PDF speichern, drucken.
+
+## G. Erledigt durch die Finalisierung (9.11.)
+
+- Faktenprüfung: Swissinfo (Starbucks seit Anfang März, Coop Januar, Papa Oro's Aargau seit 2022), USDA-Zahlen und Berichtstitel, Baltasar 20 %, Exportstopp seit Mitte August (DA 14.9.), DA 6.10. (1'000 ha, 850'000 Pesos/ha), IPOPHL, Japanese Tea GI 10.7.2026, Ille-Höhle, Bohol 35 %, Oels, Zöhrer, ISB, Nanavati/Bias (S. 138 für Druck).
+- Rechnungen nachgerechnet (Ertrag, 43 %, 25'000 t, 0,7 %, 67, Faktor 3–4).
+- Kommentar v2 mit Einordnung (Kapitel 7), Quellenarten (5.2), Interviewauswertung (5.5), Produktangaben aus dem PDF, korrigierten Fussnoten (Nanavati S. 138, DA statt AgNavigator, USDA statt Manila Bulletin), erweitertem KI-Nachweis, Anhang B.
+- Abb. 2 um Bilder (Tim) und Karte (John) ergänzt.
+- Journal: Korrekturen 16.09., 21.10., 06.11.; Prüfkästen; Vorlagen für 08.–10.11.
+- Konsistenzprüfung der 56 Kurzbelege im Buch gegen das Verzeichnis (alle vorhanden).

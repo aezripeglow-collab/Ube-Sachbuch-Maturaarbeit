@@ -5,6 +5,9 @@ tags: [todo]
 
 Abgabe: **10.11.2026**
 
+> [!info] Finalisierung vom 9.11.
+> Diese Liste gilt weiter. Die zusammengeführte und ergänzte Fassung mit allem, was aus der Finalisierung dazugekommen ist (Korrekturliste für das Buch, Entscheide für den Kommentar v2, Journal), steht in [[06_OFFENE_AUFGABEN]]. Erledigt ist dort: USDA-FAS-Originalbericht gefunden (Titel und Nummer), Fussnoten geprüft, Umrechnung der 300 Mio. Pesos korrigiert.
+
 ## Quellenverzeichnis ([[Quellenverzeichnis Kapitel 3]])
 - [ ] Abrufdaten bei allen Online-Quellen ergänzen
 - [ ] Links aus dem Originaldokument wieder einfügen

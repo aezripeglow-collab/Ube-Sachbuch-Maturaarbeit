@@ -10,6 +10,7 @@ Der Kommentar begleitet unser Sachbuch «Ube» und wird am **10.11.2026** zusamm
 - **Was noch fehlt:** Abschnitt «Schriftlicher Kommentar» in [[Offene Punkte bis zur Abgabe]]
 
 ## Stand
+- **9. November 2026:** Neuer Entwurf v2 aus der Finalisierung in [[03_KOMMENTAR_ENTWURF]] und `09 Finalisierung/Schriftlicher_Kommentar_Ube_v2.docx`. Neu: Kapitel 7 (Einordnung nach wirtschaftlicher und kultureller Kontrolle, Einwände gegen die Leitthese), 5.2 Quellenarten, 5.5 Interviewauswertung, Produktangaben aus dem Buch-PDF, vollständiger KI-Nachweis. Die Dateien in diesem Ordner sind der Stand vom 8.11. und unverändert. Was ihr noch entscheiden müsst: [[06_OFFENE_AUFGABEN]].
 - Entwurf vom 8. November 2026, mit Claude geschrieben und am gleichen Tag Satz für Satz überarbeitet, damit er nach euch klingt (Vorbild: Teil 1 und These 1 und 2 im Buch). Ihr müsst ihn noch gemeinsam lesen und in eigenen Worten überarbeiten (Zitierregeln, Punkt 1.7).
 - 25 Seiten Haupttext von der Einleitung bis zum Schlusswort, dazu Titelblatt, Abstract, Inhaltsverzeichnis, Quellenverzeichnis mit KI-Nachweis, Abbildungs- und Tabellenverzeichnis und Anhang. Schrift Cambria 11 Punkt.
 - 52 Fussnoten nach den Zitierregeln der Kantonsschule Baden (deutsche Variante). Im Buch selbst stehen Kurzbelege in Klammern.
