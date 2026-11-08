@@ -31,6 +31,7 @@ Abgabe: **10.11.2026**
 - [ ] Tippfehler: «letztens Teils» → «letzten Teils», «wissenschaflich» → «wissenschaftlich» ([[3.0 Einleitung und Leitthese]])
 - [ ] Tippfehler: «Der violetten Latte» → «Der violette Latte», «In Bergprovinz Benguet» → «In der Bergprovinz Benguet» ([[Teil 1 – Ube auf den Philippinen]])
 - [ ] Anführungszeichen vereinheitlichen (« » statt " " bei «nächster Matcha»)
+- [ ] [[3.1 These 1 – Das Ube-Paradox]]: Die «rund 20 Prozent» Exportwachstum 2025 stehen nicht im zitierten SunStar-Artikel. Laut Inquirer haben sich die Exporte 2025 eher verdoppelt (von 1,4 auf 3,06 Millionen US-Dollar). Beleg suchen oder Satz anpassen.
 
 ## Arbeitsjournal ([[Arbeitsjournal – Übersicht]])
 - [ ] Ganzes Journal durchlesen und Stellen anpassen, die nicht so passiert sind
@@ -47,3 +48,23 @@ Abgabe: **10.11.2026**
 - [ ] Layout in Ube-Violett, Interview-Zitate hervorheben
 - [ ] Transkript in den Anhang ([[Interview mit Tita]])
 - [ ] Druck
+
+## Schriftlicher Kommentar ([[Schriftlicher Kommentar]])
+Alle Punkte sind in der Word-Datei gelb markiert.
+- [ ] Entwurf zu dritt lesen und in eigenen Worten überarbeiten, damit nichts wörtlich von der KI übernommen ist (Zitierregeln, Punkt 1.7)
+- [ ] KI-Nachweis (Kapitel 10.6): beschreiben, was wir am Entwurf geändert haben; Prompt und Datum zum Arbeitsjournal einfügen; weitere KI-Nutzung eintragen oder die Zeile löschen
+- [ ] Titelblatt: Klassen eintragen
+- [ ] Tabelle 1: Wer hat Vorwort und Schlusswort geschrieben?
+- [ ] Tabelle 1: «Was bleibt von unserer Leitthese?» steht in [[Aufteilung der Gruppe]] bei Aezri, in [[Claude-Notizen Maturaarbeit]] bei John. Richtig eintragen.
+- [ ] Aus dem InDesign-Dokument: Spalten, Schriftgrösse und Zeichen pro Zeile (3.3), Farbwerte und Schriften (4.4), farbige Hervorhebung der Thesen prüfen (4.4)
+- [ ] Bilddatenbank und Lizenz der Fotos (4.4)
+- [ ] Format, Seitenzahl, Papier, Bindung und Anzahl Exemplare (4.5 und Kapitel 6)
+- [ ] Absprache mit Frau Büschlen zur Zitierweise im Buch festhalten oder vor der Abgabe nachholen (4.3)
+- [ ] Prüfen, ob Donut-Datum und Exportstopp im Buch angeglichen sind (5.2)
+- [ ] Tita: Datum der Antworten prüfen (im Kommentar steht 04.11.2026), festhalten, ob sie das Transkript bestätigt hat, Fragen und Transkript in den Anhang (5.5)
+- [ ] Quellen zu Kapitel 1 und 2 ergänzen und in 6.4 erwähnen
+- [ ] 6.5 «Das fertige Buch» beschreiben, Abb. 4 (Cover) und Abb. 5 (Doppelseite) mit Bildquellen einfügen
+- [ ] Tabelle 3: Verhältnis von Bild und Text, Rezepte und Interview-Zitate eintragen
+- [ ] CPBRD-Bericht: Link und Abrufdatum im Quellenverzeichnis und bei Abb. 3 ergänzen
+- [ ] South China Morning Post (Beltran): genaues Datum suchen
+- [ ] Zum Schluss Inhaltsverzeichnis in Word aktualisieren, als PDF speichern und drucken

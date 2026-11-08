@@ -4,7 +4,7 @@ tags: [maturaarbeit, ube, claude]
 
 # Claude-Notizen zur Maturaarbeit
 
-Was Claude über eure Maturaarbeit weiss (Stand: 6. November 2026). Du kannst diese Notiz jederzeit selbst ergänzen oder korrigieren.
+Was Claude über eure Maturaarbeit weiss (Stand: 8. November 2026). Du kannst diese Notiz jederzeit selbst ergänzen oder korrigieren.
 
 ## Eckdaten
 - **Thema:** Sachbuch über Ube (lila Yamswurzel)
@@ -15,7 +15,7 @@ Was Claude über eure Maturaarbeit weiss (Stand: 6. November 2026). Du kannst di
 ## Aufbau der Arbeit
 - Die Arbeit besteht aus zwei Teilen:
   - **Produkt:** gedrucktes Buch (der Text geht in den Druck)
-  - **Wissenschaftlicher Kommentar:** wird später separat geschrieben
+  - **Schriftlicher Kommentar:** erster Entwurf am 8. November 2026 mit Claude geschrieben, siehe [[Schriftlicher Kommentar]]
 - **Teil 1:** führt nicht-wissenschaftlich ins Thema ein
 - **Teil 3 / Kapitel 3:** enthält die wissenschaftlichen Belege (Thesen)
 
@@ -28,6 +28,15 @@ Was Claude über eure Maturaarbeit weiss (Stand: 6. November 2026). Du kannst di
 
 - Tims These folgt im zusammengeführten Text auf Aezris Teil.
 - Johns Teil behandelt die Leitfragen: Was denken Menschen auf den Philippinen über den Ube-Trend? Bleibt die Tradition erhalten?
+
+## Schriftlicher Kommentar
+- Titel des Buches: «Ube»
+- Betreuerin: Andrea Büschlen, Zweitbewerter: Joel Franceschi
+- Umfang: etwa 20 bis 25 Seiten ohne Titelblatt, Verzeichnisse und Anhang, mit kurzem Theorieteil und Quellen
+- Fussnoten nach den Zitierregeln der Kantonsschule Baden (deutsche Variante), Wir-Form, keine Note erwähnen
+- Vorbilder: Kommentare «Game Pressure» und Kaffeemuseum
+- Produktangaben aus InDesign (Format, Schriften, Seitenzahl, Cover) fehlen noch und sind im Kommentar gelb markiert
+- Offene Punkte stehen in [[Offene Punkte bis zur Abgabe]]
 
 ## Quellen und Material
 - 2-minütiges Interview mit einer Bäuerin von den Philippinen

@@ -28,6 +28,11 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
     - [[3.5 Was bleibt von unserer Leitthese]]
 5. [[Schlusswort]]
 
+## Schriftlicher Kommentar
+- [[Schriftlicher Kommentar]] (Übersicht und Stand)
+- [[Kommentar Volltext]] (ganzer Text in Obsidian)
+- Word-Version zum Abgeben: [[Schriftlicher_Kommentar_Ube.docx]]
+
 ## Arbeitsjournal
 - [[Arbeitsjournal – Übersicht]] (April bis November 2026, ab Juni mittwochs und freitags)
 - Word-Version zum Abgeben: [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
