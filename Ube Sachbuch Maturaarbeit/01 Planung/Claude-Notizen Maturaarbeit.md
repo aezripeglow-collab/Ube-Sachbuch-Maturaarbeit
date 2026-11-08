@@ -24,7 +24,7 @@ Was Claude über eure Maturaarbeit weiss (Stand: 8. November 2026). Du kannst di
 |---|---|
 | Aezri | Teil 1, These 1 und 2 in Kapitel 3, Interview |
 | Tim | Teil 2, These 4 |
-| John | These 3, letzter Teil von Kapitel 3 |
+| John | These 3, Satz und Layout in InDesign |
 
 - Tims These folgt im zusammengeführten Text auf Aezris Teil.
 - Johns Teil behandelt die Leitfragen: Was denken Menschen auf den Philippinen über den Ube-Trend? Bleibt die Tradition erhalten?

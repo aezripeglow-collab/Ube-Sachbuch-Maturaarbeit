@@ -10,16 +10,17 @@ Der Kommentar begleitet unser Sachbuch «Ube» und wird am **10.11.2026** zusamm
 - **Was noch fehlt:** Abschnitt «Schriftlicher Kommentar» in [[Offene Punkte bis zur Abgabe]]
 
 ## Stand
-- Erster vollständiger Entwurf vom 8. November 2026, mit Claude geschrieben. Ihr müsst ihn noch gemeinsam lesen und in eigenen Worten überarbeiten (Zitierregeln, Punkt 1.7).
-- 21 Seiten Haupttext von der Einleitung bis zum Schlusswort, dazu Titelblatt, Abstract, Inhaltsverzeichnis, Quellenverzeichnis mit KI-Nachweis, Abbildungs- und Tabellenverzeichnis und Anhang.
-- Fussnoten nach den Zitierregeln der Kantonsschule Baden (deutsche Variante). Im Buch selbst stehen Kurzbelege in Klammern.
-- Drei eigene Abbildungen (Zeitstrahl, Aufbau von Kapitel 3, Fläche und Ernte 2010 und 2025) und drei Tabellen.
+- Entwurf vom 8. November 2026, mit Claude geschrieben und am gleichen Tag Satz für Satz überarbeitet, damit er nach euch klingt (Vorbild: Teil 1 und These 1 und 2 im Buch). Ihr müsst ihn noch gemeinsam lesen und in eigenen Worten überarbeiten (Zitierregeln, Punkt 1.7).
+- 25 Seiten Haupttext von der Einleitung bis zum Schlusswort, dazu Titelblatt, Abstract, Inhaltsverzeichnis, Quellenverzeichnis mit KI-Nachweis, Abbildungs- und Tabellenverzeichnis und Anhang. Schrift Cambria 11 Punkt.
+- 52 Fussnoten nach den Zitierregeln der Kantonsschule Baden (deutsche Variante). Im Buch selbst stehen Kurzbelege in Klammern.
+- Kapitel 2 erzählt den Ablauf jetzt Datum für Datum, vom 22. April bis zur Abgabe. Die Daten stammen aus dem [[Arbeitsjournal – Übersicht|Arbeitsjournal]]. Bitte prüfen, ob alles so stimmt.
+- Vier eigene Abbildungen: Zeitstrahl mit allen wichtigen Daten, Arbeitsplan (wer wann woran), Aufbau von Kapitel 3 mit allen Behauptungen, Fläche und Ernte 2010 und 2025 mit eigener Rechnung. Dazu drei Tabellen und zwei Platzhalter für Cover und Doppelseite.
 - Gelb markierte Stellen in der Word-Datei sind Platzhalter für Angaben, die nur ihr kennt, etwa aus dem InDesign-Dokument.
 - Ändern sich Seiten, in Word das Inhaltsverzeichnis aktualisieren: Rechtsklick darauf, dann «Feld aktualisieren».
 
 ## Aufbau
 1. Einleitung
-2. Entstehung des Projekts (Kochbuch «Salu-Salo», Zwischenpräsentation, Befragung, Wechsel zu Ube)
+2. Entstehung des Projekts (Kochbuch «Salu-Salo», Zwischenpräsentation, Befragung, Wechsel zu Ube, Ablauf bis zur Abgabe)
 3. Formale Recherche: Wie ein Sachbuch funktioniert (kurzer Theorieteil mit Quellen)
 4. Konzeptentwicklung
 5. Inhaltliche Recherche und Methode

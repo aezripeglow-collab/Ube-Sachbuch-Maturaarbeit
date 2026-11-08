@@ -18,7 +18,7 @@ const HEAD = "Calibri";
 const VIOLET = "5B2A86";
 const INK2 = "52514E";
 const TEXTW = 9072; // A4 minus 2 x 2.5 cm
-const SZ = 23; // 11.5 pt
+const SZ = 22; // 11 pt
 const LINE = 336; // 1.4 Zeilenabstand
 const LANG = { value: "de-CH" };
 
@@ -142,6 +142,7 @@ function table(b) {
       shading: ri === 0 ? { fill: "EFE9F7", type: ShadingType.CLEAR, color: "auto" } : undefined,
       verticalAlign: VerticalAlign.TOP,
       children: [new Paragraph({ spacing: { after: 0, line: 260 }, alignment: AlignmentType.LEFT,
+        keepNext: ri === b.rows.length - 2,
         children: runsFor(c, { font: HEAD, size: 19, bold: ri === 0 }) })],
     })),
   }));
@@ -150,7 +151,7 @@ function table(b) {
     children: [new TextRun({ text: lab + ":", font: HEAD, size: 19, bold: true, color: INK2, language: LANG }),
       ...runsFor(rest.join(":"), { font: HEAD, size: 19, color: INK2 })] }));
   children.push(new Table({ width: { size: TEXTW, type: WidthType.DXA }, columnWidths: widths, rows }));
-  children.push(new Paragraph({ spacing: { after: 120 }, children: [] }));
+  children.push(new Paragraph({ spacing: { before: 0, after: 0, line: 160, lineRule: LineRuleType.AUTO }, children: [] }));
 }
 
 function caption(text) {
@@ -166,7 +167,7 @@ function figure(b) {
   // PNG-Grösse lesen
   const w = buf.readUInt32BE(16), h = buf.readUInt32BE(20);
   const W = 605; // Pixel bei 96 dpi = 16 cm
-  children.push(new Paragraph({ keepNext: true, alignment: AlignmentType.CENTER, spacing: { before: 160, after: 0 },
+  children.push(new Paragraph({ keepNext: true, alignment: AlignmentType.CENTER, spacing: { before: 160, after: 0, line: 240, lineRule: LineRuleType.AUTO },
     children: [new ImageRun({ type: "png", data: buf, transformation: { width: W, height: Math.round(W * h / w) },
       altText: { title: b.cap.split(":")[0], description: b.cap, name: b.cap.split(":")[0] } })] }));
   children.push(caption(b.cap));
@@ -246,12 +247,12 @@ const doc = new Document({
   styles: {
     default: {
       document: { run: { font: BODY, size: SZ, language: LANG }, paragraph: { spacing: { after: 140, line: LINE, lineRule: LineRuleType.AUTO } } },
-      heading1: { run: { font: HEAD, size: 32, bold: true, color: VIOLET }, paragraph: { spacing: { before: 420, after: 180, line: 276 }, keepNext: true, keepLines: true } },
-      heading2: { run: { font: HEAD, size: 25, bold: true, color: "1F1F1F" }, paragraph: { spacing: { before: 280, after: 100, line: 276 }, keepNext: true, keepLines: true } },
+      heading1: { run: { font: HEAD, size: 32, bold: true, color: VIOLET }, paragraph: { spacing: { before: 420, after: 180, line: 276, lineRule: LineRuleType.AUTO }, keepNext: true, keepLines: true } },
+      heading2: { run: { font: HEAD, size: 25, bold: true, color: "1F1F1F" }, paragraph: { spacing: { before: 280, after: 100, line: 276, lineRule: LineRuleType.AUTO }, keepNext: true, keepLines: true } },
     },
     paragraphStyles: [
       { id: "Unnummeriert", name: "Ueberschrift ohne Nummer", basedOn: "Normal", next: "Normal", quickFormat: true,
-        run: { font: HEAD, size: 32, bold: true, color: VIOLET }, paragraph: { spacing: { before: 0, after: 240, line: 276 }, keepNext: true } },
+        run: { font: HEAD, size: 32, bold: true, color: VIOLET }, paragraph: { spacing: { before: 0, after: 240, line: 276, lineRule: LineRuleType.AUTO }, keepNext: true } },
       { id: "TOC1", name: "toc 1", basedOn: "Normal", next: "Normal",
         run: { font: HEAD, size: 22, bold: true }, paragraph: { spacing: { before: 140, after: 40, line: 260 } } },
       { id: "TOC2", name: "toc 2", basedOn: "Normal", next: "Normal",

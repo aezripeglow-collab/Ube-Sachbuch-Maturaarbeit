@@ -70,7 +70,7 @@ Diese Liste enthält alle Quellen, die in Kapitel 3 (Thesen 1 bis 4, mit Tims Th
 - Velasco, T. E. (2016): The Ube («Roots») Generation. Humanities Diliman 13(2), 75–101.
 - VerbraucherService Bayern (o. J.): Ube – was steckt hinter dem violetten Food-Trend?
 
-Im Text werden ausserdem Daten oder Aussagen aus zweiter Hand zitiert («zit. nach»). Diese brauchen keinen eigenen Eintrag, weil der Eintrag der zitierenden Quelle oben steht: PSA (über USDA FAS), DTI (über SunStar), Datassential (über CNBC), Mintel (über Manila Times), BMI (über Manila Times), Kyodo (über Qatar Tribune), AFP (über The Sun und Oman Observer), DA-ATI (über Manila Bulletin), DA (über Context.ph) und Darel Antesco (über Baltasar).
+Im Text werden ausserdem Daten oder Aussagen aus zweiter Hand zitiert («zit. nach»). Diese brauchen keinen eigenen Eintrag, weil der Eintrag der zitierenden Quelle oben steht: PSA (über USDA FAS), DTI (über SunStar und Baltasar), Datassential (über CNBC), Mintel (über Manila Times), BMI (über Manila Times), Kyodo (über Qatar Tribune), AFP (über The Sun und Oman Observer), DA-ATI (über Manila Bulletin), DA (über Context.ph) und Darel Antesco (über Baltasar).
 
 ## B. Zusätzlich verwendet, aber im Text nicht zitiert
 

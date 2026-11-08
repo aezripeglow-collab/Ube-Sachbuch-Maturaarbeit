@@ -31,7 +31,7 @@ Abgabe: **10.11.2026**
 - [ ] Tippfehler: «letztens Teils» → «letzten Teils», «wissenschaflich» → «wissenschaftlich» ([[3.0 Einleitung und Leitthese]])
 - [ ] Tippfehler: «Der violetten Latte» → «Der violette Latte», «In Bergprovinz Benguet» → «In der Bergprovinz Benguet» ([[Teil 1 – Ube auf den Philippinen]])
 - [ ] Anführungszeichen vereinheitlichen (« » statt " " bei «nächster Matcha»)
-- [ ] [[3.1 These 1 – Das Ube-Paradox]]: Die «rund 20 Prozent» Exportwachstum 2025 stehen nicht im zitierten SunStar-Artikel. Laut Inquirer haben sich die Exporte 2025 eher verdoppelt (von 1,4 auf 3,06 Millionen US-Dollar). Beleg suchen oder Satz anpassen.
+- [ ] [[3.1 These 1 – Das Ube-Paradox]], erster Einwand: Beleg für die «rund 20 Prozent» Exportwachstum im InDesign-Dokument ändern auf «(DTI, zit. nach Baltasar 2026)». Der SunStar-Artikel nennt die 20 Prozent nicht, der Artikel von Baltasar (PhilSTAR L!fe, 7.5.2026) schon. In Obsidian ist es korrigiert.
 
 ## Arbeitsjournal ([[Arbeitsjournal – Übersicht]])
 - [ ] Ganzes Journal durchlesen und Stellen anpassen, die nicht so passiert sind
@@ -40,6 +40,7 @@ Abgabe: **10.11.2026**
 - [ ] Neu ergänzte Details prüfen: Aezris Einträge in den Sommerferien (15.07., 24.07., 05.08., zu Hause), Nachrichten zwischen uns in den Ferien, Johns Skizze für das Titelblatt am 21.08., gegenseitiges Lesen der Thesen Ende Oktober
 - [ ] Leeren Eintrag von Aezri am 27.05. ergänzen oder löschen
 - [ ] KI-Nachweis mit genauen Prompts erstellen (in der Beurteilung verlangt)
+- [ ] Im Arbeitsjournal wird Aezri mit «sie» und «ihr» bezeichnet (z. B. 15.7., 9.10. und 6.11.). Prüfen, ob das so stimmt.
 - [ ] Falls verlangt: Zeitaufwand pro Eintrag ergänzen
 
 ## Buch fertigstellen
@@ -52,10 +53,11 @@ Abgabe: **10.11.2026**
 ## Schriftlicher Kommentar ([[Schriftlicher Kommentar]])
 Alle Punkte sind in der Word-Datei gelb markiert.
 - [ ] Entwurf zu dritt lesen und in eigenen Worten überarbeiten, damit nichts wörtlich von der KI übernommen ist (Zitierregeln, Punkt 1.7)
+- [ ] Daten in Kapitel 2, 5.1 und in den Abbildungen 1 und 2 prüfen: Sie kommen aus dem Arbeitsjournal, und die Einträge ab Juni hat Claude ausformuliert
 - [ ] KI-Nachweis (Kapitel 10.6): beschreiben, was wir am Entwurf geändert haben; Prompt und Datum zum Arbeitsjournal einfügen; weitere KI-Nutzung eintragen oder die Zeile löschen
 - [ ] Titelblatt: Klassen eintragen
-- [ ] Tabelle 1: Wer hat Vorwort und Schlusswort geschrieben?
-- [ ] Tabelle 1: «Was bleibt von unserer Leitthese?» steht in [[Aufteilung der Gruppe]] bei Aezri, in [[Claude-Notizen Maturaarbeit]] bei John. Richtig eintragen.
+- [ ] Tabelle 1: Vorwort und Schlusswort stehen jetzt bei Aezri (mit Rückmeldungen von Tim und John), so wie im Arbeitsjournal vom 6.11. Prüfen.
+- [x] Tabelle 1: «Was bleibt von unserer Leitthese?» hat Aezri geschrieben (geklärt am 8.11.)
 - [ ] Aus dem InDesign-Dokument: Spalten, Schriftgrösse und Zeichen pro Zeile (3.3), Farbwerte und Schriften (4.4), farbige Hervorhebung der Thesen prüfen (4.4)
 - [ ] Bilddatenbank und Lizenz der Fotos (4.4)
 - [ ] Format, Seitenzahl, Papier, Bindung und Anzahl Exemplare (4.5 und Kapitel 6)
