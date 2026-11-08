@@ -27,6 +27,7 @@ Fehlt im Vault (kann ich nicht lesen): Transkript und Fragen des Interviews mit 
 - [x] Ordner `09 Finalisierung` angelegt, in [[00 Start]] verlinkt
 - [x] Phase 2: Faktenprüfung (Rechnungen, Journal-Daten, Websuche zu 15 Quellen) → [[01_MATERIALANALYSE]] Abschnitt 4a (09.11.2026)
 - [x] Phase 3: Bewertung des Kommentarentwurfs → [[01_MATERIALANALYSE]] Abschnitt 11 (09.11.2026)
+- [x] Phase 4: [[02_ARGUMENTATIONSSTRUKTUR]] (09.11.2026)
 
 ## 4. Getroffene Entscheidungen
 
@@ -46,7 +47,6 @@ Keine neuen. Der Entwurf vom 8.11. liegt vollständig vor.
 
 ## 7. Ausstehende Schritte
 
-- [ ] Phase 4: [[02_ARGUMENTATIONSSTRUKTUR]]
 - [ ] Phase 5: [[03_KOMMENTAR_ENTWURF]], abschnittweise, nach jedem Kapitel sichern
 - [ ] Phase 6: [[04_ARBEITSJOURNAL_ENTWURF]]
 - [ ] Phase 7: [[05_KONSISTENZPRUEFUNG]]
@@ -67,7 +67,7 @@ Geprüft und bestätigt (Abschnitt 4a): Swissinfo-Angaben (Starbucks, Coop, Papa
 
 ## 10. Exakter nächster Schritt
 
-Phase 4: [[02_ARGUMENTATIONSSTRUKTUR]] schreiben (neue Gliederung nach Abschnitt 11.4 der Materialanalyse: Kapitel 6 kurz, Kapitel 7 als Einordnung nach wirtschaftlicher und kultureller Kontrolle mit Gegenargumenten und Grenzen), je Abschnitt Kernaussage, Quellen, Fakten, Bezug zur Leitthese, Gegenargumente, Übergang. Danach Phase 5.
+Phase 5: [[03_KOMMENTAR_ENTWURF]] schreiben, Kapitel für Kapitel nach [[02_ARGUMENTATIONSSTRUKTUR]], nach jedem Kapitel committen. Reihenfolge: Titel/Abstract, 1, 2, 3, 4, 5, 6, 7, 8, 9, Verzeichnisse, KI-Nachweis. Fussnoten als Markdown-Fussnoten [^n] wie im bisherigen Volltext, damit das Word-Skript (build.js) sie übernehmen kann.
 
 ## 11. Hinweise für die Fortsetzung
 
