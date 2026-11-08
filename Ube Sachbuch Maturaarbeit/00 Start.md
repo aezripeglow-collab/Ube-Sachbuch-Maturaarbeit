@@ -46,3 +46,10 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 
 ## Originaldateien
 - [[Ube_auf_den_Philippinen_neu.docx]] (Word-Originaldatei des Buchtextes)
+- [[Buch Ube – Zwischen Tradition und Trend (Stand 08.11.2026).pdf]] (Buch-PDF aus InDesign, etwa halb fertig)
+
+## Finalisierung (ab 9.11.2026, Arbeitsdateien von Claude)
+- [[00_PROJEKTSTATUS]] (Stand und nächster Schritt, zuerst lesen)
+- [[01_MATERIALANALYSE]] (Bestandsaufnahme, Widersprüche, Stilprofil)
+- [[06_OFFENE_AUFGABEN]] (was nur wir klären können)
+- Entwürfe folgen: 02 Argumentationsstruktur, 03 Kommentar, 04 Arbeitsjournal, 05 Konsistenzprüfung

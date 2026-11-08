@@ -15,3 +15,4 @@ Dieses Repository ist ein Obsidian-Vault. Alle Dateien liegen im Ordner **Ube Sa
 | `06 Offene Punkte` | Checkliste bis zur Abgabe |
 | `07 Originaldateien` | Word-Originaldatei des Buchtextes |
 | `08 Schriftlicher Kommentar` | Schriftlicher Kommentar zum Buch: Word-Datei, ganzer Text als Notiz, Abbildungen und Quelldateien |
+| `09 Finalisierung` | Arbeitsdateien der Finalisierung (ab 9.11.2026): Projektstatus, Materialanalyse mit Stilprofil, Argumentationsstruktur, Entwürfe für Kommentar und Arbeitsjournal, Konsistenzprüfung, offene Aufgaben |
