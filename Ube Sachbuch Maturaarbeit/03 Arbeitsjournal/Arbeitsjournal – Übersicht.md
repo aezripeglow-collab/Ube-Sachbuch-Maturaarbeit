@@ -7,6 +7,8 @@ Das Arbeitsjournal dokumentiert unsere Maturaarbeit vom Kochbuch «Salu-Salo» b
 
 Jeder Eintrag hat die Teile **Wo**, **Was**, **Vorgehen und Methode**, **Reflexion** und **Wichtige Erkenntnisse**.
 
+Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDesign, steht in den Einträgen vom 28.10., 30.10., 04.11. und 06.11. Das Buch-PDF vom 8.11. liegt unter [[Buch Ube – Zwischen Tradition und Trend (Stand 08.11.2026).pdf]].
+
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
 ## Kochbuch «Salu-Salo» (April bis Juli)

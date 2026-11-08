@@ -30,13 +30,21 @@ Was Claude über eure Maturaarbeit weiss (Stand: 8. November 2026). Du kannst di
 - Johns Teil behandelt die Leitfragen: Was denken Menschen auf den Philippinen über den Ube-Trend? Bleibt die Tradition erhalten?
 
 ## Schriftlicher Kommentar
-- Titel des Buches: «Ube»
+- Titel des Buches: «Ube» (das Buch-PDF heisst «Ube – Zwischen Tradition und Trend», prüfen)
 - Betreuerin: Andrea Büschlen, Zweitbewerter: Joel Franceschi
 - Umfang: etwa 20 bis 25 Seiten ohne Titelblatt, Verzeichnisse und Anhang, mit kurzem Theorieteil und Quellen
 - Fussnoten nach den Zitierregeln der Kantonsschule Baden (deutsche Variante), Wir-Form, keine Note erwähnen
 - Vorbilder: Kommentare «Game Pressure» und Kaffeemuseum
 - Produktangaben aus InDesign (Format, Schriften, Seitenzahl, Cover) fehlen noch und sind im Kommentar gelb markiert
 - Offene Punkte stehen in [[Offene Punkte bis zur Abgabe]]
+
+## Produkt (Buch)
+- Buch-PDF vom 8.11.2026, etwa die Hälfte fertig, so wie es an die Druckerei gehen soll: [[Buch Ube – Zwischen Tradition und Trend (Stand 08.11.2026).pdf]]
+- John setzt das Buch in Adobe InDesign: A4, Schrift Minion Pro, bisher 52 Seiten
+- Kapitel im Buch: 1 «Die Geschichte von Ube» (S. 3), 2 «Der Ube-Trend» (S. 14), 3 «Einfluss von Ube auf den Philippinen» (S. 23), Schlusswort (S. 52)
+- Die Karte von Bohol (S. 9) hat John gemacht. Tim hat Bilder gesucht und Korrektur gelesen.
+- Was am Buch noch fehlt: [[Offene Punkte bis zur Abgabe]], Abschnitt «Buch fertigstellen»
+- Arbeitsjournal: Die Arbeit am Buch steht in den Mittwochseinträgen vom 28.10. und 04.11. Wenn Aezri das fertige Buch schickt, den Rest ergänzen.
 
 ## Quellen und Material
 - 2-minütiges Interview mit einer Bäuerin von den Philippinen

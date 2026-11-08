@@ -23,7 +23,7 @@ Abgabe: **10.11.2026**
 
 ## Unstimmigkeiten im Buch
 - [ ] Erntezeit: [[Teil 1 – Ube auf den Philippinen]] sagt «Oktober bis Februar», [[3.1 These 1 – Das Ube-Paradox]] sagt «November bis Februar»
-- [ ] Titel von Kapitel 3: «Die Folgen des Ube-Booms» ([[Kapitel 3 – Kurzeinleitung]]) oder «Ube zwischen Tradition und Trend» (Haupttext)
+- [ ] Titel von Kapitel 3: «Die Folgen des Ube-Booms» ([[Kapitel 3 – Kurzeinleitung]]) oder «Ube zwischen Tradition und Trend» (Haupttext). Im Buch-PDF vom 8.11. heisst es «Einfluss von Ube auf den Philippinen».
 - [ ] Bezeichnungen vereinheitlichen: im Haupttext «Teil 1», «Teil 2», «Kapitel 3», im Vorwort «Kapitel 1–3»
 - [ ] Schreibweise «Björn DelaCruz» ([[Teil 2 – Der Ube-Trend]]) und «Bjorn DelaCruz» ([[3.3 These 3 – Vom Lebensmittel zum Bild]]) vereinheitlichen
 - [ ] Donut: Teil 2 sagt «Ende 2015», These 3 sagt «2016 verkaufte», Formulierung angleichen
@@ -38,6 +38,10 @@ Abgabe: **10.11.2026**
 - [ ] Angenommene Daten prüfen: Abgabe des Kochbuch-Kommentars am 17.06., Treffen und Calls (17.06. und 25.09. in Turgi, 26.06., 03.07., 19.08., 30.09. und 23.10. per Teams), Montags-Treffen am 14.09.
 - [ ] Angenommene Details prüfen: Tims und Johns Daten auf den Philippinen, Fragenliste für die Ferien, wer die Interviewfragen gelesen hat, wer Vorwort und Schlusswort geschrieben hat
 - [ ] Neu ergänzte Details prüfen: Aezris Einträge in den Sommerferien (15.07., 24.07., 05.08., zu Hause), Nachrichten zwischen uns in den Ferien, Johns Skizze für das Titelblatt am 21.08., gegenseitiges Lesen der Thesen Ende Oktober
+- [ ] Neu am 8.11.: Arbeit am Buch in den Mittwochseinträgen ergänzt, am 28.10. (Tim sucht Bilder für Teil 2, John beginnt die Karte von Bohol) und am 04.11. (Tim schickt die restlichen Bilder und liest Teil 1 und 2 Korrektur, John richtet InDesign ein und setzt Teil 1). Prüfen, ob es an diesen Tagen so passiert ist, sonst die Daten anpassen.
+- [ ] Eintrag vom 06.11. (John) passt noch nicht ganz zum Buch-PDF vom 8.11.: «die Fazits farbig hervorgehoben» (im PDF noch schwarz), «die Seiten mit Bildern gestaltet» (in Kapitel 3 noch keine Bilder), «unsere eigenen Fotos» (gibt es eigene Fotos im Buch?). Anpassen, wenn das Buch fertig ist.
+- [ ] Arbeit am Buch nach dem 6.11. eintragen, sobald das Buch fertig ist: Vorwort- und Inhaltsseite, Kapitel 3 im Layout, Bilder für Kapitel 3, Korrekturlesen im Layout, PDF für die Druckerei. Bis zur Abgabe gibt es keinen Mittwoch mehr, deshalb entscheiden: eigener Eintrag (z. B. Mo 9.11.) oder anders?
+- [ ] Wer hat die kurzen Einleitungen auf den Kapitelanfängen geschrieben (Buch S. 3, 14 und 23)? Steht noch nirgends im Journal.
 - [ ] Leeren Eintrag von Aezri am 27.05. ergänzen oder löschen
 - [ ] KI-Nachweis mit genauen Prompts erstellen (in der Beurteilung verlangt)
 - [ ] Im Arbeitsjournal wird Aezri mit «sie» und «ihr» bezeichnet (z. B. 15.7., 9.10. und 6.11.). Prüfen, ob das so stimmt.
@@ -49,6 +53,18 @@ Abgabe: **10.11.2026**
 - [ ] Layout in Ube-Violett, Interview-Zitate hervorheben
 - [ ] Transkript in den Anhang ([[Interview mit Tita]])
 - [ ] Druck
+
+### Aus dem Buch-PDF vom 8.11. ([[Buch Ube – Zwischen Tradition und Trend (Stand 08.11.2026).pdf]])
+- [ ] Noch leer: S. 13 (Verzeichnis zur Karte), S. 24 (nur der Titel «Einleitung»), S. 51 und das Schlusswort auf S. 52 (nur der Titel)
+- [ ] Kapitel 3 hat noch keine Bilder, die Fazits sind noch nicht hervorgehoben
+- [ ] Fehlt noch: Titelseite, Quellenverzeichnis, Bildnachweis, Anhang mit dem Interview
+- [ ] Das Vorwort im PDF ist kürzer als in [[Vorwort]]: Die Absätze über unsere Herkunft und darüber, was Ube für uns bedeutet, fehlen. Welche Fassung kommt ins Buch?
+- [ ] Kapitelnamen im PDF: «Die Geschichte von Ube», «Der Ube-Trend» (im Inhaltsverzeichnis «Der Ube Trend»), «Einfluss von Ube auf den Philippinen». In Obsidian und im Kommentar stehen andere Namen.
+- [ ] Karte S. 9: Legende für die Violett-Töne und die weissen Punkte ergänzen, Quelle der Grundkarte und der Angaben zu den Anbaugebieten angeben
+- [ ] Bilder S. 7 und 8: Woher kommen sie? Falls sie mit KI erstellt wurden, muss das in der Bildunterschrift oder im Bildnachweis und im KI-Nachweis stehen. Auf S. 7 sehen die Knollen eher wie Süsskartoffeln aus als wie Ube.
+- [ ] Bildauflösung: Die Bilder auf S. 10, 11 (Kapwa Gardens), 17, 18, 21 und 22 haben nur etwa 130 bis 160 ppi und könnten im Druck unscharf werden (gut sind 300 ppi). Grössere Version suchen oder kleiner setzen.
+- [ ] Fotos von Firmen (Starbucks, Papa Oro's, Romulo Café, Kapwa Gardens): klären, ob wir sie verwenden dürfen, und die Quelle angeben
+- [ ] Tippfehler aus «Unstimmigkeiten im Buch» sind im PDF noch drin, z. B. «Der violetten Latte» (S. 12), «In Bergprovinz Benguet» (S. 7), “nächste Matcha” (S. 17 und Inhaltsverzeichnis)
 
 ## Schriftlicher Kommentar ([[Schriftlicher Kommentar]])
 Alle Punkte sind in der Word-Datei gelb markiert.
@@ -70,3 +86,7 @@ Alle Punkte sind in der Word-Datei gelb markiert.
 - [ ] CPBRD-Bericht: Link und Abrufdatum im Quellenverzeichnis und bei Abb. 3 ergänzen
 - [ ] South China Morning Post (Beltran): genaues Datum suchen
 - [ ] Zum Schluss Inhaltsverzeichnis in Word aktualisieren, als PDF speichern und drucken
+- [ ] Aus dem Buch übernehmen, wenn es fertig ist: Format A4, Schrift Minion Pro, Seitenzahl (bisher 52), Kapitelnamen wie im Buch (Kapitel 1 «Die Geschichte von Ube», Kapitel 3 «Einfluss von Ube auf den Philippinen»), Buchtitel prüfen (das PDF heisst «Ube – Zwischen Tradition und Trend»)
+- [ ] 4.4: Laut Kommentar verbindet Ube-Violett Titel, Kapitelanfänge und hervorgehobene Stellen. Im PDF sind Titel und Kapitelanfänge schwarz, violett sind Vorwort, Schlusswort und einige Seiten in Kapitel 2. Text anpassen.
+- [ ] Tabelle 1 und Abb. 2: Bildersuche und Korrekturlesen (Tim) und die Karte von Bohol (John) ergänzen
+- [ ] KI-Nachweis (10.6) ergänzen: Am 8.11. hat Claude im Arbeitsjournal die Arbeit am Buch in den Einträgen vom 28.10. und 04.11. ergänzt. Prompt: «Wie du sehen kannst habe ich dir jetzt unser Produkt geschickt, das wären die Seiten die wir der Druckerei schicken würden, aber es fehlt noch die hälfte, erstelle sonst schon mal noch die restlichen Arbeitsjournaleinträge die noch fehlen zu unserem Produkt, wenn ich das ganze fertige Produkt habe schicke ich dir noch den rest damit du den rest zu dem Arbeitsjournal ergänzen kannst und speichere wieder alles auf obsidian». Rückfragen beantwortet: «Verteile es auf Mittwocheinträge», Karte: John, Tim: Korrektur gelesen und Bilder gesucht.
