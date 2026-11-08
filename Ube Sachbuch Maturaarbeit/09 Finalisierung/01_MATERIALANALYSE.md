@@ -32,7 +32,7 @@ Arbeitsdatei von Claude für die Finalisierung (Phase 1 und 2 des Master-Prompts
 | Die Vorbilder «Game Pressure» und Kaffeemuseum | Nur in [[Claude-Notizen Maturaarbeit]] erwähnt. |
 | Johns Fragebogen (15 bzw. 10 Fragen) | Grundlage der Interviewfragen. |
 | OneNote-Rechercheprotokoll und Aezris Quellentabelle | Dort liegen die Belege für Teil 1 und 2 und die Links zu allen Quellen. |
-| Die Originalartikel und Berichte (CPBRD, USDA FAS usw.) | Ich konnte in dieser Sitzung keine Websites abrufen. Zahlen prüfe ich darum auf innere Stimmigkeit und gegen das, was mir bis Juni 2026 bekannt ist (siehe Abschnitt 4). |
+| Die Originalartikel und Berichte (CPBRD, USDA FAS usw.) | Nicht im Vault. Einen Teil konnte ich über die Websuche prüfen (Ergebnisse in Abschnitt 4a), mehrere Seiten blockierten. Zahlen prüfe ich sonst auf innere Stimmigkeit und gegen das, was mir bis Juni 2026 bekannt ist (Abschnitt 4). |
 | InDesign-Datei und Tims Bildquellenliste | Farbwerte, Satzspiegel, Bildnachweis. Das PDF ersetzt einen Teil davon (siehe Abschnitt 3.6). |
 
 ## 2. Inventar
@@ -197,6 +197,31 @@ Status: ✓ = rechnerisch stimmig bzw. nach meinem Wissensstand (bis Juni 2026) 
 ### Teil 1 (ohne Belege im Text; Belege liegen in Aezris Tabelle, nicht im Vault)
 
 Zu prüfen in Phase 2, weil sie im Kommentar wiederholt werden: Ille-Höhle, Reste um 8250 v. Chr. (über 10'000 Jahre); Anthocyan-Vergleich von zehn Knollenarten; 0,4 g Zucker pro 100 g roh; 8–11 Monate bis zur Ernte; Ernte Oktober bis Februar; 77 Sorten bei 13 Volksgruppen im Norden Luzons, über 100 in Benguet; Wörterbuch 1613; Alcina 1667–1670, Quinampay, Knollen von rund sechs Kilo; Bohol rund ein Drittel der Ernte; Ubi-Festival im Januar; GI-Antrag 2026; Good Shepherd Baguio (Philippine Star 2017); PNA 2020; Starbucks Schweiz Frühling 2026 und Coop-Müesli Januar 2026 (Keystone-SDA/Swissinfo 20.3.2026 laut Kommentar). Das Vorwort verlangt zusätzlich ein Quellenverzeichnis für Kapitel 1 und 2 (offener Punkt).
+
+### 4a. Ergebnisse der Faktenprüfung (Phase 2, 9.11.2026)
+
+Entgegen meiner ersten Annahme konnte ich einzelne Quellen über die Websuche prüfen (nicht alle Seiten liessen sich öffnen: Manila Bulletin, BusinessWorld, BusinessMirror, CPBRD-Seite, USDA-PDF, Global Trade Alert, Asia News Network blockierten). Ergebnisse:
+
+**Bestätigt:**
+
+- Keystone-SDA/Swissinfo, 20.3.2026: Starbucks Schweiz seit **Anfang März 2026**; Coop-Ube-Müesli zum «Veganuary» **Anfang 2026**; Papa Oro's **im Aargau**, Ube-Gerichte **seit 2022**, Anja Guevarra: «Am Anfang mussten wir die Wurzel den Leuten fast schon andrehen»; Costa und Pret A Manger als Frühlingsgeschmack; Café Coin Coin in Zürich seit über zwei Jahren; Marktwert 455 Mio. (2024) → 944 Mio. USD (2035), knapp 7 % pro Jahr. Damit sind Kommentar 1.1 und 6.2 korrekt. Für Teil 1 des Buches könnte die 944-Mio.-Angabe präziser sein als «fast eine Milliarde».
+- USDA FAS: Der Bericht heisst **«Ube – Purple Yam – A High-Value Specialty Crop with Growing Domestic and Export Market Potential», Report RP2026-0019, Manila, 26.06.2026** (GAIN-Datenbank, apps.fas.usda.gov). Laut Context.ph (29.6.2026): 2025 **12'483 t, minus 6,7 %**, 2024 **13'382 t**; Exporte 2025 **3,06 Mio. USD**, davon **über 60 % (1,86 Mio.) frische, gekühlte, gefrorene oder getrocknete Ube**; Hauptmarkt USA, dann Grossbritannien, Italien, Naher Osten; **Central Visayas 33 %** der Produktion, Calabarzon 13 %, Cagayan Valley 12 %, Northern Mindanao 9 %; «ube» wird auch für synthetische Aromen und Farbstoffe verwendet; 60'000 Pflanzen an über 900 Bauern in Leyte und Bohol. → Offener Punkt «USDA FAS: Originalbericht suchen» ist damit gelöst (Titel, Nummer, Datum).
+- Baltasar, PhilSTAR L!fe, 7.5.2026: Exporte 2025 3,06 Mio. USD, **plus 20 % gegenüber 2024** (DTI); Antesco (UPLB) «toxic patriotism», Ube in ganz Südostasien heimisch, «möglicherweise mit melanesischen Wurzeln»; DA: 10–11 Monate bis zur Ernte. → Beleg für die 20 % stimmt.
+- DA, 14.9.2026 (da.gov.ph): BPI hat den Exportstopp **Mitte August 2026** erlassen; verboten sind frische Ube und vermehrungsfähiges Pflanzgut, unbefristet; Tiu Laurel: «We severely lack planting material ourselves» und man wolle kein Pflanzgut in Länder exportieren, die mit philippinischen Sorten konkurrieren könnten; **Marcos hat 300 Mio. Pesos für 2027 genehmigt**. → Das Tiu-Laurel-Zitat in These 3 kann statt mit FoodNavigator 13.10. direkt mit DA 2026b belegt werden. Erste Berichte gab es schon am **11.9.2026 (BusinessMirror)**, nicht erst am 13./14.9.
+- DA, 6.10.2026: 1'000 Hektaren im ersten Jahr; «Verdopplung» der Fläche **ohne Ausgangswert**; rund **300 Mio. Pesos beantragt**; Kalkulation **850'000 Pesos pro Hektare**; Start mit dem Vermehrungszyklus im November 2026; zehn Sorten; Vermehrung über Minisett, Gewebekultur und Nodalstecklinge durch ausgewählte Bauern und Genossenschaften; Verbot betrifft nur unverarbeitete Knollen, die als Pflanzgut dienen könnten. **Neuer Befund:** 1'000 ha × 850'000 Pesos = 850 Mio. Pesos; die 300 Mio. reichen rechnerisch für rund 350 Hektaren. Diese Lücke steht weder im Buch noch im Kommentar. Sie passt zu These 4 (Pläne ohne Angaben zum Pflanzgut) und könnte in der Einordnung des Kommentars als Beispiel dienen, **wenn ihr sie selbst nachrechnet und übernehmen wollt** (==[prüfen]==).
+- FreshPlaza, 6.10.2026: rechnet die 300 Mio. Pesos in **5,1 Mio. USD** um (14'400 USD pro Hektare). → Die «rund 4,7 Millionen US-Dollar» im Buch (These 2) sind vermutlich eine eigene Umrechnung mit einem zu hohen Kurs. Empfehlung: «rund 5 Millionen US-Dollar» oder Kurs und Datum angeben.
+- IPOPHL, 16./17.6.2026: GI-Antrag «Bohol Ubi Kinampay» eingereicht (Manila Bulletin, Context.ph, Bohol Island News bestätigen).
+- «Japanese Tea» wurde am **10. Juli 2026** im japanischen GI-System registriert (Kyodo/nippon.com, Manila Bulletin 13.7.). ✓
+- VERA Files, Ladrido, 3.7.2026 («Know your Philippine ube»): Ille-Höhle **8250–3050 v. Chr.** (Ube und Taro), Philippinen als Ursprungszentrum mit grösster Vielfalt, **Bohol 35 % der Produktion**, Alcina 1667–1670 mit Quinampay als «chief staple» von Bohol, Bisaya-Spanisch-Wörterbuch von **1851** (Juan Felix de la Encarnación) mit mehreren Sorten, Benguet «some 101» Sorten, Ivatan/Negrito/Lumad/Cordillera, Ubi-Festival Januar, GI-Antrag. → Gute Sekundärquelle für das fehlende Verzeichnis zu Kapitel 1; «rund ein Drittel» für Bohol ist damit gedeckt (die USDA-33 % beziehen sich dagegen auf ganz Central Visayas).
+- Oels 2013 (Arbeitsblätter Sachbuchforschung 20, PDF online): Seitenangaben der Fussnoten 11–14 stimmen (S. 4 Alltagsdefinition, S. 5 «bunteste Ansammlung», S. 3 Thorwald, S. 12 «geduldete Übel»).
+- Zöhrer 2023 (GKJF-Jahrbuch, S. 62–76, DOI 10.21248/gkjf-jb.107): S. 63 Orbis pictus 1658 mit «Primat des Bildes», S. 64 «bilddominiert und in vielen Fällen vom Bild her gedacht; es informiert oder erzählt in Bild-Text-Kombinationen bzw. allein über das Bild». Fussnoten 20/21 stimmen.
+- ISB (2019): «Layout. Arbeitsheft zur Einführung in das Thema», erarbeitet 2010, überarbeitet 2019; S. 3 Definition Layout und Satzspiegel, S. 4 Stege, Spalten, Raster auf der Musterseite, leere Flächen als Gestaltungselement, dicht bedruckte Seiten mindern die Lesefreude. Fussnoten 17/18 stimmen.
+- Nanavati/Bias 2005, Visible Language 39(2), S. 120–145: **Die 50–70 Zeichen (S. 140) gelten für Bildschirmtext.** Für **gedruckten** Text stehen die Richtwerte auf **S. 138** (mittlere Zeilenlängen, rund 52 Zeichen bzw. 59–97 mm nach Tinker 1963). → Kommentar 3.3 und Fussnote 19 anpassen; das zweispaltige Buchlayout mit etwa 45–55 Zeichen passt sogar besser zur Druck-Empfehlung.
+- Daily Tribune, 27.6.2026: Roadmap-Konsultation mit 249 Beteiligten; «Exporteure melden einen Mangel an Roh-Ube» (passt zu These 1, nicht zitiert).
+
+**Nicht prüfbar geblieben (Seiten blockiert):** CPBRD PB2026-10 selbst (BusinessWorld und Manila Bulletin berichteten am **3.11.2026** darüber: «Congress think tank backs investments in infra to revive shrinking ube industry»; der Brief ist also öffentlich, Link über cpbrd.congress.gov.ph → Publications → Policy Brief), Korea Herald/ANN-Artikel (existiert, Inhalt nicht gelesen), Manila Bulletin 30.6., USDA-PDF direkt, Global Trade Alert (Stichtag 15.8. nicht selbst gesehen).
+
+**Folgen für die Arbeit:** Keine Zahl im Buch ist widerlegt. Zu korrigieren sind nur die 4,7 Mio. USD (→ rund 5 Mio.), die Datierung der ersten Berichte zum Exportstopp (ab 11.9.) und im Kommentar die Zeilenlängen-Fussnote. Neu nutzbar: USDA-Berichtstitel, VERA-Files-Artikel für Kapitel 1, DA-Mitteilungen als Primärquellen, die 850'000-Pesos-Rechnung.
 
 ## 5. Informationen, die mehrfach vorkommen
 
@@ -384,3 +409,57 @@ Zwischen dieser Analyse und der Abgabe liegt ein Tag. Die drei müssen den Komme
 3. **Buch (Priorität 3, nur Hinweise):** Liste der Korrekturen für InDesign (Einleitung Kapitel 3, Tippfehler, Beleg These 1, Titel, Verweise), weil John das Buch setzt und ich die InDesign-Datei nicht habe.
 
 Alles, was ich nicht prüfen kann, markiere ich in den Entwürfen mit ==[prüfen: …]== statt es zu entscheiden.
+
+## 11. Bewertung des Kommentarentwurfs vom 8.11. (Phase 3)
+
+Massstab: die zwölf Fragen aus Abschnitt 5 des Master-Prompts, die Vorgaben aus Abschnitt 7 und das, was ein schriftlicher Kommentar zu einem Produkt an der Kantonsschule Baden leisten muss (Entstehung, Konzept, Theorie, Methode, Produkt, Reflexion). Wichtig für alles Weitere: Der Kommentar ist nicht die Untersuchung selbst, die steht im Buch. Er muss aber zeigen, dass die drei ihre Untersuchung verstehen, einordnen und kritisch sehen. Genau da ist der Entwurf am schwächsten.
+
+### 11.1 Antwort auf die zwölf Fragen
+
+| Frage | Befund | Folge |
+| --- | --- | --- |
+| Leitfrage klar beantwortet? | Teilweise. 7.1 beantwortet die drei Teilfragen und streift die «Verwendung». Die Antwort bleibt eine Wiederholung von 3.5 aus dem Buch. | Neues Kapitel «Einordnung» mit eigener Antwort aus der Sicht der zwei Dimensionen von Kontrolle. |
+| Leitthese überzeugend entwickelt? | Die Entstehung (5.3) ist gut erzählt. Die Prüfung der These wird nur referiert. Die Definition von Kontrolle (Geld, Bedeutung) wird nicht als Raster genutzt, um zu zeigen, welche Belege zu welcher Dimension gehören und wo die Dimensionen zusammenhängen (Produktion). | Einordnung nach wirtschaftlicher und kultureller Kontrolle; Produktion als Scharnier. |
+| Nachvollziehbare Struktur? | Ja, die Reihenfolge Entstehung → Theorie → Konzept → Methode → Inhalt → Erkenntnisse → Reflexion ist sinnvoll. Kapitel 3 (Theorie) hängt aber lose, weil die Theorie in Kapitel 4 nur teilweise wieder aufgegriffen wird (Paratexte ja, Zeilenlänge als Platzhalter, Text-Bild knapp). | Theorie direkt mit dem fertigen PDF verbinden (Seitenbeispiele). |
+| Kapitel verbunden? | Verweise sind vorhanden («wie wir in Kapitel 5.3 beschreiben»), aber mechanisch. Zwischen Kapitel 6 und 7 gibt es keine Steigerung, beides fasst zusammen. | Kapitel 6 auf Produktbeschreibung reduzieren, Kapitel 7 analytisch machen. |
+| Quellen richtig interpretiert? | Weitgehend ja. Zwei Korrekturen: Nanavati/Bias (Bildschirm vs. Druck, Abschnitt 4a); Fussnote 34 zitiert AgNavigator für eine Zahl, die aus der DA-Mitteilung vom 23.6. stammt. Fussnote 44 zitiert die Zeitungszusammenfassung statt des USDA-Berichts, der jetzt bekannt ist. | Fussnoten korrigieren. |
+| Unbelegte Behauptungen? | Einige Prozessaussagen stützen sich auf das Journal, das selbst teils rekonstruiert ist (Abschnitt 6 D). Inhaltlich unbelegt: «John … um allgemeine Spezialitäten» (2.1); «Wo es ging, verwenden wir eigene Fotos» (4.4); «Ube-Violett verbindet Titel, Kapitelanfänge …» (4.4, stimmt laut PDF nicht); «Die Masse muss sehr lange auf dem Herd gerührt werden» ist Buchinhalt, kein Problem. | Streichen oder an das PDF anpassen. |
+| Oberflächlich behandelt? | Die Grenzen der Arbeit (7.4) sind dünn; die Auswertung des Interviews fehlt als Methode; der Umgang mit Zeitungsartikeln als Hauptquellenart wird beschrieben, aber nicht problematisiert (Abschreiben voneinander, Agenturmeldungen, Interessen der Sprecher); der Unterschied zwischen Prognose (Marktstudien), Statistik (PSA) und Einzelaussage (Maligsa, Tita) wird nicht systematisch gemacht. | Neuer Abschnitt «Quellenarten und ihre Grenzen» in Kapitel 5; Interviewauswertung; 7.4 ausbauen. |
+| Wiederholungen? | 6.3 und 7.1/7.2 doppeln sich mit dem Buch und untereinander; 1.2 und 5.3 nennen beide die drei Teilfragen und die Definition von Kontrolle; der Satz «Zahlen nachrechnen» kommt in 8.2, 9 und im Abstract vor; «Danach ging es Schlag auf Schlag» und ähnliche Erzählfloskeln. | Kürzen; Definition nur einmal ausführlich (5.3), in 1.2 nur nennen. |
+| Unnötige Beschreibungen? | Kapitel 6.1–6.3 (Inhaltsnacherzählung, rund 700 Wörter); Teile von 2.1 (Farben der OneNote-Abschnitte stehen nicht drin, gut; aber Details wie «Tim hatte sogar selbst gemachte Lumpia mitgebracht» sind Journalcharme, der im Kommentar wenig trägt). | 6.1–6.3 auf je drei Sätze; 2.x straffen. |
+| Gegenargumente? | Das Buch prüft Einwände, der Kommentar erwähnt das Verfahren (5.3), bringt aber keine Gegenargumente gegen die Leitthese selbst: Ist «Kontrolle verlieren» überhaupt messbar? War die Kontrolle je vorhanden (die Ernte sank schon vor dem Boom)? Ist der Export von 0,7 % ein Verlust oder ein nie realisierter Gewinn? Ist der Exportstopp ein Zeichen von Kontrolle oder von Schwäche? | In die Einordnung aufnehmen. |
+| Methodik reflektiert? | Gut bei den Rechnungen (5.4) und den Zutatenlisten (5.6), ehrlich bei den Fehlern (5.2). Schwach beim Interview (Auswertung, Vermittlung über die Familie, Sprache, Bestätigung) und bei der Frage, warum eine Umfrage nicht ging (Zeit – aber auch: keine Auswertungsidee, Frage von Frau Büschlen am 3.9. blieb unbeantwortet). | Ergänzen, ohne Selbstanklage. |
+| Kommentar oder Zusammenfassung? | Kapitel 2, 4, 5, 8 sind Kommentar. Kapitel 6 und 7 sind Zusammenfassung. Etwa ein Fünftel des Textes erklärt nichts, was im Buch nicht steht. | Umbau wie oben. |
+
+### 11.2 Befund je Kapitel
+
+| Kapitel | Urteil | Massnahme |
+| --- | --- | --- |
+| Titelblatt, Abstract | brauchbar; Abstract nennt Zahl 43 % korrekt; Titel des Buches offen | Buchtitel nach Entscheid; Klassen |
+| 1 Einleitung | gut, etwas lang in 1.2 (Definition Kontrolle doppelt mit 5.3) | kürzen, Aufbau an neue Gliederung anpassen |
+| 2 Entstehung | stimmig mit dem Journal; dicht; Daten geprüft (Abschnitt 6 C 15); erbt die angenommenen Daten des Journals | behalten, straffen; ==[prüfen]==-Marken dort, wo das Journal selbst unsicher ist (17.06., 14.09., Calls) |
+| 3 Theorie | drei solide Quellen (Oels, Zöhrer, ISB) plus Nanavati/Bias; Genette nur über eine Uni-Webseite; Bezug zum fertigen Buch fehlt | 3.3 mit Druckwerten (S. 138) und PDF-Angaben füllen; 3.2 Genette-Beleg verbessern oder als Webseite belassen; je Abschnitt ein konkreter Bezug auf eine Buchseite |
+| 4 Konzept | 4.1–4.3 gut; 4.4 teils falsch (Violett), 4.5 leer | 4.4 und 4.5 aus dem PDF neu schreiben, Rest behalten |
+| 5 Methode | das stärkste Kapitel; 5.1 Tabelle unvollständig (Tim Bilder, John Karte); 5.5 ohne Auswertung | ergänzen: 5.2 Quellenarten mit Grenzen; 5.5 Auswertungsschritte; Tabelle 1 und Abb. 2 ergänzen |
+| 6 Inhalt | Nacherzählung | auf eine Seite kürzen: Aufbau in fünf Sätzen, dann 6.5 Produkt (Format, Umfang, Satz, Farben, Bilder, Karte) aus dem PDF |
+| 7 Erkenntnisse | Wiederholung von 3.5; keine eigene Einordnung | neu: 7.1 wirtschaftliche Kontrolle, 7.2 kulturelle Kontrolle, 7.3 Produktion als Verbindung, 7.4 was gegen die Leitthese spricht, 7.5 Plan und Umsetzung (Tabelle 3), 7.6 Grenzen |
+| 8 Reflexion | ehrlich und konkret; 8.1 Tabelle 2 gut; 8.4 gut | behalten, Pointen glätten, eine Zeile zur KI-Nutzung als Teil des Prozesses |
+| 9 Dank | gut | behalten |
+| 10 Quellen | KSB-Form eingehalten; Lücken (CPBRD-Link, Abrufdaten vorhanden) | USDA-Titel ergänzen; DA-Mitteilungen aufnehmen; VERA Files falls verwendet |
+| 10.6 KI-Nachweis | unvollständig | vollständig machen, inklusive dieser Sitzung |
+| 11/12 Verzeichnisse | in Ordnung | Abb. 2 neu, Abb. 5/6 nach Lieferung |
+| Anhang | leer | Fragen und Transkript (von euch) |
+
+### 11.3 Sprache (Stichprobe)
+
+Der Entwurf hält das Stilprofil in Satzbau und Wortwahl weitgehend ein. Was nicht passt:
+
+- Lehr- oder Pointensätze am Absatzende: «Zuerst fühlte sich das an, als hätten wir uns geirrt. Später haben wir es eher als Zeichen gesehen …» (8.2); «Dabei haben wir gelernt, Zahlen nachzurechnen und Thesen so zu prüfen, dass sie auch scheitern könnten» (9, doppelt mit 8.2 und Abstract); «Solche Unterschiede wirken klein. Wenn aber …» (5.2).
+- Erzählfloskeln: «Danach ging es Schlag auf Schlag» (2.5), «Noch mehr zu denken gab uns» (2.2), «Die Beurteilung war deutlich. Je öfter wir sie gelesen haben, desto mehr …» (2.2).
+- Gleichförmige Absatzschlüsse mit Verweis («Wie …, erklären wir in Kapitel …») in 1.2, 1.3, 2.5, 4.2, 4.4, 5.1 – zu viele hintereinander.
+- Einzelne Ungenauigkeiten im Ton: «Tim hatte sogar selbst gemachte Lumpia mitgebracht» (Journalton), «sogar» mehrfach.
+- Gut und behalten: die nüchternen Fehlerberichte in 5.2, die Beschreibung der Rechnungen in 5.4, die Tabellen.
+
+### 11.4 Entscheid für Phase 4
+
+Umbau in neun Kapiteln plus Verzeichnisse und Anhang, Zielumfang unverändert rund 11'000–12'000 Wörter. Behalten: 1, 2, 3 (angepasst), 4.1–4.3, 5 (erweitert), 8, 9. Neu: 6 als kurze Produktbeschreibung, 7 als Einordnung mit zwei Dimensionen, Gegenargumenten und Grenzen. Gestrichen: Nacherzählung in 6.1–6.3, Doppelungen in 7.1/7.2 und 1.2. Jede Änderung so, dass die drei sie am Montag in Word nachvollziehen und in eigene Worte bringen können.

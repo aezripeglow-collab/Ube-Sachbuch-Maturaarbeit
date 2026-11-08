@@ -19,12 +19,14 @@ Maturaarbeit von Aezri, Tim und John (Kantonsschule Baden), Abgabe **Dienstag, 1
 
 Vollständig gelesen: der ganze Vault (Buch, Kommentar, 49 Journaleinträge, Quellen, Planung), das Buch-PDF vom 8.11., die drei Word-Dateien, der Zeitstrahl. Inventar und Lücken: [[01_MATERIALANALYSE]] Abschnitte 1 und 2.
 
-Fehlt im Vault (kann ich nicht lesen): Transkript und Fragen des Interviews mit Tita, Zitierregeln KSB, Beurteilung vom 19.06., Wegleitung, alter Kochbuch-Kommentar, Vorbild-Kommentare, Johns Fragebogen, OneNote-Quellentabelle, Originalartikel, InDesign-Datei. In dieser Sitzung war kein Zugriff auf Websites möglich.
+Fehlt im Vault (kann ich nicht lesen): Transkript und Fragen des Interviews mit Tita, Zitierregeln KSB, Beurteilung vom 19.06., Wegleitung, alter Kochbuch-Kommentar, Vorbild-Kommentare, Johns Fragebogen, OneNote-Quellentabelle, InDesign-Datei. Originalartikel konnte ich zum Teil über die Websuche prüfen (Abschnitt 4a der Materialanalyse).
 
 ## 3. Abgeschlossene Schritte
 
 - [x] Phase 1: Bestandsaufnahme, Inventar, Quellen-Aussagen-Zuordnung, Mehrfachinformationen, Widersprüche, Vorgaben, Stilprofil → [[01_MATERIALANALYSE]] (09.11.2026)
 - [x] Ordner `09 Finalisierung` angelegt, in [[00 Start]] verlinkt
+- [x] Phase 2: Faktenprüfung (Rechnungen, Journal-Daten, Websuche zu 15 Quellen) → [[01_MATERIALANALYSE]] Abschnitt 4a (09.11.2026)
+- [x] Phase 3: Bewertung des Kommentarentwurfs → [[01_MATERIALANALYSE]] Abschnitt 11 (09.11.2026)
 
 ## 4. Getroffene Entscheidungen
 
@@ -36,7 +38,7 @@ Fehlt im Vault (kann ich nicht lesen): Transkript und Fragen des Interviews mit 
 
 ## 5. Aktuelle Gliederung des Kommentars
 
-Noch der Entwurf vom 8.11. (12 Kapitel, siehe [[Kommentar Volltext]]). Die neue Gliederung entsteht in Phase 4 → [[02_ARGUMENTATIONSSTRUKTUR]].
+Entscheid (Materialanalyse 11.4): Umbau des Entwurfs vom 8.11. Behalten 1, 2, 3 (angepasst), 4.1–4.3, 5 (erweitert um Quellenarten und Interviewauswertung), 8, 9. Neu: 6 kurze Produktbeschreibung aus dem PDF, 7 Einordnung (wirtschaftliche Kontrolle, kulturelle Kontrolle, Produktion als Verbindung, Gegenargumente, Plan–Umsetzung, Grenzen). Details in [[02_ARGUMENTATIONSSTRUKTUR]].
 
 ## 6. Fertige Textabschnitte
 
@@ -44,8 +46,6 @@ Keine neuen. Der Entwurf vom 8.11. liegt vollständig vor.
 
 ## 7. Ausstehende Schritte
 
-- [ ] Phase 2: Quellen- und Faktenprüfung (ohne Web: innere Stimmigkeit, Rechnungen, Datumsvergleich Journal–Kommentar, Fussnoten) → Ergänzung in [[01_MATERIALANALYSE]] und [[06_OFFENE_AUFGABEN]]
-- [ ] Phase 3: Bewertung des Kommentarentwurfs nach den Kriterien aus Abschnitt 5 des Master-Prompts
 - [ ] Phase 4: [[02_ARGUMENTATIONSSTRUKTUR]]
 - [ ] Phase 5: [[03_KOMMENTAR_ENTWURF]], abschnittweise, nach jedem Kapitel sichern
 - [ ] Phase 6: [[04_ARBEITSJOURNAL_ENTWURF]]
@@ -63,11 +63,11 @@ Keine neuen. Der Entwurf vom 8.11. liegt vollständig vor.
 
 ## 9. Noch zu prüfende Fakten
 
-Siehe [[01_MATERIALANALYSE]] Abschnitt 4 (Spalten mit ? und !) und 6. Dringend: Beleg der 20 % im PDF S. 31; Umrechnung 300 Mio. Pesos; Fussnoten 34 und 44; Angaben zu Papa Oro's (6.2) und Starbucks-Datum (1.1); Ille-Höhle-Datierung; Erntezeit.
+Geprüft und bestätigt (Abschnitt 4a): Swissinfo-Angaben (Starbucks, Coop, Papa Oro's), USDA-Zahlen und Berichtstitel, Baltasar 20 %, Exportstopp Mitte August, DA 1'000 ha, IPOPHL, Japanese Tea GI, Ille-Höhle, Bohol-Drittel, Oels, Zöhrer, ISB. Korrigieren: 300 Mio. Pesos ≈ 5,1 Mio. USD (nicht 4,7); Nanavati/Bias S. 138 für Druck; erste Berichte zum Exportstopp ab 11.9.; Fussnoten 34 und 44. Offen: CPBRD-Link, Korea-Herald-Inhalt, Zitierregeln-Seiten, Beurteilungszitate, Beleg der 20 % im PDF S. 31.
 
 ## 10. Exakter nächster Schritt
 
-Phase 2 beginnen: Faktenprüfung in [[01_MATERIALANALYSE]] Abschnitt 4 abschliessen (Rechnungen sind geprüft; offen sind die Quellen nach Juni 2026 und die Teil-1-Fakten), die drei übrigen Abbildungen des Kommentars gegen das Journal prüfen (Arbeitsplan, Thesenschema, Fläche/Ernte), danach [[06_OFFENE_AUFGABEN]] ergänzen und Phase 3 starten.
+Phase 4: [[02_ARGUMENTATIONSSTRUKTUR]] schreiben (neue Gliederung nach Abschnitt 11.4 der Materialanalyse: Kapitel 6 kurz, Kapitel 7 als Einordnung nach wirtschaftlicher und kultureller Kontrolle mit Gegenargumenten und Grenzen), je Abschnitt Kernaussage, Quellen, Fakten, Bezug zur Leitthese, Gegenargumente, Übergang. Danach Phase 5.
 
 ## 11. Hinweise für die Fortsetzung
 
