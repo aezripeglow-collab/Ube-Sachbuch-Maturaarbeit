@@ -28,6 +28,7 @@ Fehlt im Vault (kann ich nicht lesen): Transkript und Fragen des Interviews mit 
 - [x] Phase 2: Faktenprüfung (Rechnungen, Journal-Daten, Websuche zu 15 Quellen) → [[01_MATERIALANALYSE]] Abschnitt 4a (09.11.2026)
 - [x] Phase 3: Bewertung des Kommentarentwurfs → [[01_MATERIALANALYSE]] Abschnitt 11 (09.11.2026)
 - [x] Phase 4: [[02_ARGUMENTATIONSSTRUKTUR]] (09.11.2026)
+- [x] Phase 5: [[03_KOMMENTAR_ENTWURF]] vollständig geschrieben, als Word-Datei `Schriftlicher_Kommentar_Ube_v2.docx` gebaut (09.11.2026)
 
 ## 4. Getroffene Entscheidungen
 
@@ -43,11 +44,10 @@ Entscheid (Materialanalyse 11.4): Umbau des Entwurfs vom 8.11. Behalten 1, 2, 3 
 
 ## 6. Fertige Textabschnitte
 
-Keine neuen. Der Entwurf vom 8.11. liegt vollständig vor.
+Der ganze Kommentar v2: Abstract, Kapitel 1 bis 9, Verzeichnisse, KI-Nachweis, Anhang A (Platzhalter) und Anhang B (Master-Prompt). Quelle `kommentar_quelle_v2.txt`, Obsidian-Lesekopie [[03_KOMMENTAR_ENTWURF]], Word `Schriftlicher_Kommentar_Ube_v2.docx` (Bau mit `python3 build_v2.py` im Ordner 09 Finalisierung). Umfang: rund 11'000 Wörter Haupttext, 66 Fussnoten, 60 gelbe Platzhalter, Haupttext Seiten 4 bis 32 der Word-Datei (29 Seiten, der Entwurf vom 8.11. hatte 26). Kürzungsvorschläge, falls 25 Seiten verlangt sind: 2.1 bis 2.3 straffen (rund 300 Wörter), 5.2 Beispiele kürzen (200), 5.5 Auswertung knapper (150), 8.3 (100).
 
 ## 7. Ausstehende Schritte
 
-- [ ] Phase 5: [[03_KOMMENTAR_ENTWURF]], abschnittweise, nach jedem Kapitel sichern
 - [ ] Phase 6: [[04_ARBEITSJOURNAL_ENTWURF]]
 - [ ] Phase 7: [[05_KONSISTENZPRUEFUNG]]
 - [ ] Phase 8: Qualitätskontrolle
@@ -67,7 +67,7 @@ Geprüft und bestätigt (Abschnitt 4a): Swissinfo-Angaben (Starbucks, Coop, Papa
 
 ## 10. Exakter nächster Schritt
 
-Phase 5: [[03_KOMMENTAR_ENTWURF]] schreiben, Kapitel für Kapitel nach [[02_ARGUMENTATIONSSTRUKTUR]], nach jedem Kapitel committen. Reihenfolge: Titel/Abstract, 1, 2, 3, 4, 5, 6, 7, 8, 9, Verzeichnisse, KI-Nachweis. Fussnoten als Markdown-Fussnoten [^n] wie im bisherigen Volltext, damit das Word-Skript (build.js) sie übernehmen kann.
+Phase 6: [[04_ARBEITSJOURNAL_ENTWURF]] anlegen: Regeln für die sprachliche Überarbeitung (drei Stimmen, keine erfundenen Ereignisse), Liste aller zu markierenden Stellen je Eintrag, überarbeitete Fassung der Einträge, die den Kommentar betreffen (06.11. an das PDF anpassen, 16.09. Datum der Berichte, 28.10./04.11.), Vorlage für einen Eintrag 09.11., Hinweis auf den KI-Anteil in der Journal-Übersicht. Danach Phase 7 ([[05_KONSISTENZPRUEFUNG]]).
 
 ## 11. Hinweise für die Fortsetzung
 
