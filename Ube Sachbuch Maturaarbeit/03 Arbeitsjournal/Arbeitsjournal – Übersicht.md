@@ -11,6 +11,9 @@ Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDe
 
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
+> [!info] Endfassung vom 9.11.2026 (von Claude erstellt, von uns zu prüfen)
+> `09 Finalisierung/Arbeitsjournal_Ube_FINAL.docx` (gleiche Tabelle, mit gelben Prüfstellen) und die Lesekopie [[ARBEITSJOURNAL_FINAL]]. Was sich gegenüber dieser Fassung geändert hat: [[AENDERUNGSPROTOKOLL_FINAL]] Abschnitt A3. Was wir noch eintragen müssen (8. bis 10.11., KI-Hinweis, Prüfstellen): [[OFFENE_PUNKTE_FINAL]].
+
 ## Kochbuch «Salu-Salo» (April bis Juli)
 
 - [[2026-04-22 Arbeitsjournal|Mittwoch, 22.04.2026]] · Aezri, Tim

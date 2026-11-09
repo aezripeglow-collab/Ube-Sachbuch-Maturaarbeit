@@ -1,48 +1,45 @@
 ---
-tags: [finalisierung, status, kommentar]
-stand: 2026-11-09 10:00
+tags: [finalisierung, status, kommentar, arbeitsjournal]
+stand: 2026-11-09 12:30
 ---
 # FORTSCHRITT_FINALKORREKTUR
 
-Fortschrittsdatei für die Schlusskorrektur (dritter Prompt vom 9.11.2026, 08:39, mit dem Transkript des Interviews). Für eine Fortsetzung: zuerst diese Datei lesen, dann `kommentar_quelle_final.txt` (Arbeitsgrundlage). Vorgängerfassungen: v3 gesichert in `Versionen/` (Stand 03:30), v2 ebenfalls dort. Zusammenhang der Dateien: [[FORTSCHRITT_KOMMENTAR]].
+Fortschrittsdatei für die Schlusskorrektur. Vierte Runde: Prompt vom 9.11.2026, 10:36 («Ultimativer Master-Prompt», mit der Familienchronik als Stilvorlage). Dritte Runde: Prompt vom 9.11., 08:39 (mit dem Transkript). Für eine Fortsetzung: zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]], dann `kommentar_quelle_final.txt` (Arbeitsgrundlage des Kommentars) und `journal_final.py` (Arbeitsgrundlage des Journals). Zusammenhang aller Dateien: [[FORTSCHRITT_KOMMENTAR]].
 
-## Durchgänge
+## Vierte Runde: zwölf Durchgänge
 
-- [x] Durchgang 1 Bestandsaufnahme: ganzer Kommentar v3 gelesen (alle Kapitel, Fussnoten, Tabellen, Verzeichnisse, Anhänge); Transkript mit Buch, Kommentar und Journal verglichen; Buch-PDF nachgeprüft (Seitenzahlen, Bilder, Zwischentitel); Journal zu 17.06., 14.09., Sommerferien, 06.11. nachgelesen. Problemliste unten.
-- [x] Durchgang 2 Inhaltliche und wissenschaftliche Korrektur (Protokoll in [[AENDERUNGSPROTOKOLL_FINAL]] Abschnitt 2, Leitthese Abschnitt 4)
-- [x] Durchgang 3 Sprachliche Korrektur (mechanische Prüfung und Leseprüfung, kein deutsches Rechtschreibprogramm verfügbar)
-- [x] Durchgang 4 Formale Vervollständigung (17 Platzhalter aufgelöst, Anhang A gebaut, Abrufdaten, Verweise geprüft)
-- [x] Durchgang 5 Abgleich mit den Projektmaterialien (PDF, Transkript, Journal, Rechnungen)
-- [x] Durchgang 6 Abschliessende Kontrolle (gebaute Fassung vollständig gelesen, fünf Stellen korrigiert, neu gebaut)
-- [x] Durchgang 7 Persönliche Stilkontrolle (neue Sätze gegen das Stilprofil, drei Stellen vereinfacht)
-- [x] Abgabe: `Schriftlicher_Kommentar_Ube_FINAL.docx` (63 Seiten, Haupttext S. 4 bis 34), [[OFFENE_PUNKTE_FINAL]], [[AENDERUNGSPROTOKOLL_FINAL]], Lesekopie [[03_KOMMENTAR_ENTWURF]]
+- [x] Durchgang 1 Bestandsaufnahme: Kommentar FINAL (Stand 10:00), Arbeitsjournal (45 Einträge), OFFENE_PUNKTE_FINAL zuerst; dann alle Notizen im Vault, die vier Prompts, die Familienchronik, das Buch-PDF.
+- [x] Durchgang 2 Persönlicher Stil: Stilprofil aus nicht KI-bearbeiteten Texten → [[Schreibstimme Aezri]] (in `Persönliches/`, in [[CLAUDE]] und [[00 Start]] eingetragen).
+- [x] Durchgang 3 Inhaltliche Kontrolle: Rechnungen, Tita-Zitate, Daten; Befund «Name selbst gewählt» behoben.
+- [x] Durchgang 4 Quellenprüfung: nur formal; keine erneute Webprüfung (Stand: [[AENDERUNGSPROTOKOLL_FINAL]] B5).
+- [x] Durchgang 5 Sprachliche Korrektur: mechanische Prüfung, ein Befund (Fussnote 1.3).
+- [x] Durchgang 6 Vergleich mit dem Buch: PDF vom 8.11. (Format, Schrift, Belegformen, Tita-Stellen, Trennungen) → [[BUCH_KORREKTURLISTE_FINAL]].
+- [x] Durchgang 7 Arbeitsjournal: alle 45 Einträge geprüft; `journal_final.py` → `ARBEITSJOURNAL_FINAL.md`, `Arbeitsjournal_Ube_FINAL.docx` (40 Seiten, 27 gelbe Stellen); Protokoll in [[AENDERUNGSPROTOKOLL_FINAL]] A3.
+- [x] Durchgang 8 KI-Dokumentation: Eingabe 9 in 10.6, [[KI_DOKUMENTATION_FINAL]] mit allen vier Prompts im Wortlaut.
+- [x] Durchgang 9 Formale Kontrolle: Kommentar neu gebaut (63 Seiten, 71 Fussnoten, 55 gelbe Stellen).
+- [x] Durchgang 10 Unabhängige Schlusskontrolle: gebaute Fassung vollständig als Text gelesen (Befunde in [[AENDERUNGSPROTOKOLL_FINAL]] A2).
+- [x] Durchgang 11 Schreibstimmenkontrolle: alle Kapitel gegen das Stilprofil, 33 Stellen (Wort-für-Wort-Vergleich dokumentiert).
+- [x] Durchgang 12 Technische Endprüfung: beide Word-Dateien als PDF gerendert und angesehen, mit python-docx geöffnet; Sicherung in `Versionen/`.
+- [x] Lieferungen: A `Schriftlicher_Kommentar_Ube_FINAL.docx`, B `Arbeitsjournal_Ube_FINAL.docx` (+ `ARBEITSJOURNAL_FINAL.md`), C [[OFFENE_PUNKTE_FINAL]], D [[AENDERUNGSPROTOKOLL_FINAL]], E diese Datei, F [[BUCH_KORREKTURLISTE_FINAL]], G [[KI_DOKUMENTATION_FINAL]], H [[QUALITAETSBEWERTUNG_FINAL]].
 
-## Problemliste aus Durchgang 1 (intern)
+## Dritte Runde: sieben Durchgänge (abgeschlossen 10:00)
 
-Transkript (neu, Kategorie 1 und 2):
-1. 5.5 nennt Fragen «zu ihren Sorten, zu den Kosten», die es nicht gab; Kosten wurden nicht gefragt (auch 5.5 Grenzen).
-2. Die zwei unbeantworteten Fragen sind jetzt bekannt (Wirtschaft von Bohol, Zukunft in zehn Jahren).
-3. «Stellen markiert, die sie nicht sicher verstanden hat» ist im Transkript nicht sichtbar; streichen.
-4. «Bauern und Händler profitieren» → Tita sagt «farmers and vendors», also Verkäufer (auch Buch-Korrektur).
-5. Titas eigene Erklärung «lack of supply due to increasing demands» fehlt im Kommentar; als persönliche Einschätzung einordnen (Prompt 5.3).
-6. Fragen zum Teil auf Bohol zugeschnitten, Markt in Talisay City (Cebu); erste Antwort in der dritten Person → Grenze und offener Punkt.
-7. 7.1: Preis 100 → 150 und «Bauern und Verkäufer profitieren» ergänzen (stützt Einwand 2 zu These 1).
-8. 7.2: Platzhalter auflösbar (Exportstopp/Herkunftsschutz kamen nicht vor).
-9. Anhang A aus dem Transkript bauen; Aufnahmedatum und Bestätigung bleiben offen.
+- [x] 1 Bestandsaufnahme (Kommentar v3, Transkript gegen Buch/Kommentar/Journal, Buch-PDF)
+- [x] 2 Inhaltliche und wissenschaftliche Korrektur (14 Korrekturen, Leitthese entschieden)
+- [x] 3 Sprachliche Korrektur
+- [x] 4 Formale Vervollständigung (17 Platzhalter aufgelöst, Anhang A gebaut)
+- [x] 5 Abgleich mit den Projektmaterialien
+- [x] 6 Abschliessende Kontrolle
+- [x] 7 Persönliche Stilkontrolle (noch mit dem alten, strengeren Stilprofil)
 
-Wissenschaft:
-10. 7.1 «Der grösste Teil dieses Rückgangs liegt vor dem Boom» ist mit drei Datenpunkten nicht belegbar (2006 bis 2010 über 8'000 t, 2010 bis 2025 9'423 t) → «ein grosser Teil», mit Zahlen.
-11. 7.4 Leitthese: Formulierung entscheiden (Kontrolle statt «verdienen wenig», weil Tita und FreshPlaza höhere Erlöse belegen) und Abstract, 1.2, 7.1 angleichen.
-12. 7.1 Schluss «eine Chance, die bisher andere nutzen» → «die es bisher kaum nutzt».
-13. 5.2: «Im Buch haben wir beide Stellen angeglichen» und «Den Beleg haben wir im Buch ausgetauscht» stimmen für das PDF vom 8.11. nicht (Korrekturliste) → umformulieren.
-14. 4.4: Interview-Zitate sind im PDF nicht hervorgehoben → Text an den Stand anpassen.
+## Welche Dateien geprüft wurden
 
-Formales:
-15. Platzhalter, die sich aus dem Material klären lassen: 2.2 Abgabe 17.06. (Journal), 2.3 Sommerferien (Journal 15.07.), 2.5 Treffen 14.09. (Journal 16.09.), 3.3/4.4 Messwerte (PDF), 3.4 Kapitel 3 ohne Bilder (PDF), 4.2 Kapitelnamen (PDF), 4.5/6.2 Seitenzahl 52 (PDF), 6.1 Seitenzahlen (PDF), 7.5 Tabelle (PDF), Mendoza-Abrufdatum, IPOPHL-Abrufdatum.
-16. Nur die Gruppe: Klassen, Buchtitel, Wortlaut der Beurteilung, Seitenzahlen der Zitierregeln, Absprache Zitierweise, Bilddatenbank/Lizenz/Bildquellen, Papier/Bindung/Auflage, Kurzeinleitungen, Aufnahmedatum, Bestätigung durch Tita, Herkunft der Bewertung (Eingabe 7), eigener Anteil im KI-Nachweis, Eingabe 4 (Prompt, Datum), KI im Buchtext, Anhang B/C, CPBRD-URL, DA-23.06.-URL, USDA-Abrufdatum, letztes Journaldatum, Abgleich mit dem gedruckten Buch.
+Vollständig gelesen: `kommentar_quelle_final.txt` (alle Kapitel, Fussnoten, Tabellen, Verzeichnisse, Anhänge; in der dritten Runde ganz, in der vierten Runde alle Kapitel nochmals für den Stil und die gebaute Fassung am Schluss), `ARBEITSJOURNAL_FINAL.md` (alle 48 Einträge inklusive Vorlagen), die vier Prompts, die Familienchronik, `OFFENE_PUNKTE_FINAL.md`, `06_OFFENE_AUFGABEN.md`, `04_ARBEITSJOURNAL_ENTWURF.md` (Nachtrag), `Interview mit Tita.md`, `Schreibstimme Aezri.md`. Buch-PDF: Text vollständig extrahiert und an den geprüften Stellen gelesen, Seiten 4, 8, 9, 13, 50 bis 52 angesehen (dritte Runde), Schrift und Format gemessen.
+
+Nicht geprüft oder nicht verfügbar: Chatverläufe der Eingaben 1 bis 5, Zitierregeln der KSB, Beurteilung vom 19.06., InDesign-Dateien, gedrucktes Buch, Sprachnachrichten, CPBRD-Brief und USDA-PDF (gesperrt), SCMP-Volltext. Webquellen in der vierten Runde nicht erneut geprüft.
 
 ## Stand der Arbeit
 
-Alle sieben Durchgänge abgeschlossen (9.11., 10:00). Alle Kapitel wurden vollständig geprüft, kein Teil ist ausgelassen. Offen bleibt nur, was in [[OFFENE_PUNKTE_FINAL]] steht (52 gelbe Stellen, davon Priorität 1: KI-Nachweis «Von uns», Eingabe 4, Herkunft der Bewertung, weitere KI-Nutzung, Anhang B, Interview-Angaben, Buchtitel, Klassen, Rechnung 850'000).
+Alle zwölf Durchgänge sind abgeschlossen (9.11., 12:30). Nichts ist abgabefertig, solange Priorität 1 in [[OFFENE_PUNKTE_FINAL]] offen ist (euer Anteil im KI-Nachweis, Journaleinträge 8. bis 10.11., KI-Satz in der Journal-Übersicht, Eingabe 4, Herkunft der Bewertung und Werkzeug der Prompts, weitere KI-Nutzung, Anhang B, Interviewangaben, Buchtitel und Klassen, Rechnung 850'000, Leitthese).
 
-Für eine Fortsetzung: Text in `kommentar_quelle_final.txt` ändern und `python3 build_final.py` ausführen, oder direkt in `Schriftlicher_Kommentar_Ube_FINAL.docx` weiterarbeiten (dann ist Word die Wahrheit). Nach jeder weiteren Sitzung eine Eingabe in 10.6 ergänzen.
+Für eine Fortsetzung: Kommentar in `kommentar_quelle_final.txt` ändern und `python3 build_final.py` ausführen (schreibt auch die Lesekopie [[03_KOMMENTAR_ENTWURF]]); Journal in `journal_final.py` (FIX/CHECK/TEMPLATES) ändern und `python3 journal_final.py` ausführen. Oder direkt in den Word-Dateien weiterarbeiten; dann ist Word die Wahrheit, und die Quelltexte sind veraltet. Nach jeder weiteren Sitzung mit Claude eine Eingabe in 10.6 ergänzen.

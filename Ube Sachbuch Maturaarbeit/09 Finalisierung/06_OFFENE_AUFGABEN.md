@@ -1,12 +1,15 @@
 ---
 tags: [finalisierung, todo]
-stand: 2026-11-09
+stand: 2026-11-09 12:30
 ---
 # 06 Offene Aufgaben
 
 Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punkte bis zur Abgabe]] (die Checkliste vom 8.11. gilt weiter). Reihenfolge: zuerst das, was Kommentar und Buch blockiert. Aktuelle Fassung des Kommentars ist die **finale Arbeitsfassung** (`kommentar_quelle_final.txt`, `Schriftlicher_Kommentar_Ube_FINAL.docx`, [[03_KOMMENTAR_ENTWURF]]); die nach Priorität geordnete Restliste für den Kommentar steht in [[OFFENE_PUNKTE_FINAL]], das Protokoll in [[AENDERUNGSPROTOKOLL_FINAL]] (v2 → v3: [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]]). Die Punkte zum Kommentar in Abschnitt A sind dort aktueller. Erledigt durch die Finalisierung am 9.11.: siehe Abschnitt G.
 
 ## A. Zuerst (blockiert Kommentar und Buch)
+
+> [!info] Stand 9.11., 12:30
+> Aktuelle, nach Priorität geordnete Fassung dieser Liste: [[OFFENE_PUNKTE_FINAL]]. Erledigt seit dem Schreiben dieses Abschnitts: Transkript eingefügt (Anhang A), Fragen 7 und 10 als offen eingetragen, 7.2 geklärt (Exportstopp und Herkunftsschutz kamen nicht vor), Kommentar FINAL mit 55 statt 69 gelben Stellen, KI-Nachweis mit neun Eingaben, Wortlaut aller Prompts in [[KI_DOKUMENTATION_FINAL]].
 
 - [ ] **Transkript und die zehn Fragen** in [[Interview mit Tita]] einfügen (englisch, wörtlich, unsichere Stellen markiert), dann in den Anhang des Buches und in Anhang A des Kommentars (Quelle `kommentar_quelle_v3.txt`, dann `python3 build_v3.py`, oder direkt in der Word-Datei v3).
 - [ ] Datum der Sprachnachrichten, Bestätigung des Transkripts durch Tita, welche zwei Fragen offen blieben; am Transkript prüfen, ob Exportstopp oder Herkunftsschutz vorkamen (Kommentar 7.2).
@@ -27,26 +30,9 @@ Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punk
 - [ ] Fotos von Firmen (Starbucks, Papa Oro's, Romulo Café, Kapwa Gardens): Verwendung geklärt?
 - [ ] Klassen auf dem Titelblatt.
 
-## C. Korrekturliste für das Buch (für John, Stand PDF 8.11.)
+## C. Korrekturliste für das Buch
 
-- [ ] **These 1, Einwand 2 und Fazit (S. 50):** «Bauern und Händler» → Tita sagt im Transkript «farmers and vendors», also «Bauern und Verkäufer» (Händler klingt nach Zwischenhändlern, das Gegenteil ihrer Aussage).
-- [ ] **These 1, Behauptung 1:** «Die Ernte auf den Philippinen ist im selben Zeitraum aber geschrumpft» → Zeiträume trennen, zum Beispiel: «Die Ernte auf den Philippinen schrumpft dagegen seit vielen Jahren, und der grösste Teil des Rückgangs liegt vor dem Boom.» (Nachfragezahlen: letzte vier bis fünf Jahre; Ernte: 2006 bis 2025.)
-- [ ] **These 1, Behauptung 3:** Die 0,7 Prozent vergleichen einen Exportwert mit einem Markt, der alle Produktformen und alle Länder umfasst (drei Viertel Asien-Pazifik). Letzten Satz des Absatzes abschwächen: Die Zahl zeigt nur, wie klein die Exporte neben dem geschätzten Markt sind, nicht, wer verdient.
-- [ ] **These 2, Behauptung 1:** Bei «laut dem Asian Journal» ergänzen, dass der Artikel dafür keine Quelle nennt (Einschätzung einer Zeitung, nicht Beleg). Datum des Artikels: 20.03.2026.
-
-- [ ] S. 24/25: aktuelle Einleitung von Kapitel 3 aus dem Word-Text (drei Teilfragen, Absatz zu Quellen und Tita).
-- [ ] S. 31: Beleg «(DTI, zit. nach Baltasar 2026)» statt SunStar.
-- [ ] These 2: «rund 5 Millionen US-Dollar» statt 4,7 (FreshPlaza 6.10.2026 rechnet 5,1 Mio.).
-- [ ] «seit Mitte August 2026» überall gleich (Kurzeinleitung Kap. 3, These 2, 3, 4, Schlusswort).
-- [ ] Erntezeit Teil 1 → «meist zwischen November und Februar» wie These 1.
-- [ ] Donut: Teil 2 und These 3 gleich datieren; «Bjorn» DelaCruz.
-- [ ] «Pflanzgut» einheitlich (Pflanzmaterial nur in Behördenzitaten); «Kapitel» statt «Teil»; Verweis in Teil 1 auf den gedruckten Kapitelnamen.
-- [ ] Tippfehler: S. 7 «In der Bergprovinz», S. 12 «Der violette Latte», S. 17 und Inhaltsverzeichnis «nächste Matcha» mit « », «Der Ube-Trend» mit Bindestrich; in Teil 1 und 2 « » statt " ".
-- [ ] Kapitel 3: Behauptungen als Zwischentitel, Fazits hervorheben, Interviewzitate auszeichnen (so beschreibt es der Kommentar; sonst dort ändern).
-- [ ] S. 13: Verzeichnis zur Karte (die Karte auf S. 9 verweist darauf, die Seite ist im PDF leer), Legende (Violett-Töne, Punkte), Quelle der Grundkarte.
-- [ ] Fehlende Teile: Schlusswort (S. 52), Quellenverzeichnis Kapitel 3 (mit den Ergänzungen aus D), Verzeichnis für Kapitel 1 und 2, Bildnachweis, Anhang mit Fragen und Transkript, Cover, Impressum.
-- [ ] Bildauflösung S. 10, 11, 17, 18, 21, 22 (130–160 ppi).
-- [ ] «GMA News 2026b» → «GMA News 2026» (These 2 und Verzeichnis).
+Verschoben nach [[BUCH_KORREKTURLISTE_FINAL]] (Stand 9.11., 12:00, nach Dringlichkeit geordnet, mit allem aus diesem Abschnitt und den neuen Befunden der vierten Runde: Trennfehler im PDF, Anhang mit Transkript, Name «Tita»).
 
 ## D. Quellen ([[Quellenverzeichnis Kapitel 3]])
 
@@ -61,6 +47,9 @@ Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punk
 - [ ] Optional für Kapitel 1: Ladrido, R. C.: Know your Philippine ube. History, culture, and identity, in: VERA Files, 03.07.2026 (deckt Ille-Höhle 8250–3050 v. Chr., Bohol 35 %, Alcina, Wörterbuch 1851, Benguet 101 Sorten).
 
 ## E. Arbeitsjournal ([[04_ARBEITSJOURNAL_ENTWURF]])
+
+> [!info] Stand 9.11., 12:30
+> Die Endfassung liegt als `Arbeitsjournal_Ube_FINAL.docx` (Originalformat) und [[ARBEITSJOURNAL_FINAL]] vor; alle Punkte unten sind dort als gelbe Stellen oder Vorlagen enthalten. Was ihr noch tun müsst, steht gebündelt in [[OFFENE_PUNKTE_FINAL]] (Punkte 2, 3, 20, 21, 30). Zusätzlich berichtigt gegenüber dem Original: Johns Frage zu jungen Leuten (23.10., 28.10.) und Tims Satz zur Kostenfrage (28.10.), beide nicht in den zehn Fragen.
 
 - [ ] Kästen «Prüfen» in den Einträgen abarbeiten (angenommene Treffen, Calls, Reisedaten, Skizze, Bilder, Karte, InDesign).
 - [ ] **Neu (Transkript):** Einträge vom 23.10., 28.10. und 04.11. erwähnen eine Kostenfrage und Fragen zu Sorten, die es im Interview nicht gab, sowie Markierungen im Transkript, die nicht vorhanden sind. Vorschläge im Nachtrag von [[04_ARBEITSJOURNAL_ENTWURF]].

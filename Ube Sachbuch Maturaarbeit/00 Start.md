@@ -50,10 +50,14 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 
 ## Finalisierung (ab 9.11.2026, Arbeitsdateien von Claude)
 - [[00_PROJEKTSTATUS]] (Stand und nächster Schritt, zuerst lesen)
-- [[OFFENE_PUNKTE_FINAL]] (was wir vor der Abgabe noch selbst erledigen müssen, nach Priorität)
+- [[OFFENE_PUNKTE_FINAL]] (was wir vor der Abgabe noch selbst erledigen müssen, nach Priorität, mit Textstelle und Grund)
+- [[QUALITAETSBEWERTUNG_FINAL]] (ehrliche Bewertung von Kommentar und Journal nach zwölf Kriterien)
 - [[Schreibstimme Aezri]] (authentisches Stilprofil aus der Familienchronik und den frühen Journaleinträgen; gilt für alle Texte, die Claude für uns schreibt)
-- [[AENDERUNGSPROTOKOLL_FINAL]] (Schlusskorrektur vom 9.11.: Änderungen und Qualitätsbewertung)
 - [[03_KOMMENTAR_ENTWURF]] (finale Arbeitsfassung des Kommentars, Lesekopie; Word: `09 Finalisierung/Schriftlicher_Kommentar_Ube_FINAL.docx`)
-- [[FORTSCHRITT_FINALKORREKTUR]], [[FORTSCHRITT_KOMMENTAR]], [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]] (Protokolle der Runden 2 und 3)
-- [[06_OFFENE_AUFGABEN]] (was nur wir klären können)
+- [[ARBEITSJOURNAL_FINAL]] (Endfassung des Arbeitsjournals, Lesekopie; Word im Originalformat: `09 Finalisierung/Arbeitsjournal_Ube_FINAL.docx`; die Original-Word-Datei ist unverändert)
+- [[BUCH_KORREKTURLISTE_FINAL]] (alle Korrekturen am Buch für John, nach Dringlichkeit)
+- [[KI_DOKUMENTATION_FINAL]] (alle neun Eingaben an Claude und der Wortlaut der vier Master-Prompts; Empfehlung zur Abgabe)
+- [[AENDERUNGSPROTOKOLL_FINAL]] (Runden 3 und 4: jede Änderung an Kommentar und Journal)
+- [[FORTSCHRITT_FINALKORREKTUR]], [[FORTSCHRITT_KOMMENTAR]], [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]] (Protokolle der Runden 2 bis 4)
+- [[06_OFFENE_AUFGABEN]] (ältere Liste, Abschnitt C jetzt in der Buch-Korrekturliste)
 - [[01_MATERIALANALYSE]] (Bestandsaufnahme, Widersprüche, Stilprofil), [[02_ARGUMENTATIONSSTRUKTUR]], [[04_ARBEITSJOURNAL_ENTWURF]], [[05_KONSISTENZPRUEFUNG]]

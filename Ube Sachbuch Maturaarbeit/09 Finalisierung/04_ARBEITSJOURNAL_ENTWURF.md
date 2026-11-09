@@ -7,6 +7,9 @@ stand: 2026-11-09
 > [!info] Was diese Datei ist
 > Alle 45 Einträge vom 22.04. bis 06.11.2026 in einer Datei, mit gezielten Korrekturen und Prüfhinweisen. Die einzelnen Einträge in `03 Arbeitsjournal` und die Word-Datei [[Arbeitsjournal_Maturaarbeit_Ube.docx]] sind unverändert. Wenn ihr diese Fassung übernehmen wollt, kopiert ihr die geänderten Stellen in die Word-Datei. Was geändert wurde und warum, steht im Abschnitt «Regeln und Änderungen» direkt unten; am Schluss stehen Vorschläge für die fehlenden Einträge nach dem 6.11.
 
+> [!info] Stand 9.11., 12:30
+> Dieser Entwurf ist durch die Endfassung überholt: `Arbeitsjournal_Ube_FINAL.docx` (Word im Originalformat) und [[ARBEITSJOURNAL_FINAL]] (Lesekopie), erzeugt mit `journal_final.py`. Die Endfassung enthält zusätzlich die Berichtigungen nach dem Transkript (Kostenfrage, Frage zu jungen Leuten, Sorten, Markierungen, «Verkäufer») und den Hinweis zu den fehlenden Verzeichnissen im PDF. Die Regeln unten gelten weiter; Regel 5 (Satz zum KI-Anteil in der Übersicht) müsst ihr noch umsetzen.
+
 ## Regeln und Änderungen
 
 1. **Nichts erfunden.** Kein Treffen, kein Gespräch, kein Arbeitsschritt, kein Datum ist neu dazugekommen. Wo das Journal etwas annimmt, das nur ihr bestätigen könnt, steht am Anfang des Eintrags ein Kasten «Prüfen» (aus [[Offene Punkte bis zur Abgabe]]).

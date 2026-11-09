@@ -1,11 +1,11 @@
 ---
 tags: [finalisierung, status]
-stand: 2026-11-09 10:00
+stand: 2026-11-09 12:30
 ---
 # 00 Projektstatus Finalisierung
 
 > [!important] Für eine neue Sitzung
-> Zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]] und [[AENDERUNGSPROTOKOLL_FINAL]]. Drei Runden sind durchlaufen: Master-Prompt vom 8.11. (→ v2), zweiter Master-Prompt vom 9.11., 00:53 (→ v3), Schlusskorrektur vom 9.11., 08:39, mit dem Transkript des Interviews (→ **finale Arbeitsfassung** `Schriftlicher_Kommentar_Ube_FINAL.docx`). Fortschrittsdateien: [[FORTSCHRITT_KOMMENTAR]] (Runde 2) und [[FORTSCHRITT_FINALKORREKTUR]] (Runde 3). Was jetzt zählt, steht unter «Exakter nächster Schritt». Die Originaldateien im Vault wurden nicht verändert; alle Entwürfe liegen in diesem Ordner.
+> Zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]], [[QUALITAETSBEWERTUNG_FINAL]] und [[AENDERUNGSPROTOKOLL_FINAL]]. Vier Runden sind durchlaufen: Master-Prompt vom 8.11. (→ v2), zweiter Master-Prompt vom 9.11., 00:53 (→ v3), Schlusskorrektur vom 9.11., 08:39, mit dem Transkript (→ FINAL 10:00), und die Endkontrolle vom 9.11., 10:36, mit der Familienchronik als Stilvorlage (→ **FINAL 12:30**, dazu `Arbeitsjournal_Ube_FINAL.docx`). Fortschrittsdateien: [[FORTSCHRITT_KOMMENTAR]] (Runde 2) und [[FORTSCHRITT_FINALKORREKTUR]] (Runden 3 und 4). Stilprofil für alle Texte: [[Schreibstimme Aezri]]. Die Originaldateien im Vault wurden nicht verändert; alle Entwürfe liegen in diesem Ordner.
 
 ## 1. Projektziel und Forschungsfrage
 
@@ -16,6 +16,7 @@ Maturaarbeit von Aezri, Tim und John (Kantonsschule Baden), Abgabe **Dienstag, 1
 - Auftrag an Claude (Master-Prompt vom 8.11.2026): Kommentar auf das bestmögliche Niveau bringen und Aezris Schreibstimme bewahren; Arbeitsjournal überarbeiten, ohne Ereignisse zu erfinden; Konsistenz; nichts erfinden; regelmässig sichern.
 - Zweiter Auftrag (Master-Prompt vom 9.11.2026, 00:53): v2 wissenschaftlich überarbeiten, ohne neu zu schreiben; fünf Kritikpunkte (Weltmarktanteil, Zeiträume, Kausalitäten, kulturelle Kontrolle, Interview) prüfen und beheben; KI-Nachweis vervollständigen; Änderungsprotokoll und Bewertung; nicht abgabefertig nennen, solange Pflichtpunkte offen sind.
 - Dritter Auftrag (Schlusskorrektur vom 9.11.2026, 08:39, mit Transkript): ganzen Kommentar in sieben Durchgängen prüfen und korrigieren, Schreibstimme bewahren, Platzhalter auflösen, wo das Material es erlaubt, Leitthese entscheiden, Anhang A bauen; Ergebnis FINAL-Datei, Offene-Punkte-Liste, Änderungsprotokoll mit Qualitätsbewertung.
+- Vierter Auftrag («Ultimativer Master-Prompt» vom 9.11.2026, 10:36, mit Aezris Familienchronik): persönliche Schreibstimme als höchste Priorität nach der Richtigkeit, authentisches Stilprofil aus nicht KI-bearbeiteten Texten, zwölf Durchgänge, vollständige Prüfung des Arbeitsjournals und Endfassung im Originalformat, KI-Dokumentation mit allen Prompts, Buch-Korrekturliste, Qualitätsbewertung mit zwölf Kriterien; «Behaupte nicht, länger gearbeitet oder mehr kontrolliert zu haben, als tatsächlich geschehen ist.»
 
 ## 2. Materialien
 
@@ -39,6 +40,8 @@ Zweite Runde (9.11., 01:00 bis 03:30), Phasen 1–6 des zweiten Master-Prompts �
 
 Dritte Runde (9.11., 08:40 bis 10:00), Durchgänge 1–7 der Schlusskorrektur → [[FORTSCHRITT_FINALKORREKTUR]]; Ergebnis `Schriftlicher_Kommentar_Ube_FINAL.docx`, [[OFFENE_PUNKTE_FINAL]], [[AENDERUNGSPROTOKOLL_FINAL]]. Neu eingearbeitet: das Transkript (Anhang A); dadurch vier Korrekturen am Interview-Teil (keine Kostenfrage, «Verkäufer» statt «Händler», offene Fragen 7 und 10, Markt in Talisay City statt Bohol).
 
+Vierte Runde (9.11., 10:40 bis 12:30), zwölf Durchgänge → [[FORTSCHRITT_FINALKORREKTUR]]. Ergebnis: [[Schreibstimme Aezri]] (Stilprofil aus der Familienchronik und den Journaleinträgen bis 03.06.); Kommentar FINAL im Stil-Durchgang angenähert (33 Stellen, keine Fakten geändert; unbelegte Angabe «Tita hat ihren Namen selbst gewählt» gestrichen; Eingabe 9 in 10.6); `Arbeitsjournal_Ube_FINAL.docx` und `ARBEITSJOURNAL_FINAL.md` aus `journal_final.py` (alle 45 Einträge geprüft, neun Berichtigungen gegen Transkript und PDF, 27 gelbe Stellen, Vorlagen für 08.–10.11.); [[BUCH_KORREKTURLISTE_FINAL]], [[KI_DOKUMENTATION_FINAL]] (alle vier Prompts im Wortlaut), [[QUALITAETSBEWERTUNG_FINAL]].
+
 ## 4. Getroffene Entscheidungen
 
 1. Arbeitsordner `Ube Sachbuch Maturaarbeit/09 Finalisierung/` (Vault-Konvention statt `Maturaarbeit/Finalisierung/`).
@@ -46,9 +49,10 @@ Dritte Runde (9.11., 08:40 bis 10:00), Durchgänge 1–7 der Schlusskorrektur �
 3. Nicht Belegbares mit ==[prüfen: …]== markiert (60 Stellen in der Word-Datei gelb).
 4. Arbeitsjournal: keine neuen Ereignisse; drei Faktenkorrekturen; Prüfkästen; etwa die Hälfte der stereotypen Wendungen je Person variiert (in der Vergangenheitsform); Einträge nach dem 6.11. nur als Vorlagen.
 5. Buchtitel und Kapitelnamen folgen dem gedruckten Buch; bis zum Entscheid «Ube» mit Platzhalter.
-6. Korrekturen am Buch nur als Liste ([[06_OFFENE_AUFGABEN]] C), nicht in den Originaldateien.
+6. Korrekturen am Buch nur als Liste ([[BUCH_KORREKTURLISTE_FINAL]], vorher [[06_OFFENE_AUFGABEN]] C), nicht in den Originaldateien.
 7. Zahlen, die sich bei der Prüfung geändert haben: 300 Mio. Pesos ≈ 5,1 Mio. USD (nicht 4,7); erste Berichte zum Exportstopp ab 11.9. (nicht 13./14.9.); Zeilenlänge für Druck S. 138 (nicht S. 140).
 9. Dritte Runde: Leitthese in 7.4 festgelegt («Die Kontrolle über die Wertschöpfung ihrer Knolle gewinnen sie bisher nicht …») und in Abstract, 1.2, 8.2 angeglichen; 7.1 «grösster Teil des Rückgangs vor dem Boom» → «ein grosser Teil» mit Zahlen; Aussagen über das Buch auf den Stand vom 8.11. gestellt (Korrekturliste statt «haben wir angeglichen»); 17 Platzhalter aus Journal und PDF aufgelöst, 52 bleiben.
+10. Vierte Runde: Stilprofil aus echten Texten ersetzt das strengere Profil aus der Materialanalyse (Abschnitt 12 unten ist damit überholt); Journal als eigene FINAL-Datei im Originalformat, Original unangetastet; «Name selbst gewählt» gestrichen; Hinweis im KI-Nachweis, dass die Master-Prompts offenbar mit einem weiteren KI-Werkzeug geschrieben wurden (muss die Gruppe angeben).
 8. Zweite Runde: 0,7 % nur noch Grössenordnung; Aromahersteller-Aussage als quellenlose Zeitungseinschätzung (Asian Journal 20.03.2026); Nachfrage (letzte Jahre) und Ernte (2006–2025) zeitlich getrennt; kulturelle Kontrolle dreigeteilt (persönliche Bedeutung, Darstellung im Ausland, Geld); Interview als Einzelsicht; Leitthese in 7.4 neu formuliert mit Entscheid-Platzhalter; Anhang B bleibt bis zum Entscheid.
 
 ## 5. Gliederung des Kommentars (FINAL, unverändert seit v2)
@@ -61,14 +65,15 @@ Der ganze Kommentar in der finalen Arbeitsfassung (rund 13'100 Wörter Haupttext
 
 ## 7. Ausstehende Schritte
 
-Nur noch Schritte, die die Gruppe selbst machen muss: [[OFFENE_PUNKTE_FINAL]] nach Priorität, dann [[06_OFFENE_AUFGABEN]] B bis F. Für Claude bleibt, auf Wunsch: Transkript einarbeiten und Anhang A bauen; Anhang C (zweiter Prompt) anhängen oder Anhang B entfernen; Kommentar auf 25 Seiten kürzen; Journal-Einträge 08.–10.11. ausformulieren, sobald die Angaben da sind; Word-Datei nach euren Entscheiden neu bauen.
+Nur noch Schritte, die die Gruppe selbst machen muss: [[OFFENE_PUNKTE_FINAL]] nach Priorität (Priorität 1: eigener Anteil im KI-Nachweis, Journaleinträge 8. bis 10.11., KI-Satz in der Journal-Übersicht, Eingabe 4, Herkunft der Bewertung und Werkzeug der Prompts, weitere KI-Nutzung, Anhang B, Interviewangaben, Titel und Klassen, Rechnung 850'000, Leitthese), dann [[BUCH_KORREKTURLISTE_FINAL]]. Für Claude bleibt, auf Wunsch: Anhang C bis E anhängen oder Anhang B entfernen; Kommentar auf 25 Seiten kürzen; Journaleinträge 08.–10.11. aus euren Angaben ausformulieren; Word-Dateien nach euren Entscheiden neu bauen.
 
 ## 8. Offene inhaltliche und methodische Fragen
 
-- Transkript (ohne es keine Prüfung der Tita-Zitate, kein Anhang).
 - Buchtitel, Kapitelnamen, Vorwort-Fassung.
 - Ob die Gruppe die Neuformulierung der Leitthese in 7.4 vertreten will.
-- Ob die Master-Prompts als Anhang B und C gedruckt werden oder als separate KI-Dokumentation abgegeben werden (Empfehlung in 10.6).
+- Ob die Master-Prompts als Anhang B bis E gedruckt werden oder als separate KI-Dokumentation abgegeben werden (Empfehlung in 10.6 und [[KI_DOKUMENTATION_FINAL]]).
+- Wer den Namen «Tita» gewählt hat (Journal: «nennen wir sie Tita»; Transkript: «Her name is Tita»).
+- Womit die Master-Prompts geschrieben wurden (offenbar ein weiteres KI-Werkzeug).
 - Was die Gruppe selbst am Kommentar geprüft und geändert hat (für 8.3 und 10.6 unerlässlich).
 - Ob der Buchtext mit KI sprachlich korrigiert wurde.
 
@@ -78,7 +83,7 @@ Nur mit Originalen prüfbar: Seitenangaben der Zitierregeln; Wortlaut der Beurte
 
 ## 10. Exakter nächster Schritt
 
-Für die Gruppe: [[OFFENE_PUNKTE_FINAL]] Priorität 1, Punkt für Punkt, beginnend mit dem KI-Nachweis («Von uns»), dann den Kommentar zu dritt lesen und in eigene Worte bringen. Für eine neue Claude-Sitzung: zuerst fragen, welche Entscheide gefallen sind (Titel, Anhang B, eigener Anteil, Interview-Angaben), dann `kommentar_quelle_final.txt` anpassen, `python3 build_final.py` ausführen, committen, Eingabe 9 in 10.6 ergänzen.
+Für die Gruppe: [[OFFENE_PUNKTE_FINAL]] Priorität 1, Punkt für Punkt, beginnend mit dem KI-Nachweis («Von uns») und den Journaleinträgen für den 8. bis 10. November, dann den Kommentar zu dritt lesen und in eigene Worte bringen. Für eine neue Claude-Sitzung: zuerst fragen, welche Entscheide gefallen sind (Titel, Anhang B, eigener Anteil, Interview-Angaben), dann `kommentar_quelle_final.txt` und `journal_final.py` anpassen, beide Skripte ausführen, committen, Eingabe 10 in 10.6 ergänzen.
 
 ## 11. Hinweise für die Fortsetzung
 
@@ -89,4 +94,4 @@ Für die Gruppe: [[OFFENE_PUNKTE_FINAL]] Priorität 1, Punkt für Punkt, beginne
 
 ## 12. Stilprofil
 
-Kurzform (vollständig in [[01_MATERIALANALYSE]] Abschnitt 8): Hauptsätze, höchstens ein Nebensatz; jede Zahl mit Herkunft und Bedeutung; Schwächen direkt nach der Aussage; eigene Entscheidungen begründen; Fremdwörter erklären; konkrete Daten, Orte, Namen; Übergänge durch Verweise und Fragen; Wir-Form; Schweizer Rechtschreibung und Guillemets. Keine Gedankenstriche, Semikolons, Doppelpunkt-Pointen, Dreierrhythmen, Überleitungsfloskeln, Wertungen ohne Beleg, Lehren am Absatzende.
+**Überholt seit der vierten Runde:** massgebend ist jetzt [[Schreibstimme Aezri]] (längere, verbundene Sätze erlaubt; «leider», «eigentlich», «zum Beispiel» zugelassen; Wegweiser statt Floskeln; keine Pointen). Die alte Kurzform aus [[01_MATERIALANALYSE]] Abschnitt 8 zur Erinnerung: Hauptsätze, höchstens ein Nebensatz; jede Zahl mit Herkunft und Bedeutung; Schwächen direkt nach der Aussage; eigene Entscheidungen begründen; Fremdwörter erklären; konkrete Daten, Orte, Namen; Übergänge durch Verweise und Fragen; Wir-Form; Schweizer Rechtschreibung und Guillemets. Keine Gedankenstriche, Semikolons, Doppelpunkt-Pointen, Dreierrhythmen, Überleitungsfloskeln, Wertungen ohne Beleg, Lehren am Absatzende.

@@ -1,6 +1,6 @@
 ---
 tags: [finalisierung, status, kommentar]
-stand: 2026-11-09 03:30
+stand: 2026-11-09 12:30
 ---
 # FORTSCHRITT_KOMMENTAR
 
@@ -14,7 +14,9 @@ Fortschrittsdatei für die abschliessende Überarbeitung des Kommentars (zweiter
 | v2 (Finalisierung 9.11., 00:15) | `09 Finalisierung/Versionen/kommentar_quelle_v2_Stand_2026-11-09_0015.txt`, `…_v2_Stand_….docx`, `03_KOMMENTAR_ENTWURF_v2_Stand_….md` | gesichert, unverändert |
 | **v3 (Arbeitsfassung, 9.11., 03:30)** | `09 Finalisierung/kommentar_quelle_v3.txt` → `Schriftlicher_Kommentar_Ube_v3.docx` (61 Seiten, Haupttext S. 4–34), [[03_KOMMENTAR_ENTWURF]]; Bau mit `python3 build_v3.py` | fertig, soweit ohne eure Angaben möglich |
 | v3 gesichert | `Versionen/kommentar_quelle_v3_Stand_2026-11-09_0330.txt`, `…_v3_Stand_….docx`, `03_KOMMENTAR_ENTWURF_v3_Stand_….md` | gesichert, unverändert |
-| **Finale Arbeitsfassung (9.11., 10:00)** | `kommentar_quelle_final.txt` → `Schriftlicher_Kommentar_Ube_FINAL.docx`, [[03_KOMMENTAR_ENTWURF]]; Bau mit `python3 build_final.py`; Stand in [[FORTSCHRITT_FINALKORREKTUR]] | fertig bis auf [[OFFENE_PUNKTE_FINAL]] |
+| Finale Arbeitsfassung (9.11., 10:00) | `Versionen/kommentar_quelle_final_Stand_2026-11-09_1000.txt`, `…FINAL_Stand_….docx` | gesichert, unverändert |
+| **Finale Arbeitsfassung (9.11., 12:30, nach dem Stil-Durchgang)** | `kommentar_quelle_final.txt` → `Schriftlicher_Kommentar_Ube_FINAL.docx` (63 Seiten, Haupttext S. 4–34), [[03_KOMMENTAR_ENTWURF]]; Bau mit `python3 build_final.py`; Stand in [[FORTSCHRITT_FINALKORREKTUR]] | fertig bis auf [[OFFENE_PUNKTE_FINAL]] |
+| **Arbeitsjournal FINAL (9.11., 12:00)** | `journal_final.py` → `Arbeitsjournal_Ube_FINAL.docx` (Originalformat, 40 Seiten), [[ARBEITSJOURNAL_FINAL]]; Quelle: die 45 Einträge in `03 Arbeitsjournal/*/*.md` (unverändert) | fertig bis auf [[OFFENE_PUNKTE_FINAL]] Punkte 2, 3, 20 |
 | Abgabefassung | entsteht aus der finalen Arbeitsfassung, sobald ihr Priorität 1 in [[OFFENE_PUNKTE_FINAL]] erledigt habt | offen |
 
 ## Phasen (zweiter Master-Prompt)
