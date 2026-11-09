@@ -4,7 +4,7 @@ stand: 2026-11-09 03:30
 ---
 # FORTSCHRITT_KOMMENTAR
 
-Fortschrittsdatei für die abschliessende Überarbeitung des Kommentars (zweiter Master-Prompt vom 9.11.2026, 00:53). Für eine neue Sitzung: zuerst diese Datei lesen, dann [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]], dann [[06_OFFENE_AUFGABEN]]. Die aktuelle Arbeitsfassung ist `kommentar_quelle_v3.txt`.
+Fortschrittsdatei für die abschliessende Überarbeitung des Kommentars (zweiter Master-Prompt vom 9.11.2026, 00:53). **Überholt durch die Schlusskorrektur vom 9.11., 08:39: aktuelle Fortschrittsdatei ist [[FORTSCHRITT_FINALKORREKTUR]], aktuelle Arbeitsfassung `kommentar_quelle_final.txt`.** Diese Datei bleibt als Protokoll der zweiten Runde stehen.
 
 ## Versionen
 
@@ -13,7 +13,9 @@ Fortschrittsdatei für die abschliessende Überarbeitung des Kommentars (zweiter
 | Originalentwurf 8.11. | `08 Schriftlicher Kommentar/Schriftlicher_Kommentar_Ube.docx`, [[Kommentar Volltext]], `Quelldateien/kommentar_quelle.txt` | unverändert |
 | v2 (Finalisierung 9.11., 00:15) | `09 Finalisierung/Versionen/kommentar_quelle_v2_Stand_2026-11-09_0015.txt`, `…_v2_Stand_….docx`, `03_KOMMENTAR_ENTWURF_v2_Stand_….md` | gesichert, unverändert |
 | **v3 (Arbeitsfassung, 9.11., 03:30)** | `09 Finalisierung/kommentar_quelle_v3.txt` → `Schriftlicher_Kommentar_Ube_v3.docx` (61 Seiten, Haupttext S. 4–34), [[03_KOMMENTAR_ENTWURF]]; Bau mit `python3 build_v3.py` | fertig, soweit ohne eure Angaben möglich |
-| Abgabefassung | entsteht aus v3, sobald ihr die Pflichtpunkte erledigt habt (07, Abschnitt 6) | offen |
+| v3 gesichert | `Versionen/kommentar_quelle_v3_Stand_2026-11-09_0330.txt`, `…_v3_Stand_….docx`, `03_KOMMENTAR_ENTWURF_v3_Stand_….md` | gesichert, unverändert |
+| **Finale Arbeitsfassung (9.11., 10:00)** | `kommentar_quelle_final.txt` → `Schriftlicher_Kommentar_Ube_FINAL.docx`, [[03_KOMMENTAR_ENTWURF]]; Bau mit `python3 build_final.py`; Stand in [[FORTSCHRITT_FINALKORREKTUR]] | fertig bis auf [[OFFENE_PUNKTE_FINAL]] |
+| Abgabefassung | entsteht aus der finalen Arbeitsfassung, sobald ihr Priorität 1 in [[OFFENE_PUNKTE_FINAL]] erledigt habt | offen |
 
 ## Phasen (zweiter Master-Prompt)
 

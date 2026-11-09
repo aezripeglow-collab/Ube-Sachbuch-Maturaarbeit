@@ -4,7 +4,7 @@ stand: 2026-11-09
 ---
 # 06 Offene Aufgaben
 
-Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punkte bis zur Abgabe]] (die Checkliste vom 8.11. gilt weiter). Reihenfolge: zuerst das, was Kommentar und Buch blockiert. Aktuelle Fassung des Kommentars ist **v3** (`kommentar_quelle_v3.txt`, `Schriftlicher_Kommentar_Ube_v3.docx`, [[03_KOMMENTAR_ENTWURF]]); was sich gegenüber v2 geändert hat: [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]]. Erledigt durch die Finalisierung am 9.11.: siehe Abschnitt G.
+Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punkte bis zur Abgabe]] (die Checkliste vom 8.11. gilt weiter). Reihenfolge: zuerst das, was Kommentar und Buch blockiert. Aktuelle Fassung des Kommentars ist die **finale Arbeitsfassung** (`kommentar_quelle_final.txt`, `Schriftlicher_Kommentar_Ube_FINAL.docx`, [[03_KOMMENTAR_ENTWURF]]); die nach Priorität geordnete Restliste für den Kommentar steht in [[OFFENE_PUNKTE_FINAL]], das Protokoll in [[AENDERUNGSPROTOKOLL_FINAL]] (v2 → v3: [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]]). Die Punkte zum Kommentar in Abschnitt A sind dort aktueller. Erledigt durch die Finalisierung am 9.11.: siehe Abschnitt G.
 
 ## A. Zuerst (blockiert Kommentar und Buch)
 
@@ -29,6 +29,7 @@ Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punk
 
 ## C. Korrekturliste für das Buch (für John, Stand PDF 8.11.)
 
+- [ ] **These 1, Einwand 2 und Fazit (S. 50):** «Bauern und Händler» → Tita sagt im Transkript «farmers and vendors», also «Bauern und Verkäufer» (Händler klingt nach Zwischenhändlern, das Gegenteil ihrer Aussage).
 - [ ] **These 1, Behauptung 1:** «Die Ernte auf den Philippinen ist im selben Zeitraum aber geschrumpft» → Zeiträume trennen, zum Beispiel: «Die Ernte auf den Philippinen schrumpft dagegen seit vielen Jahren, und der grösste Teil des Rückgangs liegt vor dem Boom.» (Nachfragezahlen: letzte vier bis fünf Jahre; Ernte: 2006 bis 2025.)
 - [ ] **These 1, Behauptung 3:** Die 0,7 Prozent vergleichen einen Exportwert mit einem Markt, der alle Produktformen und alle Länder umfasst (drei Viertel Asien-Pazifik). Letzten Satz des Absatzes abschwächen: Die Zahl zeigt nur, wie klein die Exporte neben dem geschätzten Markt sind, nicht, wer verdient.
 - [ ] **These 2, Behauptung 1:** Bei «laut dem Asian Journal» ergänzen, dass der Artikel dafür keine Quelle nennt (Einschätzung einer Zeitung, nicht Beleg). Datum des Artikels: 20.03.2026.
@@ -42,7 +43,7 @@ Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punk
 - [ ] «Pflanzgut» einheitlich (Pflanzmaterial nur in Behördenzitaten); «Kapitel» statt «Teil»; Verweis in Teil 1 auf den gedruckten Kapitelnamen.
 - [ ] Tippfehler: S. 7 «In der Bergprovinz», S. 12 «Der violette Latte», S. 17 und Inhaltsverzeichnis «nächste Matcha» mit « », «Der Ube-Trend» mit Bindestrich; in Teil 1 und 2 « » statt " ".
 - [ ] Kapitel 3: Behauptungen als Zwischentitel, Fazits hervorheben, Interviewzitate auszeichnen (so beschreibt es der Kommentar; sonst dort ändern).
-- [ ] S. 13: Verzeichnis zur Karte, Legende (Violett-Töne, Punkte), Quelle der Grundkarte.
+- [ ] S. 13: Verzeichnis zur Karte (die Karte auf S. 9 verweist darauf, die Seite ist im PDF leer), Legende (Violett-Töne, Punkte), Quelle der Grundkarte.
 - [ ] Fehlende Teile: Schlusswort (S. 52), Quellenverzeichnis Kapitel 3 (mit den Ergänzungen aus D), Verzeichnis für Kapitel 1 und 2, Bildnachweis, Anhang mit Fragen und Transkript, Cover, Impressum.
 - [ ] Bildauflösung S. 10, 11, 17, 18, 21, 22 (130–160 ppi).
 - [ ] «GMA News 2026b» → «GMA News 2026» (These 2 und Verzeichnis).
@@ -62,6 +63,7 @@ Was nur ihr entscheiden, nachliefern oder prüfen könnt. Ergänzt [[Offene Punk
 ## E. Arbeitsjournal ([[04_ARBEITSJOURNAL_ENTWURF]])
 
 - [ ] Kästen «Prüfen» in den Einträgen abarbeiten (angenommene Treffen, Calls, Reisedaten, Skizze, Bilder, Karte, InDesign).
+- [ ] **Neu (Transkript):** Einträge vom 23.10., 28.10. und 04.11. erwähnen eine Kostenfrage und Fragen zu Sorten, die es im Interview nicht gab, sowie Markierungen im Transkript, die nicht vorhanden sind. Vorschläge im Nachtrag von [[04_ARBEITSJOURNAL_ENTWURF]].
 - [ ] Johns Eintrag vom 06.11. in der Word-Datei durch die angepasste Fassung ersetzen (oder, falls Kapitel 3 inzwischen Bilder und farbige Fazits hat, Original behalten).
 - [ ] 16.09. und 21.10. anpassen (Berichte ab 11.09.; Umrechnung).
 - [ ] Einträge für 08.11., 09.11. und 10.11. aus den Vorlagen füllen, nur mit dem, was war.

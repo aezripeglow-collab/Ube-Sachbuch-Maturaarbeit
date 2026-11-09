@@ -2997,3 +2997,15 @@ Heute haben wir die Finalisierung gemacht. Ich habe Claude den Auftrag gegeben, 
 ## Dienstag, 10.11.2026 (Abgabe)
 
 ==[Kurzer Abschlusseintrag: Druck, Bindung, Abgabe von Buch, Kommentar und Journal. Nur, was wirklich war.]==
+
+## Nachtrag vom 9.11. (Schlusskorrektur): Widersprüche zwischen Journal und Transkript
+
+Das Transkript des Interviews (Kommentar, Anhang A) zeigt, dass die zehn Fragen keine Frage zu den Kosten und keine zu den Sorten enthielten. Folgende Stellen im Journal passen nicht dazu und müssen von euch angepasst oder erklärt werden:
+
+- 23.10., Tim: «Interviewfrage zu Kosten und Pflanzmaterial vorgeschlagen» → kann so bleiben, wenn ihr ergänzt, dass die Frage nicht in die zehn Fragen aufgenommen wurde.
+- 28.10., Aezri: «Fragen zu Preisen, Nachfrage, Sorten und zur Zukunft des Anbaus habe ich ergänzt» → «Sorten» streichen oder erklären (die Sorte kam nur in Titas Antwort vor).
+- 28.10., Tim: «meine Frage zu Kosten und Zukunft des Anbaus geprüft» und «Die Frage nach den Kosten hat Aezri bewusst einfach gehalten» → es gab keine Kostenfrage; anpassen.
+- 04.11., Aezri: «Stellen, die ich nicht sicher verstanden habe, habe ich markiert» → im Transkript sind keine Markierungen; Satz streichen oder die Markierungen nachtragen.
+- 04.11., Tim: «Zu den Kosten hat Tita leider nichts Genaues gesagt» → genauer: «Nach den Kosten haben wir nicht gefragt».
+- 04.11., Aezri: «Tita sagt aber ausdrücklich, dass Bauern und Händler von den höheren Preisen profitieren» → Tita sagt «farmers and vendors», also Bauern und Verkäufer. Gilt auch für These 1 im Buch.
+
