@@ -22,14 +22,8 @@ files = sorted(J.glob("*/*.md"), key=lambda p: p.name)
 
 # ---------------------------------------------------------------- Korrekturen (belegt)
 FIX = {
- "2026-09-16": [
-  ("Der Stopp gilt schon seit Mitte August, die grossen Berichte sind aber erst am 13. und 14. September erschienen.",
-   "Der Stopp gilt schon seit Mitte August, die Berichte darüber sind aber erst ab dem 11. September erschienen."),
-  ("Die Meldungen von Context.ph, SunStar und vom Landwirtschaftsministerium kamen erst am 13. und 14. September.",
-   "Die ersten Meldungen, etwa im BusinessMirror, kamen am 11. September, die von Context.ph, SunStar und vom Landwirtschaftsministerium am 13. und 14. September."),
-  ("- Exportstopp gilt seit 15. August, Berichte erst ab 13. September",
-   "- Exportstopp gilt seit Mitte August, Berichte erst ab 11. September"),
- ],
+ # 16.09.: keine Korrektur mehr. Die Angabe «Berichte ab 11. September» aus der zweiten Runde liess sich am 9.11.
+ # nicht bestätigen (früheste gefundene Berichte: Context.ph 13.09., DA/FreshPlaza/Tribune 14.09.); das Original (13./14.09.) bleibt.
  "2026-10-21": [
   ("- 300 Mio. Pesos (rund 4,7 Mio. US-Dollar) und 34,1 Mio. US-Dollar aus den USA",
    "- 300 Mio. Pesos (rund 5 Mio. US-Dollar) und 34,1 Mio. US-Dollar aus den USA {{Umrechnung: mit dem Kurs vom Oktober 2026 rund 5,1 Mio., so rechnet FreshPlaza am 6.10.; im Buch steht noch 4,7}}"),

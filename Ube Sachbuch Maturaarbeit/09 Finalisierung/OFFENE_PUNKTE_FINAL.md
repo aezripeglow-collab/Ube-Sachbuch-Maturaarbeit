@@ -1,6 +1,6 @@
 ---
 tags: [finalisierung, todo, kommentar, arbeitsjournal]
-stand: 2026-11-09 12:30
+stand: 2026-11-09 13:30
 ---
 # OFFENE_PUNKTE_FINAL
 
@@ -72,3 +72,4 @@ Der Kommentar beschreibt das Buch nach dem PDF vom 8.11. Sobald das Buch fertig 
 - Unbelegte Angabe «Tita hat ihren Namen selbst gewählt» aus 5.5 und Anhang A entfernt.
 - Eingabe 9 im KI-Nachweis, 8.3 angepasst, Anhang-B-Absatz auf vier Prompts.
 - [[BUCH_KORREKTURLISTE_FINAL]], [[KI_DOKUMENTATION_FINAL]] (alle vier Prompts im Wortlaut), [[QUALITAETSBEWERTUNG_FINAL]] erstellt; [[AENDERUNGSPROTOKOLL_FINAL]] und [[FORTSCHRITT_FINALKORREKTUR]] nachgeführt.
+- Nachtrag 13:00: rund zwanzig Buchangaben im Web geprüft (alle bestätigt, zwei nicht gefunden), Daten/Quellen/Abbildungen per Skript gegengeprüft; die Korrektur «Berichte ab 11. September» aus Runde 2 zurückgenommen (Journal 16.09. wieder im Original, Kommentar 5.2 angepasst).

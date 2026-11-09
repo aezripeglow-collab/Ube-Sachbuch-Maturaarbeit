@@ -221,7 +221,7 @@ Entgegen meiner ersten Annahme konnte ich einzelne Quellen über die Websuche pr
 
 **Nicht prüfbar geblieben (Seiten blockiert):** CPBRD PB2026-10 selbst (BusinessWorld und Manila Bulletin berichteten am **3.11.2026** darüber: «Congress think tank backs investments in infra to revive shrinking ube industry»; der Brief ist also öffentlich, Link über cpbrd.congress.gov.ph → Publications → Policy Brief), Korea Herald/ANN-Artikel (existiert, Inhalt nicht gelesen), Manila Bulletin 30.6., USDA-PDF direkt, Global Trade Alert (Stichtag 15.8. nicht selbst gesehen).
 
-**Folgen für die Arbeit:** Keine Zahl im Buch ist widerlegt. Zu korrigieren sind nur die 4,7 Mio. USD (→ rund 5 Mio.), die Datierung der ersten Berichte zum Exportstopp (ab 11.9.) und im Kommentar die Zeilenlängen-Fussnote. Neu nutzbar: USDA-Berichtstitel, VERA-Files-Artikel für Kapitel 1, DA-Mitteilungen als Primärquellen, die 850'000-Pesos-Rechnung.
+**Folgen für die Arbeit:** Keine Zahl im Buch ist widerlegt. Zu korrigieren sind nur die 4,7 Mio. USD (→ rund 5 Mio.), die Datierung der ersten Berichte zum Exportstopp (ab 11.9.; **Nachtrag 9.11., 13:00: nicht bestätigt, zurückgenommen, belegt sind 13./14.9.**) und im Kommentar die Zeilenlängen-Fussnote. Neu nutzbar: USDA-Berichtstitel, VERA-Files-Artikel für Kapitel 1, DA-Mitteilungen als Primärquellen, die 850'000-Pesos-Rechnung.
 
 ## 5. Informationen, die mehrfach vorkommen
 

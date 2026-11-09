@@ -1,6 +1,6 @@
 ---
 tags: [finalisierung, status]
-stand: 2026-11-09 12:30
+stand: 2026-11-09 13:30
 ---
 # 00 Projektstatus Finalisierung
 
@@ -40,7 +40,7 @@ Zweite Runde (9.11., 01:00 bis 03:30), Phasen 1–6 des zweiten Master-Prompts �
 
 Dritte Runde (9.11., 08:40 bis 10:00), Durchgänge 1–7 der Schlusskorrektur → [[FORTSCHRITT_FINALKORREKTUR]]; Ergebnis `Schriftlicher_Kommentar_Ube_FINAL.docx`, [[OFFENE_PUNKTE_FINAL]], [[AENDERUNGSPROTOKOLL_FINAL]]. Neu eingearbeitet: das Transkript (Anhang A); dadurch vier Korrekturen am Interview-Teil (keine Kostenfrage, «Verkäufer» statt «Händler», offene Fragen 7 und 10, Markt in Talisay City statt Bohol).
 
-Vierte Runde (9.11., 10:40 bis 12:30), zwölf Durchgänge → [[FORTSCHRITT_FINALKORREKTUR]]. Ergebnis: [[Schreibstimme Aezri]] (Stilprofil aus der Familienchronik und den Journaleinträgen bis 03.06.); Kommentar FINAL im Stil-Durchgang angenähert (33 Stellen, keine Fakten geändert; unbelegte Angabe «Tita hat ihren Namen selbst gewählt» gestrichen; Eingabe 9 in 10.6); `Arbeitsjournal_Ube_FINAL.docx` und `ARBEITSJOURNAL_FINAL.md` aus `journal_final.py` (alle 45 Einträge geprüft, neun Berichtigungen gegen Transkript und PDF, 27 gelbe Stellen, Vorlagen für 08.–10.11.); [[BUCH_KORREKTURLISTE_FINAL]], [[KI_DOKUMENTATION_FINAL]] (alle vier Prompts im Wortlaut), [[QUALITAETSBEWERTUNG_FINAL]].
+Vierte Runde (9.11., 10:40 bis 12:30), zwölf Durchgänge → [[FORTSCHRITT_FINALKORREKTUR]]. Ergebnis: [[Schreibstimme Aezri]] (Stilprofil aus der Familienchronik und den Journaleinträgen bis 03.06.); Kommentar FINAL im Stil-Durchgang angenähert (33 Stellen, keine Fakten geändert; unbelegte Angabe «Tita hat ihren Namen selbst gewählt» gestrichen; Eingabe 9 in 10.6); `Arbeitsjournal_Ube_FINAL.docx` und `ARBEITSJOURNAL_FINAL.md` aus `journal_final.py` (alle 45 Einträge geprüft, zehn Berichtigungen gegen Transkript und PDF, 27 gelbe Stellen, Vorlagen für 08.–10.11.); [[BUCH_KORREKTURLISTE_FINAL]], [[KI_DOKUMENTATION_FINAL]] (alle vier Prompts im Wortlaut), [[QUALITAETSBEWERTUNG_FINAL]].
 
 ## 4. Getroffene Entscheidungen
 
@@ -50,7 +50,7 @@ Vierte Runde (9.11., 10:40 bis 12:30), zwölf Durchgänge → [[FORTSCHRITT_FINA
 4. Arbeitsjournal: keine neuen Ereignisse; drei Faktenkorrekturen; Prüfkästen; etwa die Hälfte der stereotypen Wendungen je Person variiert (in der Vergangenheitsform); Einträge nach dem 6.11. nur als Vorlagen.
 5. Buchtitel und Kapitelnamen folgen dem gedruckten Buch; bis zum Entscheid «Ube» mit Platzhalter.
 6. Korrekturen am Buch nur als Liste ([[BUCH_KORREKTURLISTE_FINAL]], vorher [[06_OFFENE_AUFGABEN]] C), nicht in den Originaldateien.
-7. Zahlen, die sich bei der Prüfung geändert haben: 300 Mio. Pesos ≈ 5,1 Mio. USD (nicht 4,7); erste Berichte zum Exportstopp ab 11.9. (nicht 13./14.9.); Zeilenlänge für Druck S. 138 (nicht S. 140).
+7. Zahlen, die sich bei der Prüfung geändert haben: 300 Mio. Pesos ≈ 5,1 Mio. USD (nicht 4,7); Zeilenlänge für Druck S. 138 (nicht S. 140). **Zurückgenommen am 9.11., 13:00:** «erste Berichte zum Exportstopp ab 11.9.»; belegt sind der 13. und 14.9. (Context.ph, DA, FreshPlaza, Tribune), wie das Journal es ursprünglich hatte.
 9. Dritte Runde: Leitthese in 7.4 festgelegt («Die Kontrolle über die Wertschöpfung ihrer Knolle gewinnen sie bisher nicht …») und in Abstract, 1.2, 8.2 angeglichen; 7.1 «grösster Teil des Rückgangs vor dem Boom» → «ein grosser Teil» mit Zahlen; Aussagen über das Buch auf den Stand vom 8.11. gestellt (Korrekturliste statt «haben wir angeglichen»); 17 Platzhalter aus Journal und PDF aufgelöst, 52 bleiben.
 10. Vierte Runde: Stilprofil aus echten Texten ersetzt das strengere Profil aus der Materialanalyse (Abschnitt 12 unten ist damit überholt); Journal als eigene FINAL-Datei im Originalformat, Original unangetastet; «Name selbst gewählt» gestrichen; Hinweis im KI-Nachweis, dass die Master-Prompts offenbar mit einem weiteren KI-Werkzeug geschrieben wurden (muss die Gruppe angeben).
 8. Zweite Runde: 0,7 % nur noch Grössenordnung; Aromahersteller-Aussage als quellenlose Zeitungseinschätzung (Asian Journal 20.03.2026); Nachfrage (letzte Jahre) und Ernte (2006–2025) zeitlich getrennt; kulturelle Kontrolle dreigeteilt (persönliche Bedeutung, Darstellung im Ausland, Geld); Interview als Einzelsicht; Leitthese in 7.4 neu formuliert mit Entscheid-Platzhalter; Anhang B bleibt bis zum Entscheid.

@@ -1101,7 +1101,7 @@ Wichtige Erkenntnisse:
 
 **Aezri** · Wo: Bei mir zuhause
 
-Was: Am Sonntag haben wir gelesen, dass die Philippinen keine frische Ube und kein Pflanzgut mehr exportieren dürfen. Der Stopp gilt schon seit Mitte August, die Berichte darüber sind aber erst ab dem 11. September erschienen. Am Montag haben wir uns deshalb nach der Schule kurz zusammengesetzt und besprochen, was das für unsere Teile bedeutet. Heute habe ich den Abschnitt «Ube an Festtagen» geschrieben.
+Was: Am Sonntag haben wir gelesen, dass die Philippinen keine frische Ube und kein Pflanzgut mehr exportieren dürfen. Der Stopp gilt schon seit Mitte August, die grossen Berichte sind aber erst am 13. und 14. September erschienen. Am Montag haben wir uns deshalb nach der Schule kurz zusammengesetzt und besprochen, was das für unsere Teile bedeutet. Heute habe ich den Abschnitt «Ube an Festtagen» geschrieben.
 
 Vorgehen und Methode: Ich habe recherchiert, wann Ube gegessen wird, und dabei die Noche Buena an Weihnachten, die Karwoche, Familienfeste und Fiestas gefunden. Zu jedem Anlass habe ich aufgeschrieben, welche Ube-Speisen genannt werden und ob ich das in mindestens zwei Quellen gefunden habe. Mir ist aufgefallen, dass Violett in der katholischen Kirche die Farbe der Advents- und der Fastenzeit ist. Ich habe nach einer Quelle gesucht, die das direkt mit Ube verbindet, aber keine gefunden. Danach habe ich meine Notizen vom 15. Juli zu den Familienfesten dazugenommen und markiert, was davon nur aus meiner eigenen Erfahrung stammt.
 
@@ -1129,12 +1129,12 @@ Wichtige Erkenntnisse:
 
 Was: Nach dem Treffen am Montag habe ich alle Artikel zum Exportstopp gesammelt, in unseren gemeinsamen Ordner gelegt und eine Zeitleiste dazu gemacht. Weil der Exportstopp vor allem Teil 3 betrifft, habe ich diese Aufgabe übernommen.
 
-Vorgehen und Methode: Ich habe unterschieden, wann der Stopp gilt und wann darüber berichtet wurde. In einer Datenbank zu Handelsmassnahmen steht als Stichtag der 15. August. Die ersten Meldungen, etwa im BusinessMirror, kamen am 11. September, die von Context.ph, SunStar und vom Landwirtschaftsministerium am 13. und 14. September. Zu jedem Artikel habe ich notiert, was genau verboten ist, welche Begründung genannt wird und ob es Zahlen zur Ernte gibt. Diese Zahlen habe ich zwischen den Artikeln verglichen.
+Vorgehen und Methode: Ich habe unterschieden, wann der Stopp gilt und wann darüber berichtet wurde. In einer Datenbank zu Handelsmassnahmen steht als Stichtag der 15. August. Die Meldungen von Context.ph, SunStar und vom Landwirtschaftsministerium kamen erst am 13. und 14. September. Zu jedem Artikel habe ich notiert, was genau verboten ist, welche Begründung genannt wird und ob es Zahlen zur Ernte gibt. Diese Zahlen habe ich zwischen den Artikeln verglichen.
 
 Reflexion: Ohne die Zeitleiste hätte ich wahrscheinlich geschrieben, dass der Stopp im September beschlossen wurde. Das wäre falsch gewesen. Ich habe dabei an Tims Donut gedacht, wo auch Bilder und Berichte zu verschiedenen Zeiten kamen. Wichtig war auch, dass nur frische Ube und Pflanzgut betroffen sind und verarbeitete Produkte wie Pulver oder Halaya weiter exportiert werden dürfen. In einigen Berichten klingt es so, als dürfe gar keine Ube mehr das Land verlassen. Ich glaube, dieser Unterschied wird für Teil 3 wichtig, weil er zeigt, dass die Philippinen nicht den Handel stoppen, sondern bestimmen wollen, was exportiert wird. Ich habe mich gefragt, ob wir als Schüler so eine politische Massnahme überhaupt beurteilen können. Ich glaube, wir können zumindest genau beschreiben, was sie bewirken soll.
 
 Wichtige Erkenntnisse:
-- Exportstopp gilt seit Mitte August, Berichte erst ab 11. September
+- Exportstopp gilt seit 15. August, Berichte erst ab 13. September
 - Nur frische Ube und Pflanzgut sind betroffen
 - Verarbeitete Produkte dürfen weiter exportiert werden
 

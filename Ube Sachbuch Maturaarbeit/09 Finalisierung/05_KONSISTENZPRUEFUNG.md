@@ -95,7 +95,7 @@ Phase 7 und 8. Verglichen wurden: Buchtext (Obsidian und Word, Stand 6.11.), Buc
 Alle sind belegt oder markiert:
 
 - 850'000 Pesos pro Hektare und die daraus folgende Lücke (5.4): Quelle DA 6.10.2026, Platzhalter zum Entscheiden.
-- «Berichte ab dem 11. September» (2.5, 5.2): BusinessMirror 11.9.2026 (Websuche; Artikel selbst nicht lesbar). Falls ihr lieber bei «Mitte September» bleibt, ist das auch richtig.
+- «Berichte ab dem 11. September» (2.5, 5.2): BusinessMirror 11.9.2026 (Websuche; Artikel selbst nicht lesbar). Falls ihr lieber bei «Mitte September» bleibt, ist das auch richtig. **Nachtrag 9.11., 13:00: zurückgenommen.** Kein Bericht vom 11.9. auffindbar; früheste Berichte 13.9. (Context.ph) und 14.9. (DA, FreshPlaza, Tribune, The Star). Kommentar und Journal FINAL sagen jetzt «Mitte September» beziehungsweise «13. und 14. September».
 - 5,1 Mio. USD (7.1, Fussnote): FreshPlaza 6.10.2026.
 - Nanavati/Bias für Druck S. 138 (3.3): geprüft am Volltext.
 - Neuformulierung der Leitthese (7.4): eigener Vorschlag, Platzhalter.

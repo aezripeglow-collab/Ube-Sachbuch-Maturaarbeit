@@ -54,7 +54,7 @@ Verschoben nach [[BUCH_KORREKTURLISTE_FINAL]] (Stand 9.11., 12:00, nach Dringlic
 - [ ] Kästen «Prüfen» in den Einträgen abarbeiten (angenommene Treffen, Calls, Reisedaten, Skizze, Bilder, Karte, InDesign).
 - [ ] **Neu (Transkript):** Einträge vom 23.10., 28.10. und 04.11. erwähnen eine Kostenfrage und Fragen zu Sorten, die es im Interview nicht gab, sowie Markierungen im Transkript, die nicht vorhanden sind. Vorschläge im Nachtrag von [[04_ARBEITSJOURNAL_ENTWURF]].
 - [ ] Johns Eintrag vom 06.11. in der Word-Datei durch die angepasste Fassung ersetzen (oder, falls Kapitel 3 inzwischen Bilder und farbige Fazits hat, Original behalten).
-- [ ] 16.09. und 21.10. anpassen (Berichte ab 11.09.; Umrechnung).
+- [ ] 21.10. anpassen (Umrechnung). 16.09. bleibt im Original: «Berichte ab 11.09.» war eine falsche Korrektur von Claude (9.11., 13:00 zurückgenommen).
 - [ ] Einträge für 08.11., 09.11. und 10.11. aus den Vorlagen füllen, nur mit dem, was war.
 - [ ] Satz zum KI-Anteil in die [[Arbeitsjournal – Übersicht]] (Vorschlag in 04, Regel 5).
 - [ ] Pronomen «sie/ihr» für Aezri bestätigen; 27.05. ergänzen oder lassen; wer schrieb die Kurzeinleitungen.

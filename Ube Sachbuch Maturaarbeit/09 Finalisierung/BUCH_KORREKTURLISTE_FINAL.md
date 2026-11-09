@@ -1,6 +1,6 @@
 ---
 tags: [finalisierung, buch, korrekturliste]
-stand: 2026-11-09 12:00
+stand: 2026-11-09 13:30
 ---
 # BUCH_KORREKTURLISTE_FINAL
 
@@ -21,24 +21,24 @@ Ohne diese Teile ist das Buch nicht vollständig, und der Kommentar beschreibt s
 
 ## 2. Abgabekritisch: inhaltliche Stellen, bei denen Buch und Kommentar sonst nicht zusammenpassen
 
-- [ ] **These 1, Einwand 2 und Fazit (S. 50): «Bauern und Händler»** → «Bauern und Verkäufer». Tita sagt «farmers and vendors». «Händler» klingt nach Zwischenhändlern, also nach dem Gegenteil ihrer Aussage. (Kommentar 5.5, 7.1 sagen bereits «Verkäufer».)
-- [ ] **S. 31, These 1, Behauptung 3: Beleg für die 20 Prozent Exportwachstum.** Statt SunStar «(DTI, zit. nach Baltasar 2026)» setzen. SunStar nennt nur den Exportwert 2025, nicht das Wachstum. Baltasar (PhilSTAR L!fe, 07.05.2026) ins Verzeichnis. (Kommentar 5.2 sagt, der Beleg sei im Buchtext ausgetauscht, mit Vermerk für S. 31.)
-- [ ] **These 1, Behauptung 1: «im selben Zeitraum».** Die Nachfragezahlen betreffen die letzten vier bis fünf Jahre, die Erntezahlen 2006 bis 2025. Vorschlag: «Die Ernte auf den Philippinen schrumpft dagegen seit vielen Jahren, und ein grosser Teil des Rückgangs liegt vor dem Boom.» («grösster Teil» ist mit drei Datenpunkten nicht belegbar: 2006 bis 2010 über 8'000 t, 2010 bis 2025 9'423 t.)
-- [ ] **These 1, Behauptung 3: die 0,7 Prozent.** Der Vergleich stellt den Exportwert einem geschätzten Weltmarkt gegenüber, der alle Produktformen und alle Länder umfasst (drei Viertel Asien-Pazifik). Den letzten Satz des Absatzes abschwächen: Die Zahl zeigt, wie klein die Exporte neben dem geschätzten Markt sind, nicht, wer verdient. (Kommentar 5.4 und 7.1 sagen das so.)
-- [ ] **These 2, Behauptung 1, «laut dem Asian Journal»:** ergänzen, dass der Artikel dafür keine Quelle nennt (Einschätzung einer Zeitung). Datum: 20.03.2026. (Kommentar 7.1.)
-- [ ] **These 2: «4,7 Millionen US-Dollar»** → «rund 5 Millionen US-Dollar» für die 300 Millionen Pesos (FreshPlaza rechnet am 06.10.2026 mit 5,1 Mio.). (Kommentar 7.1 und Journal 21.10. sagen «rund 5 Mio.».)
+- [ ] **S. 31, These 1, Einwand 2: «Bauern und Händler»** → «Bauern und Verkäufer». Tita sagt «farmers and vendors». «Händler» klingt nach Zwischenhändlern, also nach dem Gegenteil ihrer Aussage; zwei Sätze weiter oben steht «Händler» richtig für die Zwischenhändler, deshalb ist die Verwechslung hier besonders störend. (Kommentar 5.5, 7.1 sagen bereits «Verkäufer».)
+- [ ] **S. 30/31, These 1, Behauptung 3: Beleg für die 20 Prozent Exportwachstum.** Statt SunStar «(DTI, zit. nach Baltasar 2026)» setzen. SunStar nennt nur den Exportwert 2025, nicht das Wachstum. Baltasar (PhilSTAR L!fe, 07.05.2026) ins Verzeichnis. (Kommentar 5.2 sagt, der Beleg sei im Buchtext ausgetauscht, mit Vermerk für S. 31.)
+- [ ] **S. 28, These 1, Behauptung 1: «im selben Zeitraum».** Die Nachfragezahlen betreffen die letzten vier bis fünf Jahre, die Erntezahlen 2006 bis 2025. Vorschlag: «Die Ernte auf den Philippinen schrumpft dagegen seit vielen Jahren, und ein grosser Teil des Rückgangs liegt vor dem Boom.» («grösster Teil» ist mit drei Datenpunkten nicht belegbar: 2006 bis 2010 über 8'000 t, 2010 bis 2025 9'423 t.)
+- [ ] **S. 30, These 1, Behauptung 3: die 0,7 Prozent.** Der Vergleich stellt den Exportwert einem geschätzten Weltmarkt gegenüber, der alle Produktformen und alle Länder umfasst (drei Viertel Asien-Pazifik). Den letzten Satz des Absatzes abschwächen: Die Zahl zeigt, wie klein die Exporte neben dem geschätzten Markt sind, nicht, wer verdient. (Kommentar 5.4 und 7.1 sagen das so.)
+- [ ] **S. 33, These 2, Behauptung 1, «laut dem Asian Journal»** (auch S. 28 und 38 prüfen): ergänzen, dass der Artikel dafür keine Quelle nennt (Einschätzung einer Zeitung). Datum: 20.03.2026. (Kommentar 7.1.)
+- [ ] **S. 34, These 2: «4,7 Millionen US-Dollar»** → «rund 5 Millionen US-Dollar» für die 300 Millionen Pesos (FreshPlaza rechnet am 06.10.2026 mit 5,1 Mio.). (Kommentar 7.1 und Journal 21.10. sagen «rund 5 Mio.».)
 - [ ] **FreshPlaza 11.06.2026, 80 Pesos:** im Buch als Preis ab Hof benennen (so steht es in der Quelle, Christopher Gomez). (Kommentar 7.1.)
-- [ ] **Exportstopp, Datum:** überall «seit Mitte August 2026» (Kurzeinleitung Kapitel 3, These 2, 3, 4, Schlusswort). Die Berichte erschienen ab dem 11. September, in Kraft war der Stopp ab dem 15. August (Global Trade Alert). (Kommentar 5.2.)
-- [ ] **Erntezeit:** Teil 1 (S. 4) sagt «meistens zwischen Oktober und Februar», These 1 «November bis Februar». Eine Angabe wählen und beide Stellen angleichen. (Kommentar 8.3 nennt diesen Widerspruch als Beispiel; wenn ihr ihn behebt, bleibt der Satz dort trotzdem richtig, weil er von der Fassung vom 6.11. spricht.)
-- [ ] **Donut aus Brooklyn:** Teil 2 (Ende 2015) und These 3 (2016) gleich datieren. Belegt: Vorstellung auf Instagram Ende Dezember 2015, Medienberichte ab 5. Januar 2016. Name: «Bjorn» DelaCruz. (Kommentar 5.2.)
+- [ ] **Exportstopp, Datum (S. 23, 34, 39, 45):** «vom August 2026» ist nicht falsch, aber «seit Mitte August 2026» ist genauer und passt zum Kommentar. In Kraft war der Stopp ab dem 15. August (Global Trade Alert), bekannt gemacht hat ihn das Ministerium am 14. September, die ersten Berichte erschienen am 13. und 14. September (Context.ph, SunStar, Tribune, FreshPlaza). **Achtung:** Die Angabe «Berichte ab dem 11. September», die Claude am 8.11. in Kommentar und Journal eingesetzt hatte, liess sich am 9.11. nicht bestätigen und ist wieder zurückgenommen; euer Journal vom 16.09. hatte mit «13. und 14. September» recht.
+- [ ] **Erntezeit:** Kapitel 1 (S. 4) sagt «meistens zwischen Oktober und Februar», These 1 (S. 32) «zwischen November und Februar». Eine Angabe wählen und beide Stellen angleichen. (Kommentar 8.3 nennt diesen Widerspruch als Beispiel; wenn ihr ihn behebt, bleibt der Satz dort trotzdem richtig, weil er von der Fassung vom 6.11. spricht.)
+- [ ] **Donut aus Brooklyn:** Kapitel 2 (S. 15, Ende 2015) und These 3 (S. 41, 2016) gleich datieren. Belegt: Vorstellung auf Instagram Ende Dezember 2015, Medienberichte ab 5. Januar 2016. Name: «Bjorn» DelaCruz. (Kommentar 5.2.)
 - [ ] **Kapitel 3, Gestaltung:** Die Behauptungen stehen als Zwischentitel und die Fazits haben einen eigenen Zwischentitel (im PDF so umgesetzt). Die Interviewzitate wollten wir hervorheben, im PDF stehen sie im Fliesstext. Entweder hervorheben oder im Kommentar 4.4 und Tabelle 3 den Plan streichen.
 
 ## 3. Wichtig, aber nicht abgabekritisch: Einheitlichkeit und Tippfehler
 
-- [ ] «Pflanzgut» einheitlich; «Pflanzmaterial» nur in Zitaten von Behörden.
-- [ ] «Kapitel» statt «Teil», wo es um das Buch geht; der Verweis in Teil 1 auf den gedruckten Kapitelnamen.
-- [ ] «GMA News 2026b» → «GMA News 2026» (These 2 und Verzeichnis), falls es nur einen Artikel gibt.
-- [ ] Tippfehler: S. 7 «In der Bergprovinz»; S. 12 «Der violette Latte»; S. 17 und Inhaltsverzeichnis «Der nächste Matcha?» mit « »; «Der Ube-Trend» mit Bindestrich; in Teil 1 und 2 « » statt " ".
+- [ ] «Pflanzgut» einheitlich (so auf S. 23, 29, 32, 34, 36, 38, 39, 45); «Pflanzmaterial» steht auf S. 26, 43 bis 50 und ist dort meist Behördensprache, bitte durchsehen.
+- [ ] «Kapitel» statt «Teil», wo es um das Buch geht: «im ersten Teil» auf S. 29, 37 und 39 (S. 42 und 49 meinen Teile einer These, das ist richtig).
+- [ ] «GMA News 2026b» (S. 34) → «GMA News 2026», falls es nur einen Artikel gibt (auch im Verzeichnis).
+- [ ] Tippfehler: S. 7 «In der Bergprovinz»; S. 12 «Der violette Latte»; S. 2 und 17 «Der nächste Matcha?» mit « »; «Der Ube-Trend» mit Bindestrich. Englische Anführungszeichen “ ” statt « » auf S. 2, 5, 6, 9, 12, 17 und 19 (Kapitel 3 ist einheitlich).
 - [ ] Beim Kopieren aus Word sind laut Johns Journal (06.11.) an einigen Stellen die Anführungszeichen falsch geworden: Seite für Seite kontrollieren.
 - [ ] Trennungen im Blocksatz prüfen; im PDF stehen zum Beispiel «Recherch-ieren» (S. 6), «Mat-cha» (S. 17), «Wach-stum» und «en-twickeln» (S. 22), «Pro-ches» (S. 34) und «de-shalb» (S. 38). Das sieht nach englischen Trennregeln aus; in InDesign bei den Absatzformaten die Sprache auf Deutsch (Schweiz) stellen und die Trennungen danach nochmals durchsehen.
 
@@ -69,3 +69,32 @@ Zur Entlastung: Diese Punkte hat Claude am PDF vom 8.11. nachgeprüft, sie stimm
 - Alle Stellen, an denen Tita zitiert wird (These 1, 2, 3, 4), stimmen mit dem Transkript überein: Knappheit wegen steigender Nachfrage, 100 → 150 Pesos, «Bauern und Verkäufer profitieren» (dort noch «Händler», siehe Abschnitt 2), Sorte aus Bohol, weniger junge Bauern.
 - Belegformen «zit. nach» (12-mal) und «übers. d. Verf.» kommen vor; 56 Kurzbelege sind im Verzeichnisentwurf vorhanden (Prüfung vom 8.11.).
 - Die Rechnungen in These 4 (4,62 und 5,27 t/ha, rund 25'000 t, 43 Prozent) stimmen.
+
+## 7. Quellenprüfung vom 9.11., 13:00 (Websuche durch Claude)
+
+Zusätzlich zu den Prüfungen der Runden 2 und 3 hat Claude am Nachmittag des 9.11. Quellen des Buches im Web nachgeschlagen, die bisher nie geprüft waren. Ergebnis für das Buch:
+
+**Bestätigt (keine Änderung nötig):**
+- «Japanese Tea» als Herkunftsangabe am 10.07.2026 eingetragen (Asia Economy, 11.07.2026; Manila Bulletin, 13.07.2026).
+- Nishio: Löschung der Herkunftsangabe am 14.02.2020 auf Antrag der Genossenschaft, weil der Tee zu teuer wurde (Jiji; STiR, 01.03.2020). Das Registrierungsjahr 2017 hat Claude nicht direkt gesehen; der zitierte USDA-Japan-Bericht existiert.
+- Quinoa 2018 «for research and production in 123 countries» (Alandia et al. 2020).
+- Erstes Ube-Festival in Melbourne am 11.02.2024, Queen Victoria Market, mitorganisiert vom Generalkonsulat; Konsulin Salcedo: Ube müsse vor «cultural misappropriation» geschützt werden (DFA).
+- Velasco: The Ube («Roots») Generation, Humanities Diliman, Dezember 2016, University of Guam.
+- Kusmi Tea: Seite «The benefits of ube for your body» verspricht «10 major benefits» und bessere Haut. Hinweis: Kusmi nennt Ube dort nicht wörtlich «Superfood»; der Satz «Trotzdem wird Ube als Superfood beworben» (S. 36) sollte sich nicht allein auf Kusmi stützen.
+- CNN (Stephanie Yang, 02.05.2026): Camelle Morta Singh, 31, Jusstudentin in Pangasinan, baut seit 2024 Ube an; Bauern verkaufen oft an Zwischenhändler; Produktion 2025 minus 6,7 Prozent; Exporte über 3 Mio. US-Dollar, plus 20 Prozent.
+- Korea Herald 2026 ist der Nachdruck von Sam Beltran, Philippine Daily Inquirer, 28.05.2026 (über Asia News Network): «50 kilos of raw ube produced only one kilo of pure ube powder», Ube Skwela, Lunti at Lila kauft die Ernte ab, Bohol Ube Project mit jüngeren Bauern und europäischen Käufern. «Feste Vertragspreise» stehen in dieser Fassung nicht; prüfen, woher das stammt.
+- Alter der Bauern: 57 Jahre (2013, DA-ATI, zit. nach Manila Bulletin, 09.11.2022); 49 bis 50 Jahre «based on their registry system» (PIA, 16.10.2023); 55 bis 59 Jahre (SEARCA, 20.02.2023). Hinweis: SEARCA beruft sich auf «Experten», nicht auf eine Erhebung; auf S. 42 «eine andere Erhebung» besser «eine andere Angabe».
+- Datassential: 231 Prozent mehr Nennungen auf US-Speisekarten in vier Jahren (NACS Daily, 20.04.2026); im Buch «230 Prozent», das ist als Rundung in Ordnung.
+- Mintel: 359 Produktlancierungen mit Ube (Context.ph, 18.04.2026). Dort steht kein Jahr; «allein 2025» (S. 27) am Manila-Times-Artikel prüfen.
+- 77 Sorten im Norden von Luzon: Backian/Gayao/Meldoz 2016 (Benguet State University). Die Studie nennt 13 indigene Gruppen plus Kapampangans und Ilocanos; «13 Volksgruppen» (S. 5) ist vertretbar.
+- FoodNavigator «Ube exports have been suspended – why and what happens now?» vom 13.10.2026 (im Journal am 14.10. als «von gestern» richtig).
+- AFP «Purple reign: Philippines seeks to keep grip on ube throne» ist vom 06.10.2026 (Tribune, Khaleej Times); das Datum für den Oman Observer im Verzeichnis dürfte derselbe Tag sein, bitte am Artikel prüfen.
+- Ube Fiesta in Deutschland: 2024 war die dritte Ausgabe (Generalkonsulat Frankfurt, 16.06.2024), also seit 2022; 2026 am 20./21.06. im Kölner Jugendpark (Veranstaltungsseiten). «Mehrere Tausend Besucher» und «über 50 Unternehmen» (S. 41) hat Claude nicht gefunden; die Medienmitteilung «Generalkonsulat Frankfurt 2026» mit Link ins Verzeichnis.
+
+**Nicht gefunden (Link im Verzeichnis nötig):**
+- VerbraucherService Bayern, «Ube – was steckt hinter dem violetten Food-Trend?» (35 Gramm Zucker, S. 36).
+- CNBC-Artikel vom 26.04.2026 (Hashtag-Zahlen 750'000 und 120'000, S. 37). Das Verzeichnis sagt selbst, dass nur eine Zusammenfassung vorlag.
+- Ein Artikel vom 11.09.2026 zum Exportstopp (siehe Abschnitt 2).
+
+**Neu aufgetaucht, nicht gelesen:** Philippine Daily Inquirer, «DA: Ban on raw ube export likely until 2028» (Datum unbekannt, Seite für Claude gesperrt). Falls der Artikel von Ende Oktober oder November ist, wäre er ein Satz wert in These 2 oder in den Grenzen (Kommentar 7.6: «Die Lage ändert sich laufend»).
+
