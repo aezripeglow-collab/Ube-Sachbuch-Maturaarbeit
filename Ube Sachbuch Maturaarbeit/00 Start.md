@@ -50,6 +50,8 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 
 ## Finalisierung (ab 9.11.2026, Arbeitsdateien von Claude)
 - [[00_PROJEKTSTATUS]] (Stand und nächster Schritt, zuerst lesen)
-- [[01_MATERIALANALYSE]] (Bestandsaufnahme, Widersprüche, Stilprofil)
+- [[FORTSCHRITT_KOMMENTAR]] (Stand der Überarbeitung des Kommentars, Versionen v2/v3)
+- [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]] (was sich von v2 zu v3 geändert hat, Bewertung, Pflichtpunkte vor der Abgabe)
+- [[03_KOMMENTAR_ENTWURF]] (Kommentar v3, Lesekopie; Word: `09 Finalisierung/Schriftlicher_Kommentar_Ube_v3.docx`)
 - [[06_OFFENE_AUFGABEN]] (was nur wir klären können)
-- Entwürfe folgen: 02 Argumentationsstruktur, 03 Kommentar, 04 Arbeitsjournal, 05 Konsistenzprüfung
+- [[01_MATERIALANALYSE]] (Bestandsaufnahme, Widersprüche, Stilprofil), [[02_ARGUMENTATIONSSTRUKTUR]], [[04_ARBEITSJOURNAL_ENTWURF]], [[05_KONSISTENZPRUEFUNG]]

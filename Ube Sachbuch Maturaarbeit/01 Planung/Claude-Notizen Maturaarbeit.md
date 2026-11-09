@@ -51,6 +51,8 @@ Was Claude über eure Maturaarbeit weiss (Stand: 9. November 2026). Du kannst di
 - Geprüfte Korrekturen: 300 Mio. Pesos sind rund 5,1 Mio. USD (nicht 4,7); erste Berichte zum Exportstopp ab 11.9.2026; USDA-Bericht heisst «Ube – Purple Yam – A High-Value Specialty Crop …», RP2026-0019, 26.6.2026.
 - Im Vault fehlen weiterhin: Transkript und Fragen des Interviews, Zitierregeln, Beurteilung vom 19.6., Wegleitung.
 - Werkzeuge: `build_v2.py` baut Word und Lesekopie aus `kommentar_quelle_v2.txt`; `make_figures_v2.py` zeichnet Abb. 2; `journal_v2.py` erzeugt den Journal-Entwurf.
+- Zweiter Master-Prompt (9.11., 00:53): wissenschaftliche Überarbeitung von v2 → **v3** (`kommentar_quelle_v3.txt`, `build_v3.py`, `Schriftlicher_Kommentar_Ube_v3.docx`). Fünf Kritikpunkte von Aezri geprüft und behoben; Protokoll in [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]], Stand in [[FORTSCHRITT_KOMMENTAR]]. Neu geprüfte Quellen: Asian Journal 20.03.2026 (Aromahersteller ohne Quelle), Mendoza 08.05.2026 (Drittel/Zwei-Drittel nur Szenario), FreshPlaza 11.06.2026 (80 Pesos ab Hof), TMR-Marktdefinition (75 % Asien-Pazifik). Offen bleibt vor allem, was die Gruppe selbst am Kommentar geprüft und geändert hat (für den KI-Nachweis), das Transkript, der Entscheid zu 7.4 und zu Anhang B.
+- Modell laut Anzeige: Opus 5.5 am 8.11., Fable 5.1 ab dem späten Abend des 8.11. (im Kommentar 10.6 mit Prüfvermerk).
 
 ## Quellen und Material
 - 2-minütiges Interview mit einer Bäuerin von den Philippinen
