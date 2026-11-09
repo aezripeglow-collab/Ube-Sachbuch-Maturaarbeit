@@ -11,7 +11,8 @@ tags: [gruppe]
 - [[3.5 Was bleibt von unserer Leitthese]]
 
 ## Weitere Aufgaben
-- [[Interview mit Tita]]
+- Schlusswort und Kurzeinleitungen zu den drei Kapiteln
+- [[Interview mit Tita]] (Auswertung für These 1 und 2; geführt hat es Johns Onkel, siehe Notiz)
 - [[Quellenverzeichnis Kapitel 3]]
 
 ## Arbeitsjournal

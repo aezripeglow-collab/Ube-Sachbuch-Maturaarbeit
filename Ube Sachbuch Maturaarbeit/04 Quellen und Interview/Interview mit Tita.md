@@ -6,7 +6,8 @@ autor: Aezri
 
 - **Wer:** Ube-Verkäuferin auf dem öffentlichen Markt von Talisay City (Cebu). Sie wollte anonym bleiben und heisst bei uns «Tita» (Filipino für «Tante»).
 - **Berichtigt am 9.11.2026 (Aezri):** Tita ist Verkäuferin, nicht Ube-Bäuerin. Vorher stand hier «Ube-Bäuerin und Marktverkäuferin». Im Transkript unten steht in Antwort 1 «a farmer and a vendor» und in Antwort 4 «a little farm of UBE». Offen ist, ob und wie viel sie selbst anbaut, und wer den Namen «Tita» gewählt hat (siehe [[OFFENE_PUNKTE_FINAL]]).
-- **Form:** zehn Fragen auf Englisch, über Aezris Familie weitergeleitet. Tita hat acht davon als Sprachnachrichten beantwortet, zwei blieben unbeantwortet.
+- **Berichtigt am 9.11.2026, 23:51 (Masterprompt der Gruppe), gilt vor allem anderen:** Entscheid für das Interview am 5.10.2026. John hat die Fragen am 14.10. vorbereitet und seinem Onkel per Messenger geschickt. Johns Onkel aus Cebu hat das Interview am 23.10. in Talisay City geführt und aufgenommen (begonnen auf Englisch, auf Bisaya fortgesetzt) und die Antworten ins Englische übertragen. Am 25.10. hat die Gruppe Antworten und Transkript von John erhalten. Der Name des Onkels wird nicht genannt. Tita ist ein Ersatzname. Sie hat zugestimmt, die Zustimmung wurde nicht aufgenommen, und ob sie das Transkript gesehen hat, ist nicht bekannt. Wir kennen sie als Marktverkäuferin, die Ube-Lieferungen erhält. Die Aussagen «a farmer and a vendor» und «a little farm of UBE» stammen aus ihren Antworten, ihr Hintergrund ist nicht geklärt.
+- **Form (überholt, stand so bis 9.11.):** zehn Fragen auf Englisch, über Aezris Familie weitergeleitet. Tita hat acht davon als Sprachnachrichten beantwortet, zwei blieben unbeantwortet.
 - **Transkript:** englisch, im Anhang des Buches. Übersetzt haben wir die Antworten selbst.
 - **Kurzbeleg im Text:** (Interview mit Tita 2026)
 

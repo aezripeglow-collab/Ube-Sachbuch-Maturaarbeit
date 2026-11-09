@@ -13,7 +13,10 @@ tags: [planung, gruppe]
 | [[3.3 These 3 – Vom Lebensmittel zum Bild]] | [[John]] |
 | [[3.4 These 4 – Mehr Felder allein reichen nicht]] | [[Tim]] |
 | [[3.5 Was bleibt von unserer Leitthese]] | [[Aezri]] |
-| [[Interview mit Tita]] | [[Aezri]] |
+| [[Interview mit Tita]] | Fragen und Weiterleitung: [[John]] · Durchführung auf Cebu: Johns Onkel (berichtigt am 9.11.2026) |
+| Vorwort | [[Tim]] |
+| Schlusswort und Kurzeinleitungen | [[Aezri]] |
+| Druckauftrag (9.11.2026) | [[John]] |
 | Layout in Adobe InDesign | [[John]] |
 | [[Quellenverzeichnis Kapitel 3]] | [[Aezri]] |
 

@@ -4,6 +4,9 @@ stand: 2026-11-09 21:50
 ---
 # 00 Projektstatus Finalisierung
 
+> [!warning] Abgelöst am 10.11.2026
+> Dieser Ordner zeigt den Stand vom 9.11., 21:50. Die gültige Fassung von Kommentar und Arbeitsjournal liegt in `10 Überarbeitung` ([[00_STATUS]], [[PRUEFBERICHT]]). Mehrere Angaben in diesem Ordner sind überholt, vor allem zum Interview (richtig: Johns Onkel, 5., 14., 23. und 25. Oktober; Tita als Marktverkäuferin).
+
 > [!important] Für eine neue Sitzung
 > Zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]], [[QUALITAETSBEWERTUNG_FINAL]] und [[AENDERUNGSPROTOKOLL_FINAL]]. Fünf Runden sind durchlaufen (die fünfte am 9.11. abends: Zitierregeln der KSB angewendet, Reflexion neu, Tita als Verkäuferin, Anhänge B bis E → **FINAL 21:50**). Die ersten vier: Master-Prompt vom 8.11. (→ v2), zweiter Master-Prompt vom 9.11., 00:53 (→ v3), Schlusskorrektur vom 9.11., 08:39, mit dem Transkript (→ FINAL 10:00), und die Endkontrolle vom 9.11., 10:36, mit der Familienchronik als Stilvorlage (→ **FINAL 12:30**, dazu `Arbeitsjournal_Ube_FINAL.docx`). Fortschrittsdateien: [[FORTSCHRITT_KOMMENTAR]] (Runde 2) und [[FORTSCHRITT_FINALKORREKTUR]] (Runden 3 und 4). Stilprofil für alle Texte: [[Schreibstimme Aezri]]. Die Originaldateien im Vault wurden nicht verändert; alle Entwürfe liegen in diesem Ordner.
 

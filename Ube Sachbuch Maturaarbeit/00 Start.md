@@ -28,7 +28,12 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
     - [[3.5 Was bleibt von unserer Leitthese]]
 5. [[Schlusswort]]
 
-## Schriftlicher Kommentar
+## Überarbeitete Fassung vom 10.11.2026 (gilt)
+- Ordner `10 Überarbeitung`: [[00_STATUS]] · [[PRUEFBERICHT]]
+- Kommentar: [[Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx]] · Lesekopie [[Kommentar (überarbeitet)]]
+- Arbeitsjournal: [[Arbeitsjournal_Ube_UEBERARBEITET.docx]] · Lesekopie [[Arbeitsjournal (überarbeitet)]]
+
+## Schriftlicher Kommentar (ältere Fassungen)
 - [[Schriftlicher Kommentar]] (Übersicht und Stand)
 - [[Kommentar Volltext]] (ganzer Text in Obsidian)
 - Word-Version zum Abgeben: [[Schriftlicher_Kommentar_Ube.docx]]

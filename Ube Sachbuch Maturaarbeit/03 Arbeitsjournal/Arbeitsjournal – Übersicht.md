@@ -11,6 +11,9 @@ Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDe
 
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
+> [!important] Überarbeitete Fassung vom 10.11.2026 (gilt)
+> Das Journal liegt jetzt als fünfzehn Rückblicke über je zwei Wochen vor: `10 Überarbeitung/Arbeitsjournal_Ube_UEBERARBEITET.docx`, Lesekopie [[Arbeitsjournal (überarbeitet)]]. Die Einträge in diesem Ordner bleiben als ältere Fassung liegen. Achtung: Der Ablauf des Interviews stimmt in den Einträgen vom 23.10., 28.10. und 04.11. nicht (richtig: Johns Onkel, 5., 14., 23. und 25. Oktober), und der Kochbuchtitel lautet «Salo-Salo».
+
 > [!info] Endfassung vom 9.11.2026 (von Claude erstellt, von uns zu prüfen)
 > `09 Finalisierung/Arbeitsjournal_Ube_FINAL.docx` (gleiche Tabelle, mit gelben Prüfstellen) und die Lesekopie [[ARBEITSJOURNAL_FINAL]]. Was sich gegenüber dieser Fassung geändert hat: [[AENDERUNGSPROTOKOLL_FINAL]] Abschnitt A3. Was wir noch eintragen müssen (8. bis 10.11., KI-Hinweis, Prüfstellen): [[OFFENE_PUNKTE_FINAL]].
 

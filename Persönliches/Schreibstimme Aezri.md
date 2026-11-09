@@ -4,6 +4,9 @@ stand: 2026-11-09
 ---
 # Schreibstimme Aezri (und Tim, John)
 
+> [!warning] Hinweis vom 10.11.2026
+> In dieser Notiz steht für Aezri «sie». Im Masterprompt der Gruppe vom 9.11.2026 steht «er». Bis das geklärt ist, verwendet Claude in Texten für die Abgabe kein Pronomen für Aezri, sondern den Namen.
+
 Authentisches Stilprofil für alle Texte, die Claude für Aezri schreibt oder überarbeitet. Grundlage sind nur Texte, die sicher **nicht** von einer KI stammen oder überarbeitet wurden:
 
 1. [[Die Familienchronik über Aezri Peglow]] (Schulaufgabe, rund 2'000 Wörter, Ich-Form)
