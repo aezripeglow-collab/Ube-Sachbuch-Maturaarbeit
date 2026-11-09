@@ -1,10 +1,26 @@
 ---
 tags: [finalisierung, status, kommentar, arbeitsjournal]
-stand: 2026-11-09 13:30
+stand: 2026-11-09 21:50
 ---
 # FORTSCHRITT_FINALKORREKTUR
 
-Fortschrittsdatei für die Schlusskorrektur. Vierte Runde: Prompt vom 9.11.2026, 10:36 («Ultimativer Master-Prompt», mit der Familienchronik als Stilvorlage). Dritte Runde: Prompt vom 9.11., 08:39 (mit dem Transkript). Für eine Fortsetzung: zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]], dann `kommentar_quelle_final.txt` (Arbeitsgrundlage des Kommentars) und `journal_final.py` (Arbeitsgrundlage des Journals). Zusammenhang aller Dateien: [[FORTSCHRITT_KOMMENTAR]].
+Fortschrittsdatei für die Schlusskorrektur. **Fünfte Runde: 9.11.2026, 20:42 (Zitierregeln, Reflexion, Tita als Verkäuferin), siehe gleich unten.** Vierte Runde: Prompt vom 9.11.2026, 10:36 («Ultimativer Master-Prompt», mit der Familienchronik als Stilvorlage). Dritte Runde: Prompt vom 9.11., 08:39 (mit dem Transkript). Für eine Fortsetzung: zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]], dann `kommentar_quelle_final.txt` (Arbeitsgrundlage des Kommentars) und `journal_final.py` (Arbeitsgrundlage des Journals). Zusammenhang aller Dateien: [[FORTSCHRITT_KOMMENTAR]].
+
+## Fünfte Runde (9.11., 20:42 bis 21:50)
+
+Auftrag: Zitierregeln der KSB auf Fussnoten und Quellenverzeichnis anwenden, Reflexion ausführlicher schreiben, Tita ist Verkäuferin und nicht Ube-Bäuerin.
+
+- [x] Zitierregeln (31 Seiten) ganz gelesen, im Vault abgelegt, Kurzfassung geschrieben ([[Zitierregeln KSB – Kurzfassung]]).
+- [x] Alle 71 Fussnoten einzeln geprüft und angepasst (jetzt 87); Quellenverzeichnis als eine alphabetische Liste (10.1, 32 Einträge); KI-Nachweis in der Form der Zitierregeln mit Eingabe 10 (10.2); Abbildungs- und Tabellenverzeichnis; Tabellen neu nummeriert; Seitenzahlen des Buch-PDFs für alle Fussnoten zum Buch nachgeschlagen.
+- [x] Anhänge B bis E: die vier langen Prompts im Wortlaut (neuer Blocktyp `~ ` in `build.js` und `to_obsidian.py` für kleinen, wörtlichen Text).
+- [x] Tita als Verkäuferin: Kommentar (rund 20 Stellen), Abbildung 1 (`make_figures_v2.py`), `journal_final.py` (acht Berichtigungen, drei gelbe Vermerke), Notizen [[Interview mit Tita]] und [[Quellenverzeichnis Kapitel 3]].
+- [x] Kapitel 8 neu (sieben Abschnitte), Grundlage: alle 251 Reflexions- und Erkenntnisfelder des Journals.
+- [x] Erneute Websuche zu 13 Seiten; sechs sachliche Berichtigungen ([[AENDERUNGSPROTOKOLL_FINAL]] F4).
+- [x] Kontrolle: Skriptprüfungen (Kurzformen gegen Verzeichnis, alphabetische Reihenfolge, Querverweise, Punkt am Ende jeder Fussnote, Prompt-Auszüge und Anhänge gegen die Dateien aus dem Chat), gebautes PDF in den geänderten Kapiteln gelesen, vier Seiten als Bild angesehen.
+- [x] Nachgeführt: [[OFFENE_PUNKTE_FINAL]] (neu geschrieben), [[AENDERUNGSPROTOKOLL_FINAL]], [[QUALITAETSBEWERTUNG_FINAL]], [[KI_DOKUMENTATION_FINAL]], [[BUCH_KORREKTURLISTE_FINAL]] (Abschnitt 8), [[00_PROJEKTSTATUS]], [[Claude-Notizen Maturaarbeit]].
+- [x] Sicherung der Fassung von 13:30 liegt in `Versionen/`, die neue als `…_Stand_2026-11-09_2150`.
+
+Stand der Arbeit nach der fünften Runde: Kommentar 91 Seiten (Haupttext S. 4 bis 41), 87 Fussnoten, 74 gelbe Stellen; Journal 40 Seiten, 30 gelbe Stellen. Nicht abgabefertig, siehe [[OFFENE_PUNKTE_FINAL]] Priorität 1.
 
 ## Vierte Runde: zwölf Durchgänge
 
@@ -36,10 +52,10 @@ Fortschrittsdatei für die Schlusskorrektur. Vierte Runde: Prompt vom 9.11.2026,
 
 Vollständig gelesen: `kommentar_quelle_final.txt` (alle Kapitel, Fussnoten, Tabellen, Verzeichnisse, Anhänge; in der dritten Runde ganz, in der vierten Runde alle Kapitel nochmals für den Stil und die gebaute Fassung am Schluss), `ARBEITSJOURNAL_FINAL.md` (alle 48 Einträge inklusive Vorlagen), die vier Prompts, die Familienchronik, `OFFENE_PUNKTE_FINAL.md`, `06_OFFENE_AUFGABEN.md`, `04_ARBEITSJOURNAL_ENTWURF.md` (Nachtrag), `Interview mit Tita.md`, `Schreibstimme Aezri.md`. Buch-PDF: Text vollständig extrahiert und an den geprüften Stellen gelesen, Seiten 4, 8, 9, 13, 50 bis 52 angesehen (dritte Runde), Schrift und Format gemessen.
 
-Nicht geprüft oder nicht verfügbar: Chatverläufe der Eingaben 1 bis 5, Zitierregeln der KSB, Beurteilung vom 19.06., InDesign-Dateien, gedrucktes Buch, Sprachnachrichten, CPBRD-Brief, USDA-PDF und Inquirer-Seiten (gesperrt), SCMP-Volltext, VerbraucherService Bayern und CNBC (nicht gefunden).
+Nicht geprüft oder nicht verfügbar: Chatverläufe der Eingaben 1 bis 5, Beurteilung vom 19.06. (die Zitierregeln der KSB liegen seit der fünften Runde vor), InDesign-Dateien, gedrucktes Buch, Sprachnachrichten, CPBRD-Brief, USDA-PDF und Inquirer-Seiten (gesperrt), SCMP-Volltext, VerbraucherService Bayern und CNBC (nicht gefunden).
 
 ## Stand der Arbeit
 
 Alle zwölf Durchgänge sind abgeschlossen (9.11., 12:30; Nachtrag mit Websuche und Skript-Gegenproben 13:30). Nichts ist abgabefertig, solange Priorität 1 in [[OFFENE_PUNKTE_FINAL]] offen ist (euer Anteil im KI-Nachweis, Journaleinträge 8. bis 10.11., KI-Satz in der Journal-Übersicht, Eingabe 4, Herkunft der Bewertung und Werkzeug der Prompts, weitere KI-Nutzung, Anhang B, Interviewangaben, Buchtitel und Klassen, Rechnung 850'000, Leitthese).
 
-Für eine Fortsetzung: Kommentar in `kommentar_quelle_final.txt` ändern und `python3 build_final.py` ausführen (schreibt auch die Lesekopie [[03_KOMMENTAR_ENTWURF]]); Journal in `journal_final.py` (FIX/CHECK/TEMPLATES) ändern und `python3 journal_final.py` ausführen. Oder direkt in den Word-Dateien weiterarbeiten; dann ist Word die Wahrheit, und die Quelltexte sind veraltet. Nach jeder weiteren Sitzung mit Claude eine Eingabe in 10.6 ergänzen.
+Für eine Fortsetzung: Kommentar in `kommentar_quelle_final.txt` ändern und `python3 build_final.py` ausführen (schreibt auch die Lesekopie [[03_KOMMENTAR_ENTWURF]]); Journal in `journal_final.py` (FIX/CHECK/TEMPLATES) ändern und `python3 journal_final.py` ausführen. Oder direkt in den Word-Dateien weiterarbeiten; dann ist Word die Wahrheit, und die Quelltexte sind veraltet. Nach jeder weiteren Sitzung mit Claude eine Eingabe in 10.2 ergänzen (die nächste wäre Eingabe 11).

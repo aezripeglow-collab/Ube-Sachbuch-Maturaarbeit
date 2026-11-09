@@ -1,35 +1,43 @@
 ---
 tags: [finalisierung, ki-nachweis, dokumentation]
-stand: 2026-11-09 12:00
+stand: 2026-11-09 21:50
 ---
 # KI_DOKUMENTATION_FINAL
 
-Vollständige Dokumentation der KI-Nutzung für den schriftlichen Kommentar und das Arbeitsjournal, Stand 9.11.2026. Sie ergänzt den KI-Nachweis in Kapitel 10.6 des Kommentars (Kurzfassung) und enthält den **Wortlaut aller vier Master-Prompts** sowie die kurzen Nachrichten, die Claude erhalten hat. Zusammengestellt von Claude (Fable 5.1) am 9.11.2026 auf Grund der Dateien im Chat; alles, was nur die Gruppe weiss, ist als offen markiert und nicht erfunden.
+Vollständige Dokumentation der KI-Nutzung für den schriftlichen Kommentar und das Arbeitsjournal, Stand 9.11.2026. Sie ergänzt den KI-Nachweis in Kapitel 10.2 des Kommentars (bis zum Abend des 9.11.: 10.6) und enthält den **Wortlaut aller vier Master-Prompts** sowie die kurzen Nachrichten, die Claude erhalten hat. Zusammengestellt von Claude (Fable 5.1) am 9.11.2026 auf Grund der Dateien im Chat, am Abend ergänzt (Fable 5.2, Eingabe 10); alles, was nur die Gruppe weiss, ist als offen markiert und nicht erfunden.
 
 > [!important] Was diese Datei kann und was nicht
-> Sie dokumentiert, **was Claude bekommen und was Claude erstellt oder verändert hat.** Sie kann nicht dokumentieren, was ihr selbst gelesen, geprüft, übernommen, abgelehnt oder neu geschrieben habt. Diese Angaben («Von uns») fehlen bei allen neun Eingaben und sind der wichtigste offene Punkt vor der Abgabe (siehe [[OFFENE_PUNKTE_FINAL]], Priorität 1). Ohne sie würde der Kommentar als weitgehend KI-geschrieben gelten.
+> Sie dokumentiert, **was Claude bekommen und was Claude erstellt oder verändert hat.** Sie kann nicht dokumentieren, was ihr selbst gelesen, geprüft, übernommen, abgelehnt oder neu geschrieben habt. Diese Angaben (im Kommentar seit dem Abend «Art der Übernahme», vorher «Von uns») fehlen bei allen zehn Eingaben und sind der wichtigste offene Punkt vor der Abgabe (siehe [[OFFENE_PUNKTE_FINAL]], Priorität 1). Ohne sie würde der Kommentar als weitgehend KI-geschrieben gelten.
 
 ## 1. Was die Zitierregeln verlangen und was wir empfehlen
 
-Laut Kommentar 10.6 darf KI nach den Zitierregeln der Kantonsschule Baden als Hilfe für Fragestellung, Struktur und Sprache genutzt werden, ihre Ergebnisse dürfen aber nicht wörtlich übernommen werden, und ihr Anteil muss nachvollziehbar sein (Seitenangabe im Kommentar mit Prüfvermerk, bitte an den Zitierregeln selbst prüfen; Claude hatte die Zitierregeln nicht vorliegen).
+> [!warning] Geändert am 9.11.2026, abends
+> Am Mittag lagen Claude die Zitierregeln nicht vor. Damals stand hier die Empfehlung, die langen Prompts nicht in den Kommentar zu nehmen und «auf Anfrage» vorzulegen. **Diese Empfehlung ist zurückgenommen.** Seit dem Abend liegen die Zitierregeln vor (5. Auflage 2025), und sie sind deutlicher.
 
-Für die Abgabe empfehlen wir:
+Was in den Zitierregeln steht (wörtlich, S. 9 und S. 19):
 
-1. **Im Kommentar bleibt der KI-Nachweis in 10.6** mit allen neun Eingaben in Kurzform (Prompt-Anfang, Mitgegeben, Erstellt, Verändert, Geprüft, Von uns). Dort müsst ihr die Felder «Von uns» ausfüllen.
-2. **Die langen Prompts gehören nicht in den Kommentar.** Die vier Master-Prompts umfassen zusammen rund 15'500 Wörter; der erste allein füllt als Anhang B 19 Seiten. Gebt stattdessen diese Datei (als PDF oder ausgedruckt) zusammen mit den exportierten Chatverläufen als **separate KI-Dokumentation** ab oder legt sie auf Anfrage vor, und verweist in 10.6 darauf. Falls ihr Anhang B doch behalten wollt, müssen die Prompts 2 bis 4 als Anhang C bis E dazu, sonst ist der Nachweis unvollständig.
-3. **Chatverläufe exportieren** (alle Chats vom 8. und 9. November) und aufbewahren. Nur dort stehen die Eingaben 1 bis 5 vollständig, der fehlende Prompt von Eingabe 4 und die Modellangaben.
-4. **Buchtext:** Falls ihr den Buchtext mit KI sprachlich korrigiert oder Bilder mit KI erstellt habt, gehört das ebenfalls hierher und in 10.6 und 8.3. Claude weiss das nicht.
-5. **Werkzeug für die Prompts:** Der Text, der den vierten Master-Prompt umgibt («Die persönliche Schreibstimme wird im neuen Prompt die höchste Priorität haben … Ich habe mir auch eure hochgeladene Word-Datei angesehen … Ein letzter Hinweis: Ein langer Prompt allein garantiert nicht …»), stammt offenbar nicht von euch, sondern von einem weiteren KI-Werkzeug, mit dem die Prompts formuliert wurden. Falls das so ist, gehört auch dieses Werkzeug mit Name und Datum in den Nachweis, und die Bewertung der zweiten Fassung (Eingabe 7) stammt dann vermutlich ebenfalls von dort. Bitte angeben.
+- «Allerdings ist es wichtig, ihren Anteil an der Arbeit nachvollziehbar zu machen und sicherzustellen, dass die Eigenleistung beurteilbar bleibt. KI darf als Inspirationsquelle genutzt, die Ergebnisse aber nicht wortwörtlich übernommen werden. KI kann hilfreich sein bei Fragestellung, Strukturierung und sprachlichen Korrekturen. Da KI nicht vertrauenswürdig ist, darf man sie nicht als Quelle für sachliche Informationen verwenden. Eine sprachliche Korrektur des Textes durch KI ist erlaubt» (S. 9).
+- «Der Nachweis enthält neben dem konkreten System (Name der KI) und dessen Version auch die wörtliche Wiedergabe der Eingabe (Prompt), das Datum der Kommunikation und die Art der Übernahme» (S. 19). Form im Quellenverzeichnis: Name der KI (Version): «Prompt», TT.MM.JJJJ. Art der Übernahme. Form in der Fussnote: Name der KI: «Prompt [...]», TT.MM.JJJJ.
+
+Was das für euch heisst:
+
+1. **Den Kommentar in eigenen Worten überarbeiten.** Gliederung, Kapitel 5 und 7 und seit heute Abend auch Kapitel 8 (Reflexion) sind von Claude formuliert. Wortwörtlich übernehmen dürft ihr das nach S. 9 nicht. Fangt mit Kapitel 8 an, weil eine Reflexion von euch selbst stammen muss.
+2. **Die Felder «Art der Übernahme» in 10.2 ausfüllen**, bei allen zehn Eingaben, ehrlich und konkret (ein bis drei Sätze). Das ist der Teil des Nachweises, den nur ihr schreiben könnt.
+3. **Die Prompts stehen jetzt wörtlich im Kommentar:** die kurzen in 10.2, die vier langen in den Anhängen B bis E (40 Seiten in kleiner Schrift, Zeile für Zeile gleich wie im Chat). Ob sie dort bleiben oder als separate Beilage abgegeben werden dürfen, entscheidet Frau Büschlen. Fragt sie.
+4. **Chatverläufe exportieren** (alle Chats vom 8. und 9. November) und aufbewahren. Nur dort stehen die Eingaben 1 bis 5 vollständig, der fehlende Prompt von Eingabe 4 und die Modellangaben.
+5. **Buchtext und Bilder:** Falls ihr den Buchtext mit KI sprachlich korrigiert oder Bilder mit KI erstellt habt, gehört das ebenfalls in 10.2 und 8.6. Claude weiss das nicht.
+6. **Werkzeug für die Prompts:** Der Text, der den vierten Master-Prompt umgibt («Die persönliche Schreibstimme wird im neuen Prompt die höchste Priorität haben … Ich habe mir auch eure hochgeladene Word-Datei angesehen … Ein letzter Hinweis: Ein langer Prompt allein garantiert nicht …»), stammt offenbar nicht von euch, sondern von einem weiteren KI-Werkzeug, mit dem die Prompts formuliert wurden. Falls das so ist, gehört auch dieses Werkzeug mit Name, Version, Datum und euren Eingaben in den Nachweis, und die Bewertung der zweiten Fassung (Eingabe 7) stammt dann vermutlich ebenfalls von dort. Mit Anhang E steht dieser Text jetzt sichtbar im Kommentar.
+7. **Quellen selbst öffnen.** KI darf keine Quelle für sachliche Informationen sein (S. 9). Der Kommentar zitiert überall die Quelle selbst und nie Claude; die fünf Texte zum Theorieteil (Kapitel 3) hat aber Claude gesucht, und alle Abrufdaten vom 08. und 09.11. stammen von Claudes Prüfung.
 
 ## 2. Werkzeug und Modelle
 
 - **Werkzeug:** Claude (Anthropic) in der Claude-App, mit Zugriff auf den Obsidian-Vault über das GitHub-Repository `aezripeglow-collab/Ube-Sachbuch-Maturaarbeit` (Branch master). Claude hat Dateien gelesen und geschrieben, Word-Dateien gebaut (docx-Bibliothek, LibreOffice für die Seitenzahlen), Rechnungen in Python nachgerechnet und für die Faktenprüfung Websuche und Webabruf benutzt. Keine Bildgenerierung; die Abbildungen 1 bis 4 und 6 sind mit Python (matplotlib) beziehungsweise aus dem Buch-PDF erstellt.
-- **Modell:** Für die Eingaben 6 bis 9 ist die Sitzung auf das Modell `claude-fable-5-1` («Fable 5.1») eingestellt; das hat Aezri am 8.11. mit dem Befehl `/model claude-fable-5-1` umgestellt. Für die Eingaben 1 bis 5 stand im früheren KI-Nachweis «Opus 5.5». Claude kann das nicht nachprüfen; bitte im Chatverlauf nachsehen, welches Modell dort angezeigt wird, und die Angabe in 10.6 bestätigen oder korrigieren. Falls ihr es nicht mehr feststellen könnt, schreibt «Claude (Modell nicht mehr feststellbar)».
+- **Modell:** Für die Eingaben 6 bis 9 ist die Sitzung auf das Modell `claude-fable-5-1` («Fable 5.1») eingestellt; das hat Aezri am 8.11. mit dem Befehl `/model claude-fable-5-1` umgestellt. Am 9.11. um 20:42 hat sie auf `claude-fable-5-2[1m]` («Fable 5.2») umgestellt; Eingabe 10 läuft mit dieser Einstellung. Die kurze Rückfrage um 20:13 (ohne Änderung an Dateien) lief laut Sitzung mit Opus 5.5. Die Angaben beruhen auf der Einstellung der Sitzung; welches Modell eine einzelne Antwort tatsächlich erzeugt hat, kann Claude nicht selbst prüfen. Für die Eingaben 1 bis 5 stand im früheren KI-Nachweis «Opus 5.5». Claude kann das nicht nachprüfen; bitte im Chatverlauf nachsehen, welches Modell dort angezeigt wird, und die Angabe in 10.2 bestätigen oder korrigieren. Falls ihr es nicht mehr feststellen könnt, schreibt «Claude (Modell nicht mehr feststellbar)».
 - **Sprache der Ausgaben:** Deutsch mit Schweizer Rechtschreibung, wie von euch verlangt.
 
 ## 3. Übersicht aller Eingaben
 
-| Nr. | Datum | Modell | Was Claude bekommen hat | Was Claude erstellt oder verändert hat | Von uns |
+| Nr. | Datum | Modell | Was Claude bekommen hat | Was Claude erstellt oder verändert hat | Art der Übernahme (von euch) |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 08.11. | Opus 5.5 (prüfen) | Vault (Buchtext, Projektplan, Arbeitsjournal, Beurteilung 19.06., Quellenverzeichnis), Kommentar «Game Pressure» als Beispiel, Zitierregeln, Fotos eines weiteren Kommentars; Auftrag, den Kommentar zu schreiben | erster Entwurf des ganzen Kommentars mit Gliederung, Fussnoten, Verzeichnissen, Abbildungen 1 bis 4, Quellen für Kapitel 3 | offen |
 | 2 | 08.11. | Opus 5.5 (prüfen) | Auftrag, den Entwurf Wort für Wort menschlicher zu schreiben und die genannten Fehler zu korrigieren | ganzer Entwurf sprachlich überarbeitet; falscher Beleg in These 1 gefunden und im Buchtext korrigiert | offen |
@@ -40,8 +48,11 @@ Für die Abgabe empfehlen wir:
 | 7 | 09.11. 00:53 | Fable 5.1 | **Master-Prompt 2** (Abschnitt 4.2) mit einer Bewertung der zweiten Fassung (fünf Kritikpunkte; Herkunft angeben) | dritte Fassung (v3): Abstract, 5.4, 5.5, 7.1 bis 7.4, 6.2, 8.3, KI-Nachweis; Websuche zu Marktdefinition, Asian Journal, Mendoza, FreshPlaza; Änderungsprotokoll | offen |
 | 8 | 09.11. 08:39 | Fable 5.1 | **Master-Prompt 3** (Abschnitt 4.3) und das englische Transkript des Interviews (im selben Chat-Beitrag eingefügt; Wortlaut in Anhang A des Kommentars) | FINAL-Fassung des Kommentars: 5.5 und 7.1 nach dem Transkript berichtigt, Leitthese in 7.4 festgelegt, Anhang A, Platzhalter aufgelöst; `OFFENE_PUNKTE_FINAL`, `AENDERUNGSPROTOKOLL_FINAL`, `FORTSCHRITT_FINALKORREKTUR` | offen |
 | 9 | 09.11. 10:36 | Fable 5.1 | **Master-Prompt 4** (Abschnitt 4.4), Aezris Familienchronik (Word) als Stilvorlage, Nachricht von Aezri (Abschnitt 4.4) | Stilprofil [[Schreibstimme Aezri]]; Kommentar im Stil-Durchgang angenähert (keine neuen Fakten); 5.5/Anhang A (Name «Tita»), 8.3, 10.6; `Arbeitsjournal_Ube_FINAL.docx` und `ARBEITSJOURNAL_FINAL.md`; `BUCH_KORREKTURLISTE_FINAL`, diese Datei, `QUALITAETSBEWERTUNG_FINAL`; Aktualisierung der Listen | offen |
+| 10 | 09.11. 20:42 | Fable 5.2 | die **Zitierregeln der KSB** (5. Auflage 2025) als PDF; Aezris Nachrichten (Wortlaut in Abschnitt 4.5): Zitierregeln anwenden, Reflexion ausführlicher schreiben, Tita ist Verkäuferin | Fussnoten, Quellenverzeichnis, Abbildungs- und Tabellenverzeichnis und KI-Nachweis nach den Zitierregeln; Kapitel 8 (Reflexion) neu aus den Journaleinträgen; Tita als Verkäuferin (Kommentar, Abbildung 1, Endfassung des Journals, zwei Notizen); Anhänge B bis E; sechs sachliche Berichtigungen nach erneuter Websuche; [[Zitierregeln KSB – Kurzfassung]]; Nachträge in `BUCH_KORREKTURLISTE_FINAL`, `OFFENE_PUNKTE_FINAL`, `AENDERUNGSPROTOKOLL_FINAL`, `QUALITAETSBEWERTUNG_FINAL` | offen |
 
-Die Eingaben 1 bis 5 sind hier nur so genau wiedergegeben, wie sie im früheren KI-Nachweis standen (Claude in dieser Sitzung hat diese Chats nicht gesehen). Der genaue Wortlaut der Eingaben 1, 2, 3 und 5 steht in Kapitel 10.6 des Kommentars.
+Die Kapitelnummern in den Zeilen 7 bis 9 entsprechen dem Stand vom Mittag: «10.6» ist heute 10.2, «8.3» ist heute 8.6.
+
+Die Eingaben 1 bis 5 sind hier nur so genau wiedergegeben, wie sie im früheren KI-Nachweis standen (Claude in dieser Sitzung hat diese Chats nicht gesehen). Der genaue Wortlaut der Eingaben 1, 2, 3 und 5 steht in Kapitel 10.2 des Kommentars.
 
 ## 4. Wortlaut der Master-Prompts und Nachrichten
 
@@ -3168,6 +3179,28 @@ Mitgegeben wurde ausserdem die Word-Datei «Die Familienchronik über Aezri Pegl
 > Das Ziel ist eine überzeugende, ehrliche, wissenschaftlich saubere und authentische Maturaarbeit, die weiterhin eindeutig von Aezri, Tim und John stammt.
 >
 > Ein letzter Hinweis: Ein langer Prompt allein garantiert nicht, dass Fable das gesamte Kontingent verbraucht oder tatsächlich alle Dateien vollständig prüft. Entscheidend sind die gespeicherten Ergebnisse und nachweisbaren Kontrollen. Gerade weil eure Abgabe am 10. November 2026 ist, würde ich die drei Dateien `Schriftlicher_Kommentar_Ube_FINAL.docx`, `Arbeitsjournal_Ube_FINAL` und `OFFENE_PUNKTE_FINAL.md` zuerst kontrollieren.
+
+### 4.5 Nachrichten vom 9.11.2026, Mittag und Abend (zu den Eingaben 9 und 10)
+
+Kurze Nachrichten von Aezri im Chat, wörtlich:
+
+> Hast du alles gegeben was du hast?
+
+(12:13, nach Eingabe 9. Darauf hat Claude rund zwanzig Angaben des Buches im Web nachgeprüft und eine eigene frühere Korrektur zurückgenommen, siehe Abschnitt 5.)
+
+> Kurze Frage ist die reflexion nicht ganz wichtig für einen schriftlichen Kommentar und hast du wirklich alle fussnoten und quellen nach Kanti Baden Zitieregel gemacht
+
+(20:13. Antwort nur im Chat: Die Reflexion ist Kapitel 8 und braucht eure eigenen Sätze; die Fussnoten waren nicht an den Zitierregeln geprüft, weil diese nie vorlagen.)
+
+> Hier ist die Zitierregel die noch brauchst für die fussnoten und für das Quellenverzeichnis und schreibe die reflexion noch besser aus, du weisst ja wie ich schreibe
+
+(20:42, mit den Zitierregeln als PDF. Das ist Eingabe 10.)
+
+> Und es handelt sich nicht um eine ube bäuerin sonder verkäuferin
+
+(20:45, während Claude an Eingabe 10 arbeitete.)
+
+Was Claude am Abend gemacht hat, steht in [[AENDERUNGSPROTOKOLL_FINAL]] unter «Fünfte Runde».
 
 ## 5. Was Claude in der vierten Runde (Eingabe 9) konkret gemacht hat
 

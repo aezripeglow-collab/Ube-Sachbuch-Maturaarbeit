@@ -1,11 +1,11 @@
 ---
 tags: [finalisierung, status]
-stand: 2026-11-09 13:30
+stand: 2026-11-09 21:50
 ---
 # 00 Projektstatus Finalisierung
 
 > [!important] Für eine neue Sitzung
-> Zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]], [[QUALITAETSBEWERTUNG_FINAL]] und [[AENDERUNGSPROTOKOLL_FINAL]]. Vier Runden sind durchlaufen: Master-Prompt vom 8.11. (→ v2), zweiter Master-Prompt vom 9.11., 00:53 (→ v3), Schlusskorrektur vom 9.11., 08:39, mit dem Transkript (→ FINAL 10:00), und die Endkontrolle vom 9.11., 10:36, mit der Familienchronik als Stilvorlage (→ **FINAL 12:30**, dazu `Arbeitsjournal_Ube_FINAL.docx`). Fortschrittsdateien: [[FORTSCHRITT_KOMMENTAR]] (Runde 2) und [[FORTSCHRITT_FINALKORREKTUR]] (Runden 3 und 4). Stilprofil für alle Texte: [[Schreibstimme Aezri]]. Die Originaldateien im Vault wurden nicht verändert; alle Entwürfe liegen in diesem Ordner.
+> Zuerst diese Datei lesen, dann [[OFFENE_PUNKTE_FINAL]], [[QUALITAETSBEWERTUNG_FINAL]] und [[AENDERUNGSPROTOKOLL_FINAL]]. Fünf Runden sind durchlaufen (die fünfte am 9.11. abends: Zitierregeln der KSB angewendet, Reflexion neu, Tita als Verkäuferin, Anhänge B bis E → **FINAL 21:50**). Die ersten vier: Master-Prompt vom 8.11. (→ v2), zweiter Master-Prompt vom 9.11., 00:53 (→ v3), Schlusskorrektur vom 9.11., 08:39, mit dem Transkript (→ FINAL 10:00), und die Endkontrolle vom 9.11., 10:36, mit der Familienchronik als Stilvorlage (→ **FINAL 12:30**, dazu `Arbeitsjournal_Ube_FINAL.docx`). Fortschrittsdateien: [[FORTSCHRITT_KOMMENTAR]] (Runde 2) und [[FORTSCHRITT_FINALKORREKTUR]] (Runden 3 und 4). Stilprofil für alle Texte: [[Schreibstimme Aezri]]. Die Originaldateien im Vault wurden nicht verändert; alle Entwürfe liegen in diesem Ordner.
 
 ## 1. Projektziel und Forschungsfrage
 
@@ -22,7 +22,7 @@ Maturaarbeit von Aezri, Tim und John (Kantonsschule Baden), Abgabe **Dienstag, 1
 
 Vollständig gelesen: der ganze Vault (Buch, Kommentar, 49 Journaleinträge, Quellen, Planung), das Buch-PDF vom 8.11., die drei Word-Dateien, alle vier Abbildungen. Inventar und Lücken: [[01_MATERIALANALYSE]] Abschnitte 1 und 2.
 
-Fehlt im Vault: Transkript und Fragen des Interviews mit Tita, Zitierregeln KSB, Beurteilung vom 19.06., Wegleitung, alter Kochbuch-Kommentar, Vorbild-Kommentare, Johns Fragebogen, OneNote-Quellentabelle, InDesign-Datei. Originalartikel konnte ich zum Teil über die Websuche prüfen (Materialanalyse 4a).
+Seit dem 9.11. im Vault: Transkript (Anhang A, [[Interview mit Tita]]) und die Zitierregeln der KSB (`07 Originaldateien/`, Kurzfassung in [[Zitierregeln KSB – Kurzfassung]]). Fehlt weiterhin: Beurteilung vom 19.06., Wegleitung, alter Kochbuch-Kommentar, Vorbild-Kommentare, Johns Fragebogen, OneNote-Quellentabelle, InDesign-Datei. Originalartikel konnte ich zum Teil über die Websuche prüfen (Materialanalyse 4a).
 
 ## 3. Abgeschlossene Schritte (alle am 9.11.2026)
 
@@ -42,6 +42,8 @@ Dritte Runde (9.11., 08:40 bis 10:00), Durchgänge 1–7 der Schlusskorrektur �
 
 Vierte Runde (9.11., 10:40 bis 12:30), zwölf Durchgänge → [[FORTSCHRITT_FINALKORREKTUR]]. Ergebnis: [[Schreibstimme Aezri]] (Stilprofil aus der Familienchronik und den Journaleinträgen bis 03.06.); Kommentar FINAL im Stil-Durchgang angenähert (33 Stellen, keine Fakten geändert; unbelegte Angabe «Tita hat ihren Namen selbst gewählt» gestrichen; Eingabe 9 in 10.6); `Arbeitsjournal_Ube_FINAL.docx` und `ARBEITSJOURNAL_FINAL.md` aus `journal_final.py` (alle 45 Einträge geprüft, zehn Berichtigungen gegen Transkript und PDF, 27 gelbe Stellen, Vorlagen für 08.–10.11.); [[BUCH_KORREKTURLISTE_FINAL]], [[KI_DOKUMENTATION_FINAL]] (alle vier Prompts im Wortlaut), [[QUALITAETSBEWERTUNG_FINAL]].
 
+Fünfte Runde (9.11., 20:42 bis 21:50) → [[AENDERUNGSPROTOKOLL_FINAL]] «Fünfte Runde». Auslöser: Aezri hat die Zitierregeln der KSB geschickt, eine ausführlichere Reflexion verlangt und berichtigt, dass Tita Verkäuferin und nicht Ube-Bäuerin ist. Ergebnis: alle 87 Fussnoten und das Quellenverzeichnis nach den Zitierregeln (eine alphabetische Liste 10.1, KI-Nachweis 10.2 in der vorgeschriebenen Form, Seitenzahlen des Buches, Tabellen neu nummeriert); Kapitel 8 mit sieben Abschnitten neu aus den Journaleinträgen; Tita überall als Verkäuferin (Kommentar, Abbildung 1, Endfassung des Journals, Notizen), mit offenem Hinweis auf das Transkript («a farmer and a vendor», «a little farm of UBE»); Anhänge B bis E mit allen vier Prompts im Wortlaut; sechs sachliche Berichtigungen nach erneuter Websuche; im Buch-PDF neu gefunden: doppelte Absätze auf S. 38.
+
 ## 4. Getroffene Entscheidungen
 
 1. Arbeitsordner `Ube Sachbuch Maturaarbeit/09 Finalisierung/` (Vault-Konvention statt `Maturaarbeit/Finalisierung/`).
@@ -53,37 +55,40 @@ Vierte Runde (9.11., 10:40 bis 12:30), zwölf Durchgänge → [[FORTSCHRITT_FINA
 7. Zahlen, die sich bei der Prüfung geändert haben: 300 Mio. Pesos ≈ 5,1 Mio. USD (nicht 4,7); Zeilenlänge für Druck S. 138 (nicht S. 140). **Zurückgenommen am 9.11., 13:00:** «erste Berichte zum Exportstopp ab 11.9.»; belegt sind der 13. und 14.9. (Context.ph, DA, FreshPlaza, Tribune), wie das Journal es ursprünglich hatte.
 9. Dritte Runde: Leitthese in 7.4 festgelegt («Die Kontrolle über die Wertschöpfung ihrer Knolle gewinnen sie bisher nicht …») und in Abstract, 1.2, 8.2 angeglichen; 7.1 «grösster Teil des Rückgangs vor dem Boom» → «ein grosser Teil» mit Zahlen; Aussagen über das Buch auf den Stand vom 8.11. gestellt (Korrekturliste statt «haben wir angeglichen»); 17 Platzhalter aus Journal und PDF aufgelöst, 52 bleiben.
 10. Vierte Runde: Stilprofil aus echten Texten ersetzt das strengere Profil aus der Materialanalyse (Abschnitt 12 unten ist damit überholt); Journal als eigene FINAL-Datei im Originalformat, Original unangetastet; «Name selbst gewählt» gestrichen; Hinweis im KI-Nachweis, dass die Master-Prompts offenbar mit einem weiteren KI-Werkzeug geschrieben wurden (muss die Gruppe angeben).
+11. Fünfte Runde: Zitierregeln der KSB sind massgebend (Kurzfassung in [[Zitierregeln KSB – Kurzfassung]]); wegen S. 19 stehen alle vier langen Prompts als Anhang B bis E im Kommentar (die frühere Empfehlung «separat oder auf Anfrage» ist zurückgenommen, Entscheid bei Frau Büschlen); wegen S. 9 ist jeder von Claude formulierte Text eine Vorlage, die die Gruppe in eigenen Worten überarbeiten muss; Tita wird als Verkäuferin bezeichnet, das Buch ist noch nicht nachgezogen.
 8. Zweite Runde: 0,7 % nur noch Grössenordnung; Aromahersteller-Aussage als quellenlose Zeitungseinschätzung (Asian Journal 20.03.2026); Nachfrage (letzte Jahre) und Ernte (2006–2025) zeitlich getrennt; kulturelle Kontrolle dreigeteilt (persönliche Bedeutung, Darstellung im Ausland, Geld); Interview als Einzelsicht; Leitthese in 7.4 neu formuliert mit Entscheid-Platzhalter; Anhang B bleibt bis zum Entscheid.
 
-## 5. Gliederung des Kommentars (FINAL, unverändert seit v2)
+## 5. Gliederung des Kommentars (FINAL, seit der fünften Runde mit erweitertem Kapitel 8 und neuem Kapitel 10)
 
-Abstract · 1 Einleitung · 2 Entstehung des Projekts · 3 Formale Recherche · 4 Konzeptentwicklung · 5 Inhaltliche Recherche und Methode (5.1 Aufteilung, 5.2 Quellen und Quellenarten, 5.3 Thesen, 5.4 Rechnungen, 5.5 Interview mit Auswertung, 5.6 Zutatenlisten) · 6 Das Buch · 7 Einordnung der Ergebnisse (7.1 wirtschaftliche Kontrolle, 7.2 kulturelle Kontrolle, 7.3 Verbindung, 7.4 Einwände gegen die Leitthese, 7.5 Plan–Umsetzung, 7.6 Grenzen) · 8 Reflexion · 9 Schlusswort und Dank · 10 Quellen mit KI-Nachweis · 11/12 Verzeichnisse · Anhang A Interview · Anhang B Master-Prompt.
+Abstract · 1 Einleitung · 2 Entstehung des Projekts · 3 Formale Recherche · 4 Konzeptentwicklung · 5 Inhaltliche Recherche und Methode (5.1 Aufteilung, 5.2 Quellen und Quellenarten, 5.3 Thesen, 5.4 Rechnungen, 5.5 Interview mit Auswertung, 5.6 Zutatenlisten) · 6 Das Buch · 7 Einordnung der Ergebnisse (7.1 wirtschaftliche Kontrolle, 7.2 kulturelle Kontrolle, 7.3 Verbindung, 7.4 Einwände gegen die Leitthese, 7.5 Plan–Umsetzung, 7.6 Grenzen) · 8 Reflexion (8.1 Rückmeldungen, 8.2 Ergebnisse, 8.3 Arbeitsprozess, 8.4 Zusammenarbeit, 8.5 was jede und jeder gelernt hat, 8.6 Umgang mit KI, 8.7 was wir anders machen würden) · 9 Schlusswort und Dank · 10 Quellenverzeichnis (10.1 Quellen alphabetisch, 10.2 KI-Nachweis) · 11/12 Verzeichnisse · Anhang A Interview · Anhänge B bis E: die vier langen Prompts im Wortlaut.
 
 ## 6. Fertige Textabschnitte
 
-Der ganze Kommentar in der finalen Arbeitsfassung (rund 13'100 Wörter Haupttext bis Kapitel 9, 71 Fussnoten, Haupttext Seiten 4–34 der Word-Datei, also 31 Seiten, Anhang A mit dem Transkript). Quelle `kommentar_quelle_final.txt`; Bau mit `python3 build_final.py` in diesem Ordner (erzeugt Word und die Lesekopie 03). v2 und v3 liegen gesichert in `Versionen/`. Grafiken in `Abbildungen/` (neu `doppelseite_8_9.png`), Skript `make_figures_v2.py`. Journal-Entwurf aus `journal_v2.py`.
+Der ganze Kommentar in der finalen Arbeitsfassung (Stand 21:50: rund 16'300 Wörter in Kapitel 1 bis 9 einschliesslich Fussnoten und gelber Vermerke, 87 Fussnoten, Haupttext Seiten 4–41 der Word-Datei, also 38 Seiten, 91 Seiten mit Verzeichnissen und Anhängen A bis E, 74 gelbe Stellen). Quelle `kommentar_quelle_final.txt`; Bau mit `python3 build_final.py` in diesem Ordner (erzeugt Word und die Lesekopie 03). v2 und v3 liegen gesichert in `Versionen/`. Grafiken in `Abbildungen/` (neu `doppelseite_8_9.png`), Skript `make_figures_v2.py`. Journal-Entwurf aus `journal_v2.py`.
 
 ## 7. Ausstehende Schritte
 
-Nur noch Schritte, die die Gruppe selbst machen muss: [[OFFENE_PUNKTE_FINAL]] nach Priorität (Priorität 1: eigener Anteil im KI-Nachweis, Journaleinträge 8. bis 10.11., KI-Satz in der Journal-Übersicht, Eingabe 4, Herkunft der Bewertung und Werkzeug der Prompts, weitere KI-Nutzung, Anhang B, Interviewangaben, Titel und Klassen, Rechnung 850'000, Leitthese), dann [[BUCH_KORREKTURLISTE_FINAL]]. Für Claude bleibt, auf Wunsch: Anhang C bis E anhängen oder Anhang B entfernen; Kommentar auf 25 Seiten kürzen; Journaleinträge 08.–10.11. aus euren Angaben ausformulieren; Word-Dateien nach euren Entscheiden neu bauen.
+Nur noch Schritte, die die Gruppe selbst machen muss: [[OFFENE_PUNKTE_FINAL]] nach Priorität (Priorität 1: den Text in eigenen Worten überarbeiten, zuerst Kapitel 8; «Art der Übernahme» im KI-Nachweis; Tita und das Transkript klären; Journaleinträge 8. bis 10.11.; KI-Satz in der Journal-Übersicht; Eingabe 4; Herkunft der Bewertung und Werkzeug der Prompts; weitere KI-Nutzung; Quellen selbst öffnen; Interviewangaben; Anhänge B bis E mit Frau Büschlen klären; Titel und Klassen; Rechnung 850'000; Leitthese), dann [[BUCH_KORREKTURLISTE_FINAL]] (neu Abschnitt 8). Für Claude bleibt, auf Wunsch: Kommentar kürzen (Haupttext hat 38 Seiten, notierte Vorgabe 20 bis 25); Anhänge B bis E wieder entfernen; Journaleinträge 08.–10.11. aus euren Angaben ausformulieren; Word-Dateien nach euren Entscheiden neu bauen.
 
 ## 8. Offene inhaltliche und methodische Fragen
 
 - Buchtitel, Kapitelnamen, Vorwort-Fassung.
 - Ob die Gruppe die Neuformulierung der Leitthese in 7.4 vertreten will.
-- Ob die Master-Prompts als Anhang B bis E gedruckt werden oder als separate KI-Dokumentation abgegeben werden (Empfehlung in 10.6 und [[KI_DOKUMENTATION_FINAL]]).
+- Ob die vier langen Prompts als Anhang B bis E im Kommentar bleiben oder als separate Beilage abgegeben werden dürfen (mit Frau Büschlen klären; Zitierregeln S. 19).
+- Ob Tita selbst Ube anbaut (Transkript: «a farmer and a vendor», «a little farm of UBE»; Aezri am 9.11.: Verkäuferin, nicht Bäuerin).
+- Ob es eine Obergrenze für den Umfang gibt (Haupttext jetzt 38 Seiten).
 - Wer den Namen «Tita» gewählt hat (Journal: «nennen wir sie Tita»; Transkript: «Her name is Tita»).
 - Womit die Master-Prompts geschrieben wurden (offenbar ein weiteres KI-Werkzeug).
-- Was die Gruppe selbst am Kommentar geprüft und geändert hat (für 8.3 und 10.6 unerlässlich).
+- Was die Gruppe selbst am Kommentar geprüft und geändert hat (für 8.6 und 10.2 unerlässlich).
 - Ob der Buchtext mit KI sprachlich korrigiert wurde.
 
 ## 9. Noch zu prüfende Fakten
 
-Nur mit Originalen prüfbar: Seitenangaben der Zitierregeln; Wortlaut der Beurteilung; Beleg der 20 % im PDF S. 31; CPBRD-Link; Korea-Herald-Inhalt (Artikel existiert, nicht gelesen). Alles andere: Materialanalyse 4a und Konsistenzprüfung 1.
+Nur mit Originalen prüfbar: Seitenzahlen in CPBRD und USDA (sieben Fussnoten); «Präsident Marcos … 2027» im Buch S. 34 (SunStar 2026b, Fruitnet); Wortlaut der Beurteilung (auch die Zeile zur Reflexion in Tabelle 3); Beleg der 20 % im PDF S. 31; CPBRD-Link; Korea-Herald-Inhalt (Artikel existiert, nicht gelesen). Alles andere: Materialanalyse 4a und Konsistenzprüfung 1.
 
 ## 10. Exakter nächster Schritt
 
-Für die Gruppe: [[OFFENE_PUNKTE_FINAL]] Priorität 1, Punkt für Punkt, beginnend mit dem KI-Nachweis («Von uns») und den Journaleinträgen für den 8. bis 10. November, dann den Kommentar zu dritt lesen und in eigene Worte bringen. Für eine neue Claude-Sitzung: zuerst fragen, welche Entscheide gefallen sind (Titel, Anhang B, eigener Anteil, Interview-Angaben), dann `kommentar_quelle_final.txt` und `journal_final.py` anpassen, beide Skripte ausführen, committen, Eingabe 10 in 10.6 ergänzen.
+Für die Gruppe: [[OFFENE_PUNKTE_FINAL]] Priorität 1, Punkt für Punkt, beginnend mit Kapitel 8 (in eigenen Worten überarbeiten), dem KI-Nachweis («Art der Übernahme»), der Klärung zu Tita und den Journaleinträgen für den 8. bis 10. November. Für eine neue Claude-Sitzung: zuerst fragen, welche Entscheide gefallen sind (Titel, Anhang B, eigener Anteil, Interview-Angaben), dann `kommentar_quelle_final.txt` und `journal_final.py` anpassen, beide Skripte ausführen, committen, Eingabe 11 in 10.2 ergänzen.
 
 ## 11. Hinweise für die Fortsetzung
 

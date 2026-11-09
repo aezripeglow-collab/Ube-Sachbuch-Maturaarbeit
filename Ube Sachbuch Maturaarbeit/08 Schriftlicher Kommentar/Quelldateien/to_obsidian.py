@@ -139,6 +139,12 @@ while i < len(body):
         out.append("## " + line[2:])
         i += 1
         continue
+    if line.startswith("~ ") or line == "~":
+        # wörtlicher Prompt-Text aus den Anhängen: als Zitatblock, ohne Fussnoten-Auswertung
+        out.append("> " + line[2:])
+        out.append(">")
+        i += 1
+        continue
     if s.startswith("> "):
         out.append("> " + inline(s[2:]))
         i += 1

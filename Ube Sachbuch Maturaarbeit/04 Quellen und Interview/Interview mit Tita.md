@@ -4,7 +4,8 @@ autor: Aezri
 ---
 # Interview mit Tita
 
-- **Wer:** Ube-Bäuerin und Marktverkäuferin aus Talisay. Sie wollte anonym bleiben und hat sich «Tita» genannt (Filipino für «Tante»).
+- **Wer:** Ube-Verkäuferin auf dem öffentlichen Markt von Talisay City (Cebu). Sie wollte anonym bleiben und heisst bei uns «Tita» (Filipino für «Tante»).
+- **Berichtigt am 9.11.2026 (Aezri):** Tita ist Verkäuferin, nicht Ube-Bäuerin. Vorher stand hier «Ube-Bäuerin und Marktverkäuferin». Im Transkript unten steht in Antwort 1 «a farmer and a vendor» und in Antwort 4 «a little farm of UBE». Offen ist, ob und wie viel sie selbst anbaut, und wer den Namen «Tita» gewählt hat (siehe [[OFFENE_PUNKTE_FINAL]]).
 - **Form:** zehn Fragen auf Englisch, über Aezris Familie weitergeleitet. Tita hat acht davon als Sprachnachrichten beantwortet, zwei blieben unbeantwortet.
 - **Transkript:** englisch, im Anhang des Buches. Übersetzt haben wir die Antworten selbst.
 - **Kurzbeleg im Text:** (Interview mit Tita 2026)

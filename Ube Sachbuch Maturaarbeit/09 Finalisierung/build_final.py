@@ -1,6 +1,7 @@
 """Baut die finale Word-Datei des Kommentars (für Claude).
 
-Kopie von build_v3.py für die Schlusskorrektur (dritter Prompt, 9.11.2026).
+Kopie von build_v3.py für die Schlusskorrektur (dritter Prompt, 9.11.2026); seit der fünften Runde (9.11. abends)
+mit dem Blocktyp "~ " für wörtlichen Text in kleiner Schrift (Anhänge B bis E, siehe build.js).
 Text ändern: kommentar_quelle_final.txt bearbeiten, dann `python3 build_final.py`.
 
 Zwei Durchgänge: zuerst die Seitenzahlen für das Inhaltsverzeichnis ermitteln, dann final bauen.
@@ -118,6 +119,6 @@ run(["python3", str(TOOLS / "to_obsidian.py"), str(SRC), str(HERE / "03_KOMMENTA
 md = (HERE / "03_KOMMENTAR_ENTWURF.md").read_text(encoding="utf8")
 md = md.replace("tags: [maturaarbeit, kommentar]", "tags: [finalisierung, kommentar, entwurf]\nstand: 2026-11-09")
 md = md.replace("> [!info] Lesekopie\n> Diese Notiz zeigt den ganzen Kommentar in Obsidian. Abgegeben und weiter bearbeitet wird die Word-Datei [[Schriftlicher_Kommentar_Ube.docx]]. Gelb markierte Stellen ==[so]== müssen wir noch ausfüllen. Übersicht und offene Punkte: [[Schriftlicher Kommentar]].",
-  "> [!info] Finale Arbeitsfassung (Schlusskorrektur, 9.11.2026)\n> Lesekopie der Word-Datei [[Schriftlicher_Kommentar_Ube_FINAL.docx]]. Quelle: `kommentar_quelle_final.txt` im Ordner 09 Finalisierung (Text dort ändern, dann `python3 build_final.py`, oder direkt in Word weiterarbeiten). Gelb markierte Stellen ==[so]== könnt nur ihr ausfüllen oder entscheiden: Liste nach Priorität in [[OFFENE_PUNKTE_FINAL]]. Was sich geändert hat und wie wir den Stand bewerten: [[AENDERUNGSPROTOKOLL_FINAL]]. Ältere Fassungen (v2, v3) liegen in `Versionen/`.")
+  "> [!info] Finale Arbeitsfassung (Stand 9.11.2026, abends: Zitierregeln der KSB angewendet, Reflexion neu, Tita als Verkäuferin, Anhänge B bis E)\n> Lesekopie der Word-Datei [[Schriftlicher_Kommentar_Ube_FINAL.docx]]. **Nach den Zitierregeln (S. 9) dürfen KI-Ergebnisse nicht wortwörtlich übernommen werden: Diesen Text müssen wir in eigenen Worten überarbeiten, zuerst Kapitel 8.** Quelle: `kommentar_quelle_final.txt` im Ordner 09 Finalisierung (Text dort ändern, dann `python3 build_final.py`, oder direkt in Word weiterarbeiten). Gelb markierte Stellen ==[so]== könnt nur ihr ausfüllen oder entscheiden: Liste nach Priorität in [[OFFENE_PUNKTE_FINAL]]. Was sich geändert hat und wie wir den Stand bewerten: [[AENDERUNGSPROTOKOLL_FINAL]]. Ältere Fassungen (v2, v3) liegen in `Versionen/`.")
 (HERE / "03_KOMMENTAR_ENTWURF.md").write_text(md, encoding="utf8")
 print("fertig:", ziel)

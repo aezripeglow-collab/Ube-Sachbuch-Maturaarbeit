@@ -33,7 +33,7 @@ Diese Liste enthält alle Quellen, die in Kapitel 3 (Thesen 1 bis 4, mit Tims Th
 - Fruitnet (2026): Philippine ube industry bolstered by international funding. **Datum ergänzen.**
 - Generalkonsulat Frankfurt (2026): Ube Fiesta 2026 in Köln. Philippine Consulate General Frankfurt.
 - GMA News (2026b): $34.1M US grant for PH ube industry to benefit 12K Pinoy farmers — DA. (Da GMA 2026a im Text nicht mehr vorkommt, könnt ihr im Text und hier einfach «GMA News 2026» schreiben.)
-- Interview mit Tita (2026): Interview zur Ube-Produktion mit einer Ube-Bäuerin und Marktverkäuferin aus Talisay. Der Name ist auf ihren Wunsch geändert. Englisches Transkript im Anhang.
+- Interview mit Tita (2026): Interview mit einer Ube-Verkäuferin auf dem öffentlichen Markt von Talisay City (Cebu). Der Name ist auf ihren Wunsch geändert. Englisches Transkript im Anhang.
 - IPOPHL (2026): IPOPHL receives GI bid for Bohol Ubi Kinampay amid global ube craze. 16.6.2026.
 - Korea Herald (2026): Philippine ube is now the world's next matcha. Now what? Nachdruck aus dem Philippine Daily Inquirer (Asia News Network), 2.6.2026.
 - Kusmi Tea (o. J.): Die Vorteile von Ube für Ihren Körper.

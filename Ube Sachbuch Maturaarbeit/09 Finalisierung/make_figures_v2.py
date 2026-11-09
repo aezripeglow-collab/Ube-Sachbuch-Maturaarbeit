@@ -119,7 +119,7 @@ EVENTS = [
     (D(10, 6), "Ministerium: 1'000 Hektaren mehr", "x"),
     (D(10, 21), "Zwei Thesen werden zu These 3", "n"),
     (D(10, 23), "Interview statt Umfrage", "k"),
-    (D(10, 28), "Familie findet eine Ube-Bäuerin", "n"),
+    (D(10, 28), "Familie findet eine Ube-Verkäuferin", "n"),  # am 9.11.2026 berichtigt: Verkäuferin, nicht Bäuerin
     (D(11, 4), "Titas Antworten, Satz in InDesign", "n"),
     (D(11, 6), "Alle Teile in einem Dokument", "n"),
     (D(11, 10), "Abgabe", "k"),
@@ -458,5 +458,6 @@ def abb4():
 
 if __name__ == "__main__":
     _P(OUT).mkdir(exist_ok=True)
+    abb1()  # Zeitstrahl (am 9.11.2026 abends neu erzeugt: «Ube-Verkäuferin»)
     abb2()
     print("ok")

@@ -49,6 +49,8 @@ const blocks = [];
       for (i++; i < lines.length && !lines[i].startsWith(":::"); i++) if (lines[i].trim()) items.push(lines[i].trim());
       blocks.push({ t: "refs", items }); continue;
     }
+    // "~ " = wörtlicher Text in kleiner Schrift (Prompts in den Anhängen), ohne Fussnoten- oder Platzhalter-Auswertung
+    if (L.startsWith("~ ") || L === "~") { flush(); blocks.push({ t: "small", text: L.slice(2) }); continue; }
     if (L.startsWith("> ")) { flush(); blocks.push({ t: "quote", text: L.slice(2).trim() }); continue; }
     if (!L.trim()) { flush(); continue; }
     para.push(L.trim());
@@ -217,6 +219,9 @@ for (const b of blocks) {
     indent: { left: 567, right: 340 }, spacing: { before: 120, after: 200 },
     border: { left: { style: BorderStyle.SINGLE, size: 18, color: VIOLET, space: 10 } },
     children: runsFor(b.text, { italics: true }) }));
+  else if (b.t === "small") children.push(new Paragraph({ alignment: AlignmentType.LEFT,
+    spacing: { after: 50, line: 228, lineRule: LineRuleType.AUTO },
+    children: [new TextRun({ text: b.text, font: HEAD, size: 17, language: LANG })] }));
   else if (b.t === "table") table(b);
   else if (b.t === "fig") figure(b);
   else if (b.t === "phfig") phFigure(b);

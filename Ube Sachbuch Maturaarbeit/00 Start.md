@@ -39,7 +39,8 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 
 ## Quellen und Interview
 - [[Quellenverzeichnis Kapitel 3]]
-- [[Interview mit Tita]]
+- [[Interview mit Tita]] (Tita ist Verkäuferin auf dem Markt von Talisay City)
+- [[Zitierregeln KSB – Kurzfassung]] (Original als PDF in `07 Originaldateien`)
 
 ## Offene Punkte
 - [[Offene Punkte bis zur Abgabe]]
@@ -56,8 +57,8 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 - [[03_KOMMENTAR_ENTWURF]] (finale Arbeitsfassung des Kommentars, Lesekopie; Word: `09 Finalisierung/Schriftlicher_Kommentar_Ube_FINAL.docx`)
 - [[ARBEITSJOURNAL_FINAL]] (Endfassung des Arbeitsjournals, Lesekopie; Word im Originalformat: `09 Finalisierung/Arbeitsjournal_Ube_FINAL.docx`; die Original-Word-Datei ist unverändert)
 - [[BUCH_KORREKTURLISTE_FINAL]] (alle Korrekturen am Buch für John, nach Dringlichkeit)
-- [[KI_DOKUMENTATION_FINAL]] (alle neun Eingaben an Claude und der Wortlaut der vier Master-Prompts; Empfehlung zur Abgabe)
-- [[AENDERUNGSPROTOKOLL_FINAL]] (Runden 3 und 4: jede Änderung an Kommentar und Journal)
+- [[KI_DOKUMENTATION_FINAL]] (alle zehn Eingaben an Claude und der Wortlaut der vier Master-Prompts; was die Zitierregeln zur KI verlangen)
+- [[AENDERUNGSPROTOKOLL_FINAL]] (Runden 3 bis 5: jede Änderung an Kommentar und Journal; zuoberst die fünfte Runde vom 9.11. abends)
 - [[FORTSCHRITT_FINALKORREKTUR]], [[FORTSCHRITT_KOMMENTAR]], [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]] (Protokolle der Runden 2 bis 4)
 - [[06_OFFENE_AUFGABEN]] (ältere Liste, Abschnitt C jetzt in der Buch-Korrekturliste)
 - [[01_MATERIALANALYSE]] (Bestandsaufnahme, Widersprüche, Stilprofil), [[02_ARGUMENTATIONSSTRUKTUR]], [[04_ARBEITSJOURNAL_ENTWURF]], [[05_KONSISTENZPRUEFUNG]]
