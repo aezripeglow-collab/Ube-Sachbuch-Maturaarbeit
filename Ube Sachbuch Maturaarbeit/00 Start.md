@@ -51,6 +51,7 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 ## Finalisierung (ab 9.11.2026, Arbeitsdateien von Claude)
 - [[00_PROJEKTSTATUS]] (Stand und nächster Schritt, zuerst lesen)
 - [[OFFENE_PUNKTE_FINAL]] (was wir vor der Abgabe noch selbst erledigen müssen, nach Priorität)
+- [[Schreibstimme Aezri]] (authentisches Stilprofil aus der Familienchronik und den frühen Journaleinträgen; gilt für alle Texte, die Claude für uns schreibt)
 - [[AENDERUNGSPROTOKOLL_FINAL]] (Schlusskorrektur vom 9.11.: Änderungen und Qualitätsbewertung)
 - [[03_KOMMENTAR_ENTWURF]] (finale Arbeitsfassung des Kommentars, Lesekopie; Word: `09 Finalisierung/Schriftlicher_Kommentar_Ube_FINAL.docx`)
 - [[FORTSCHRITT_FINALKORREKTUR]], [[FORTSCHRITT_KOMMENTAR]], [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]] (Protokolle der Runden 2 und 3)

@@ -16,6 +16,7 @@ Jeder Lebensbereich hat einen eigenen Ordner im Hauptverzeichnis.
 | Ordner | Inhalt |
 | --- | --- |
 | `Ube Sachbuch Maturaarbeit/` | Maturaarbeit im Team mit Tim und John: Sachbuch über Ube, Abgabe 10.11.2026. Startpunkt: `00 Start.md` |
+| `Persönliches/` | Texte, die ich selbst geschrieben habe, als Vorlage für meine Schreibstimme: `Die Familienchronik über Aezri Peglow.md` und das daraus abgeleitete Stilprofil `Schreibstimme Aezri.md`. Claude liest das Stilprofil, bevor es Texte in meinem Namen schreibt oder überarbeitet. |
 
 Neue Bereiche bitte hier in der Tabelle ergänzen.
 
