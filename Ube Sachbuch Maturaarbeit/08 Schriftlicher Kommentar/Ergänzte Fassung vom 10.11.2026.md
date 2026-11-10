@@ -49,11 +49,20 @@ Diese Stellen hat Claude formuliert. Die Angaben stammen aus eurem Prompt vom 9.
 | 8.4 | Zeitplan mit Zwischenzielen, Arbeit gleichmässiger, Handys weg, Gespräche begrenzen, Annahmen und Quellen früher hinterfragen. Daten zum Interview berichtigt |
 | 9 | Dank an Johns Onkel statt an Aezris Familie |
 | 10.2 | CPBRD mit Link zur Liste der Policy Briefs und Abrufdatum 30.09.2026, Mitteilung vom Juni mit Link bei Context.ph und Abrufdatum 16.10.2026 |
-| 10.5 | Journal «22.04. bis 09.11.2026», Buchtitel «Ube. Zwischen Tradition und Trend», Interview-Eintrag neu (ohne Namen des Onkels) |
+| 10.5 | Journal «22.04. bis 10.11.2026» (so weit geht das Journal in `10 Überarbeitung`, Aezri hatte den 9.11. genannt), Buchtitel «Ube. Zwischen Tradition und Trend», Interview-Eintrag neu (ohne Namen des Onkels) |
 | Fussnoten | Interview überall mit dem Datum 23.10.2026. «[Seitenzahl prüfen]» bei den Zitierregeln entfernt (S. 8, 29 und 9 stimmen). Fussnote 22 gekürzt |
 | 11 | Abb. 5 «Gestaltung: John Meuwly», Abb. 6 mit Hinweis auf Johns Liste |
 | Anhang A | Einleitung neu, Antworten 5, 6, 8 und 9 wie die ersten vier in Anführungszeichen. Wortlaut unverändert |
 | Inhaltsverzeichnis | 5.5 «Ube-Verkäuferin», alle Seitenzahlen neu eingetragen (waren seit der Umstellung auf Arial veraltet) |
+
+## Fussnoten nach den Zitierregeln der KSB (05:26 Uhr, auf Aezris «Ja bitte»)
+
+- 18 Fussnoten zum eigenen Buch nennen jetzt Seiten statt «Kap. 3, These …» oder «Vorwort». Die Seiten hat Claude im Buch-PDF vom 8.11. nachgeschlagen.
+- «o.J.» statt «o. D.» bei Beltran (zwei Fussnoten und das Quellenverzeichnis)
+- Transparency Market Research in beiden Fussnoten mit Datum
+- Seitenbereiche mit Bindestrich («S. 3-12», «S. 17-20»), «S. 138 und 140»
+- Fussnote 44 und der Eintrag im Quellenverzeichnis nennen beide Context.ph
+- Nicht gelöst: Der Interview-Eintrag beginnt nicht mit dem Namen des Interviewers (S. 29 der Zitierregeln), und Fussnote 4 ist kein KI-Beleg nach S. 19. Beides mit Frau Büschlen klären beziehungsweise im KI-Nachweis lösen. CPBRD und USDA stehen ohne Seitenzahl.
 
 ## Was Claude nicht angefasst hat
 
@@ -75,12 +84,12 @@ Diese Stellen hat Claude formuliert. Die Angaben stammen aus eurem Prompt vom 9.
 ## Bitte vor der Abgabe prüfen
 
 1. **CPBRD, Abrufdatum 30.09.2026.** Das Datum steht in Tims Journaleintrag vom 30.9. BusinessWorld berichtet erst am 3.11.2026 über diesen Policy Brief. Prüft, ob er am 30.9. schon erschienen war. Den Link (Liste der Policy Briefs des CPBRD) konnte Claude nicht öffnen.
-2. **Mitteilung vom Juni (60'000 Einheiten), Abrufdatum 16.10.2026** nach Tims Eintrag. Der Link führt zu Context.ph, weil Claude die Mitteilung auf der Seite des Ministeriums nicht gefunden hat. Wenn Tim sie dort gelesen hat, den Link austauschen.
+2. **Mitteilung vom Juni (60'000 Einheiten), Abrufdatum 16.10.2026** nach Tims Eintrag. Eintrag und Fussnote nennen jetzt Context.ph, weil Claude die Mitteilung auf der Seite des Ministeriums nicht gefunden hat. Wenn Tim sie dort gelesen hat, Link und «in: …» austauschen.
 3. **USDA-Bericht.** Im Journal gibt es kein Abrufdatum, erwähnt ist er nur am 2.10. bei Aezri. In eurer Quellenliste vom 6.11. steht, dass euch nur eine Zusammenfassung vorlag. Nur ein Datum eintragen, wenn ihr das PDF selbst geöffnet habt. Sonst die Zusammenfassung angeben, die ihr gelesen habt.
 4. **Quellenverzeichnis und Interview im Buch.** Das PDF vom 8.11. hat 52 Seiten und endet mit dem Schlusswort, ohne Quellenverzeichnis und ohne Anhang. Wenn das gedruckte Buch auch 52 Seiten hat, fehlen sie dort vermutlich auch. Claude hat deshalb zwei Sätze geändert (4.3 und 5.5) und eine Zeile in Tabelle 3. Falls beides im gedruckten Buch steht, sagen.
 5. **Foto auf S. 8 des Buches (Abb. 6).** In Johns Liste steht nicht, welches Bild von welcher Seite stammt. Vermutlich ist es einer der zwei Einträge von Homes.ph. John soll die Fundstelle mit Adresse und Abrufdatum eintragen.
 6. **Bilder im Buch.** Im PDF sind es 20 Bilder und die Karte. Zwei sind eure eigenen, bleiben 18 aus dem Internet. Johns Liste hat 17 Fundstellen.
-7. **Arbeitsjournal bis 09.11.2026.** Das Journal in `10 Überarbeitung` endet mit dem Rückblick bis 10.11. Wenn ihr dieses abgebt, im Quellenverzeichnis 10.11. eintragen.
+7. **Arbeitsjournal bis 10.11.2026.** Im Quellenverzeichnis steht jetzt der 10.11., weil das Journal in `10 Überarbeitung` mit dem Rückblick bis 10.11. endet. Wenn ihr ein Journal abgebt, das am 9.11. endet, dort 09.11. eintragen.
 8. **«Salu-Salo».** In dieser Datei und im Vault steht «Salu-Salo», in eurem Prompt vom 9.11. «Salo-Salo». Claude hat die Schreibweise der Datei gelassen, auch in Abb. 1.
 9. **Grammatikkorrektur des Buchtextes mit KI.** Das steht jetzt in 8.3. In 10.6 gehören dazu Werkzeug, Version, Datum und Prompt (dort ist die Zeile «Weitere KI-Nutzung» noch gelb).
 10. **KI-Nachweis.** In 10.6 stehen nur die Eingaben 1 bis 9. Es fehlen die Eingaben vom 9.11. abends, vom 10.11. um 01:42 Uhr und die von 04:35 Uhr, mit der diese Fassung entstanden ist.
