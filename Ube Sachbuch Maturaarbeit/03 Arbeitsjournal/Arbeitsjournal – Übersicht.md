@@ -11,7 +11,16 @@ Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDe
 
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
-> [!important] Ergänzung vom 10.11.2026, 11:55 Uhr: Datumsformat, Quellenprotokoll, Kommentar, Claude als Hilfsmittel (gilt)
+> [!important] Stand 10.11.2026, 12:35 Uhr: Schrift, formale Angaben, Inhaltsverzeichnis (gilt)
+> Word-Datei: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (jetzt 67 Seiten), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Auftrag von Aezri um 12:24 Uhr: «alle Grundlagen» ergänzen, Fliesstext in Schriftgrösse 11 mit Zeilenabstand, alles Wichtige ergänzen.
+>
+> - **Schrift:** Fliesstext in Arial 11 mit Zeilenabstand 1.5, gleich wie im Kommentar. Das gilt für die Einleitung, die Texte zu den Phasen und den Text der Einträge. Die Übersichtstabellen und das Quellenprotokoll sind kleiner gesetzt, damit sie auf die Seite passen. Der Zeilenabstand war in der Nachricht nicht genannt, Claude hat den Wert aus dem Kommentar übernommen.
+> - **Erste Seite:** Angaben zur Arbeit (Schule, Produkt, Gruppe mit Klassen, Betreuerin Andrea Büschlen, Zweitbewerter Joel Franceschi, Zeitraum, Abgabe, Umfang, Hilfsmittel) und ein Inhaltsverzeichnis mit Seitenzahlen.
+> - **Inhalt der Einträge:** unverändert. Alle 51 Einträge haben eine Zeile «Grundlage». Weitere Zeilen (Vorgehen, Reflexion) gibt es nur, wo eine Unterlage dafür da ist.
+> - **Offene Frage an die Gruppe (12:27 Uhr):** Im Kommentar, Kapitel 2.5, stehen Tagesangaben, die im Journal als «nicht festgehalten» gelten: Treffen am 14.09., Tims erste Fassung am 23.09., Aufteilung der Thesen per Teams am 30.09., Bildersuche ab Ende Oktober, Beginn des Satzes und Korrekturlesen am 04.11., Einleitung und Schluss von Kapitel 3 am 06.11. Wenn die Gruppe sie bestätigt, werden daraus Tageseinträge. Wenn nicht, muss der Kommentar an diesen Stellen angepasst werden, weil sich die zwei Dokumente sonst widersprechen.
+> - Abgelehnt um 12:10 Uhr und weiter gültig: keine Abrufdaten, die nur «zu den Einträgen passen». Echte Daten trägt Claude ein, wenn die Gruppe sie schickt (Browserverlauf, Dateidatum gespeicherter PDF, Quellentabelle), oder das Datum von heute, wenn die Gruppe die Links heute selbst öffnet.
+
+> [!note] Ergänzung vom 10.11.2026, 11:55 Uhr: Datumsformat, Quellenprotokoll, Kommentar, Claude als Hilfsmittel
 > Word-Datei: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (jetzt 53 Seiten), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Drei Aufträge von Aezri um 11:30, 11:32 und 11:33 Uhr.
 >
 > **Gemacht**

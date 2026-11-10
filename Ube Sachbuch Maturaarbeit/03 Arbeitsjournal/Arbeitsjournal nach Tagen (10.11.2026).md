@@ -7,6 +7,18 @@ fassung: nach Tagen und Zeiträumen
 
 Tim Rosal und Aezri Peglow (G2023f), John Meuwly (G2023h) · Kantonsschule Baden · 22. April bis 10. November 2026
 
+| Angaben zur Arbeit | |
+| --- | --- |
+| **Arbeit** | Maturaarbeit 2026, Kantonsschule Baden |
+| **Produkt** | Sachbuch «Ube – Zwischen Tradition und Trend», 52 Seiten, gedruckt am 09.11.2026 |
+| **Gruppe** | Aezri Peglow (G2023f), Tim Rosal (G2023f), John Meuwly (G2023h) |
+| **Betreuerin** | Andrea Büschlen |
+| **Zweitbewerter** | Joel Franceschi |
+| **Zeitraum** | 22.04.2026 bis 10.11.2026 |
+| **Abgabe** | 10.11.2026 |
+| **Umfang** | 51 Einträge in sechs Phasen: 10 eigene Einträge vom Arbeitstag, 20 nachträgliche Einträge zu einem gesicherten Tag und 21 nachträgliche Einträge über einen Zeitraum |
+| **Hilfsmittel** | KI-Assistent Claude (Anthropic). Wofür wir ihn gebraucht haben, steht unter «Zu diesem Journal», bei den Einträgen der Phase 6 und im KI-Nachweis des schriftlichen Kommentars (Kapitel 10.6). |
+
 ## Zu diesem Journal
 
 Dieses Journal dokumentiert unsere Maturaarbeit vom Kochbuch «Salu-Salo» bis zum gedruckten Sachbuch über Ube. Es ist nach Datum geordnet und in sechs Phasen eingeteilt. Am Anfang steht eine Übersicht aller Einträge. Am Schluss stehen unsere Schlussreflexion, eine Übersicht, auf welchen Arbeitsschritten der schriftliche Kommentar aufbaut, und ein Quellenprotokoll zum Buch und zum Kommentar.
