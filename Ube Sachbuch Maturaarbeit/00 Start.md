@@ -31,7 +31,7 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 ## Kommentar: ergänzte Fassung vom 10.11.2026 (gilt)
 - Word-Datei: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly_ergaenzt.docx]] (eure Fassung von 04:15 Uhr, von Claude nach Aezris Auftrag von 04:35 Uhr ergänzt)
 - Was Claude eingesetzt hat, was noch gelb ist und was ihr vor der Abgabe prüfen müsst: [[Ergänzte Fassung vom 10.11.2026]]
-- **Arbeitsjournal nach Tagen und Zeiträumen (11:15 Uhr, gilt):** [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (47 Seiten, 51 Einträge, Übersicht, Schlussreflexion, Quellenprotokoll), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Was belegt ist, was fehlt und welche Reflexionen nur ihr ergänzen könnt: [[Arbeitsjournal – Übersicht]]
+- **Arbeitsjournal nach Tagen und Zeiträumen (11:15 Uhr, ergänzt um 11:55 Uhr, gilt):** [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (53 Seiten, 51 Einträge, Übersicht, Schlussreflexion, Übersicht zum Kommentar, Quellenprotokoll mit Verwendung in Buch und Kommentar und den notierten Abrufdaten, alle Daten im Format TT.MM.JJJJ), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Was belegt ist, was fehlt und welche Reflexionen nur ihr ergänzen könnt: [[Arbeitsjournal – Übersicht]]
 - Fassungen davor als Rückblicke über je zwei Wochen: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_ausfuehrlich.docx]] (07:10 Uhr, 23 Seiten) und [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly.docx]] (06:20 Uhr)
 - Eure hochgeladene Datei, unverändert: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly.docx]], dazu [[Fassung der Gruppe vom 10.11.2026]]
 

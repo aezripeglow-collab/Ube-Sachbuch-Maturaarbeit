@@ -9,7 +9,7 @@ Tim Rosal und Aezri Peglow (G2023f), John Meuwly (G2023h) · Kantonsschule Baden
 
 ## Zu diesem Journal
 
-Dieses Journal dokumentiert unsere Maturaarbeit vom Kochbuch «Salu-Salo» bis zum gedruckten Sachbuch über Ube. Es ist nach Datum geordnet und in sechs Phasen eingeteilt. Am Anfang steht eine Übersicht aller Einträge, am Schluss stehen unsere Schlussreflexion und ein Quellenprotokoll zu Kapitel 3 des Buches.
+Dieses Journal dokumentiert unsere Maturaarbeit vom Kochbuch «Salu-Salo» bis zum gedruckten Sachbuch über Ube. Es ist nach Datum geordnet und in sechs Phasen eingeteilt. Am Anfang steht eine Übersicht aller Einträge. Am Schluss stehen unsere Schlussreflexion, eine Übersicht, auf welchen Arbeitsschritten der schriftliche Kommentar aufbaut, und ein Quellenprotokoll zum Buch und zum Kommentar.
 
 Es gibt drei Arten von Einträgen, und bei jedem Eintrag steht, zu welcher Art er gehört.
 
@@ -19,7 +19,9 @@ Es gibt drei Arten von Einträgen, und bei jedem Eintrag steht, zu welcher Art e
 
 Wir müssen dazusagen, wie das Journal entstanden ist. Für die Zeit nach dem 3. Juni gibt es keine ausformulierten Einträge von damals. Wir hatten Stichworte und Angaben zu Datum, Ort, Tätigkeit und Ergebnis, und am 7. und 8. November 2026 haben wir sie mit dem KI-Assistenten Claude zu ganzen Einträgen ausformulieren lassen. In diesen Einträgen standen auch Fehler, vor allem beim Interview, und sie waren auf alle Mittwoche und Freitage verteilt, obwohl wir nicht an allen diesen Tagen gearbeitet haben. Am 10. November hat Claude das Journal deshalb nach unseren Angaben neu geordnet, zuerst als Rückblicke über je zwei Wochen und zuletzt in der vorliegenden Form nach Tagen und Zeiträumen. Die genauen Eingaben stehen im KI-Nachweis des schriftlichen Kommentars (Kapitel 10.6). Dieses Journal ist also ab Juni eine nachträgliche Zusammenstellung und kein Tagebuch, das wir laufend geführt haben.
 
-Für das Lesen gelten vier Regeln. Erstens steht ein Tagesdatum nur dort, wo es gesichert ist. Zweitens stammen die Zeilen «Reflexion (rückblickend)» aus unserer Rückschau vom 9. November 2026 und aus dem, was wir im Buch und im Kommentar dazu geschrieben haben. Damals haben wir das noch nicht so gesehen. Drittens stammt die Beschreibung aus dem fertigen Buchtext, wo wir sagen, was in einem Abschnitt des Buches steht und welche Quellen er verwendet. Viertens haben wir leider nicht notiert, wann wir eine Quelle zum ersten Mal geöffnet haben. Bei den Quellen steht deshalb, wann sie erschienen sind und in welchem Abschnitt wir sie verwenden. Die Abrufdaten im Quellenverzeichnis des Kommentars stammen zum grössten Teil von der Überprüfung am 8. und 9. November.
+Claude war bei dieser Arbeit ein Hilfsmittel, und wir halten bei den Einträgen der Phase 6 fest, wofür wir es gebraucht haben. Beim Buchtext haben wir mit KI nur die Grammatik korrigieren lassen und danach darauf geachtet, dass am Inhalt nichts verändert wurde, und die Karte von Bohol ist mit Claude entstanden. Beim Kommentar und bei diesem Journal ging die Hilfe weiter. Claude hat aus unseren Unterlagen den ersten Entwurf des Kommentars geschrieben, die Angaben mit dem Buch und mit den Quellen verglichen, die Texte über Sachbücher für Kapitel 3 des Kommentars gesucht und unsere Stichworte zu den Einträgen dieses Journals ausformuliert. Von uns stammen die Angaben zu Daten, Tätigkeiten und Ergebnissen, die Berichtigungen und die Rückschau vom 9. November.
+
+Für das Lesen gelten vier Regeln. Erstens steht ein Tagesdatum nur dort, wo es gesichert ist. Zweitens stammen die Zeilen «Reflexion (rückblickend)» aus unserer Rückschau vom 9. November 2026 und aus dem, was wir im Buch und im Kommentar dazu geschrieben haben. Damals haben wir das noch nicht so gesehen. Drittens stammt die Beschreibung aus dem fertigen Buchtext, wo wir sagen, was in einem Abschnitt des Buches steht und welche Quellen er verwendet. Viertens haben wir leider nicht notiert, wann wir eine Quelle zum ersten Mal geöffnet haben. Im Quellenprotokoll steht deshalb, wann eine Quelle erschienen ist, in welchem Abschnitt des Buches wir sie verwenden, in welchem Zeitraum dieser Abschnitt geschrieben wurde und wo wir sie im Kommentar zitieren. Ein Abrufdatum steht nur dort, wo eines notiert ist, und die meisten stammen von der Überprüfung am 8. und 9. November.
 
 Gegenüber der Fassung vom 8. November haben wir Folgendes berichtigt. Der Ablauf des Interviews stimmte dort nicht. Richtig ist: Entscheid am 5. Oktober, Fragen von John am 14. Oktober, Interview durch Johns Onkel am 23. Oktober in Talisay City auf Cebu, Antworten und Transkript am 25. Oktober. Der Kontakt lief über Johns Onkel und nicht über Aezris Familie, und Tita kennen wir als Marktverkäuferin. Das Vorwort des Buches hat Tim geschrieben, das Schlusswort und die Kurzeinleitungen Aezri. Die Karte von Bohol ist mit Claude entstanden.
 
@@ -599,7 +601,7 @@ Im Abschnitt über die grossen Unternehmen nennt er Ketten wie Starbucks, Costa 
 **Quellen und Material:** Diese drei Quellen stehen heute bei These 3 im Quellenverzeichnis.
 
 - Velasco, T. E. (2016): The Ube («Roots») Generation. Humanities Diliman 13(2), 75–101 (Fachartikel)
-- DFA (2024): PH Consulate General in Melbourne celebrates first Ube Festival. Department of Foreign Affairs, 19.2.2024 (Mitteilung einer Behörde)
+- DFA (2024): PH Consulate General in Melbourne celebrates first Ube Festival. Department of Foreign Affairs, 19.02.2024 (Mitteilung einer Behörde)
 - Generalkonsulat Frankfurt (2026): Ube Fiesta 2026 in Köln. Philippine Consulate General Frankfurt (Mitteilung einer Behörde)
 
 **Ergebnis:** Velasco beschreibt die Filipinas, die nach dem Zweiten Weltkrieg nach Guam auswanderten, als «Ube-Generation». Bei den Festen hat John ein Ube-Festival in Melbourne von 2024 gefunden, zu dem sich das philippinische Generalkonsulat geäussert hat, und die Ube Fiesta in Deutschland, die es seit 2022 gibt.
@@ -618,9 +620,9 @@ Im Abschnitt über die grossen Unternehmen nennt er Ketten wie Starbucks, Costa 
 
 **Quellen und Material:** Im Buch zitieren wir zum Exportstopp diese Quellen.
 
-- DA (2026b): DA indefinitely suspends raw ube exports to secure planting materials. Department of Agriculture, 14.9.2026 (Mitteilung des Ministeriums)
-- SunStar (2026b): Ube exports halted to boost supply. 13.9.2026 (Zeitung)
-- AgNavigator (2026): Ube export ban: Philippines moves to protect ube varieties amid growing global demand. 17.9.2026 (Fachportal)
+- DA (2026b): DA indefinitely suspends raw ube exports to secure planting materials. Department of Agriculture, 14.09.2026 (Mitteilung des Ministeriums)
+- SunStar (2026b): Ube exports halted to boost supply. 13.09.2026 (Zeitung)
+- AgNavigator (2026): Ube export ban: Philippines moves to protect ube varieties amid growing global demand. 17.09.2026 (Fachportal)
 - FoodNavigator (2026): Ube exports have been suspended – why and what happens now? 13.10.2026 (Fachportal)
 
 **Ergebnis:** Zum Exportstopp wissen wir, dass er nur frische Ube und Pflanzgut betrifft und verarbeitete Produkte weiter exportiert werden dürfen.
@@ -702,9 +704,9 @@ Für alle Thesen gilt dasselbe Schema. Zuerst kommen drei Behauptungen, die wir 
 **Quellen und Material:** Bei der Ernte gehen wir von den Zahlen der philippinischen Statistikbehörde PSA aus. Wir haben sie leider nicht direkt, sondern über zwei andere Stellen.
 
 - CPBRD (2026): Ube-quitous potential, persistent challenges: An assessment of the Philippine ube industry. Policy Brief PB2026-10, Forschungsdienst des Repräsentantenhauses (Fläche und Ernte 2010 und 2025)
-- USDA FAS (2026): Bericht zur philippinischen Ube-Wertschöpfungskette, 26.6.2026 (Ernte 2025)
+- USDA FAS (2026): Bericht zur philippinischen Ube-Wertschöpfungskette, 26.06.2026 (Ernte 2025)
 - Philippine Daily Inquirer (2026a): Kolumne zur sinkenden Ube-Produktion (Ernte 2006)
-- DA (2026c): Government targets 1,000-hectare ube expansion for exports. Department of Agriculture, 6.10.2026. Diese Mitteilung ist am letzten Tag dieses Zeitraums erschienen.
+- DA (2026c): Government targets 1,000-hectare ube expansion for exports. Department of Agriculture, 06.10.2026. Diese Mitteilung ist am letzten Tag dieses Zeitraums erschienen.
 
 **Ergebnis:** 2025 wurden 12'483 Tonnen geerntet, 6,7 Prozent weniger als im Jahr davor. 2010 waren es noch 21'906 Tonnen und 2006 nach einem Zeitungsbericht sogar über 30'000. Diesen Zahlen vertrauen wir mehr als den Marktschätzungen, weil sie von einer Behörde stammen und der Rückgang schon viele Jahre anhält.
 
@@ -768,9 +770,9 @@ Tims Rechnung geht von den Zahlen des CPBRD aus. 2010 wurden auf 4'744 Hektaren 
 
 **Quellen und Material:** Im fertigen Text der drei Behauptungen von These 1 sind diese Quellen zitiert.
 
-- Behauptung 1: Transparency Market Research (2025) und Persistence Market Research (2026) für den Markt, Datassential (zit. nach CNBC, 26.4.2026), Mintel (zit. nach Manila Times 2026a), PSA (zit. nach USDA FAS, 26.6.2026), CPBRD (2026), Philippine Daily Inquirer (2026a), South China Morning Post (2026), Daily Tribune (31.12.2025), Asian Journal (2026), Philippine Star (20.6.2026)
-- Behauptung 2: FreshPlaza (2026), USDA FAS (2026), Philippine Daily Inquirer (2026b, Editorial vom 1.7.2026), Manila Times (2026b)
-- Behauptung 3: DTI (zit. nach SunStar 2026a), Mendoza (2026a, 8.5.2026), CNN (2.5.2026), FoodNavigator (13.10.2026), FreshPlaza (2026), South China Morning Post (2026)
+- Behauptung 1: Transparency Market Research (2025) und Persistence Market Research (2026) für den Markt, Datassential (zit. nach CNBC, 26.04.2026), Mintel (zit. nach Manila Times 2026a), PSA (zit. nach USDA FAS, 26.06.2026), CPBRD (2026), Philippine Daily Inquirer (2026a), South China Morning Post (2026), Daily Tribune (31.12.2025), Asian Journal (2026), Philippine Star (20.06.2026)
+- Behauptung 2: FreshPlaza (2026), USDA FAS (2026), Philippine Daily Inquirer (2026b, Editorial vom 01.07.2026), Manila Times (2026b)
+- Behauptung 3: DTI (zit. nach SunStar 2026a), Mendoza (2026a, 08.05.2026), CNN (02.05.2026), FoodNavigator (13.10.2026), FreshPlaza (2026), South China Morning Post (2026)
 
 Die Stellen aus dem Interview mit Tita sind erst nach dem 25. Oktober dazugekommen.
 
@@ -801,11 +803,11 @@ Die Idee zu These 2 kam aus einer Analyse der Marktforscher von BMI, die Ube mit
 **Quellen und Material:** Im fertigen Text von These 4 sind diese Quellen zitiert.
 
 - CPBRD (2026): Policy Brief PB2026-10 (Fläche, Ernte)
-- DA (2026a): Ube industry gets boost as DA-BPI distributes 60,000 planting materials. 23.6.2026 (Mitteilung)
-- DA (2026b): DA indefinitely suspends raw ube exports to secure planting materials. 14.9.2026 (Mitteilung)
-- DA (2026c): Government targets 1,000-hectare ube expansion for exports. 6.10.2026 (Mitteilung)
-- Mendoza, T. C. (2026b): How Philippine farmers can boost ube planting stock using clonal propagation. Philippine Daily Inquirer, 12.5.2026 (Sprossteilung)
-- Mondares, C. B. A. (2026): Can PH meet global demand for purple yams? Department of Science and Technology, 27.5.2026 (Minisett-Technik)
+- DA (2026a): Ube industry gets boost as DA-BPI distributes 60,000 planting materials. 23.06.2026 (Mitteilung)
+- DA (2026b): DA indefinitely suspends raw ube exports to secure planting materials. 14.09.2026 (Mitteilung)
+- DA (2026c): Government targets 1,000-hectare ube expansion for exports. 06.10.2026 (Mitteilung)
+- Mendoza, T. C. (2026b): How Philippine farmers can boost ube planting stock using clonal propagation. Philippine Daily Inquirer, 12.05.2026 (Sprossteilung)
+- Mondares, C. B. A. (2026): Can PH meet global demand for purple yams? Department of Science and Technology, 27.05.2026 (Minisett-Technik)
 
 **Ergebnis:** Tim begründet These 4 mit drei Behauptungen. Mehr Fläche ist eine Voraussetzung für mehr Ube, ohne genug Pflanzmaterial bleiben neue Felder leer, und mehr Fläche nützt nur, wenn sich der Anbau für die Bauern lohnt. Die zweite Rechnung ergibt, dass mit der Fläche von 2010 und dem Ertrag von 2025 rund 25'000 Tonnen geerntet worden wären.
 
@@ -833,7 +835,7 @@ Bei der Ankündigung der 1'000 zusätzlichen Hektaren schreibt das Landwirtschaf
 
 **Quellen und Material:** Im fertigen Text der ersten zwei Behauptungen von These 3 sind diese Quellen zitiert.
 
-- Behauptung 1: DNAinfo (5.1.2016), Bumatay (2019, Bustle), CNBC (26.4.2026), USDA FAS (26.6.2026), Asian Journal (2026), Samillano (o. J., Kapwa Gardens), DFA (19.2.2024), dazu die Quellen zu den Zutatenlisten
+- Behauptung 1: DNAinfo (05.01.2016), Bumatay (2019, Bustle), CNBC (26.04.2026), USDA FAS (26.06.2026), Asian Journal (2026), Samillano (o. J., Kapwa Gardens), DFA (19.02.2024), dazu die Quellen zu den Zutatenlisten
 - Behauptung 2: Philippine Daily Inquirer (2026a), South China Morning Post (2026), FoodNavigator (13.10.2026), AFP (zit. nach Oman Observer 2026)
 
 **Ergebnis:** John hat Belege dafür gesammelt, dass Ube im Ausland vor allem über Bilder bekannt wurde. Dazu gehören der Donut mit Blattgold aus Brooklyn, über den viele Medien mit Fotos berichteten, und die Ube-Glace der Supermarktkette Trader Joe's von 2019. Auf Instagram gibt es über 750'000 Beiträge mit dem Hashtag #ube und auf TikTok rund 120'000. Für die Philippinen hat er festgehalten, dass Zeitungen die Knolle «purple gold» nennen und dass der Landwirtschaftsminister den Exportstopp auch damit begründet hat, dass andere Länder mit philippinischen Sorten keine eigene Konkurrenz aufbauen sollen.
@@ -882,9 +884,9 @@ Bei der Ankündigung der 1'000 zusätzlichen Hektaren schreibt das Landwirtschaf
 
 **Quellen und Material:** Im fertigen Text sind diese Quellen zitiert.
 
-- These 2, Behauptungen: BMI (zit. nach Manila Times 2026c), Alandia et al. (2020, Global Food Security 26), USDA FAS (2026), Asian Journal (2026), Manila Bulletin (30.6.2026), Context.ph (6.7.2026), IPOPHL (16.6.2026), Kyodo (zit. nach Qatar Tribune, Juli 2026), SunStar (2026b, 13.9.2026), PhilRootcrops (2024), Mendoza (2026a), Fruitnet (2026), GMA News (2026b), AgNavigator (17.9.2026)
-- These 2, Einwände: Korea Herald (2.6.2026), Antesco (zit. nach Baltasar, 7.5.2026), USDA Japan (2020), STiR (1.3.2020), Mongabay (Mai 2026), BusinessWorld (2026)
-- These 1, Einwände: DTI (zit. nach Baltasar, 7.5.2026), FreshPlaza (2026), Süddeutsche Zeitung (2026), Al Jazeera (11.11.2025), DA (zit. nach Context.ph 2026), AFP (zit. nach The Sun 2026), Talabong (3.1.2026), Interview mit Tita
+- These 2, Behauptungen: BMI (zit. nach Manila Times 2026c), Alandia et al. (2020, Global Food Security 26), USDA FAS (2026), Asian Journal (2026), Manila Bulletin (30.06.2026), Context.ph (06.07.2026), IPOPHL (16.06.2026), Kyodo (zit. nach Qatar Tribune, Juli 2026), SunStar (2026b, 13.09.2026), PhilRootcrops (2024), Mendoza (2026a), Fruitnet (2026), GMA News (2026b), AgNavigator (17.09.2026)
+- These 2, Einwände: Korea Herald (02.06.2026), Antesco (zit. nach Baltasar, 07.05.2026), USDA Japan (2020), STiR (01.03.2020), Mongabay (Mai 2026), BusinessWorld (2026)
+- These 1, Einwände: DTI (zit. nach Baltasar, 07.05.2026), FreshPlaza (2026), Süddeutsche Zeitung (2026), Al Jazeera (11.11.2025), DA (zit. nach Context.ph 2026), AFP (zit. nach The Sun 2026), Talabong (03.01.2026), Interview mit Tita
 
 **Ergebnis:** Gegen These 1 spricht, dass die philippinischen Exporte 2025 um rund 20 Prozent gewachsen sind, dass bei manchen Bauern tatsächlich mehr Geld ankommt und dass auch das Wetter die kleinere Ernte erklären könnte. Im November 2025 zogen mit Kalmaegi und Fung-wong zwei Taifune innerhalb einer Woche über das Land, kurz vor Beginn der Ube-Ernte.
 
@@ -926,8 +928,8 @@ Gegen These 2 spricht, dass man für die Verarbeitung sehr viel rohe Ube braucht
 
 **Quellen und Material:** Im fertigen Text sind diese Quellen zitiert.
 
-- Behauptung 3 (Alter der Bauern): DA-ATI (zit. nach Manila Bulletin, 9.11.2022), PIA (16.10.2023), SEARCA (20.2.2023), Interview mit Tita
-- Einwände: ABS-CBN News (6.1.2016), Bumatay (2019), Generalkonsulat Frankfurt (2026), Velasco (2016), CNN (2.5.2026), Korea Herald (2.6.2026)
+- Behauptung 3 (Alter der Bauern): DA-ATI (zit. nach Manila Bulletin, 09.11.2022), PIA (16.10.2023), SEARCA (20.02.2023), Interview mit Tita
+- Einwände: ABS-CBN News (06.01.2016), Bumatay (2019), Generalkonsulat Frankfurt (2026), Velasco (2016), CNN (02.05.2026), Korea Herald (02.06.2026)
 
 **Ergebnis:** Gegen These 3 spricht, dass viele bekannte Ube-Kreationen im Ausland von Menschen mit philippinischen Wurzeln stammen und dass Feste wie die Ube Fiesta in Köln auch die Kultur weitergeben.
 
@@ -1040,7 +1042,7 @@ Die Karte zeigt die Gemeinden der Insel Bohol, in Violett abgestuft die Anbau- u
 
 - Wir drei schreiben und belegen unterschiedlich, deshalb mussten die Belege vereinheitlicht werden.
 
-**Grundlage:** Datum aus den Eigenschaften der Word-Datei und aus dem Quellenverzeichnis («Stand: 6.11.2026»). Unsere Angaben vom November 2026.
+**Grundlage:** Datum aus den Eigenschaften der Word-Datei und aus dem Quellenverzeichnis, das den Stand 06.11.2026 trägt. Unsere Angaben vom November 2026.
 
 ### 48 · Sa, 7. November 2026 · Arbeitsjournal ab Juni nachgetragen
 
@@ -1102,7 +1104,7 @@ Unsere Rückschau auf das Projekt und die berichtigten Angaben zum Interview hab
 
 **Was:** In der Nacht auf den 10. November hat Claude den Kommentar und dieses Journal nach unseren Angaben vom Vorabend überarbeitet und nach einem weiteren Prompt von 01:42 Uhr an einzelnen Stellen berichtigt. Am frühen Morgen hat Aezri eine eigene Word-Fassung des Kommentars hochgeladen. Claude hat darin nach unseren Angaben die fehlenden Informationen ergänzt, zum Beispiel den Ablauf des Interviews, die Angaben zum Druck und unsere Rückschau in der Reflexion, und danach die Fussnoten an die Zitierregeln angeglichen.
 
-Am Morgen und am Vormittag hat Claude dieses Journal als Word-Dokument erstellt, auf unseren Wunsch ausführlicher geschrieben und zuletzt nach Tagen und Zeiträumen neu geordnet. Am 10. November ist Abgabe.
+Am Morgen und am Vormittag hat Claude dieses Journal als Word-Dokument erstellt, auf unseren Wunsch ausführlicher geschrieben, nach Tagen und Zeiträumen neu geordnet und zuletzt um die Übersicht zum Kommentar und das erweiterte Quellenprotokoll ergänzt. Am 10. November ist Abgabe.
 
 **Ergebnis:** Der schriftliche Kommentar und dieses Arbeitsjournal.
 
@@ -1138,71 +1140,124 @@ Die wirtschaftliche Entwicklung sehen wir heute kritisch, weil eine hohe Nachfra
 
 **Grundlage:** Unsere Rückschau vom 9. November 2026 (Prompt von 23:51 Uhr), das Schlusswort des Buches und Kapitel 8 des schriftlichen Kommentars.
 
-## Quellenprotokoll zu Kapitel 3
+## Worauf der schriftliche Kommentar aufbaut
 
-Diese Tabelle enthält die 60 Einträge aus dem Quellenverzeichnis zu Kapitel 3 vom 6. November 2026. Die letzte Spalte zeigt, in welcher These und bei welcher Behauptung (B1 bis B3), bei welchen Einwänden oder in welchem Fazit die Quelle im fertigen Buchtext zitiert wird. Die Thesen sind zwischen dem 1. Oktober und dem 8. November geschrieben worden (Einträge 32 bis 46).
+Geschrieben haben wir den schriftlichen Kommentar erst vom 08. bis zum 10.11.2026, zusammen mit Claude (Einträge 49 bis 51). Dafür blieb zu wenig Zeit, wie wir in der Schlussreflexion schreiben. Die Arbeit, die der Kommentar beschreibt und auswertet, liegt aber früher. Die Tabelle zeigt für jedes Kapitel des Kommentars, auf welche Arbeitsschritte es sich stützt und in welchen Einträgen dieses Journals sie stehen.
 
-Wir müssen dazusagen, was diese Tabelle nicht zeigt. Wann und von wem eine Quelle zum ersten Mal geöffnet wurde, haben wir leider nicht notiert. Bei einigen Quellen fehlte im Verzeichnis vom 6. November noch das genaue Datum oder der Titel, und einzelne Berichte lagen uns nur als Zusammenfassung vor. Die vollständigen Angaben mit Link und Abrufdatum stehen im Quellenverzeichnis des schriftlichen Kommentars (Kapitel 10). Die Quellen zu Kapitel 1 und 2 stehen in unserer gemeinsamen Quellentabelle, weil diese zwei Kapitel im Buch ohne Belege im Text auskommen, und die Fundstellen der Bilder stehen in Johns Liste vom 9. November.
+Wir müssen dazusagen, dass diese Schritte damals Arbeit am Buch waren und noch keine Arbeit am Kommentar.
 
-| Nr. | Quelle | Art der Quelle | Erschienen | Im Buch verwendet in |
-| --- | --- | --- | --- | --- |
-| 1 | **ABS-CBN News (2016):** LOOK: Pinoy chef makes donut covered in 24K gold. 6.1.2016. | Zeitung oder Agentur | 6.1.2016 | These 3: Einwände |
-| 2 | **AgNavigator (2026):** Ube export ban: Philippines moves to protect ube varieties amid growing global demand. 17.9.2026. | Fachportal | 17.9.2026 | These 2: B3 |
-| 3 | **Al Jazeera (2025):** Typhoon Fung-wong leaves Philippines with 10 dead, 1.4 million displaced. 11.11.2025. | Zeitung oder Agentur | 11.11.2025 | These 1: Einwände |
-| 4 | **Alandia et al. (2020):** Global expansion of quinoa and challenges for the Andean region. Global Food Security 26. | Fachartikel | 2020 | These 2: B1 |
-| 5 | **Asian Journal (2026):** The Purple Gold Rush: Can the Philippines Cope with the Global Ube Obsession?. | Zeitung oder Agentur | 20.3.2026 | These 1: B1; These 2: B1; These 3: B1 |
-| 6 | **Baltasar (2026):** Ube is trending abroad: Is the Philippines optimizing the moment? PhilSTAR L!fe, 7.5.2026. | Zeitung oder Agentur | 7.5.2026 | These 1: Einwände; These 2: Einwände |
-| 7 | **Barú (o. J.):** Ube Latte Powder, Zutatenliste. | Angabe einer Firma | ohne Jahr | These 3: B1 |
-| 8 | **Bumatay (2019):** Before You Instagram Your Ube Ice Cream, Here’s What I Want You To Know. Bustle. | Essay in einem Magazin | 2019 | These 3: B1, Einwände |
-| 9 | **BusinessWorld (2026):** Keeping Philippine Ube at Home: The Price of an Indefinite Export Ban. | Zeitung oder Agentur | 2026 | These 2: Einwände |
-| 10 | **CNBC (2026):** Bericht vom 26.4.2026 mit Daten von Datassential. | Zeitung oder Agentur | 26.4.2026 | These 1: B1; These 3: B1 |
-| 11 | **CNN (2026):** Yang, S.: Inside the complex, secretive business of buying ube, the internet’s new favorite food. 2.5.2026. | Zeitung oder Agentur | 2.5.2026 | These 1: B3; These 3: Einwände |
-| 12 | **Context.ph (2026):** DA sets sights on making ube the next big export. 6.7.2026. | Zeitung oder Agentur | 6.7.2026 | These 1: Einwände; These 2: B2 |
-| 13 | **CPBRD (2026):** Ube-quitous potential, persistent challenges: An assessment of the Philippine ube industry. Policy Brief PB2026-10. Congressional Policy and Budget Research Department, House of Representatives. | Behörde (Forschungsdienst des Parlaments) | 2026 | These 1: B1; These 4: B1, B3 |
-| 14 | **DA (2026a):** Ube industry gets boost as DA-BPI distributes 60,000 planting materials. Department of Agriculture, 23.6.2026. | Mitteilung des Ministeriums | 23.6.2026 | These 4: B2 |
-| 15 | **DA (2026b):** DA indefinitely suspends raw ube exports to secure planting materials. Department of Agriculture, 14.9.2026. | Mitteilung des Ministeriums | 14.9.2026 | These 4: B2 |
-| 16 | **DA (2026c):** Government targets 1,000-hectare ube expansion for exports. Department of Agriculture, 6.10.2026. | Mitteilung des Ministeriums | 6.10.2026 | These 4: Einleitung, B2, Einwände |
-| 17 | **Daily Tribune (2025):** Global ube demand strains Philippine supply. 31.12.2025. | Zeitung oder Agentur | 31.12.2025 | These 1: B1 |
-| 18 | **DFA (2024):** PH Consulate General in Melbourne celebrates first Ube Festival. Department of Foreign Affairs, 19.2.2024. | Mitteilung einer Behörde | 19.2.2024 | These 3: B1 |
-| 19 | **DNAinfo (2016):** Cox, S.: $100 Golden Doughnut Offered at Williamsburg Eatery. 5.1.2016. | Zeitung oder Agentur | 5.1.2016 | These 3: B1 |
-| 20 | **FoodNavigator (2026):** Ube exports have been suspended – why and what happens now? 13.10.2026. | Fachportal | 13.10.2026 | These 1: B3; These 3: B2 |
-| 21 | **FreshPlaza (2026):** Philippine ube growers face seedling shortage. | Fachportal | 11.6.2026 | These 1: B2, B3, Einwände |
-| 22 | **Fruitnet (2026):** Philippine ube industry bolstered by international funding. | Fachportal | 2026 | These 2: B3 |
-| 23 | **Generalkonsulat Frankfurt (2026):** Ube Fiesta 2026 in Köln. Philippine Consulate General Frankfurt. | Mitteilung einer Behörde | 2026 | These 3: Einwände |
-| 24 | **GMA News (2026b):** $34.1M US grant for PH ube industry to benefit 12K Pinoy farmers — DA. | Zeitung oder Agentur | 2026 | These 2: B3 |
-| 25 | **Interview mit Tita (2026):** Interview mit einer Ube-Verkäuferin auf dem öffentlichen Markt von Talisay City (Cebu), geführt von Johns Onkel. Der Name ist auf ihren Wunsch geändert. Englisches Transkript im Anhang des Kommentars. | Interview | geführt am 23.10.2026 | These 1: B1, B3, Einwände; These 2: B2; These 3: B3; These 4: B3; Einleitung von Kapitel 3 |
-| 26 | **IPOPHL (2026):** IPOPHL receives GI bid for Bohol Ubi Kinampay amid global ube craze. 16.6.2026. | Mitteilung einer Behörde | 16.6.2026 | These 2: B2 |
-| 27 | **Korea Herald (2026):** Philippine ube is now the world's next matcha. Now what? Nachdruck aus dem Philippine Daily Inquirer (Asia News Network), 2.6.2026. | Zeitung oder Agentur | 2.6.2026 | These 2: Einwände; These 3: Einwände |
-| 28 | **Kusmi Tea (o. J.):** Die Vorteile von Ube für Ihren Körper. | Angabe einer Firma | ohne Jahr | These 3: B1 |
-| 29 | **Lubag et al. (2008):** Antioxidants of Purple and White Greater Yam (Dioscorea alata L.) Varieties from the Philippines. Philippine Journal of Science 137(1), 61–67. | Fachartikel | 2008 | These 3: B1 |
-| 30 | **Manila Bulletin (2022):** The «Last Generation» farmers are aging. 9.11.2022. | Zeitung oder Agentur | 9.11.2022 | These 3: B3 |
-| 31 | **Manila Bulletin (2026):** House probe on declining Philippine ube industry eyed. 30.6.2026. | Zeitung oder Agentur | 30.6.2026 | These 2: B1 |
-| 32 | **Manila Times (2026a):** Ube export products earn $3.06M in 2025. 21.2.2026. | Zeitung oder Agentur | 21.2.2026 | These 1: B1 |
-| 33 | **Manila Times (2026b):** Agog over ube. 12.6.2026. | Zeitung oder Agentur | 12.6.2026 | These 1: B2 |
-| 34 | **Manila Times (2026c):** Prestige factor lack a threat to PH ube – BMI. | Zeitung oder Agentur | 2026 | These 2: Einleitung, B1, B2 |
-| 35 | **Mendoza (2026a):** Philippine ube ushers in a violet revolution, but who profits? Philippine Daily Inquirer, Nachdruck bei Asia News Network, 8.5.2026. | Zeitung oder Agentur | 8.5.2026 | These 1: B3; These 2: B3 |
-| 36 | **Mendoza (2026b):** How Philippine farmers can boost ube planting stock using clonal propagation. Philippine Daily Inquirer, 12.5.2026, Nachdruck bei Asia News Network, 13.5.2026. | Zeitung oder Agentur | 12.5.2026 | These 4: B2 |
-| 37 | **Mondares (2026):** Can PH meet global demand for purple yams? Experts try propagation techniques to produce quality planting materials amid Ube craze. Department of Science and Technology, 27.5.2026. | Mitteilung einer Behörde | 27.5.2026 | These 4: B2, B3, Einwände |
-| 38 | **Mongabay (2026):** After quinoa’s boom, Bolivian farmers face degraded soils and climate stress. Mai 2026. | Onlinemagazin | Mai 2026 | These 2: Einwände |
-| 39 | **Oman Observer (2026):** Purple reign: Philippines seeks to keep grip on ube throne. AFP-Bericht. | Zeitung oder Agentur | 2026 | These 3: B2 |
-| 40 | **Persistence Market Research (2026):** Ube Market Size, Share, and Growth Forecast 2026–2033. | Marktstudie | 2026 | These 1: B1 |
-| 41 | **Philippine Daily Inquirer (2026a):** Kolumne zur sinkenden Ube-Produktion. | Zeitung oder Agentur | 2026 | These 1: B1; These 3: B2 |
-| 42 | **Philippine Daily Inquirer (2026b):** The Philippines’ ube paradox. Editorial, 1.7.2026. | Zeitung oder Agentur | 1.7.2026 | These 1: B2 |
-| 43 | **Philippine Star (2026):** ‘Philippines does not import fresh ube’. 20.6.2026. | Zeitung oder Agentur | 20.6.2026 | These 1: B1 |
-| 44 | **PhilRootcrops (2024):** PhilRootcrops supports the launch of FMPC’s Root Crop Food Processing Plant. Visayas State University. | Forschungszentrum | 2024 | These 2: B3 |
-| 45 | **PIA (2023):** PH farmers getting younger – DA. Philippine Information Agency, 16.10.2023. | Mitteilung einer Behörde | 16.10.2023 | These 3: B3 |
-| 46 | **Qatar Tribune (2026):** Japan gives green tea GI protection. Kyodo-Meldung, Juli 2026. | Zeitung oder Agentur | Juli 2026 | These 2: B2 |
-| 47 | **Samillano (o. J.):** More Than a Trend: The History of Ube and What It Means to the Filipino People. Kapwa Gardens. | Essay einer Organisation | ohne Jahr | These 3: B1 |
-| 48 | **SEARCA (2023):** Aging farmers could add to food insecurity. Southeast Asian Regional Center for Graduate Study and Research in Agriculture, 20.2.2023. | Forschungszentrum | 20.2.2023 | These 3: B3 |
-| 49 | **South China Morning Post (2026):** How Philippine ube farming can cash in on ‘purple gold rush’. | Zeitung oder Agentur | Anfang Juli 2026 | These 1: B1, B3; These 3: B2 |
-| 50 | **STiR (2020):** Bolton, D.: Iconic Matcha Association Rejects Geographical Indication. STiR Tea & Coffee Industry International, 1.3.2020. | Fachzeitschrift | 1.3.2020 | These 2: Einwände |
-| 51 | **Süddeutsche Zeitung (2026):** Artikel über Ube mit dem Bauern Olegario Paredes. | Zeitung oder Agentur | 2026 | These 1: Einwände |
-| 52 | **SunStar (2026a):** PH ube exports hit $3.06M in 2025 on strong global demand. | Zeitung oder Agentur | 2026 | These 1: B3 |
-| 53 | **SunStar (2026b):** Ube exports halted to boost supply. 13.9.2026. | Zeitung oder Agentur | 13.9.2026 | These 2: B3 |
-| 54 | **Talabong (2026):** Philippine farmers struggle to meet global demand for ‘ube’. New York Times, Nachdruck in der Bangkok Post, 3.1.2026. | Zeitung oder Agentur | 3.1.2026 | These 1: Einwände |
-| 55 | **The Sun (2026):** AFP-Bericht zur Ube-Produktion und zum Exportstopp. | Zeitung oder Agentur | 2026 | These 1: Einwände |
-| 56 | **Transparency Market Research (2025):** Ube Market. Eckdaten bei GII Research. | Marktstudie | 2025 | These 1: B1 |
-| 57 | **USDA FAS (2026):** Bericht zur philippinischen Ube-Wertschöpfungskette, 26.6.2026. | Behörde (Bericht) | 26.6.2026 | These 1: B1, B2; These 2: B1; These 3: B1 |
-| 58 | **USDA Japan (2020):** Japan Withdraws Product from GI Protection List. | Behörde (Bericht) | 2020 | These 2: Einwände |
-| 59 | **Velasco (2016):** The Ube («Roots») Generation. Humanities Diliman 13(2), 75–101. | Fachartikel | 2016 | These 3: Einwände |
-| 60 | **VerbraucherService Bayern (o. J.):** Ube – was steckt hinter dem violetten Food-Trend?. | Verbraucherorganisation | ohne Jahr | These 3: B1 |
+| Kapitel im Kommentar | Arbeitsschritte, auf die es sich stützt | Datum oder Zeitraum | Einträge |
+| --- | --- | --- | --- |
+| **1 Einleitung** | Leitfrage aus dem Projektplan und Leitthese. | 21.08. und 25.09.2026 | 19, 30 |
+| **2.1 April bis Juni: das Kochbuch «Salu-Salo»** | Recherche zu den Regionen, den Gerichten und den fremden Einflüssen, Arbeitsvertrag, Projektplan und Begleitkommentar zum Kochbuch. | 22.04.–18.06.2026 | 1 bis 11 |
+| **2.2 Juni: Zwischenpräsentation und Beurteilung** | Zwischenpräsentation mit Fachgespräch, Nacharbeit und schriftliche Beurteilung. | 19.06.–30.06.2026 | 12, 13, 14 |
+| **2.3 Juli und August: Befragung in den Sommerferien** | Plan für die Ferien und Befragung auf den Philippinen. | 03.07.2026 und Sommerferien | 15, 16 |
+| **2.4 12. bis 21. August: vom Kochbuch zu Ube** | Treffen nach den Ferien, Suche nach einer typischen Zutat und Entscheid für Ube. | 12.–21.08.2026 | 17, 18, 19 |
+| **2.5 August bis November: vom Entscheid bis zur Abgabe** | Der ganze Weg vom neuen Plan bis zum Druck. | 26.08.–10.11.2026 | 20 bis 51 |
+| **3 Formale Recherche: Wie ein Sachbuch funktioniert** | Keine früheren Arbeitsschritte. Die Texte über Sachbücher und ihre Gestaltung sind erst mit dem Kommentar dazugekommen, und gesucht hat sie Claude. | 08. und 09.11.2026 | 49, 50 |
+| **4.1 bis 4.3 Zielgruppe, Aufbau und zwei Arten zu schreiben** | Projektplan mit den drei Teilen, Verteilung der Teile, Kurzbelege und Quellenverzeichnis zu Kapitel 3. | 21.08., 26.08. und 06.11.2026 | 19, 20, 47 |
+| **4.4 und 4.5 Gestaltung, Satz und Druck** | Seitenplanung, Bilder, Satz in Adobe InDesign, Cover und Druck. | 21.10.–09.11.2026 | 42, 46, 49, 50 |
+| **5.1 Aufteilung und Zusammenarbeit** | Verteilung der drei Teile und der vier Thesen. | 26.08. und 30.09.2026 | 20, 31 |
+| **5.2 Recherche und Umgang mit Quellen** | Recherche für Kapitel 1 und 2, Berichte zum Exportstopp und Quellenarbeit an den Thesen. | 27.08.–03.11.2026 | 21 bis 42 |
+| **5.3 Von der Leitfrage zu vier Thesen** | Leitthese, Aufteilung in vier Thesen und Zusammenlegung zu These 3. | 25.09., 30.09. und 21.10.2026 | 30, 31, 39 |
+| **5.4 Eigene Berechnungen** | Zahlen zu Ernte, Fläche und Ertrag, Prüfung der Exportzahlen und zweite Rechnung zur Fläche. | 01.–20.10.2026 | 32, 35, 36 |
+| **5.5 Interview mit einer Ube-Verkäuferin** | Entscheid, Fragen, Interview durch Johns Onkel, Transkript und Auswertung. | 05.10.–03.11.2026 | 34, 38, 43, 44, 45 |
+| **5.6 Zutatenlisten als eigene Stichprobe** | Vergleich von Zutatenlisten und Werbetexten und der abgebrochene Versuch mit Instagram. | 01.–20.10.2026 | 33, 37 |
+| **6 Das Buch** | Fazits, Rahmentexte, Satz als PDF und gedrucktes Buch. | 04.–09.11.2026 | 46, 47, 49, 50 |
+| **7 Einordnung der Ergebnisse** | Die vier Thesen mit Behauptungen, Einwänden und Fazits und der Schlussabschnitt von Kapitel 3. | 07.10.–08.11.2026 | 35, 36, 37, 40, 41, 42, 46 |
+| **8.1 Umgang mit den Rückmeldungen** | Schriftliche Beurteilung der Zwischenpräsentation. | 26.06.2026 | 14 |
+| **8.2 bis 8.4 Reflexion** | Unsere Rückschau, die wir Claude am 09.11.2026 um 23:51 Uhr in einem Prompt gegeben haben. | 09.11.2026 | 50 |
+| **Anhang A: Interview mit «Tita»** | Englisches Transkript des Interviews. | 25.10.2026 | 44 |
+
+## Quellenprotokoll
+
+Das Protokoll hat zwei Tabellen. Die erste enthält die 60 Einträge aus dem Quellenverzeichnis zu Kapitel 3 vom 06.11.2026. Sie zeigt für jede Quelle, wann sie erschienen ist, in welcher These und bei welcher Behauptung (B1 bis B3) oder bei welchen Einwänden wir sie im Buch zitieren und in welchem Zeitraum dieser Abschnitt laut diesem Journal geschrieben wurde. Dahinter steht die Nummer des Eintrags. Die zwei letzten Spalten zeigen, in welchem Kapitel des schriftlichen Kommentars wir die Quelle zitieren und welches Abrufdatum dort im Quellenverzeichnis steht. Die zweite Tabelle enthält die Quellen, die nur im Kommentar vorkommen.
+
+Wir müssen dazusagen, was wir über den Abruf wissen und was nicht. Wann wir eine Quelle bei der Recherche zum ersten Mal geöffnet haben, haben wir leider nicht notiert, und im Quellenverzeichnis vom 06.11.2026 fehlten die Abrufdaten noch. Wo kein Datum notiert ist, steht deshalb «nicht notiert». Sicher ist nur, dass eine Quelle frühestens an ihrem Erscheinungstag verwendet werden konnte und dass alle 60 am 06.11.2026 im Verzeichnis standen. Einen Anhaltspunkt gibt der Zeitraum, in dem der Abschnitt geschrieben wurde. Bei einigen Quellen fehlte im Verzeichnis noch das genaue Datum oder der Titel, und einzelne Berichte lagen uns nur als Zusammenfassung vor.
+
+Die Abrufdaten vom 08. und 09.11.2026 stammen von der Überprüfung für den Kommentar, bei der Claude die Seiten geöffnet hat. Die zwei Abrufdaten mit Stern, der 30.09.2026 und der 16.10.2026, stammen aus Einträgen, die wir erst im November nachgetragen haben. Für den Kommentar haben wir alle Quellen zwischen dem 08. und dem 10.11.2026 verwendet, weil er in diesen Tagen entstanden ist (Einträge 49 bis 51). Die Quellen zu Kapitel 1 und 2 stehen in unserer gemeinsamen Quellentabelle, weil diese zwei Kapitel im Buch ohne Belege im Text auskommen, und die Fundstellen der Bilder stehen in Johns Liste vom 09.11.2026.
+
+### Quellen von Kapitel 3 des Buches
+
+| Nr. | Quelle | Art der Quelle | Erschienen | Im Buch verwendet in, Abschnitt geschrieben (laut Journal) | Im Kommentar zitiert in | Abrufdatum im Kommentar |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | **ABS-CBN News (2016):** LOOK: Pinoy chef makes donut covered in 24K gold. 06.01.2016. | Zeitung oder Agentur | 06.01.2016 | These 3, Einwände: 21.10.–03.11.2026 (Eintrag 42) | nicht zitiert | nicht notiert |
+| 2 | **AgNavigator (2026):** Ube export ban: Philippines moves to protect ube varieties amid growing global demand. 17.09.2026. | Fachportal | 17.09.2026 | These 2, B3: 21.10.–03.11.2026 (Eintrag 40)<br>Siehe auch Eintrag 28 (ab 14.09.2026) | nicht zitiert | nicht notiert |
+| 3 | **Al Jazeera (2025):** Typhoon Fung-wong leaves Philippines with 10 dead, 1.4 million displaced. 11.11.2025. | Zeitung oder Agentur | 11.11.2025 | These 1, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 4 | **Alandia et al. (2020):** Global expansion of quinoa and challenges for the Andean region. Global Food Security 26. | Fachartikel | 2020 | These 2, B1: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 5 | **Asian Journal (2026):** The Purple Gold Rush: Can the Philippines Cope with the Global Ube Obsession? | Zeitung oder Agentur | 20.03.2026 | These 1, B1: 07.–20.10.2026 (Eintrag 35)<br>These 2, B1: 21.10.–03.11.2026 (Eintrag 40)<br>These 3, B1: 07.–20.10.2026 (Eintrag 37) | Kap. 7.1 | 09.11.2026 |
+| 6 | **Baltasar (2026):** Ube is trending abroad: Is the Philippines optimizing the moment? PhilSTAR L!⁠fe, 07.05.2026. | Zeitung oder Agentur | 07.05.2026 | These 1, Einwände: 21.10.–03.11.2026 (Eintrag 40)<br>These 2, Einwände: 21.10.–03.11.2026 (Eintrag 40) | Kap. 5.2 | 09.11.2026 |
+| 7 | **Barú (o. J.):** Ube Latte Powder, Zutatenliste. | Angabe einer Firma | ohne Jahr | These 3, B1: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 33 (01.–06.10.2026) | Kap. 5.6 (als Produktdatenblatt vom 27.03.2026) | 08.11.2026 |
+| 8 | **Bumatay (2019):** Before You Instagram Your Ube Ice Cream, Here’s What I Want You To Know. Bustle. | Essay in einem Magazin | 2019 | These 3, B1: 07.–20.10.2026 (Eintrag 37)<br>These 3, Einwände: 21.10.–03.11.2026 (Eintrag 42) | nicht zitiert | nicht notiert |
+| 9 | **BusinessWorld (2026):** Keeping Philippine Ube at Home: The Price of an Indefinite Export Ban. | Zeitung oder Agentur | 2026 | These 2, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 10 | **CNBC (2026):** Bericht vom 26.04.2026 mit Daten von Datassential. | Zeitung oder Agentur | 26.04.2026 | These 1, B1: 07.–20.10.2026 (Eintrag 35)<br>These 3, B1: 07.–20.10.2026 (Eintrag 37) | nicht zitiert | nicht notiert |
+| 11 | **CNN (2026):** Yang, S.: Inside the complex, secretive business of buying ube, the internet’s new favorite food. 02.05.2026. | Zeitung oder Agentur | 02.05.2026 | These 1, B3: 07.–20.10.2026 (Eintrag 35)<br>These 3, Einwände: 21.10.–03.11.2026 (Eintrag 42) | nicht zitiert | nicht notiert |
+| 12 | **Context.ph (2026):** DA sets sights on making ube the next big export. 06.07.2026. | Zeitung oder Agentur | 06.07.2026 | These 1, Einwände: 21.10.–03.11.2026 (Eintrag 40)<br>These 2, B2: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 13 | **CPBRD (2026):** Ube-quitous potential, persistent challenges: An assessment of the Philippine ube industry. Policy Brief PB2026-10. Congressional Policy and Budget Research Department, House of Representatives. | Behörde (Forschungsdienst des Parlaments) | 2026 | These 1, B1: 07.–20.10.2026 (Eintrag 35)<br>These 4, B1: 07.–20.10.2026 (Eintrag 36)<br>These 4, B3: 21.10.–03.11.2026 (Eintrag 41)<br>Siehe auch Eintrag 32 (01.–06.10.2026) | Kap. 5.2, 5.4 und 7.1 | 30.09.2026* |
+| 14 | **DA (2026a):** Ube industry gets boost as DA-BPI distributes 60,000 planting materials. Department of Agriculture, 23.06.2026. | Mitteilung des Ministeriums | 23.06.2026 | These 4, B2: 07.–20.10.2026 (Eintrag 36) | Kap. 5.4 (über Context.ph) | 16.10.2026* |
+| 15 | **DA (2026b):** DA indefinitely suspends raw ube exports to secure planting materials. Department of Agriculture, 14.09.2026. | Mitteilung des Ministeriums | 14.09.2026 | These 4, B2: 07.–20.10.2026 (Eintrag 36)<br>Siehe auch Eintrag 28 (ab 14.09.2026) | Kap. 2.5, 5.2, 7.1 und 7.2 | 09.11.2026 |
+| 16 | **DA (2026c):** Government targets 1,000-hectare ube expansion for exports. Department of Agriculture, 06.10.2026. | Mitteilung des Ministeriums | 06.10.2026 | These 4, Einleitung der These und B2: 07.–20.10.2026 (Eintrag 36)<br>These 4, Einwände: 21.10.–03.11.2026 (Eintrag 41)<br>Siehe auch Eintrag 32 (01.–06.10.2026) | Kap. 5.2 und 5.4 | 09.11.2026 |
+| 17 | **Daily Tribune (2025):** Global ube demand strains Philippine supply. 31.12.2025. | Zeitung oder Agentur | 31.12.2025 | These 1, B1: 07.–20.10.2026 (Eintrag 35) | nicht zitiert | nicht notiert |
+| 18 | **DFA (2024):** PH Consulate General in Melbourne celebrates first Ube Festival. Department of Foreign Affairs, 19.02.2024. | Mitteilung einer Behörde | 19.02.2024 | These 3, B1: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 27 (09.–22.09.2026) | nicht zitiert | nicht notiert |
+| 19 | **DNAinfo (2016):** Cox, S.: $100 Golden Doughnut Offered at Williamsburg Eatery. 05.01.2016. | Zeitung oder Agentur | 05.01.2016 | These 3, B1: 07.–20.10.2026 (Eintrag 37) | Kap. 5.2 | 08.11.2026 |
+| 20 | **FoodNavigator (2026):** Ube exports have been suspended – why and what happens now? 13.10.2026. | Fachportal | 13.10.2026 | These 1, B3: 07.–20.10.2026 (Eintrag 35)<br>These 3, B2: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 28 (ab 14.09.2026) | nicht zitiert | nicht notiert |
+| 21 | **FreshPlaza (2026):** Philippine ube growers face seedling shortage. | Fachportal | 11.06.2026 | These 1, B2 und B3: 07.–20.10.2026 (Eintrag 35)<br>These 1, Einwände: 21.10.–03.11.2026 (Eintrag 40)<br>Siehe auch Eintrag 45 (26.10.–03.11.2026) | Kap. 5.5 und 7.1 | 08.11.2026 |
+| 22 | **Fruitnet (2026):** Philippine ube industry bolstered by international funding. | Fachportal | 2026 | These 2, B3: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 23 | **Generalkonsulat Frankfurt (2026):** Ube Fiesta 2026 in Köln. Philippine Consulate General Frankfurt. | Mitteilung einer Behörde | 2026 | These 3, Einwände: 21.10.–03.11.2026 (Eintrag 42)<br>Siehe auch Eintrag 27 (09.–22.09.2026) | nicht zitiert | nicht notiert |
+| 24 | **GMA News (2026b):** $34.1M US grant for PH ube industry to benefit 12K Pinoy farmers — DA. | Zeitung oder Agentur | 2026 | These 2, B3: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 25 | **Interview mit Tita (2026):** Interview mit einer Ube-Verkäuferin auf dem öffentlichen Markt von Talisay City (Cebu), geführt von Johns Onkel. Der Name ist auf ihren Wunsch geändert. Englisches Transkript im Anhang des Kommentars. | Interview | geführt am 23.10.2026 | These 1, B1, B3 und Einwände: 26.10.–03.11.2026 (Eintrag 45)<br>These 2, B2: 26.10.–03.11.2026 (Eintrag 45)<br>These 3, B3: 26.10.–03.11.2026 (Eintrag 45)<br>These 4, B3: 26.10.–03.11.2026 (Eintrag 45)<br>Einleitung von Kapitel 3: 04.–08.11.2026 (Eintrag 46) | Kap. 5.5, 7.1, 7.2 und 7.3 | entfällt (Transkript erhalten am 25.10.2026) |
+| 26 | **IPOPHL (2026):** IPOPHL receives GI bid for Bohol Ubi Kinampay amid global ube craze. 16.06.2026. | Mitteilung einer Behörde | 16.06.2026 | These 2, B2: 21.10.–03.11.2026 (Eintrag 40) | Kap. 7.1 | 09.11.2026 |
+| 27 | **Korea Herald (2026):** Philippine ube is now the world's next matcha. Now what? Nachdruck aus dem Philippine Daily Inquirer (Asia News Network), 02.06.2026. | Zeitung oder Agentur | 02.06.2026 | These 2, Einwände: 21.10.–03.11.2026 (Eintrag 40)<br>These 3, Einwände: 21.10.–03.11.2026 (Eintrag 42) | nicht zitiert | nicht notiert |
+| 28 | **Kusmi Tea (o. J.):** Die Vorteile von Ube für Ihren Körper. | Angabe einer Firma | ohne Jahr | These 3, B1: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 33 (01.–06.10.2026) | nicht zitiert | nicht notiert |
+| 29 | **Lubag et al. (2008):** Antioxidants of Purple and White Greater Yam (Dioscorea alata L.) Varieties from the Philippines. Philippine Journal of Science 137(1), 61–67. | Fachartikel | 2008 | These 3, B1: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 33 (01.–06.10.2026) | nicht zitiert | nicht notiert |
+| 30 | **Manila Bulletin (2022):** The «Last Generation» farmers are aging. 09.11.2022. | Zeitung oder Agentur | 09.11.2022 | These 3, B3: 21.10.–03.11.2026 (Eintrag 42) | nicht zitiert | nicht notiert |
+| 31 | **Manila Bulletin (2026):** House probe on declining Philippine ube industry eyed. 30.06.2026. | Zeitung oder Agentur | 30.06.2026 | These 2, B1: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 32 | **Manila Times (2026a):** Ube export products earn $3.06M in 2025. 21.02.2026. | Zeitung oder Agentur | 21.02.2026 | These 1, B1: 07.–20.10.2026 (Eintrag 35) | nicht zitiert | nicht notiert |
+| 33 | **Manila Times (2026b):** Agog over ube. 12.06.2026. | Zeitung oder Agentur | 12.06.2026 | These 1, B2: 07.–20.10.2026 (Eintrag 35) | nicht zitiert | nicht notiert |
+| 34 | **Manila Times (2026c):** Prestige factor lack a threat to PH ube – BMI. | Zeitung oder Agentur | 2026 | These 2, Einleitung der These, B1 und B2: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 35 | **Mendoza (2026a):** Philippine ube ushers in a violet revolution, but who profits? Philippine Daily Inquirer, Nachdruck bei Asia News Network, 08.05.2026. | Zeitung oder Agentur | 08.05.2026 | These 1, B3: 07.–20.10.2026 (Eintrag 35)<br>These 2, B3: 21.10.–03.11.2026 (Eintrag 40) | Kap. 7.1 | 09.11.2026 |
+| 36 | **Mendoza (2026b):** How Philippine farmers can boost ube planting stock using clonal propagation. Philippine Daily Inquirer, 12.05.2026, Nachdruck bei Asia News Network, 13.05.2026. | Zeitung oder Agentur | 12.05.2026 | These 4, B2: 07.–20.10.2026 (Eintrag 36) | Kap. 5.4 | 08.11.2026 |
+| 37 | **Mondares (2026):** Can PH meet global demand for purple yams? Experts try propagation techniques to produce quality planting materials amid Ube craze. Department of Science and Technology, 27.05.2026. | Mitteilung einer Behörde | 27.05.2026 | These 4, B2: 07.–20.10.2026 (Eintrag 36)<br>These 4, B3 und Einwände: 21.10.–03.11.2026 (Eintrag 41) | Kap. 5.4 | 08.11.2026 |
+| 38 | **Mongabay (2026):** After quinoa’s boom, Bolivian farmers face degraded soils and climate stress. Mai 2026. | Onlinemagazin | Mai 2026 | These 2, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 39 | **Oman Observer (2026):** Purple reign: Philippines seeks to keep grip on ube throne. AFP-Bericht. | Zeitung oder Agentur | 2026 | These 3, B2: 07.–20.10.2026 (Eintrag 37) | nicht zitiert | nicht notiert |
+| 40 | **Persistence Market Research (2026):** Ube Market Size, Share, and Growth Forecast 2026–2033. | Marktstudie | 2026 | These 1, B1: 07.–20.10.2026 (Eintrag 35) | nicht zitiert | nicht notiert |
+| 41 | **Philippine Daily Inquirer (2026a):** Kolumne zur sinkenden Ube-Produktion. | Zeitung oder Agentur | 2026 | These 1, B1: 07.–20.10.2026 (Eintrag 35)<br>These 3, B2: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 32 (01.–06.10.2026) | nicht zitiert | nicht notiert |
+| 42 | **Philippine Daily Inquirer (2026b):** The Philippines’ ube paradox. Editorial, 01.07.2026. | Zeitung oder Agentur | 01.07.2026 | These 1, B2: 07.–20.10.2026 (Eintrag 35) | nicht zitiert | nicht notiert |
+| 43 | **Philippine Star (2026):** ‘Philippines does not import fresh ube’. 20.06.2026. | Zeitung oder Agentur | 20.06.2026 | These 1, B1: 07.–20.10.2026 (Eintrag 35) | nicht zitiert | nicht notiert |
+| 44 | **PhilRootcrops (2024):** PhilRootcrops supports the launch of FMPC’s Root Crop Food Processing Plant. Visayas State University. | Forschungszentrum | 2024 | These 2, B3: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 45 | **PIA (2023):** PH farmers getting younger – DA. Philippine Information Agency, 16.10.2023. | Mitteilung einer Behörde | 16.10.2023 | These 3, B3: 21.10.–03.11.2026 (Eintrag 42) | nicht zitiert | nicht notiert |
+| 46 | **Qatar Tribune (2026):** Japan gives green tea GI protection. Kyodo-Meldung, Juli 2026. | Zeitung oder Agentur | Juli 2026 | These 2, B2: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 47 | **Samillano (o. J.):** More Than a Trend: The History of Ube and What It Means to the Filipino People. Kapwa Gardens. | Essay einer Organisation | ohne Jahr | These 3, B1: 07.–20.10.2026 (Eintrag 37) | nicht zitiert | nicht notiert |
+| 48 | **SEARCA (2023):** Aging farmers could add to food insecurity. Southeast Asian Regional Center for Graduate Study and Research in Agriculture, 20.02.2023. | Forschungszentrum | 20.02.2023 | These 3, B3: 21.10.–03.11.2026 (Eintrag 42) | nicht zitiert | nicht notiert |
+| 49 | **South China Morning Post (2026):** How Philippine ube farming can cash in on ‘purple gold rush’. | Zeitung oder Agentur | Anfang Juli 2026 | These 1, B1 und B3: 07.–20.10.2026 (Eintrag 35)<br>These 3, B2: 07.–20.10.2026 (Eintrag 37) | Kap. 5.5 und 7.1 | 08.11.2026 |
+| 50 | **STiR (2020):** Bolton, D.: Iconic Matcha Association Rejects Geographical Indication. STiR Tea & Coffee Industry International, 01.03.2020. | Fachzeitschrift | 01.03.2020 | These 2, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 51 | **Süddeutsche Zeitung (2026):** Artikel über Ube mit dem Bauern Olegario Paredes. | Zeitung oder Agentur | 2026 | These 1, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 52 | **SunStar (2026a):** PH ube exports hit $3.06M in 2025 on strong global demand. | Zeitung oder Agentur | 25.02.2026 | These 1, B3: 07.–20.10.2026 (Eintrag 35) | Kap. 5.2 und 5.4 | 08.11.2026 |
+| 53 | **SunStar (2026b):** Ube exports halted to boost supply. 13.09.2026. | Zeitung oder Agentur | 13.09.2026 | These 2, B3: 21.10.–03.11.2026 (Eintrag 40)<br>Siehe auch Eintrag 28 (ab 14.09.2026) | nicht zitiert | nicht notiert |
+| 54 | **Talabong (2026):** Philippine farmers struggle to meet global demand for ‘ube’. New York Times, Nachdruck in der Bangkok Post, 03.01.2026. | Zeitung oder Agentur | 03.01.2026 | These 1, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 55 | **The Sun (2026):** AFP-Bericht zur Ube-Produktion und zum Exportstopp. | Zeitung oder Agentur | 2026 | These 1, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 56 | **Transparency Market Research (2025):** Ube Market. Eckdaten bei GII Research. | Marktstudie | 17.12.2025 | These 1, B1: 07.–20.10.2026 (Eintrag 35) | Kap. 5.4 | 08.11.2026 |
+| 57 | **USDA FAS (2026):** Bericht zur philippinischen Ube-Wertschöpfungskette, 26.06.2026. | Behörde (Bericht) | 26.06.2026 | These 1, B1 und B2: 07.–20.10.2026 (Eintrag 35)<br>These 2, B1: 21.10.–03.11.2026 (Eintrag 40)<br>These 3, B1: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 32 (01.–06.10.2026) | Kap. 5.2, 5.4, 7.1 und 7.2 | nicht notiert |
+| 58 | **USDA Japan (2020):** Japan Withdraws Product from GI Protection List. | Behörde (Bericht) | 2020 | These 2, Einwände: 21.10.–03.11.2026 (Eintrag 40) | nicht zitiert | nicht notiert |
+| 59 | **Velasco (2016):** The Ube («Roots») Generation. Humanities Diliman 13(2), 75–101. | Fachartikel | 2016 | These 3, Einwände: 21.10.–03.11.2026 (Eintrag 42)<br>Siehe auch Eintrag 27 (09.–22.09.2026) | nicht zitiert | nicht notiert |
+| 60 | **VerbraucherService Bayern (o. J.):** Ube – was steckt hinter dem violetten Food-Trend? | Verbraucherorganisation | ohne Jahr | These 3, B1: 07.–20.10.2026 (Eintrag 37)<br>Siehe auch Eintrag 33 (01.–06.10.2026) | nicht zitiert | nicht notiert |
+
+\* Aus einem Eintrag übernommen, den wir erst im November nachgetragen haben.
+
+### Quellen, die nur im Kommentar vorkommen
+
+Diese Quellen zitieren wir nur im schriftlichen Kommentar. Im Buch kommen sie nicht vor. Dazu zitiert der Kommentar unser Buch und dieses Journal.
+
+| Nr. | Quelle | Art der Quelle | Erschienen | Im Kommentar zitiert in | Abrufdatum im Kommentar | Bemerkung |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | **Oels (2013):** «… was ein Sachbuch eigentlich ist.» Arbeitsblätter für die Sachbuchforschung, Nr. 20. | Arbeitspapier aus der Forschung | 2013 | Kap. 3.1 | 09.11.2026 | Von Claude gesucht (Eintrag 49). |
+| 2 | **Universität Tübingen (2024):** Paratexte. | Seite einer Hochschule | 06.11.2024 | Kap. 3.2 | 08.11.2026 | Von Claude gesucht (Eintrag 49). |
+| 3 | **ISB (2019):** Layout. Arbeitsheft zur Einführung in das Thema. Staatsinstitut für Schulqualität und Bildungsforschung, München. | Arbeitsheft | 2019 | Kap. 3.3 | 09.11.2026 | Von Claude gesucht (Eintrag 49). |
+| 4 | **Nanavati/Bias (2005):** Optimal Line Length in Reading. A Literature Review. Visible Language 39, Nr. 2, S. 120–145. | Fachartikel | 2005 | Kap. 3.3 | 09.11.2026 | Von Claude gesucht (Eintrag 49). |
+| 5 | **Zöhrer (2023):** Ausgangspunkt: Bild. Eine Annäherung an Bildästhetik und Wissensvermittlung im Sachbilderbuch. Jahrbuch der Gesellschaft für Kinder- und Jugendliteraturforschung, S. 62–76. | Fachartikel | 2023 | Kap. 3.4 | kein Abrufdatum | Von Claude gesucht (Eintrag 49). Im Kommentar mit DOI angegeben, deshalb ohne Abrufdatum. |
+| 6 | **Kantonsschule Baden (2025):** Zitierregeln. Alles, was man dazu wissen muss. 5. Auflage. | Vorgabe der Schule | 2025 | Kap. 1.3, 4.3, 5.5 und 10.6 | kein Abrufdatum | Vorgabe der Schule, im Kommentar ohne Link angegeben. Am 09.11.2026 an Claude gegeben (Eintrag 50). |
+| 7 | **Keystone-SDA (2026):** Lila Wurzel – Ube-Trend erreicht die Schweiz. Swissinfo. | Agentur | 20.03.2026 | Kap. 1.1, 5.4, 7.1 und 7.2 | 09.11.2026 | – |
+| 8 | **Global Trade Alert (2026):** Philippines: Export ban on fresh purple yam (ube) and its planting materials. | Datenbank | 15.08.2026 | Kap. 5.2 | 08.11.2026 | Steht im Verzeichnis vom 06.11.2026 bei den Quellen, die nur zum Prüfen geöffnet wurden. |
+| 9 | **FreshPlaza (2026), zweiter Artikel:** Philippines plans US$5.1 million ube cultivation expansion. | Fachportal | 06.10.2026 | Kap. 7.1 | 09.11.2026 | – |
+| 10 | **Büschlen/Franceschi (2026):** Beurteilung der Maturaarbeit zum Zeitpunkt der Zwischenpräsentation. | Unveröffentlichtes Dokument | 19.06.2026 | Kap. 2.2 und 8.3 | entfällt | Erhalten am 26.06.2026 (Eintrag 14). |
+| 11 | **Meuwly/Peglow/Rosal (2026):** Wissenschaftlicher Begleitkommentar: unser philippinisches Kochbuch. | Eigenes Dokument | 2026 | Kap. 2.1 | entfällt | Unser Begleitkommentar zum Kochbuch (Einträge 9 bis 11). |

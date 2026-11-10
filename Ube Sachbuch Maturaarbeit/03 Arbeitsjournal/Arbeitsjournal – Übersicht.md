@@ -11,7 +11,27 @@ Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDe
 
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
-> [!important] Fassung nach Tagen und Zeiträumen vom 10.11.2026, 11:15 Uhr (gilt)
+> [!important] Ergänzung vom 10.11.2026, 11:55 Uhr: Datumsformat, Quellenprotokoll, Kommentar, Claude als Hilfsmittel (gilt)
+> Word-Datei: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (jetzt 53 Seiten), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Drei Aufträge von Aezri um 11:30, 11:32 und 11:33 Uhr.
+>
+> **Gemacht**
+> - Alle 94 Zahlendaten ohne führende Null sind berichtigt (03.01.2026 statt 3.1.2026). Der Kommentar hatte schon überall das richtige Format. Euer [[Quellenverzeichnis Kapitel 3]] vom 6.11. ist unverändert, weil es den Stand von damals belegt.
+> - Das Quellenprotokoll steht jetzt im Querformat und hat zwei Tabellen. Pro Quelle: wann erschienen, in welchem Abschnitt des Buches zitiert, in welchem Zeitraum dieser Abschnitt laut Journal geschrieben wurde (mit Nummer des Eintrags), in welchem Kapitel des Kommentars zitiert, welches Abrufdatum im Kommentar steht. Die zweite Tabelle enthält die 11 Quellen, die nur im Kommentar vorkommen.
+> - Neue Übersicht «Worauf der schriftliche Kommentar aufbaut»: zu jedem Kapitel des Kommentars die früheren, belegten Arbeitsschritte mit Datum und Eintrag.
+> - Einleitung: neuer Absatz dazu, wofür ihr Claude gebraucht habt und was von euch stammt.
+>
+> **Nicht gemacht, und warum**
+> - Die Arbeit am Kommentar ist nicht auf frühere Tage verteilt. Er ist vom 08. bis 10.11.2026 entstanden, und ein Journal, das dafür frühere Arbeitstage zeigt, wäre eine falsche Angabe gegenüber der Schule. Echte frühere Schritte (Datum und was es war) trägt Claude ein, sobald ihr sie nennt.
+> - Kein Pauschalsatz «wirklich nur als Hilfsmittel». Das Journal nennt Claude ein Hilfsmittel und sagt genau, was Claude gemacht hat: erster Entwurf des Kommentars, Ausformulierung der Einträge ab Juni, Überprüfung, Suche der Texte für Kapitel 3 des Kommentars. Beim Buchtext steht eure Angabe, dass mit KI nur die Grammatik korrigiert wurde.
+> - Keine erfundenen Abrufdaten. Von den 60 Quellen haben 16 ein Abrufdatum (14 von der Überprüfung am 08. und 09.11.2026, bei der Claude die Seiten geöffnet hat, und 2 mit Stern aus nachgetragenen Einträgen). Beim Interview entfällt es, bei 43 Quellen steht «nicht notiert».
+>
+> **Was nur ihr liefern könnt**
+> - Echte Abrufdaten, zum Beispiel aus dem Browserverlauf. Die zwei Daten mit Stern prüfen (Policy Brief des CPBRD 30.09.2026, Mitteilung vom Juni 16.10.2026).
+> - Frühere Schritte für den Kommentar, falls es sie gab.
+> - Die Prompts, die Aezri um 11:33 Uhr angekündigt hat. Claude listet sie dann mit Datum auf.
+> - Weiter offen: Das Quellenverzeichnis vom 6.11. ist in der Ich-Form eines Assistenten geschrieben. Wenn dort eine KI geholfen hat, gehört das in den Eintrag vom 06.11. und in den KI-Nachweis.
+
+> [!note] Fassung nach Tagen und Zeiträumen vom 10.11.2026, 11:15 Uhr (um 11:55 Uhr ergänzt, siehe oben)
 > Word-Datei: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (47 Seiten), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Auftrag von Aezri um 10:45 Uhr: das Journal systematisch ordnen, die Tabelle übersichtlicher gestalten und statt zusammengefasster Rückblicke zu jedem Tag einen ausführlichen Eintrag machen, mit Quellen, Vorgehen, Methoden, Reflexion und Erkenntnissen.
 >
 > **Aufbau**
