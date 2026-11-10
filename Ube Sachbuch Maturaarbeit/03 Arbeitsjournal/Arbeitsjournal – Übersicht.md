@@ -12,7 +12,8 @@ Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDe
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
 > [!important] Schlussredaktion vom 10.11.2026 (gilt)
-> Neuste Fassung: `10 Überarbeitung/Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx`, Lesekopie [[Arbeitsjournal (Schlussredaktion)]]. Gegenüber der Fassung «UEBERARBEITET» sind neun Stellen berichtigt (Interview, Rückschau, Zusammenführen am 6.11.), siehe [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]].
+> **Fassung zum ergänzten Kommentar (10.11.2026, 06:20 Uhr):** [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly.docx]] in diesem Ordner, Lesekopie [[Arbeitsjournal (Fassung vom 10.11.2026)]]. Gleicher Text wie die Schlussredaktion, in Arial mit 1,5 Zeilen, mit «Salu-Salo», Verweis auf Kapitel 10.6 und einem Satz zur Ergänzung des Kommentars am Morgen des 10.11.
+> Fassung davor: `10 Überarbeitung/Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx`, Lesekopie [[Arbeitsjournal (Schlussredaktion)]]. Gegenüber der Fassung «UEBERARBEITET» sind neun Stellen berichtigt (Interview, Rückschau, Zusammenführen am 6.11.), siehe [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]].
 
 > [!important] Überarbeitete Fassung vom 10.11.2026 (Ausgangsfassung)
 > Das Journal liegt jetzt als fünfzehn Rückblicke über je zwei Wochen vor: `10 Überarbeitung/Arbeitsjournal_Ube_UEBERARBEITET.docx`, Lesekopie [[Arbeitsjournal (überarbeitet)]]. Die Einträge in diesem Ordner bleiben als ältere Fassung liegen. Achtung: Der Ablauf des Interviews stimmt in den Einträgen vom 23.10., 28.10. und 04.11. nicht (richtig: Johns Onkel, 5., 14., 23. und 25. Oktober), und der Kochbuchtitel lautet «Salo-Salo».

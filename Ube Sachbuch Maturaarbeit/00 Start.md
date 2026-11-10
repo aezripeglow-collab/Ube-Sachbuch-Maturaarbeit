@@ -31,6 +31,7 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 ## Kommentar: ergänzte Fassung vom 10.11.2026 (gilt)
 - Word-Datei: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly_ergaenzt.docx]] (eure Fassung von 04:15 Uhr, von Claude nach Aezris Auftrag von 04:35 Uhr ergänzt)
 - Was Claude eingesetzt hat, was noch gelb ist und was ihr vor der Abgabe prüfen müsst: [[Ergänzte Fassung vom 10.11.2026]]
+- Arbeitsjournal dazu: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly.docx]] (Rückblicke, an den ergänzten Kommentar angeglichen)
 - Eure hochgeladene Datei, unverändert: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly.docx]], dazu [[Fassung der Gruppe vom 10.11.2026]]
 
 ## Schlussredaktion vom 10.11.2026 (Arbeitsfassung von Claude, beim Kommentar abgelöst)
