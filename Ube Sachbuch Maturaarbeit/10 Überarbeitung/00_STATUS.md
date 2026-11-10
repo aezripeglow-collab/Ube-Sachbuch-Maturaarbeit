@@ -2,7 +2,28 @@
 tags: [ueberarbeitung, status]
 stand: 2026-11-10
 ---
-# Status der Überarbeitung (Masterprompt vom 9.11.2026, 23:51)
+# Status der Überarbeitung
+
+> [!important] Stand 10.11.2026, nach der Schlussredaktion (Prompt von 01:42 Uhr)
+> Es gilt jetzt die **Arbeitsfassung «SCHLUSSREDAKTION»**: [[Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.docx]] mit PDF, Lesekopie [[Kommentar (Schlussredaktion)]], und [[Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx]], Lesekopie [[Arbeitsjournal (Schlussredaktion)]].
+> Was geändert wurde: [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]]. Was offen ist und was vor der Abgabe geklärt werden muss: [[OFFENE_PUNKTE_SCHLUSSREDAKTION]].
+> Die Fassung «UEBERARBEITET» bleibt als Ausgangsfassung unverändert liegen. Nicht abgabefertig, solange die Punkte mit Priorität 1 offen sind.
+
+## Schlussredaktion: erledigt
+- [x] Ausgangsfassung vollständig gelesen, Zugriff auf Dateien und Quellen geprüft
+- [x] Absolute Aussagen berichtigt (Abstract, 7.4), Interview mit dem Transkript abgeglichen (4.5, 7.2)
+- [x] Angaben aus zweiter Hand mit «zit. nach» gekennzeichnet, USDA FAS nach Context.ph vom 29.06.2026 zitiert
+- [x] Kapitel 8 umgebaut: Herkunft der Aussagen, 8.2 bündelt Zeit und Ablenkung, 8.3 nur Zusammenarbeit, 8.9 gekürzt
+- [x] KI-Nachweis in drei Teile getrennt, Eingabe 12 und Anhang G, offene Frage der Zulässigkeit ausdrücklich genannt
+- [x] Aussagen über das gedruckte Buch auf den Satzstand vom 8.11. begrenzt, Titelblatt als Arbeitsfassung gekennzeichnet
+- [x] Arbeitsjournal an neun Stellen berichtigt, neue Datei
+- [x] Word-Datei gebaut und geprüft (90 Fussnoten, 107 Seiten im PDF), PDF durchgesehen
+
+## Wenn noch etwas geändert werden soll (Schlussredaktion)
+- Kommentar: `kommentar_quelle_schlussredaktion.txt` bearbeiten, dann den Aufruf oben in `Werkzeuge/build.py` verwenden. Oder direkt in Word ändern und am Schluss das Inhaltsverzeichnis aktualisieren.
+- Journal: [[Arbeitsjournal (Schlussredaktion)]] bearbeiten, dann `python3 Werkzeuge/journal_docx.py "Arbeitsjournal (Schlussredaktion).md" Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx`.
+
+# Stand vor der Schlussredaktion (Masterprompt vom 9.11.2026, 23:51)
 
 Arbeitsordner für die abschliessende Überarbeitung von Kommentar und Arbeitsjournal. Die Dateien in `09 Finalisierung` bleiben als Stand vom 9.11. abends liegen und sind überholt. Was hier liegt, gilt.
 

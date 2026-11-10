@@ -198,6 +198,8 @@ const titleChildren = [
   new Paragraph({ spacing: { after: 60 }, children: [new TextRun({ text: meta.betreuung || "", font: HEAD, size: 22, color: INK2, language: LANG })] }),
   new Paragraph({ spacing: { after: 60 }, children: [new TextRun({ text: meta.abgabe || "", font: HEAD, size: 22, color: INK2, language: LANG })] }),
 ];
+// Optionale Zeile «% hinweis: …» (z. B. Kennzeichnung als Arbeitsfassung); {{…}} wird gelb markiert.
+if (meta.hinweis) titleChildren.push(new Paragraph({ spacing: { before: 500, after: 60, line: 300 }, children: runsFor(meta.hinweis, { font: HEAD, size: 20, color: INK2 }) }));
 
 // ---------------------------------------------------------------- Hauptteil
 let tocIndex = -1;

@@ -113,7 +113,7 @@ EVENTS = [
     (D(9, 30), "Vier Thesen verteilt", "n"),
     (D(10, 5), "Entscheid für ein Interview", "k"),
     (D(10, 6), "Ministerium: 1'000 Hektaren mehr", "x"),
-    (D(10, 14), "John schickt die Fragen nach Cebu", "n"),
+    (D(10, 14), "John schickt die Fragen an seinen Onkel", "n"),
     (D(10, 21), "Zwei Thesen werden zu These 3", "n"),
     (D(10, 23), "Interview in Talisay City", "k"),
     (D(10, 25), "Antworten und Transkript erhalten", "n"),

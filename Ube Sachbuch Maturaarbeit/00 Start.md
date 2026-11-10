@@ -28,7 +28,12 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
     - [[3.5 Was bleibt von unserer Leitthese]]
 5. [[Schlusswort]]
 
-## Überarbeitete Fassung vom 10.11.2026 (gilt)
+## Schlussredaktion vom 10.11.2026 (gilt, Arbeitsfassung)
+- Zuerst lesen: [[OFFENE_PUNKTE_SCHLUSSREDAKTION]] · [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]]
+- Kommentar: [[Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.docx]] · PDF [[Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.pdf]] · Lesekopie [[Kommentar (Schlussredaktion)]]
+- Arbeitsjournal: [[Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx]] · Lesekopie [[Arbeitsjournal (Schlussredaktion)]]
+
+## Überarbeitete Fassung vom 10.11.2026 (Ausgangsfassung der Schlussredaktion)
 - Ordner `10 Überarbeitung`: [[00_STATUS]] · [[PRUEFBERICHT]]
 - Kommentar: [[Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx]] · Lesekopie [[Kommentar (überarbeitet)]]
 - Arbeitsjournal: [[Arbeitsjournal_Ube_UEBERARBEITET.docx]] · Lesekopie [[Arbeitsjournal (überarbeitet)]]

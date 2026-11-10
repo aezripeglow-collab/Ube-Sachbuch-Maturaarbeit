@@ -1,0 +1,5702 @@
+---
+tags: [ueberarbeitung, kommentar]
+stand: 2026-11-10
+---
+# Schriftlicher Kommentar «Ube»
+
+> [!info] Fassung vom 10.11.2026
+> Lesekopie der Word-Datei [[Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.docx]]. Quelle: `kommentar_quelle_schlussredaktion.txt` in diesem Ordner (Text dort ändern und mit `Werkzeuge/build.py` neu bauen, oder direkt in Word weiterarbeiten). Gelb markierte Stellen ==[so]== können nur wir selbst ausfüllen. Was geändert wurde und was offen ist: [[OFFENE_PUNKTE_SCHLUSSREDAKTION]].
+
+**Zwischen Tradition und Trend. Schriftlicher Kommentar zu unserem Sachbuch**
+
+Tim Rosal, Aezri Peglow, John Meuwly · Klassen G2023f (Tim Rosal, Aezri Peglow) und G2023h (John Meuwly) · Kantonsschule Baden, Maturaarbeit 2026
+
+Betreuerin: Andrea Büschlen · Zweitbewerter: Joel Franceschi · Abgabe: 10. November 2026
+
+## Abstract
+
+Für unsere Maturaarbeit haben wir zu dritt ein Sachbuch geschrieben und gestaltet. Es heisst «Ube» und trägt den Untertitel «Zwischen Tradition und Trend». Ube ist eine violette Yamswurzel, die auf den Philippinen seit sehr langer Zeit gegessen wird und die es seit diesem Jahr auch in Schweizer Cafés gibt. Angefangen haben wir im April 2026 mit einem philippinischen Kochbuch. Nach der Zwischenpräsentation im Juni wollten wir es zuerst auf drei Gerichte eingrenzen. Als wir dazu weder in den Sommerferien auf den Philippinen noch in unserer Recherche genug fanden, haben wir am 21. August entschieden, ein Buch über eine einzige Zutat zu machen. Am 9. November 2026 wurde das Buch gedruckt.
+
+Im Buch gehen wir der Frage nach, inwiefern der internationale Ube-Trend die traditionelle Bedeutung, Verwendung und Produktion von Ube auf den Philippinen verändert. Die ersten zwei Kapitel erzählen, was Ube auf den Philippinen bedeutet und wie sie im Ausland bekannt geworden ist. Im dritten Kapitel prüfen wir eine Leitthese mit vier Thesen. Dafür haben wir Statistiken, Studien und Zeitungsartikel ausgewertet, selbst nachgerechnet, Zutatenlisten verglichen und ein kurzes Interview mit einer Marktverkäuferin auf der Insel Cebu verwendet, das Johns Onkel für uns geführt hat.
+
+Unsere Leitthese lautet, dass die Philippinen beim Ube-Boom nicht ihre Kultur verlieren, sondern die Kontrolle über sie. Mit Kontrolle meinen wir zwei Dinge, nämlich wer an Ube verdient und wer bestimmt, wofür Ube steht. Die Nachfrage im Ausland ist in den letzten Jahren gestiegen. Die Ernte auf den Philippinen ist dagegen seit 2010 um 43 Prozent gesunken, und nach einer Zeitungsangabe hat der Rückgang schon vor dem Boom begonnen. Vom Exportwert von 3,06 Millionen US-Dollar im Jahr 2025 entfallen über 60 Prozent auf wenig verarbeitete Ube. In den Produkten und Werbetexten, die wir angeschaut haben, steht bei Ube die Farbe im Vordergrund, während Regierung und Zeitungen auf den Philippinen die Knolle als Erbe behandeln, das man schützen will. Das passt zur Leitthese, sie ist aber an drei Stellen zu stark formuliert. Der Boom kann den Rückgang der Ernte höchstens zum Teil erklären. Das Wort «verlieren» können wir nicht belegen, weil unsere Quellen den heutigen Zustand zeigen und nicht, wie viel Kontrolle es früher gab. Und die Menschen auf den Philippinen haben ihre eigene Vorstellung davon, was Ube bedeutet, auch wenn sie kaum mitbestimmen, wie Ube im Ausland dargestellt wird. In Kapitel 7.4 fassen wir die Leitthese deshalb genauer.
+
+Der zweite Schwerpunkt dieses Kommentars ist die Reflexion in Kapitel 8. Wir haben zu spät erkannt, dass das Kochbuch für eine wissenschaftliche Arbeit nicht trägt, wir haben unsere Zeit zu ungleichmässig eingeteilt, und wir haben uns am Anfang zu leicht ablenken lassen. Was das für den Verlauf bedeutet hat und was wir daraus lernen, beschreiben wir dort. Den grössten Teil dieses Kommentars und des Arbeitsjournals hat der KI-Assistent Claude formuliert. Was daran von uns stammt und was noch ungeklärt ist, steht in Kapitel 8.8 und im KI-Nachweis in Kapitel 10.2.
+
+## Inhaltsverzeichnis
+
+- 1 Einleitung
+    - 1.1 Ausgangslage
+    - 1.2 Leitfrage, Leitthese und Ziele
+    - 1.3 Aufbau des Kommentars
+- 2 Entstehung des Projekts
+    - 2.1 April bis Juni: das Kochbuch «Salo-Salo»
+    - 2.2 Juni: Zwischenpräsentation und Beurteilung
+    - 2.3 Juli und August: der Versuch, das Kochbuch zu retten
+    - 2.4 August: vom Kochbuch zu Ube
+    - 2.5 August bis November: vom Entscheid bis zum Druck
+- 3 Konzept des Buches
+    - 3.1 Zielgruppe
+    - 3.2 Inhaltlicher Aufbau
+    - 3.3 Zwei Arten zu schreiben
+    - 3.4 Gestaltung
+    - 3.5 Satz und Druck
+- 4 Recherche und Methode
+    - 4.1 Aufteilung der Arbeit
+    - 4.2 Recherche und Umgang mit Quellen
+    - 4.3 Von der Leitfrage zu vier Thesen
+    - 4.4 Eigene Berechnungen
+    - 4.5 Interview mit einer Marktverkäuferin
+    - 4.6 Zutatenlisten als Beispiele
+- 5 Das gedruckte Buch
+- 6 Nachträgliche Einordnung: unser Buch und die Fachliteratur
+    - 6.1 Was ein Sachbuch ist
+    - 6.2 Paratexte als Wegweiser
+    - 6.3 Seite und Zeilenlänge
+    - 6.4 Text und Bild
+- 7 Einordnung der Ergebnisse
+    - 7.1 Wirtschaftliche Seite: Wer verdient am Boom?
+    - 7.2 Kulturelle Seite: Wer bestimmt, wofür Ube steht?
+    - 7.3 Wo sich beides trifft: die Produktion
+    - 7.4 Was gegen unsere Leitthese spricht
+    - 7.5 Grenzen der Arbeit
+- 8 Reflexion
+    - 8.1 Der Themenwechsel
+    - 8.2 Organisation, Zeit und Ablenkung
+    - 8.3 Zusammenarbeit und Aufteilung
+    - 8.4 Umgang mit den Rückmeldungen und mit unserem Plan
+    - 8.5 Umgang mit Annahmen, Quellen und dem Interview
+    - 8.6 Nähe zum Thema und unser Blick auf den Trend
+    - 8.7 Das Buch als Produkt
+    - 8.8 Unser Umgang mit künstlicher Intelligenz
+    - 8.9 Was wir anders machen würden
+- 9 Schlusswort und Dank
+- 10 Quellenverzeichnis
+    - 10.1 Quellen
+    - 10.2 Künstliche Intelligenz (KI-Nachweis)
+- 11 Abbildungsverzeichnis
+- 12 Tabellenverzeichnis
+- Anhang A: Interview mit «Tita»
+- Anhang B: Wortlaut des Prompts vom 8. November 2026 (Eingabe 6)
+- Anhang C: Wortlaut des Prompts vom 9. November 2026, 00:53 Uhr (Eingabe 7)
+- Anhang D: Wortlaut des Prompts vom 9. November 2026, 08:39 Uhr (Eingabe 8)
+- Anhang E: Wortlaut des Prompts vom 9. November 2026, 10:36 Uhr (Eingabe 9)
+- Anhang F: Wortlaut des Prompts vom 9. November 2026, 23:51 Uhr (Eingabe 11)
+- Anhang G: Wortlaut des Prompts vom 10. November 2026, 01:42 Uhr (Eingabe 12)
+
+## 1 Einleitung
+
+### 1.1 Ausgangslage
+
+Seit Anfang März 2026 gibt es bei Starbucks in der Schweiz Getränke mit Ube, und bei Coop stand schon im Januar ein Ube-Müesli im Regal.[^1] Für viele Leute hier war das wahrscheinlich das erste Mal, dass sie von dieser violetten Knolle gehört haben. Bei uns war das anders, weil wir alle drei philippinische Wurzeln haben und Ube seit unserer Kindheit kennen. Am bekanntesten ist sie als Ube Halaya, eine süsse violette Masse, die man ähnlich wie Konfitüre isst. Als dieselbe Knolle hier als Neuheit verkauft wurde, haben wir uns gefragt, woher sie eigentlich kommt, warum sie gerade jetzt überall ist und ob die Menschen, die sie anbauen, etwas davon haben. Aus diesen Fragen ist im August unser Sachbuch entstanden, nachdem wir im Frühling zuerst an einem Kochbuch gearbeitet hatten.
+
+Das Buch erklärt Leserinnen und Lesern in der Schweiz, woher Ube kommt und warum sie auf den Philippinen so wichtig ist. Es fragt aber auch, was der weltweite Hype für das Land bedeutet, aus dem die Knolle stammt. Auf diese zweite Frage sind wir erst beim Recherchieren gestossen. Wir haben Berichte über sinkende Ernten gefunden, über Bauern, die vom Boom kaum etwas haben, und über einen Exportstopp, den die philippinische Regierung im August 2026 verhängt hat.
+
+Dieser Kommentar begleitet das Buch. Er zeigt, wie aus dem Kochbuch ein Sachbuch geworden ist, wie wir Aufbau und Gestaltung geplant und mit welchen Methoden wir gearbeitet haben. Danach ordnen wir die Ergebnisse ein und schauen auf unseren Arbeitsprozess zurück.
+
+### 1.2 Leitfrage, Leitthese und Ziele
+
+Unsere Leitfrage lautet:
+
+> Inwiefern verändert der internationale Ube-Trend die traditionelle Bedeutung, Verwendung und Produktion von Ube auf den Philippinen?
+
+Diese Frage ist zu gross, als dass man sie in einem Schritt beantworten könnte. Für das dritte Kapitel des Buches haben wir sie darum in drei Teilfragen aufgeteilt. Verdienen die Philippinen am Boom mit? Bedeutet Ube den Menschen heute noch dasselbe wie früher? Und kann die Ube-Produktion auf den Philippinen wieder wachsen? Die Antwort, die wir prüfen wollten, haben wir als Leitthese formuliert:
+
+> Die Philippinen verlieren beim Ube-Boom nicht ihre Kultur, sondern die Kontrolle über sie.
+
+Das wichtigste Wort darin ist «Kontrolle». Wir verstehen es in zwei Richtungen, einer wirtschaftlichen und einer kulturellen. Gemeint ist erstens, wer die Preise bestimmt, wer die Knolle verarbeitet und wer an ihr verdient, und zweitens, wer bestimmt, wofür Ube in der Welt steht.[^2] Dazu kommt eine Voraussetzung, die in der Leitthese selbst nicht vorkommt, nämlich dass im eigenen Land überhaupt genug Ube wächst. Nach diesen zwei Richtungen ordnen wir in Kapitel 7 unsere Ergebnisse.
+
+Für das Buch hatten wir drei Ziele. Es sollte auch für Leute verständlich sein, die Ube höchstens als violetten Latte kennen. Im wissenschaftlichen Teil sollte man jede Zahl nachprüfen können. Und es sollte ein Buch werden, das man gerne in die Hand nimmt, mit Bildern und einer Gestaltung, die zum Thema passt. Diese Ziele vertragen sich nicht immer. Ein Text mit vielen Belegen liest sich schwerer als eine Geschichte, und wo grosse Bilder sind, bleibt weniger Platz für Erklärungen. Wie weit wir die drei Ziele erreicht haben, beurteilen wir in Kapitel 8.7.
+
+### 1.3 Aufbau des Kommentars
+
+In Kapitel 2 erzählen wir der Reihe nach, wie das Projekt verlaufen ist, vom ersten Treffen im April bis zum Druck. Kapitel 3 zeigt das Konzept des Buches, und in Kapitel 4 steht, wie wir recherchiert, mit welchen Quellen wir gearbeitet, wie wir gerechnet und wie wir das Interview ausgewertet haben. Kapitel 5 beschreibt das gedruckte Buch. In Kapitel 6 vergleichen wir es mit dem, was die Fachliteratur über Sachbücher und ihre Gestaltung sagt. Diese Texte sind erst im November dazugekommen, als wir den Kommentar geschrieben haben, und darum steht das Kapitel nach der Beschreibung des Buches und nicht davor. In Kapitel 7 ordnen wir unsere Ergebnisse ein und prüfen, was gegen unsere Leitthese spricht. Kapitel 8 ist die Reflexion. Dort geht es nicht mehr um Ube, sondern um unsere Entscheide, unsere Methode, das Produkt und das, was wir gelernt haben.
+
+Geschrieben ist der Kommentar in der Wir-Form, weil das Buch eine Gruppenarbeit ist. Wenn etwas nur eine Person betrifft, nennen wir sie beim Namen. Die Daten zum Ablauf stammen aus unserem Arbeitsjournal und aus unserer gemeinsamen Rückschau im November.[^3] Quellen belegen wir mit Fussnoten nach den Zitierregeln der Kantonsschule Baden. In der Fussnote steht die Kurzform, die vollständige Angabe steht alphabetisch geordnet im Quellenverzeichnis.[^4] Wenn wir eine Quelle in eigenen Worten wiedergeben, beginnt die Fussnote mit «Vgl.», bei wörtlichen Zitaten nicht.[^5] Angaben, die wir nur aus zweiter Hand kennen, kennzeichnen wir wie schon im Buch mit «zit. nach». Das gilt auch für Angaben, die wir aus unserem eigenen Buch übernehmen. In diesen Fällen nennen wir die Quelle, die dort als Kurzbeleg steht, und die Buchseite. Die Seitenangaben zu unserem Buch beziehen sich auf die Satzdatei vom 8. November 2026. Ob das gedruckte Exemplar vom 9. November auf allen Seiten damit übereinstimmt, ist für diesen Kommentar nicht geprüft worden.==[Seitenverweise und zitierte Stellen am gedruckten Buch prüfen. Dieser Kommentar zitiert nach dem PDF vom 8.11.2026 mit 52 Seiten. Das Druck-PDF vom 9.11. lag Claude auch am 10.11. nicht vor.]==
+
+Für diesen Kommentar und für das Arbeitsjournal haben wir künstliche Intelligenz benutzt, nämlich den KI-Assistenten Claude. Claude hat den Text aus unseren Unterlagen und Angaben formuliert und mehrmals überarbeitet. Wofür wir Claude eingesetzt haben, mit welchen Eingaben und was daraus geworden ist, steht in Kapitel 8.8 und im KI-Nachweis in Kapitel 10.2.[^6]
+
+## 2 Entstehung des Projekts
+
+Unsere Maturaarbeit hat am 22. April 2026 mit einem Kochbuch angefangen und endet am 10. November mit einem Sachbuch über eine einzige Knolle. Abbildung 1 zeigt den Weg dazwischen. Die Zeit läuft von oben nach unten, und die Abstände zwischen den Punkten entsprechen den echten Abständen zwischen den Daten. Die graue Linie steht für die Zeit mit dem Kochbuch «Salo-Salo», die violette für das Sachbuch. Grosse Punkte markieren Entscheide und Termine, die den Verlauf bestimmt haben, kleine Punkte einzelne Arbeitsschritte. Die zwei leeren Kreise sind Nachrichten aus den Philippinen, auf die wir reagieren mussten, und die grauen Flächen zeigen die Sommer- und die Herbstferien.
+
+Auf dem Zeitstrahl sieht man, wie ungleich die Zeit verteilt war. Für das Kochbuch hatten wir vier Monate, die Sommerferien eingerechnet. Beim Sachbuch blieben nach dem Entscheid knapp zwölf Wochen, und in diese zwölf Wochen fallen mehr Punkte als in die vier Monate davor. Warum das so gekommen ist, besprechen wir in Kapitel 8.
+
+![[zeitstrahl.png]]
+*Abb. 1: Ablauf unserer Maturaarbeit vom 22. April bis zum 10. November 2026 mit den wichtigsten Entscheiden, Terminen und Nachrichten. Eigene Abbildung, mit Claude gezeichnet. Datenquelle: Rosal/Peglow/Meuwly: Arbeitsjournal (2026).*
+
+### 2.1 April bis Juni: das Kochbuch «Salo-Salo»
+
+Angefangen haben wir an einem Mittwoch bei John in Turgi. Geplant war ein philippinisches Kochbuch mit dem Titel «Salo-Salo», das Wort steht für das gemeinsame Essen. Die Philippinen sind in 18 Regionen eingeteilt, und uns hat interessiert, wie verschieden ihre Küchen sind. Das Buch sollte für jede Region typische Gerichte zeigen, jeweils mit Rezept, eigenen Fotos und einem kurzen Text dazu, was das Gericht bedeutet.[^7] Gestaltet werden sollte es in den Farben der philippinischen Flagge, und binden wollten wir es selbst.
+
+Die Arbeit haben wir nach Themen aufgeteilt. Aezri hat am ersten Tag in OneNote die Abschnitte für unser Rechercheprotokoll angelegt und sich dann die 18 Regionen vorgenommen. Tim hat für jede Region ein bis drei bekannte Gerichte mit Rezepten gesucht. In den folgenden Wochen hat Aezri zur Geschichte und zu den spanischen, chinesischen und amerikanischen Einflüssen auf die Küche recherchiert. Am 6. Mai haben Tim und John in der Schule den Projektplan für unseren Arbeitsvertrag fertig gemacht, am 20. Mai hat Aezri die ersten Interviewfragen zur philippinischen Küche aufgeschrieben, und Ende Mai haben wir Ideen für die Gestaltung gesammelt.
+
+Schon nach wenigen Wochen hat sich gezeigt, dass der Plan Lücken hat. Manche Regionen hatten kein eindeutiges Hauptgericht, andere teilten sich dieselben Gerichte. Adobo oder Sisig zum Beispiel kennt man fast überall, nur kocht man sie je nach Region etwas anders. Zu vielen Gerichten haben wir zwar ein Rezept im Internet gefunden, aber kaum etwas darüber, woher sie kommen und warum sie gerade für eine Region typisch sein sollen. Anfang Juni haben wir trotzdem mit dem Begleitkommentar für die Zwischenpräsentation angefangen. Aezri hat den inhaltlichen Teil geschrieben und Tim den Teil zur Gestaltung, John hat das Titelblatt mit einem gedeckten Tisch entworfen. Die Schwierigkeiten mit den Gerichten haben wir im Kommentar zwar erwähnt, aber als grundsätzliches Problem haben wir sie damals noch nicht gesehen.
+
+### 2.2 Juni: Zwischenpräsentation und Beurteilung
+
+Am 19. Juni haben wir das Projekt Frau Büschlen und Herrn Franceschi vorgestellt. Aezri sprach über die Geschichte und die fremden Einflüsse, Tim über die Regionen und Gerichte, und John zeigte das Titelblatt und eine Beispielseite.
+
+Die schriftliche Beurteilung haben wir am 26. Juni bekommen. Gelobt wurden nach unseren Notizen der Titel und der klare Aufbau des Begleitkommentars. Die Kritik wog aber schwerer. Wie wir die Gerichte für die Regionen ausgewählt hatten, war weder in der Präsentation noch im Kommentar nachvollziehbar. Unsere Quellen standen nur als Liste am Ende, Fussnoten gab es keine, und insgesamt war für die Beurteilenden inhaltlich noch wenig Wissenschaftlichkeit zu erkennen. Dazu kamen viele Wiederholungen, eine Reflexion in der Ich-Form und ein KI-Nachweis ohne genaue Prompts. Zum Arbeitsprozess stand in der Beurteilung, wir seien zu Beginn nicht richtig in die Gänge gekommen und hätten gruppenteilig gearbeitet.[^8] Zusammengefasst wollten die Betreuungspersonen, dass wir das Kochbuch stärker eingrenzen und uns gründlicher damit auseinandersetzen, wie daraus eine wissenschaftliche Arbeit werden kann.
+
+Genauso wichtig wie die Beurteilung war das Fachgespräch nach der Präsentation. Dort kam die Frage auf, was an der philippinischen Küche eigentlich ursprünglich philippinisch ist und welche Nahrungsmittel es schon vor der Kolonialzeit gab. Darauf hatten wir keine gute Antwort, weil wir die Küche bis dahin fast nur über das beschrieben hatten, was von aussen dazugekommen war.
+
+### 2.3 Juli und August: der Versuch, das Kochbuch zu retten
+
+Nach der Beurteilung wollten wir das Kochbuch zunächst weiterführen. Statt Gerichte aus allen Regionen zu behandeln, wollten wir uns auf drei ausgewählte, einflussreiche Gerichte und ihre Hintergrundgeschichte konzentrieren. Damit wollten wir auf die Rückmeldung reagieren, das Kochbuch stärker einzugrenzen.
+
+In den Sommerferien waren Tim und John mit ihren Familien auf den Philippinen und haben dort Leute nach der Herkunft von Gerichten gefragt. Das Ergebnis war leider ernüchternd. Die Leute kannten die Gerichte gut, über ihre Herkunft wussten aber die wenigsten Bescheid, und ausreichende zusätzliche Informationen haben die beiden vor Ort nicht gefunden. Aezri hat in dieser Zeit in der Schweiz weiterrecherchiert und nach dem gesucht, was vor der Kolonialzeit auf den Philippinen gegessen wurde. Auch diese Recherche brachte für das Kochbuch nicht den erhofften Erfolg.
+
+### 2.4 August: vom Kochbuch zu Ube
+
+Am 12. August haben wir uns zum ersten Mal nach den Ferien wieder bei John getroffen. Tim und John erzählten von der Befragung, und anschliessend haben wir zusammen aufgeschrieben, was am Kochbuch nicht funktioniert. Am Schluss standen vier Probleme auf dem Blatt. Es gibt schon sehr viele philippinische Kochbücher, unser Kochbuch ist für eine wissenschaftliche Arbeit zu oberflächlich, zu den einzelnen Gerichten findet man kaum Informationen, und auch die Menschen vor Ort wissen wenig darüber. Als grösstes Problem haben wir die fehlende Wissenschaftlichkeit eingestuft, weil die anderen Punkte dazu führen.
+
+Deshalb haben wir einen anderen Ansatz in Betracht gezogen und nach typisch philippinischen Zutaten gesucht. Zuerst haben wir uns mit Bananenketchup beschäftigt, danach mit Ube. Bei Ube ist uns aufgefallen, dass sie in vielen Büchern über das philippinische Essen vorkommt, dass es aber kaum ein Buch nur über sie gibt, sondern vor allem Zeitungsartikel.[^9] Dazu kam, dass Tim im Frühling bei Starbucks und im Coop Ube-Produkte gesehen hatte. Am 21. August haben wir uns bei John getroffen und gemeinsam entschieden, das Kochbuch aufzugeben und ein Sachbuch über Ube zu schreiben. Noch am gleichen Tag hat Aezri einen ersten Plan mit Grundidee, Leitfrage und drei Teilen geschrieben und Frau Büschlen um ein Gespräch gebeten.
+
+An Ube hat uns auch gefallen, dass sie eine Antwort auf die Frage aus dem Fachgespräch möglich macht. Yamswurzeln wie Ube hat man auf den Philippinen schon gegessen, lange bevor die Spanier kamen. An ihr kann man zeigen, was sehr alt ist und was erst später dazukam. Ganz von vorne anfangen mussten wir ausserdem nicht, denn Aezris Recherche zu den kolonialen Einflüssen aus dem Frühling floss ins erste Kapitel ein, zum Beispiel bei der Ube Halaya, deren Name aus dem Spanischen kommt.
+
+### 2.5 August bis November: vom Entscheid bis zum Druck
+
+Am 26. August haben wir den neuen Plan durchgesprochen und die drei Teile verteilt. Aezri übernahm Teil 1 über Herkunft, Geschichte und Bedeutung von Ube, Tim Teil 2 über den Trend und John Teil 3 mit der eigenen Untersuchung. Am 3. September folgte der Teams-Call mit Frau Büschlen. Sie war mit dem neuen Thema einverstanden, verlangte aber zwei Dinge. Die Arbeit müsse wissenschaftlicher werden als bei der Zwischenpräsentation, und wir bräuchten eine eigene Untersuchung. Abgemacht haben wir, dass das dritte Kapitel der wissenschaftliche Schwerpunkt des Buches ist und die ersten zwei Kapitel das Thema verständlich einführen dürfen.
+
+Im September entstanden Teil 1 und Teil 2, während John für den dritten Teil recherchierte. Mitte September wurde bekannt, dass die Philippinen seit Mitte August keine frische Ube und kein Pflanzgut mehr ausführen lassen.[^10] John hat die Artikel dazu gesammelt, weil der Exportstopp vor allem den dritten Teil betraf. Am 25. September, dem letzten Schultag vor den Herbstferien, haben wir aus Johns Vorschlag für drei Leitfragen die Leitthese formuliert, und am 30. September haben wir sie in vier Thesen aufgeteilt, an denen wir dann parallel gearbeitet haben.
+
+Der Oktober gehörte den Thesen und dem Interview. Am 5. Oktober haben wir uns für ein Interview entschieden. Am 6. Oktober kündigte das philippinische Landwirtschaftsministerium an, im ersten Jahr 1'000 zusätzliche Hektaren für Ube zu erschliessen, was besonders Tims These zur Produktion betraf.[^11] Am 14. Oktober hat John die Interviewfragen vorbereitet und seinem Onkel per Messenger geschickt. Am 21. Oktober wurde aus Johns zwei geplanten Thesen zur Bedeutung eine einzige. Am 23. Oktober hat Johns Onkel das Interview in Talisay City geführt, und am 25. Oktober haben wir die Antworten mit dem Transkript von John erhalten. Wie das Interview abgelaufen ist und was es aussagen kann, steht in Kapitel 4.5.
+
+Anfang November haben wir die Thesen abgeschlossen. Aezri hat die Einleitung und den Schluss von Kapitel 3 geschrieben und am 6. November alle Texte in einem Word-Dokument zusammengeführt, Tim hat Bilder gesucht und Korrektur gelesen, und John hat das Buch in Adobe InDesign gesetzt. Am 9. November hat John den Druckauftrag organisiert, und noch am gleichen Tag konnten wir das gedruckte Buch abholen. Tim und Aezri haben währenddessen an diesem Kommentar gearbeitet.
+
+## 3 Konzept des Buches
+
+### 3.1 Zielgruppe
+
+Für wen das Buch gedacht ist, steht im Vorwort. Es richtet sich an alle, die Ube vielleicht schon als violettes Getränk oder Dessert gesehen haben, aber nicht genau wissen, woher diese Zutat kommt.[^12] Gedacht haben wir dabei vor allem an Leserinnen und Leser in der Schweiz ohne Verbindung zu den Philippinen. Für sie erklären wir Dinge, die für uns selbstverständlich sind, zum Beispiel wie man Ube ausspricht oder was ein pasalubong ist, ein essbares Mitbringsel von einer Reise. Oft hilft ein Vergleich mit etwas Bekanntem. Den Herkunftsschutz, den die Provinz Bohol für ihre Sorte Kinampay beantragt hat, vergleichen wir mit dem Schutz für Champagner aus Frankreich.[^13]
+
+Wir glauben, dass auch Filipinos in der Schweiz im Buch Neues finden. Uns ging es selbst so. Als wir angefangen haben, wussten wir über Ube eigentlich nur, dass sie violett ist, süss schmeckt und gerade überall angesagt ist.[^14]
+
+### 3.2 Inhaltlicher Aufbau
+
+Das Buch hat drei Kapitel, die aufeinander aufbauen. Kapitel 1, «Die Geschichte von Ube», erzählt, was Ube ist und welche Bedeutung sie auf den Philippinen schon lange vor dem Trend hatte. Kapitel 2, «Der Ube-Trend», zeigt, wie sie im Ausland bekannt wurde, und erst Kapitel 3, «Einfluss von Ube auf den Philippinen», fragt nach den Folgen. Diese Reihenfolge, von der Tradition über den Trend zu den Folgen, stand schon in unserem Projektplan.[^15] Ihr Vorteil ist, dass Kapitel 3 auf Wissen zurückgreifen kann, das die Leser bereits haben. Wenn wir dort erklären, warum fehlendes Pflanzgut ein Problem ist, müssen wir nicht nochmals beschreiben, wie Ube vermehrt wird, weil das im ersten Kapitel steht. Ausserdem endet jedes Kapitel so, dass es zum nächsten hinführt. Kapitel 1 hört mit dem violetten Latte auf, den man heute in Zürich trinken kann, und Kapitel 2 endet mit den Fragen, denen Kapitel 3 nachgeht.
+
+Für den dritten Teil standen im Projektplan zuerst sechs offene Fragen, etwa ob heute mehr Ube produziert werden muss oder ob die Tradition bestehen bleibt. Beim Recherchieren haben wir gemerkt, dass sich diese Fragen überschneiden und dass wir sie so nicht prüfen können. Wie daraus drei Teilfragen und die Leitthese wurden, steht in Kapitel 4.3.
+
+Ein eigenes Fazitkapitel gibt es nicht. Das Fazit steht im letzten Abschnitt von Kapitel 3, der «Was bleibt von unserer Leitthese?» heisst. Danach kommt ein kurzes Schlusswort, in dem wir persönlicher schreiben.
+
+### 3.3 Zwei Arten zu schreiben
+
+Das Buch ist nicht überall gleich geschrieben. Kapitel 1 und 2 sind Sachtexte, die erzählen und erklären. Sie kommen ohne Belege im Text aus, damit man sie in einem Zug lesen kann. Die Belege dazu haben wir in unserer gemeinsamen Quellentabelle gesammelt. Kapitel 3 arbeitet dagegen wissenschaftlich. Jede These besteht aus drei Behauptungen, die wir begründen und belegen. Dann prüfen wir Einwände und ziehen ein Fazit. Dass die ersten zwei Kapitel einführend und weniger wissenschaftlich angelegt sein dürfen und das dritte der wissenschaftliche Schwerpunkt ist, war mit Frau Büschlen so abgemacht.
+
+Belegt ist Kapitel 3 mit Kurzbelegen in Klammern, also mit Autor oder Herausgeber und Jahr, zum Beispiel «(CPBRD 2026)». Wenn eine Angabe aus zweiter Hand stammt, schreiben wir «zit. nach», bei eigenen Übersetzungen aus dem Englischen «übers. d. Verf.».
+
+Uns ist klar, dass an der Kantonsschule Baden die Variante mit Fussnoten üblich ist, dass man eine andere Zitierweise mit der Betreuungsperson besprechen soll und dass man den gewählten Stil einheitlich anwenden muss.[^16] Die Kurzbelege im Buch sind unsere eigene Entscheidung, eine ausdrückliche Absprache dazu haben wir nicht festgehalten. Für Kurzbelege sprach aus unserer Sicht, dass man bei jeder Zahl sofort sieht, woher sie kommt, ohne zum Seitenende zu schauen. Genau das hatte in der Beurteilung der Zwischenpräsentation gefehlt. Bei einem Buch mit zwei Spalten und Bildern wären Fussnoten ausserdem schwer unterzubringen. In diesem Kommentar halten wir uns an die Fussnoten-Variante der Kantonsschule.
+
+### 3.4 Gestaltung
+
+Für das Kochbuch waren noch die Flaggenfarben vorgesehen. Beim neuen Buch hat John Violett vorgeschlagen, die Farbe der Knolle selbst, und dabei ist es geblieben. Im Buch ist Ube-Violett die Hauptfarbe, aber nicht als Farbe der Titel, sondern als Fläche. Das Vorwort steht auf einer ganz violetten Seite, und in Kapitel 2 sind einzelne Seiten farbig hinterlegt, etwa die Seite über Ube-Pulver und -Paste. Für den Abschnitt über den Vergleich mit Matcha hat John zusätzlich ein Grün angelegt, und auf der Doppelseite über die Cafés liegt der Text in violetten Flächen auf braunem Grund.[^17] Die Titel und Zwischentitel sind schwarz, damit die farbigen Seiten nicht unruhig werden. Als Schrift hat John für das ganze Buch Minion Pro gewählt, eine klassische Buchschrift mit Serifen.
+
+In Kapitel 1 und 2 steht auf fast jeder Seite ein Bild, oft über eine ganze Spalte, mit einer kurzen Bildunterschrift. Zwei davon sind eigene Aufnahmen, nämlich die ganze und die aufgeschnittene Ube-Knolle auf Seite 4.[^18] Die übrigen Fotos in diesen zwei Kapiteln stammen aus dem Internet. John hat die Fundstellen in einer Liste gesammelt. Die Karte von Bohol auf Seite 9 haben wir nicht aus dem Internet übernommen, sondern mit dem KI-Assistenten Claude erstellt. Sie zeigt die Gemeinden der Insel, in Violett abgestuft die Anbau- und Herkunftsgebiete der Kinampay und auf der Nachbarinsel Cebu den Markt in Talisay City, auf dem Tita verkauft.[^19]
+
+Auch in der Gestaltung unterscheiden sich die erzählenden Kapitel vom dritten. In Kapitel 3 beginnt jede These auf einer neuen Seite, die Behauptungen stehen als Zwischentitel, und das Fazit am Ende jeder These hat einen eigenen Zwischentitel, damit man beim Durchblättern sieht, wo eine These aufhört. Bilder, Tabellen oder Diagramme hat dieses Kapitel im Satzstand vom 8. November keine. Wie wir das heute beurteilen, steht in Kapitel 8.7.
+
+### 3.5 Satz und Druck
+
+Alle Texte haben wir zuerst in Word geschrieben. Am 6. November hat Aezri sie in einem Dokument zusammengeführt, und John hat sie in Adobe InDesign gesetzt. Anders als in Word kann man dort Bilder und Textrahmen frei anordnen.
+
+Gedruckt wurde das Buch am 9. November 2026. John hat den Druckauftrag organisiert, und wir konnten das Buch noch am gleichen Tag abholen. Es ist ein einzelnes Exemplar mit festem Einband. Der Umschlag ist glänzend laminiert, die Seiten sind beidseitig auf weisses, mattes Offsetpapier mit 100 Gramm pro Quadratmeter gedruckt. Für das Kochbuch hatten wir im Frühling noch geplant, das Buch selbst zu binden. Beim Sachbuch haben wir uns für den Druck mit festem Einband entschieden.
+
+## 4 Recherche und Methode
+
+### 4.1 Aufteilung der Arbeit
+
+Nach dem Themenwechsel haben wir die Arbeit neu verteilt. Tabelle 1 zeigt, wer welchen Teil des Buches geschrieben und welche weiteren Aufgaben übernommen hat.
+
+*Tabelle 1: Aufteilung der Arbeit an Buch und Kommentar.*
+
+| Teil des Buches oder Aufgabe | verantwortlich |
+| --- | --- |
+| Vorwort | Tim |
+| Kurzeinleitungen zu den drei Kapiteln | Aezri |
+| Kapitel 1: Die Geschichte von Ube | Aezri |
+| Kapitel 2: Der Ube-Trend | Tim |
+| Kapitel 3: Einleitung und Leitthese | Aezri |
+| These 1: Das Ube-Paradox | Aezri |
+| These 2: Matcha oder Quinoa? | Aezri |
+| These 3: Vom Lebensmittel zum Bild | John |
+| These 4: Mehr Felder allein reichen nicht | Tim |
+| Was bleibt von unserer Leitthese? | Aezri |
+| Schlusswort | Aezri |
+| Quellenverzeichnis zu Kapitel 3 | Aezri |
+| Interviewfragen und Weiterleitung des Materials an die Gruppe | John |
+| Durchführung des Interviews auf Cebu | Johns Onkel |
+| Bildersuche und Korrekturlesen | Tim |
+| Karte von Bohol | John, mit Claude erstellt |
+| Satz und Layout in InDesign, Druckauftrag | John |
+| Schriftlicher Kommentar | Aezri und Tim, mit Claude formuliert (Kapitel 10.2), sprachliche Vorlage sind Aezris Texte |
+
+Wann diese Teile entstanden sind, zeigt Abbildung 2. Sie beginnt mit dem Entscheid am 21. August und endet mit der Abgabe. Für jede Person gibt es eine Zeile, und jeder Balken steht für einen Teil, an dem jemand gearbeitet hat. Wo sich zwei Arbeiten zeitlich überschneiden, liegen sie in zwei Spuren übereinander. Die gestrichelten Linien markieren gemeinsame Entscheide und wichtige Termine, und die graue Fläche zeigt die Herbstferien. Die Balken sind ungefähre Zeiträume, die wir aus dem Arbeitsjournal abgelesen haben. Wir müssen dazusagen, dass wir nicht an jedem dieser Tage gearbeitet haben. Die Balken zeigen, in welchem Zeitraum ein Teil entstanden ist, und nicht, wie viele Stunden darin stecken.
+
+![[arbeitsplan.png]]
+*Abb. 2: Wer von uns wann woran gearbeitet hat, vom Entscheid am 21. August bis zur Abgabe am 10. November 2026. Die Balken zeigen ungefähre Zeiträume, die gestrichelten Linien gemeinsame Entscheide und wichtige Termine. Eigene Abbildung, mit Claude gezeichnet. Datenquelle: Rosal/Peglow/Meuwly: Arbeitsjournal (2026).*
+
+In der Abbildung erkennt man zwei Phasen. Bis zum 23. September haben Aezri und Tim zur gleichen Zeit an Teil 1 und Teil 2 geschrieben. John hat in dieser Zeit zuerst einen Fragebogen für die geplante Umfrage entworfen, dann zur Bedeutung von Ube und zum Exportstopp recherchiert und zum Schluss die drei Leitfragen vorgeschlagen. Ab dem 30. September liefen alle Thesen gleichzeitig, mitten durch die Herbstferien. Tim und Aezri haben in der ersten Oktoberwoche die Zahlen für These 1 und These 4 berechnet, und John hat die Rechnungen kontrolliert. Mitte Oktober hat John die Interviewfragen vorbereitet und das Material nach dem Interview an uns weitergeleitet. In der letzten Woche hat John das Buch gesetzt, während Aezri die Schlussteile schrieb und Tim alles gegenlas.
+
+Die meisten Texte sind zu Hause entstanden, jeder an seinem Teil. Für Besprechungen haben wir uns bei John in Turgi getroffen oder per Teams abgesprochen, und die wichtigen Entscheide haben wir zu dritt getroffen. Welche Vorteile und welche Nachteile diese Arbeitsweise hatte, besprechen wir in Kapitel 8.3.
+
+### 4.2 Recherche und Umgang mit Quellen
+
+Weil es kein Buch über Ube gab, mussten wir unser Wissen aus vielen einzelnen Quellen zusammensetzen. Angefangen haben wir oft mit Wikipedia, aber nur, um Stichworte und weiterführende Links zu finden. Sehr geholfen hat uns der wissenschaftliche Name Dioscorea alata. Mit ihm findet man in Google Scholar und in Datenbanken auch Studien, in denen das Wort Ube gar nicht vorkommt. Die Aussagen, die ins Buch sollten, haben wir in einer gemeinsamen Tabelle gesammelt, mit Quelle, Art der Quelle und einer Spalte «noch prüfen». Die Spalte mit der Art der Quelle war eine Lehre aus dem Kochbuch. Dort hatten wir am Schluss fast nur Blogs und Rezeptseiten.
+
+Am Ende stützt sich das Buch auf sieben Arten von Quellen, und jede kann etwas anderes. Statistiken der philippinischen Statistikbehörde PSA sind die verlässlichste Grundlage für Ernte und Fläche. Wir hatten sie allerdings nicht direkt vor uns, sondern über den Forschungsdienst des Repräsentantenhauses (CPBRD) und über einen Bericht des US-Landwirtschaftsministeriums.[^20] Beim Bericht des US-Landwirtschaftsministeriums müssen wir dazusagen, dass in unserer Quellenliste vom 6. November vermerkt ist, dass uns bis dahin nur eine Zusammenfassung vorlag. In diesem Kommentar zitieren wir ihn deshalb aus zweiter Hand, nach einem Bericht der Nachrichtenseite Context.ph. Mitteilungen des philippinischen Landwirtschaftsministeriums sind die erste Quelle für Massnahmen wie den Exportstopp oder die 1'000 zusätzlichen Hektaren. Sie beschreiben aber oft Absichten und keine Ergebnisse. Fachartikel gibt es wenige, aber sie sind belastbar, etwa zur Ausbreitung von Quinoa oder zu den Antioxidantien in Ube. Zeitungs- und Agenturberichte machen den grössten Teil unserer Quellen aus, weil der Boom so neu ist. Sie haben allerdings zwei Schwächen. Oft geben mehrere Berichte dieselbe Mitteilung oder dieselbe Agenturmeldung wieder, und wer darin zu Wort kommt, hat oft ein eigenes Interesse. Beim Streit darüber, ob die Philippinen Ube aus Vietnam einführen, schreiben zwei Zeitungen Ja, und die Pflanzenschutzbehörde bestreitet es zumindest für frische Ube.[^21] Marktstudien wie die von Transparency Market Research sind Schätzungen von Firmen, die ihre Berechnung nicht offenlegen. Angaben von Firmen, zum Beispiel Zutatenlisten, kann dagegen jeder nachprüfen. Und unser Interview ist eine einzelne Stimme.
+
+Damit wir uns auf diese Mischung verlassen konnten, haben wir uns ein paar Regeln gegeben. Wichtige Zahlen sollten möglichst von einer Behörde stammen oder durch eine zweite Quelle bestätigt sein. Zitiert eine Zeitung eine Statistik, nennen wir die ursprüngliche Stelle mit «zit. nach». Wo Quellen ein Ereignis unterschiedlich datieren, haben wir nach der frühesten Angabe gesucht. Und im Text behandeln wir eine Schätzung nicht wie eine Statistik und eine Ankündigung nicht wie ein Ergebnis.
+
+Wie nötig diese Regeln waren, zeigen drei Beispiele. Kapitel 2 des Buches datiert den Ube-Donut mit Blattgold aus Brooklyn auf Ende 2015, These 3 schrieb dagegen, er sei 2016 verkauft worden. Ein Artikel vom 5. Januar 2016 berichtet, das Restaurant habe den Donut in der Woche davor auf Instagram vorgestellt.[^22] Beide Angaben stimmen also, nur folgten die grossen Medienberichte erst im Januar. Ähnlich war es beim Exportstopp. Die Mitteilung des Ministeriums stammt vom 14. September 2026, in Kraft war das Verbot aber schon seit dem 15. August.[^23] Das dritte Beispiel ist erst beim Schreiben dieses Kommentars aufgefallen, bei der Prüfung der Belege mit Claude.[^24] In These 1 steht, die philippinischen Exporte seien 2025 um rund 20 Prozent gewachsen, und als Beleg hatten wir einen Artikel der Zeitung SunStar angegeben. Dort steht aber nur der Exportwert für 2025 und keine Zahl zum Wachstum.[^25] Die 20 Prozent nennt ein Artikel des Magazins PhilSTAR L!fe, der sich ebenfalls auf das Handelsministerium stützt.[^26] Im Satzstand des Buches vom 8. November stand noch der falsche Beleg.
+
+Manche Widersprüche liessen sich nicht auflösen. Den Streit um die Importe aus Vietnam entscheiden wir im Buch nicht und schreiben, dass wir ihn mit unseren Quellen nicht klären können.[^27]
+
+### 4.3 Von der Leitfrage zu vier Thesen
+
+Die Rückmeldung, unsere Arbeit sei zu wenig wissenschaftlich, hat uns lange beschäftigt. Für Kapitel 3 haben wir deshalb eine Form gesucht, in der man sieht, was wir selbst denken und wie wir es überprüfen. Wir haben uns für Thesen entschieden, weil eine These etwas behauptet, das sich auch als falsch herausstellen kann. Bei einer Sammlung von Informationen geht das nicht.
+
+Ausgangspunkt waren die sechs Fragen aus unserem Projektplan. John hat sie im September zu den drei Teilfragen aus Kapitel 1.2 gebündelt, und am 25. September haben wir daraus die Leitthese formuliert und festgelegt, was wir mit «Kontrolle» meinen. Am 30. September haben wir aus der Leitthese vier Thesen abgeleitet, zwei zum Geld und je eine zur Bedeutung und zur Produktion. Zur Bedeutung waren zuerst zwei getrennte Thesen geplant, eine für das Ausland und eine für die Philippinen. Beim Arbeiten hat John gesehen, dass beide dieselbe Entwicklung beschreiben, und am 21. Oktober haben wir sie zu These 3 zusammengelegt.
+
+Abbildung 3 zeigt, wie Kapitel 3 dadurch aufgebaut ist. Man liest sie von oben nach unten. Ganz oben stehen die Leitfrage und die Leitthese mit unserer Definition von Kontrolle. Darunter teilt sich die Leitthese in die drei Teilfragen nach Geld, Bedeutung und Produktion. Zur Frage nach dem Geld gehören zwei Thesen, zu den anderen beiden je eine. In jedem Thesenkasten stehen in Stichworten die drei Behauptungen, mit denen wir die These begründen. Die Reihe darunter zeigt die Schritte, die jede These durchläuft, und ganz unten steht der Schlussabschnitt, in dem alle Thesen wieder zusammenkommen.
+
+![[thesenschema.png]]
+*Abb. 3: Aufbau von Kapitel 3 im Buch, von der Leitfrage über die Leitthese und die drei Teilfragen bis zu den vier Thesen mit ihren je drei Behauptungen. Eigene Abbildung, mit Claude gezeichnet. Grundlage: Rosal/Peglow/Meuwly: Ube (2026), S. 23-50.*
+
+Alle vier Thesen folgen demselben Schema. Zuerst stellen wir drei Behauptungen auf und belegen sie. Dann suchen wir Einwände, also Fakten oder Argumente, die gegen die These sprechen. Bei jedem Einwand schreiben wir, ob er uns überzeugt, nur teilweise oder gar nicht. Am Schluss steht ein Fazit, in dem wir die These wenn nötig neu formulieren. So kann man nachvollziehen, warum eine These am Ende anders lautet als am Anfang. Durch dieses Schema mussten wir gezielt nach Quellen suchen, die uns widersprechen. Bei den Einwänden zu These 1 stehen deshalb zum Beispiel die beiden Taifune vom November 2025, die eine andere Erklärung für die kleinere Ernte liefern könnten.[^28]
+
+### 4.4 Eigene Berechnungen
+
+Einige Zahlen in Kapitel 3 haben wir nicht einfach übernommen, sondern selbst berechnet. Gerechnet haben Tim und Aezri in der ersten Oktoberwoche, und John hat die Rechnungen kontrolliert.
+
+Die erste Rechnung betrifft den Ertrag. Laut dem CPBRD wurden 2010 auf 4'744 Hektaren 21'906 Tonnen Ube geerntet, 2025 auf 2'367 Hektaren noch 12'483 Tonnen.[^29] Teilt man die Ernte durch die Fläche, ergeben sich 4,62 Tonnen pro Hektare im Jahr 2010 und 5,27 Tonnen im Jahr 2025. Die Fläche hat sich also halbiert, die Ernte ist um 43 Prozent gesunken, und der Ertrag pro Hektare ist um 14 Prozent gestiegen. Daraus folgt rechnerisch, dass die kleinere Ernte mit der kleineren Fläche zusammenhängt und nicht mit schlechteren Erträgen. Warum die Fläche geschrumpft ist, sagt die Rechnung nicht.
+
+Dazu haben wir eine zweite, hypothetische Rechnung gemacht. Wäre 2025 noch gleich viel Fläche bebaut worden wie 2010, wären beim Ertrag von 2025 rund 25'000 Tonnen zusammengekommen, doppelt so viel wie tatsächlich. Das ist ein Gedankenspiel und keine Messung, denn es setzt voraus, dass der Durchschnittsertrag auch auf den aufgegebenen Feldern gegolten hätte, und das wissen wir nicht.
+
+Abbildung 4 stellt diese Zahlen nebeneinander. Sie besteht aus drei kleinen Diagrammen mit je eigener Skala, weil Hektaren und Tonnen nicht auf dieselbe Achse gehören. Die hellen Säulen stehen für 2010, die dunklen für 2025. Die gestrichelte Säule im mittleren Diagramm zeigt die hypothetische Rechnung mit der Fläche von 2010. Was zwischen 2010 und 2025 passiert ist, zeigt die Abbildung nicht, weil uns aus derselben Quelle nur die Werte für diese beiden Jahre vorliegen.
+
+![[flaeche_ernte.png]]
+*Abb. 4: Anbaufläche, Ernte und Ertrag pro Hektare von Ube auf den Philippinen 2010 und 2025, dazu unsere hypothetische Rechnung, wie viel 2025 auf der Fläche von 2010 geerntet worden wäre. Eigene Abbildung, mit Claude gezeichnet. Datenquelle: CPBRD: Ube (2026), Ertrag und Rechnung eigene Berechnung.*
+
+Eine weitere Rechnung im Buch müssen wir zurücknehmen. Wir haben den Exportwert der Philippinen von 3,06 Millionen US-Dollar im Jahr 2025 durch den Weltmarkt geteilt, den das Marktforschungsinstitut Transparency Market Research für 2024 auf 455,3 Millionen US-Dollar schätzt, und sind auf rund 0,7 Prozent gekommen.[^30] Im Buch stützen wir damit die Behauptung, dass von dem Geld, das weltweit mit Ube verdient wird, nur wenig bei den Bauern auf den Philippinen ankommt. Wir weisen dort zwar auf die Ungenauigkeit der Rechnung hin, halten aber wegen des grossen Abstands an ihr fest. Diesen Schluss ziehen wir heute nicht mehr. Die beiden Zahlen stammen aus verschiedenen Jahren und messen Verschiedenes. Der Exportwert ist der Wert der Ware, wenn sie das Land verlässt. Die Marktschätzung umfasst nach der Beschreibung der Studie alle Produktformen bis zum Verkauf und alle Länder, also auch den Verkauf innerhalb der Philippinen und die Ernten anderer Länder.[^31] Die 0,7 Prozent sind deshalb kein Anteil am Gewinn und auch kein Anteil an der Wertschöpfung, und über die Bauern sagen sie gar nichts. Für die Frage, wer am Boom verdient, stützen wir uns in Kapitel 7.1 auf andere Belege.
+
+Bei zwei kleineren Rechnungen ging es darum, Angaben einzuordnen. Das Landwirtschaftsministerium hat laut einer Meldung vom Juni über 60'000 Einheiten Pflanzmaterial an 900 Bauern auf Leyte und Bohol verteilt, im Durchschnitt also rund 67 pro Person.[^32] Und für zwei neue Vermehrungsmethoden nennen unsere Quellen je ein Mehrfaches gegenüber dem bisherigen Vorgehen. Mit der Minisett-Technik gewinnt man aus einem Kilogramm Ube mehr als 30 statt 7 bis 10 Pflanzstücke, mit der Sprossteilung 50 bis 60 statt 15 Jungpflanzen.[^33] Jede Quelle für sich beschreibt damit ungefähr eine Verdrei- bis Vervierfachung. Direkt miteinander vergleichen lassen sich die zwei Methoden so aber nicht, weil die Angaben von unterschiedlichen Ausgangswerten und Einheiten ausgehen, und beide Methoden setzen Schulung und Pflege voraus.
+
+Eine Angabe haben wir bewusst nicht übernommen. In der Mitteilung zu den 1'000 zusätzlichen Hektaren schrieb das Landwirtschaftsministerium, das beantragte Geld werde die Fläche verdoppeln, auf der heute Ube wächst («The funding will double the area currently planted to ube»).[^34] Zu den 2'367 Hektaren aus der Statistik des CPBRD ergeben 1'000 Hektaren aber keine Verdopplung, und von welcher Fläche das Ministerium ausgeht, steht nicht da. Dieselbe Mitteilung nennt ausserdem rund 850'000 Pesos Kosten pro Hektare und einen Antrag über 300 Millionen Pesos für den ersten Schritt des Ausbaus. Wie diese Angaben zusammenhängen, also ob sie denselben Zeitraum und denselben Teil des Programms betreffen, sagt die Mitteilung nicht. Wir leiten daraus deshalb nichts ab und behandeln die Ankündigung als Ankündigung.
+
+### 4.5 Interview mit einer Marktverkäuferin
+
+Unser Projektplan sah eine Umfrage unter Filipinos vor, bei der wir ältere und jüngere Menschen vergleichen wollten, und «wenn möglich» ein Gespräch «mit Ube-Bauern, Produzenten oder Verkäufern».[^35] John hatte dafür Ende August einen Fragebogen entworfen. Im Gespräch vom 3. September wollte Frau Büschlen wissen, wie wir die Antworten auswerten würden, und darauf hatten wir noch keine Antwort. Am 5. Oktober haben wir uns für ein einzelnes Interview entschieden. Die Umfrage haben wir danach nicht mehr weiterverfolgt. In der ersten ausformulierten Fassung unseres Arbeitsjournals vom 8. November steht als Grund, dass wir neben den vier Thesen nicht auch noch Leute hätten finden, befragen und auswerten können. Dieselbe Fassung enthielt beim Interview allerdings Angaben, die wir berichtigen mussten, und ein eigenes Datum für den Verzicht ist nicht gesichert.
+
+Der Kontakt und das Interview liefen über Johns Onkel aus Cebu. Seinen Namen nennen wir hier nicht. Am 14. Oktober hat John zehn Fragen auf Englisch vorbereitet und sie seinem Onkel per Messenger geschickt. Am 23. Oktober hat der Onkel das Interview in Talisay City auf Cebu geführt und aufgenommen. Das Gespräch begann auf Englisch. Weil sich die Verkäuferin auf Englisch nicht ausreichend ausdrücken konnte, wechselte der Onkel zu Bisaya. Die Antworten hat er danach aus dem Bisaya ins Englische übertragen und aufgeschrieben. Am 25. Oktober haben wir die Antworten zusammen mit diesem Transkript von John erhalten. Es steht unverändert in Anhang A. Acht der zehn Fragen sind darin beantwortet. Unbeantwortet blieben die Frage, wie wichtig Ube für die Wirtschaft von Bohol im Vergleich zu anderen Nutzpflanzen ist, und die Frage, wie sie die Zukunft von Ube in Bohol in zehn Jahren sieht.
+
+Die Frau wollte anonym bleiben, und Tita ist deshalb ein Ersatzname. Auf Filipino bedeutet das Wort «Tante». Sie hat der Verwendung des Interviews zugestimmt. Diese Zustimmung wurde aber nicht aufgenommen, und ob sie das fertige Transkript gesehen und bestätigt hat, wissen wir nicht. Nach den Zitierregeln gehören die von der befragten Person verifizierten Antworten in den Anhang.[^36] Diese Bestätigung können wir leider nicht vorweisen.
+
+Wir kennen Tita als Marktverkäuferin. Nach den Angaben zum Interview, die wir am 9. November festgehalten haben (Anhang F, Abschnitt 4), erhält sie Ube-Lieferungen und berichtet von geringeren Liefermengen und höheren Preisen. Im Transkript selbst kommen Lieferungen nicht vor. Dort ist von knappem Angebot die Rede («lack of suppy [sic] of UBE», «short of supply of UBE»), und es stehen zwei Sätze, die auf eigenen Anbau hinweisen. In der ersten Antwort heisst es «she is a farmer and a vendor», und die vierte lautet: «I sell our Harvest UBE here at our local Market since we only had a little farm of UBE and we had a lot of rootcrops too.»[^37] Diese Aussagen stammen aus ihren Antworten, und wir lassen sie so stehen. Wie beides zusammenpasst, also wie gross dieses Feld ist, wer es bewirtschaftet und wie viel von der Ube an ihrem Stand von dort kommt, haben wir nicht geklärt. Über ihren eigenen Anbau und ihre Stellung in der Lieferkette wissen wir deshalb zu wenig, und wir beschreiben sie in diesem Kommentar als Marktverkäuferin und nicht als Bäuerin.
+
+Ausgewertet haben wir die Antworten selbst, in fünf Schritten. Erstens haben wir mit dem englischen Transkript gearbeitet, wie wir es erhalten haben, ohne die Sätze zu verbessern. Zweitens haben wir jede Aussage einer von drei Arten zugeordnet. Eigene Erfahrung ist zum Beispiel der Preis auf ihrem Markt, 150 Pesos pro Kilo statt früher 100, oder dass Ube dort im Moment knapp ist. Eine Einschätzung ist, dass Bauern und Verkäufer von den höheren Preisen profitieren, dass die Knappheit an der gestiegenen Nachfrage liegt oder dass es jedes Jahr weniger Ube-Bauern gibt. Eine prüfbare Angabe ist, dass eine ihrer Sorten aus Bohol stammt. Drittens haben wir die Aussagen mit unseren Quellen verglichen. Viertens haben wir jede Aussage einer Behauptung zugeordnet und notiert, ob sie diese stützt, ihr widerspricht oder etwas Neues zeigt. Eingebaut hat sie jeweils, wer die These geschrieben hat. Fünftens haben wir die Stellen, die wir im Buch verwenden, ins Deutsche übersetzt und als eigene Übersetzung gekennzeichnet. Wer von uns welche Stelle übersetzt hat, haben wir nicht festgehalten.==[Falls ihr es wisst: hier eintragen, wer die Stellen ins Deutsche übersetzt hat und ob dabei ein Übersetzungsprogramm oder eine KI verwendet wurde.]==
+
+Was das Interview aussagen kann, ist begrenzt. Es gibt eine einzelne Sicht von einem lokalen Markt wieder, und zwar auf Verkauf, Angebot, Preise und darauf, wie der Trend dort wahrgenommen wird. Für alle Bauern oder für die Bevölkerung der Philippinen steht Tita nicht. Dazu kommen mehrere Einschränkungen. Das Gespräch ist kurz, es wurde nicht von uns selbst geführt, und die Antworten sind zweimal übertragen worden, vom Bisaya ins Englische durch Johns Onkel und für das Buch vom Englischen ins Deutsche durch uns. Bei beiden Schritten können Feinheiten verloren gehen. Die erste Antwort steht in der dritten Person («Her name is Tita»), das Transkript gibt also zum Teil wieder, wie der Interviewer ihre Antwort zusammengefasst hat. Einige Stellen lassen sich ausserdem nicht eindeutig lesen. In der dritten Antwort steht «we farmers and vendors», und wir wissen nicht, ob Tita sich damit selbst zu den Bauern zählt. Nach der achten ist Ube zu einem der besten Teile der philippinischen Kultur und Tradition «geworden» («has become»), obwohl wir nach der traditionellen Rolle gefragt hatten. Solche Stellen legen wir nicht auf eine Bedeutung fest.[^38] Rückfragen an Tita oder an Johns Onkel sind nach dem 25. Oktober in unseren Unterlagen keine festgehalten, obwohl bis zur Abgabe noch gut zwei Wochen blieben.==[Klären und hier ergänzen: Habt ihr nach dem 25. Oktober nachgefragt? Wenn nein, warum nicht? Ein Grund ist bisher nirgends festgehalten. Die frühere Begründung «keine Zeit mehr» ist gestrichen, weil sie nicht belegt war.]== Mehrere unserer Fragen beziehen sich zudem auf Bohol und auf den Anbau, während Tita auf einem Markt auf der Nachbarinsel Cebu verkauft. Nach den Kosten für den Anbau oder den Einkauf haben wir gar nicht gefragt.
+
+Vorsichtig sein müssen wir vor allem bei den Preisen. Dass ein Kilo auf Titas Markt heute 150 statt 100 Pesos kostet, belegt keinen entsprechend höheren Gewinn, weil wir ihre Kosten, ihre Einkaufsbedingungen und ihre Margen nicht kennen. In anderen Quellen nennt ein Branchenvertreter 80 Pesos als Preis ab Hof, und eine Bauerngruppe in Bohol erhält 90 bis 100 Pesos.[^39] Diese Zahlen betreffen vermutlich eine andere Handelsstufe als ein Marktpreis, und sie stammen aus anderen Monaten und Regionen. Wie der Gewinn zwischen Bauern, Händlern und Verkäufern verteilt ist, lässt sich aus diesem Vergleich nicht ablesen. Auch Titas Aussagen über den fehlenden Nachwuchs im Anbau, über die Ursache der Knappheit und über den Nutzen für die Bauern bleiben ihre Einschätzungen, solange andere Quellen sie nicht unabhängig stützen.
+
+Im Buch gehen wir an einigen Stellen weiter, als es diese Einordnung erlaubt. Im Satzstand vom 8. November nennen wir Tita eine Bäuerin, die ihre Ernte selbst verkauft, und ziehen daraus im Fazit zu These 1 den Schluss, dass Bauern vom Boom profitieren, wenn sie direkt verkaufen. Auf Seite 28 steht ausserdem, dass Ube auf ihrem Markt im Moment fehlt, während im Transkript nur von knappem Angebot die Rede ist.[^40] So sicher wissen wir das nicht. Soweit diese Stellen so gedruckt worden sind, können wir sie im Buch nicht mehr ändern und halten die Berichtigung hier fest. Für diesen Kommentar gilt die vorsichtigere Lesart.
+
+Trotz dieser Grenzen hat das Interview unsere Arbeit an zwei Stellen weitergebracht. Es hat uns einen Einblick in einen lokalen Markt und in die Veränderungen gegeben, die man dort erlebt. Und Titas Satz, dass die junge Generation den Anbau nicht übernehmen will, hat uns auf die Frage gebracht, wer die Felder in Zukunft bewirtschaften soll. In unseren anderen Quellen kam diese Frage kaum vor.
+
+### 4.6 Zutatenlisten als Beispiele
+
+Für These 3 wollte John wissen, wie viel Ube in Produkten steckt, die mit Ube werben. Dafür hat er Zutatenlisten und Werbetexte mehrerer Produkte verglichen. Zusätzlich wollte er auf Instagram zählen, wie oft bei Ube-Beiträgen die Herkunft erwähnt wird. Diesen Versuch hat er abgebrochen, weil die Auswertung zu lange gedauert hätte und weil Instagram jedem Nutzer andere Beiträge zeigt, sodass die Auswahl nicht zufällig gewesen wäre. Beim Ube-Latte-Pulver der Marke Barú steht Zucker an erster Stelle der Zutatenliste, gefolgt von Glukosesirup und Kokosöl, und Ube-Pulver macht 9 Prozent aus.[^41] Andere Anbieter werben gleichzeitig mit den gesundheitlichen Vorteilen der Knolle.
+
+Was diese Beispiele zeigen und was nicht, müssen wir auseinanderhalten. Sie zeigen, dass in einem Produkt, das mit Ube wirbt, wenig Ube und viel Zucker stecken kann. Dass Ube Antioxidantien enthält, ist für die Knolle in einer Studie belegt, die wir im Buch zitieren.[^42] Auf ein gesüsstes Getränk lässt sich das nicht einfach übertragen. Umgekehrt können wir aus dem kleinen Anteil auch nicht schliessen, dass gar keine Wirkung übrig bleibt, denn das haben wir nicht untersucht. Die Auswahl ist ausserdem klein, und wir haben die Produkte nicht nach einem festen Verfahren ausgewählt. Im Buch sprechen wir darum von Beispielen und nicht von Beweisen. Für die Behauptung, dass Ube im Ausland oft vor allem über ihre Farbe verkauft wird, hatten die Zutatenlisten für uns trotzdem mehr Gewicht als die Zahl der Beiträge mit dem Hashtag #ube, denn eine Zutatenliste kann jeder nachprüfen.
+
+## 5 Das gedruckte Buch
+
+Grundlage dieser Beschreibung ist die Satzdatei vom 8. November 2026. Ob das gedruckte Exemplar vom 9. November in allen Punkten damit übereinstimmt, ist für diesen Kommentar nicht geprüft worden. Das Buch beginnt mit dem Vorwort und dem Inhaltsverzeichnis. Kapitel 1, «Die Geschichte von Ube» (Seiten 3 bis 13), erklärt, was Ube ist, wie lange sie auf den Philippinen schon gegessen wird, was spanische Missionare im 17. Jahrhundert über sie schrieben, warum Bohol an seiner Kinampay hängt, wann Ube auf den Tisch kommt, wie sie mit den Filipinos ins Ausland kam und wie Ube Halaya und Halo-Halo entstanden sind. Kapitel 2, «Der Ube-Trend» (Seiten 14 bis 22), erzählt vom Donut mit Blattgold aus Brooklyn, von Instagram und TikTok, vom Vergleich mit Matcha, von Pulver und Paste, von Starbucks bis Papa Oro's, und es endet mit der Frage, ob die Landwirtschaft mit dem Hype mithalten kann. Kapitel 3, «Einfluss von Ube auf den Philippinen» (Seiten 23 bis 50), ist der wissenschaftliche Teil mit der Leitthese, den vier Thesen und dem Schlussabschnitt «Was bleibt von unserer Leitthese?». Danach folgt das Schlusswort.==[Am gedruckten Buch prüfen und hier ergänzen: endgültige Seitenzahl, und welche Teile nach dem Schlusswort stehen (Quellenverzeichnis, Bildnachweis, Anhang mit dem Interview). Im PDF vom 8.11. waren diese Teile noch nicht gesetzt.]==
+
+Der Fliesstext steht in zwei Spalten, oben auf jeder Seite steht der Name des Kapitels, unten die Seitenzahl. Jedes Kapitel beginnt auf einer eigenen Seite mit dem Titel, einer Linie und einer Kurzeinleitung von wenigen Sätzen. Abbildung 5 zeigt zwei Seiten aus Kapitel 1. Links sieht man die erste Textseite mit unseren zwei eigenen Fotos der Knolle, rechts den Abschnitt über Bohol mit der Karte.
+
+![[buchseiten_4_9.png]]
+*Abb. 5: Zwei Seiten aus Kapitel 1 des Buches (Seiten 4 und 9, Satzstand vom 8. November 2026), links mit zwei eigenen Fotos, rechts mit der Karte von Bohol, die mit Claude erstellt wurde. Quelle: Rosal/Peglow/Meuwly: Ube (2026), S. 4 und 9.*
+
+## 6 Nachträgliche Einordnung: unser Buch und die Fachliteratur
+
+Was ein Sachbuch ausmacht und worauf man bei der Gestaltung achten sollte, haben wir nicht vor dem Schreiben nachgelesen. Die Texte aus der Sachbuchforschung, der Typografie und der Bilderbuchforschung, auf die wir uns in diesem Kapitel stützen, sind erst im November dazugekommen, als wir den Kommentar geschrieben haben. Gesucht hat sie Claude (Kapitel 10.2, Eingabe 1). Sie haben unsere Gestaltung also nicht angeleitet. Wir benutzen sie hier, um nachträglich einzuordnen und zu beurteilen, was wir gemacht haben.
+
+### 6.1 Was ein Sachbuch ist
+
+Im Alltag ist die Antwort einfach. Als Sachbuch gilt jedes Buch, das nicht erfunden ist, also alles, was in der Buchhandlung nicht bei der Belletristik steht.[^43] Der Literaturwissenschaftler David Oels zeigt allerdings, dass unter diesem Begriff sehr unterschiedliche Bücher zusammenkommen, die eigentlich nur gemeinsam haben, dass sie keine Fiktion sind.[^44] Strenger war der Sachbuchautor Jürgen Thorwald, den Oels zitiert. Für ihn musste ein echtes Sachbuch eine wissenschaftliche, technische oder ähnliche Entwicklung darstellen, und zwar so, dass man sie allgemein versteht und dass sie gut geschrieben ist.[^45] Oels beschreibt auch, dass Sachbücher lange vor allem als Mittel galten, um gesichertes Wissen vereinfacht an Laien weiterzugeben, und genau diese Vorstellung sieht er kritisch.[^46]
+
+Nach der einfachen Definition ist unser Buch klar ein Sachbuch, weil es keine Fiktion ist. Zu dem, was wir erreichen wollten, passen Thorwalds Merkmale besser. Wir zeichnen eine Entwicklung nach, nämlich den Weg einer Knolle vom Nahrungsmittel zum Trendprodukt, und wir wollten sie so erzählen, dass man weiterliest. Bei der Idee, gesichertes Wissen weiterzugeben, sind wir vorsichtiger. Im dritten Kapitel geht es um Thesen, bei denen manches offen bleibt, und das schreiben wir auch so hin.
+
+### 6.2 Paratexte als Wegweiser
+
+Zu einem Buch gehört mehr als der Haupttext. Der Literaturwissenschaftler Gérard Genette nennt alles, was einen Text umgibt und ihn erst zum Buch macht, Paratexte. Dazu zählen der Umschlag mit Titel und Autornamen, das Inhaltsverzeichnis und das Vorwort, aber auch Fussnoten und Literaturverzeichnis.[^47] Genette beschreibt diese Elemente als Schwelle zwischen innen und aussen. An dieser Schwelle entscheidet sich, ob jemand ins Buch hineingeht oder es wieder weglegt.
+
+Bei einem Thema, das die meisten Leser kaum kennen, ist diese Schwelle besonders wichtig. Wenn wir unser Buch daran messen, fällt uns Folgendes auf. Der Titel besteht aus dem einen Wort «Ube», das viele noch nicht kennen, und erst der Untertitel «Zwischen Tradition und Trend» sagt, worum es geht. Das Vorwort erklärt gleich auf der ersten Seite, warum aus dem Kochbuch ein Buch über Ube wurde und für wen es gedacht ist.[^48] Die Kurzeinleitungen steigen mit einer konkreten Angabe ein, zum Beispiel mit den über 10'000 Jahre alten Funden aus der Ille-Höhle, und sagen dann, was im Kapitel kommt.[^49] Diese Wegweiser halten wir für gelungen. Schwächer ist das Buch am anderen Ende. Im Satzstand vom 8. November fehlten das Quellenverzeichnis, der Bildnachweis und der Anhang mit dem Interview noch, und gerade diese Teile machen einen wissenschaftlichen Text nachprüfbar.
+
+### 6.3 Seite und Zeilenlänge
+
+Beim Layout ordnet man alle Elemente einer Seite so an, dass man die Informationen aus Text und Bild möglichst leicht aufnehmen kann.[^50] Wie viel von einer Seite bedruckt ist und wie viel frei bleibt, verändert ihre Wirkung stark, und damit alle Seiten zueinander passen, ordnet man die Elemente in einem Raster an.[^51] Für die Lesbarkeit ist ausserdem wichtig, wie lang eine Zeile ist. Ist sie zu lang, findet das Auge den Anfang der nächsten Zeile schlechter, ist sie zu kurz, wird der Lesefluss dauernd unterbrochen. Anuj Nanavati und Randolph Bias haben die Studien dazu zusammengefasst und empfehlen für gedruckten Text mittlere Zeilenlängen von etwa 52 Zeichen.[^52]
+
+Unser Buch ist im Format A4 gesetzt, und John hat den Fliesstext in zwei Spalten angelegt. Nachgemessen haben wir die Zeilenlänge erst für diesen Kommentar, am PDF vom 8. November und mit Claude. Eine volle Zeile hat im Buch im Mittel 47 Zeichen und liegt damit nahe bei der Empfehlung.[^53] Die zwei Spalten passen also auch zu diesem Massstab. Nur die Kurzeinleitungen auf den Kapitelseiten laufen über die ganze Breite und sind damit deutlich länger als empfohlen. Weil sie nur wenige Zeilen haben und viel Platz um sich herum, stört das beim Lesen kaum.
+
+### 6.4 Text und Bild
+
+Dass Bilder in Sachbüchern eine eigene Aufgabe haben, ist keine neue Idee. Die Literaturwissenschaftlerin Marlene Zöhrer führt das bebilderte Sachbuch unter anderem auf den «Orbis pictus» von Johann Amos Comenius aus dem Jahr 1658 zurück, in dem das Bild an erster Stelle stand.[^54] Moderne Sachbilderbücher seien oft vom Bild her gedacht und informierten über eine Kombination aus Bild und Text oder allein über das Bild.[^55]
+
+Zöhrer schreibt über Bücher für Kinder und Jugendliche, während sich unser Buch an Erwachsene richtet. Der Grundgedanke lässt sich trotzdem übertragen, denn ein Bild zeigt manches schneller, als ein Text es beschreiben kann. Wer noch nie eine aufgeschnittene Ube gesehen hat, versteht mit dem Foto auf Seite 4, warum alle über die Farbe reden, und die Karte auf Seite 9 zeigt in einem Blick, wo in Bohol die Kinampay herkommt. In den ersten zwei Kapiteln übernehmen die Bilder also einen Teil der Erklärung. Im dritten Kapitel ist das nicht so. Dort stehen die meisten Zahlen des Buches, und gerade dort gibt es im Satzstand vom 8. November kein einziges Bild und kein Diagramm. Nach Zöhrers Gedanken wäre das die Stelle gewesen, an der eine Darstellung am meisten geholfen hätte. Darauf kommen wir in Kapitel 8.7 zurück.
+
+## 7 Einordnung der Ergebnisse
+
+Die Antworten auf unsere drei Teilfragen stehen im Buch auf Seite 50.[^56] Hier wiederholen wir sie nicht, sondern ordnen sie nach den zwei Richtungen von Kontrolle aus Kapitel 1.2 und fragen, wie weit unsere Belege jeweils reichen. Danach zeigen wir, wo sich die beiden Richtungen treffen, prüfen, was gegen unsere Leitthese spricht, und nennen die Grenzen der Arbeit.
+
+### 7.1 Wirtschaftliche Seite: Wer verdient am Boom?
+
+Dass die Nachfrage im Ausland steigt, belegen wir im Buch mit Zahlen aus zweiter Hand. In den USA steht Ube nach einer Auswertung von Speisekarten rund 230 Prozent häufiger auf der Karte als vier Jahre zuvor, und ein Marktforschungsinstitut zählt 359 neue Produkte mit Ube.[^57] Diese Zahlen beschreiben aber nur die letzten Jahre. Die Ernte auf den Philippinen ist über einen viel längeren Zeitraum gesunken. 2010 wurden 21'906 Tonnen geerntet, 2025 noch 12'483 Tonnen, zuletzt 6,7 Prozent weniger als im Jahr davor.[^58] Laut einer Zeitungskolumne, die wir im Buch zitieren, waren es 2006 sogar über 30'000 Tonnen.[^59] Stimmt diese Zahl, dann liegt ein grosser Teil des Rückgangs vor dem Boom, der im Ausland erst um 2016 angefangen hat. Unabhängig davon beschreibt das Ube-Paradox aus These 1 ein Zusammentreffen und keine Ursache. Die Nachfrage steigt, und gleichzeitig ist die Ernte kleiner als in allen früheren Jahren, für die wir Zahlen haben. Warum die Ernte zurückgegangen ist, können unsere Quellen nur zum Teil beantworten, am ehesten noch mit der kleineren Anbaufläche und dem knappen Pflanzgut, wie wir in These 4 zeigen.
+
+Wer an der Nachfrage verdient, können wir ebenfalls nur zum Teil beantworten. Belegt ist der Exportwert. 2025 haben die Philippinen Ube und Ube-Produkte für 3,06 Millionen US-Dollar ausgeführt, und über 60 Prozent davon entfielen auf frische, gekühlte, gefrorene oder getrocknete Ube.[^60] Wir fassen diese Formen wie im Buch als Rohware zusammen, auch wenn gefrorene und getrocknete Ube schon einen ersten Verarbeitungsschritt hinter sich hat. Dass die Philippinen dem Wert nach vor allem solche wenig verarbeitete Ware ausführen, ist damit belegt. Den Vergleich dieses Exportwerts mit dem geschätzten Weltmarkt verwenden wir nicht mehr als Beleg (Kapitel 4.4). Dass den grössten Gewinn Aromahersteller im Ausland machen, die die Rohware zu Extrakten verarbeiten, stammt aus einem einzigen Artikel des Asian Journal, und dieser Artikel nennt dafür keine Quelle.[^61] Im Buch steht diese Aussage als Beleg, hier stufen wir sie als Einschätzung einer Zeitung ein. Besser belegt ist die Lage innerhalb des Landes. Der Agrarwissenschaftler Teodoro Mendoza nennt die Bauern «price-takers», also Preisnehmer.[^62] Nach dem Bericht des US-Landwirtschaftsministeriums sind die Bauern stark auf Zwischenhändler angewiesen, die Preise sind für sie wenig durchsichtig, und das schmälert, was auf den Höfen ankommt.[^63] Mendoza rechnet vor, dass die Bauern in dieser Lage etwa einen Drittel des Exportwerts erhalten und bis zu zwei Drittel erhalten könnten, wenn sie Verarbeitung und Verkauf in Genossenschaften selbst übernehmen würden. Das ist allerdings ein Rechenbeispiel ohne offengelegte Grundlage und keine Messung.[^64]
+
+Unser Interview kann dieses Bild weder bestätigen noch widerlegen. Tita berichtet, dass der Preis auf ihrem Markt von 100 auf 150 Pesos pro Kilo gestiegen ist, und sie sagt, dass Bauern und Verkäufer davon profitiert haben.[^65] Das zeigt, dass auf einem lokalen Markt tatsächlich mehr bezahlt wird. Wie viel davon bei wem bleibt, zeigt es nicht (Kapitel 4.5).
+
+In These 2 haben wir gefragt, ob sich die Lage ändern lässt. Der Vergleich mit Quinoa und Matcha legt nahe, dass ein Land, das nur Rohware liefert, nach einem Hype an Einnahmen verliert, und dass ein verarbeitetes Produkt mit klarer Herkunft seinen Wert eher behält.[^66] Zwei Beispiele sind natürlich kein Beweis, und ob Ube denselben Weg nimmt wie Quinoa, wissen wir nicht. Bei den Massnahmen auf den Philippinen muss man ausserdem genau unterscheiden, wie weit sie sind. In Kraft ist seit dem 15. August 2026 der Exportstopp für frische Ube und Pflanzgut. Umgesetzt ist laut einer Meldung vom Juni die Verteilung von Pflanzmaterial an 900 Bauern. Eingereicht ist seit Juni 2026 der Antrag der Provinzregierung von Bohol, den Namen «Bohol Ubi Kinampay» als geografische Angabe schützen zu lassen. Das ist kein Patent und auch keine Marke, sondern ein Schutz der Herkunftsbezeichnung, und dass der Antrag schon bewilligt wäre, ist in unseren Quellen nicht belegt. Beantragt sind 300 Millionen Pesos für den Ausbau des Anbaus, umgerechnet rund 5 Millionen US-Dollar. Und angekündigt ist das Ziel von 1'000 zusätzlichen Hektaren im ersten Jahr.[^67] Was davon wirkt, lässt sich im November 2026 noch nicht beurteilen.
+
+Für die wirtschaftliche Seite unserer Leitthese heisst das Folgendes. Belegt ist, dass die Philippinen vor allem Rohware ausführen und dass die Bauern im Land von Händlern abhängen. Plausibel, aber nicht belegt ist, dass der grösste Teil des Gewinns bei Verarbeitern im Ausland anfällt. Und wie viel vom Preis eines Ube-Latte in Zürich oder Los Angeles auf den Philippinen ankommt, wissen wir nicht, weil wir dazu leider keine Zahl gefunden haben.
+
+### 7.2 Kulturelle Seite: Wer bestimmt, wofür Ube steht?
+
+Die zweite Richtung von Kontrolle lässt sich nicht in Tonnen messen. Wir unterscheiden hier drei Dinge, die wir im Buch noch vermischt haben, nämlich was Ube für einzelne Menschen bedeutet, wie Ube im Ausland dargestellt wird und wer mit dem Namen Geld verdient. Um das Geld ging es in Kapitel 7.1.
+
+Bei der Darstellung im Ausland können wir nur über das sprechen, was wir angeschaut haben, also über einzelne Produkte, Werbetexte und Berichte. Dort steht die Farbe im Vordergrund. Im Ube-Latte-Pulver von Barú stecken 9 Prozent Ube-Pulver und an erster Stelle Zucker. Das US-Landwirtschaftsministerium hält ausserdem fest, dass es für Ube keine einheitliche Definition gibt und dass der Name auch für künstliche Aromen und Farbstoffe verwendet wird.[^68] Wenn sich etwas mit sehr wenig oder ganz ohne Ube als Ube verkaufen lässt, bestimmt bei diesen Produkten der Anbieter, was Ube ist, und nicht die Herkunft. Daraus folgt aber nicht, dass Menschen im Ausland Ube nur wegen der Farbe kaufen. Das haben wir nicht untersucht.
+
+Dieses Bild hat eine Gegenseite, die wir erst durch die Einwände gefunden haben. Den goldenen Donut hat ein philippinischer Koch erfunden. In Melbourne und Köln organisieren Filipinos Ube-Feste zusammen mit ihren Konsulaten, und im Aargau kommen Gäste bei Papa Oro's inzwischen gezielt wegen Ube.[^69] Für die Autorin Tabitha Espina Velasco steht Ube bei den Filipinas, die nach dem Zweiten Weltkrieg nach Guam auswanderten, für die Wurzeln, die sie mitgenommen haben.[^70] In diesen Beispielen wird die Herkunft mitverkauft oder mitgefeiert. «Das Ausland» ist also kein einheitlicher Akteur. Eine grosse Kette und ein philippinisches Restaurant in der Schweiz gehen mit derselben Knolle sehr verschieden um.
+
+Auf den Philippinen selbst sehen wir ebenfalls zwei verschiedene Dinge. Das erste ist die persönliche Bedeutung. Im Transkript unseres Interviews heisst es, Ube sei zu einem der besten Teile der philippinischen Kultur und Tradition geworden, und in der neunten Antwort steht «We are happy», dass die einheimischen Wurzelfrüchte weltweit anerkannt werden.[^71] Das ist eine einzelne Stimme in einer englischen Übertragung. Sie spricht aber dafür, dass diese Bedeutung nicht davon abhängt, wer am Weltmarkt verdient. Das zweite ist die öffentliche Deutung durch Staat und Medien. Eine Zeitung spricht von einem «purple gold rush»,[^72] das Ministerium begründet den Exportstopp auch mit der Konkurrenz durch andere Länder, die philippinische Sorten anbauen, und Bohol will den Namen seiner Sorte schützen lassen.[^73] In diesen Texten erscheint Ube weniger als Lebensmittel und mehr als Erbe, das geschützt werden soll. Ob die Menschen, die Ube anbauen und verkaufen, diese Deutung teilen, wissen wir leider nicht. Gefragt haben wir Tita nicht danach, und im Transkript kommen weder der Exportstopp noch der Herkunftsschutz vor.
+
+Für die kulturelle Seite der Leitthese heisst das, dass von einem Verlust der Kultur in unseren Quellen nichts zu sehen ist, weder bei Tita noch bei den Filipinos im Ausland. Verändert hat sich vor allem die Darstellung. Die Menschen, die Ube anbauen, kommen in unseren Quellen selten selbst zu Wort, und über Namen, Marken und Exportregeln entscheiden andere. Wir müssen aber dazusagen, dass das unsere Lesart der Quellen ist und nicht das Ergebnis einer Befragung.
+
+### 7.3 Wo sich beides trifft: die Produktion
+
+Beim Schreiben von Kapitel 3 ist uns eine dritte Grösse immer wichtiger geworden, die in der Leitthese nicht vorkommt. Einnahmen aus Ube und ein eigenes Bild von Ube lassen sich nur aufbauen, wenn genug Ube wächst und jemand sie anbaut. Genau da liegt das Problem. Die Anbaufläche hat sich seit 2010 halbiert, und Pflanzgut ist knapp. Das sagt auch das Landwirtschaftsministerium, und im Buch erklären wir es damit, dass dieselbe Knolle Ware und Pflanzgut zugleich ist.[^74] Nach Titas Einschätzung gibt es ausserdem jedes Jahr weniger Ube-Bauern, weil die Jungen den Anbau nicht übernehmen wollen.[^75] Zahlen dazu speziell für Ube haben wir nicht gefunden. Neue Vermehrungsmethoden könnten mehr Pflanzgut liefern, sie verlangen aber Schulung und Pflege, und ob sich der Anbau für die Bauern lohnt, konnten wir mangels Kostenangaben nicht klären.[^76]
+
+An dieser Stelle hängen die beiden Richtungen zusammen. Der Exportstopp ist zugleich eine wirtschaftliche Massnahme, weil er laut Ministerium Pflanzgut im Land halten soll, während verarbeitete Ube weiter ausgeführt werden darf, und er passt zur Deutung von Ube als Erbe, weil er auch verhindern soll, dass andere Länder mit philippinischen Sorten Konkurrenz aufbauen.[^77] Eine geschützte Herkunftsangabe ist nur so viel wert, wie dahinter geliefert werden kann. Aus diesem Grund steht im Buch, dass These 2 nur aufgeht, wenn das Problem aus These 1 gelöst ist, und dass mehr Felder allein nicht reichen.[^78]
+
+Das ist für uns der wichtigste Befund der Arbeit, und er geht über die Leitthese hinaus. Nach unseren Quellen trifft der Trend auf eine Produktion, die schon vorher geschrumpft ist, und macht dadurch sichtbar, was vorher kaum beachtet wurde. Das ist allerdings eine Schlussfolgerung aus unseren Quellen und keine gemessene Grösse.
+
+### 7.4 Was gegen unsere Leitthese spricht
+
+Im Buch haben wir bei jeder These nach Einwänden gesucht. Die Leitthese selbst haben wir dort nur eingeschränkt, nicht geprüft. Das holen wir hier nach, mit fünf Einwänden.
+
+Erstens ist die Ernte schon vor dem Boom zurückgegangen, wenn die Zeitungsangabe für 2006 stimmt (Kapitel 7.1). Für diesen Teil des Rückgangs kann der Boom nicht die Ursache sein. Ob er den Rückgang später verstärkt hat, können wir nicht sagen. Sichtbar gemacht hat er ihn nach unserer Lesart aber, denn die Berichte und Massnahmen dazu, die wir kennen, stammen fast alle aus dem Jahr 2026. Die Leitthese beschreibt einen Zustand, aber sie erklärt ihn nicht.
+
+Zweitens ist «verlieren» zu stark. Das Wort setzt voraus, dass man etwas hatte. Wir haben deshalb gefragt, welche Kontrolle vorher überhaupt bestand und bei wem. Unsere Quellen beantworten das nicht, weil sie fast nur die Gegenwart beschreiben. Dass die Bauern früher selbst über den Preis bestimmt hätten, haben wir in ihnen nicht gefunden, und wer Ube vor dem Boom verarbeitet und im Ausland verkauft hat, steht dort ebenfalls nicht. Daraus dürfen wir aber nicht schliessen, dass Verarbeitung und Verkauf nie in philippinischer Hand lagen, wie es in einer früheren Fassung dieses Kommentars stand. Ein Teil liegt auch heute dort. Verarbeitete Ube darf trotz Exportstopp weiter ausgeführt werden, ein Teil des Exportwerts entfällt auf andere Produkte als Rohware, und im Ausland verkaufen auch philippinische Köche und Restaurants Ube (Kapitel 7.1 bis 7.3). Staatliche Massnahmen speziell für Ube kennen wir aus unseren Quellen erst aus dem Jahr 2026. Belegen können wir also einen Zustand und keinen Verlust. Genauer wäre deshalb, dass die Philippinen die Wertschöpfung ihrer Knolle bisher nur zu einem Teil in der Hand haben.
+
+Drittens handelt die Regierung. Exportstopp, Herkunftsschutz, Fördergeld und der Plan für 1'000 Hektaren sind Versuche, Kontrolle auszuüben. Man kann sie als Zeichen dafür lesen, dass die Kontrolle noch da ist, oder als Zeichen dafür, dass sie fehlt. Welche Lesart stimmt, entscheidet sich an der Wirkung, und die lässt sich noch nicht beurteilen.
+
+Viertens sind «Kultur» und «Kontrolle» nicht sauber zu trennen, und «die Philippinen» sind kein einzelner Akteur. Wer bestimmt, wofür Ube steht, übt kulturelle Kontrolle aus. Die Filipinos in Melbourne und Köln tun genau das, und Tita hat ihre eigene Vorstellung davon, was Ube bedeutet. Nach unserer eigenen Definition geht die kulturelle Kontrolle also höchstens in einem Bereich verloren, nämlich bei der Darstellung von Ube durch grosse Anbieter im Ausland. Mit einer anderen Definition von Kontrolle käme man zu einer anderen Antwort.
+
+Fünftens steht die Leitthese auf Zahlen, die wir meistens nur aus zweiter Hand haben, auf Marktstudien, die ihre Methode nicht offenlegen, und auf einem einzigen, kurzen Interview. Jede Antwort, die wir geben, ist darum vorläufig.
+
+Von der Leitthese bleibt also nur ein Teil stehen. Dass die Philippinen ihre Kultur nicht verlieren, passt zu unseren Quellen. Dass sie die Kontrolle «verlieren», können wir nicht belegen. Nach dieser Prüfung würden wir die Leitthese so formulieren: Die Philippinen verlieren beim Ube-Boom nicht ihre Kultur. Die Wertschöpfung ihrer Knolle haben sie nach unseren Quellen aber nur zu einem Teil in der Hand, weil sie dem Wert nach vor allem wenig verarbeitete Ware ausführen und ihre Bauern von Händlern abhängen, und wie Ube von grossen Anbietern im Ausland dargestellt wird, bestimmen sie nach unserer Lesart kaum mit. Ob sich das ändert, hängt nach unserer Einschätzung weniger vom Trend ab als davon, ob im Land wieder mehr Ube wächst und wer sie anbaut. Diese Fassung schränkt die Leitthese stärker ein als das Fazit im Buch (Satzstand vom 8. November, S. 50).
+
+### 7.5 Grenzen der Arbeit
+
+Die wichtigsten Grenzen nennen wir schon im Buch, allen voran die dünne Forschungslage und dass unser Interview nur eine einzige Stimme wiedergibt.[^79] Beim Schreiben dieses Kommentars sind weitere dazugekommen. Die Statistiken zu Ernte und Fläche haben wir nur aus zweiter Hand, und ob die Fläche die bepflanzte oder die abgeerntete meint, konnten wir nicht klären. Den Bericht des US-Landwirtschaftsministeriums kennen wir, soweit es dokumentiert ist, nur aus Zusammenfassungen, und für den Policy Brief des CPBRD fehlen uns noch die Seitenangaben. Die Erntezahl für 2006 stammt aus einer Zeitungskolumne, deren genaue Angaben wir noch nachtragen müssen. Die Marktzahlen sind Schätzungen von Firmen. Die meisten unserer Quellen sind Zeitungsberichte, und fast alle sind auf Englisch. Berichte auf Filipino oder Cebuano, etwa aus Bohol selbst, haben wir nicht gesucht, obwohl darin vielleicht mehr über die Sicht der Bauern stehen würde. Unsere Auswahl der Zutatenlisten folgt keinem Verfahren. Das Interview haben wir nicht selbst geführt, es ist kurz und mehrfach übersetzt, und mit Menschen, die Ube anbauen und an Händler liefern, haben wir nicht gesprochen (Kapitel 4.5). Zu den Kosten der Bauern haben wir leider keine Angaben gefunden, und damit bleibt offen, ob sich der Anbau lohnt.
+
+Offen bleibt auch, was die höheren Preise für die Menschen bedeuten, die Ube auf den Philippinen kaufen und essen. Von den drei Teilen unserer Leitfrage, Bedeutung, Verwendung und Produktion, hat die Verwendung keine eigene These bekommen, obwohl sich der Trend gerade dort gut beobachten lässt, bei Pulver, Sirup und Ube-Pandesal. Und unser Buch beruht auf dem Stand von Anfang November 2026. Die Lage ändert sich laufend, und was danach beschlossen wurde, fehlt.
+
+## 8 Reflexion
+
+In diesem Kapitel geht es nicht mehr um Ube, sondern um uns. Wir schauen zurück auf unsere Entscheide, auf die Art, wie wir gearbeitet haben, auf unsere Methode und auf das fertige Buch. Was wir über die Ergebnisse denken, steht in Kapitel 7.
+
+Wir müssen zuerst sagen, woher die Aussagen in diesem Kapitel stammen, weil das nicht überall gleich ist. Einiges haben wir schon während der Arbeit gemerkt, und das belegen wir mit dem Arbeitsjournal oder mit dem Buch. Das meiste steht in der Rückschau, die wir Claude am 9. November mit dem Prompt in Anhang F gegeben haben, es ist also eine Einsicht im Nachhinein.[^80] Und einige Überlegungen sind erst bei der Überarbeitung mit Claude entstanden, weil Claude unsere Angaben miteinander verbunden und daraus Folgerungen gezogen hat. An diesen Stellen schreiben wir «bei der Überarbeitung» dazu.
+
+### 8.1 Der Themenwechsel
+
+Der wichtigste Entscheid unserer Arbeit war der Wechsel vom Kochbuch zum Sachbuch über Ube, und im Rückblick ist er zu spät gekommen. Die Betreuungspersonen wollten nach der Zwischenpräsentation im Juni zwei Dinge, nämlich dass wir das Kochbuch stärker eingrenzen und dass wir gründlicher überlegen, wie daraus eine wissenschaftliche Arbeit wird. Reagiert haben wir zuerst mit einer Eingrenzung auf drei ausgewählte, einflussreiche Gerichte und ihre Hintergrundgeschichte.
+
+Warum wir zuerst am Kochbuch festgehalten haben, haben wir weder in unserer Rückschau noch im Arbeitsjournal begründet.==[Falls ihr den Grund nennen könnt: hier in ein bis zwei eigenen Sätzen ergänzen. Sonst bleibt der Satz so stehen.]== Erklären können wir nur, warum die Eingrenzung nicht gereicht hat. Diese Erklärung ist bei der Überarbeitung entstanden, sie stützt sich aber auf unsere Problemliste vom 12. August (Kapitel 2.4). Das eigentliche Problem war nämlich nicht die Zahl der Gerichte, sondern dass es zur Herkunft einzelner Gerichte kaum verlässliche Informationen gibt, und daran ändert sich nichts, wenn man weniger Gerichte nimmt. In den Sommerferien hat sich das bestätigt (Kapitel 2.3). Dazu kam, dass auch drei Gerichte mit Hintergrundgeschichte noch keine Frage ergeben, die man untersuchen kann. Der zweite Punkt der Rückmeldung, die Wissenschaftlichkeit, war damit weiterhin offen.
+
+Erst danach haben wir uns typisch philippinische Zutaten angeschaut, zuerst Bananenketchup und dann Ube, und uns gemeinsam für Ube entschieden. Fachlich war der Wechsel zu einer einzelnen Zutat sinnvoll. Zu Ube gab es Statistiken, Mitteilungen von Behörden, einige Studien und viele aktuelle Berichte, und es gab eine Frage, auf die wir die Antwort nicht schon kannten, nämlich was ein weltweiter Trend im Herkunftsland verändert. Daraus liessen sich Thesen machen, die man belegen und auch widerlegen kann.
+
+Der Wechsel hatte aber einen Preis. Vom Entscheid am 21. August bis zur Abgabe blieben knapp zwölf Wochen für Recherche, Schreiben, Interview, Satz und Druck. Mehrere Schwächen, die wir in den Kapiteln 8.2 bis 8.7 beschreiben, hängen mit dieser kurzen Zeit zusammen, aber nicht alle. Den Wechsel selbst halten wir deshalb für richtig und den späten Zeitpunkt für unseren Fehler. In unserer Rückschau steht dazu, dass wir zu spät erkannt haben, dass das Kochbuch für eine wissenschaftliche Arbeit nicht trägt. Bei der Überarbeitung sind daraus zwei Folgerungen entstanden. Wenn eine Rückmeldung das Konzept in Frage stellt, reicht es nicht, das Konzept kleiner zu machen, man muss prüfen, ob es überhaupt trägt. Und man sollte früh testen, ob es zu einem Thema eine Frage gibt, die sich mit den vorhandenen Quellen untersuchen lässt.
+
+### 8.2 Organisation, Zeit und Ablenkung
+
+Unsere grösste Schwäche war nicht fachlich. Nach unserer Rückschau haben wir den Ablauf zu wenig vorausgeplant und die Arbeit zeitlich zu ungleichmässig verteilt. Gerade am Anfang waren wir häufig abgelenkt, haben uns mit dem Handy beschäftigt oder Gespräche geführt, die nichts mit der Arbeit zu tun hatten. Wir haben die Arbeit zu Beginn nicht ernst genug genommen. Gearbeitet haben wir auch nicht jeden Mittwoch. An den Mittwochen, an denen wir gearbeitet haben, haben wir dafür zum Teil viel erledigt.
+
+Woran das lag, können wir nur zum Teil erklären. Die Ablenkung haben wir schon genannt. Eine zweite Ursache nennt Tim. Ihm hat am Anfang das Gefühl gefehlt, dass es eilt, und der Arbeitsdruck ist für ihn zu spät gekommen. Ob das für Aezri und John genauso gilt, haben wir nicht festgehalten. Eine dritte Ursache steht schon im Mai im Arbeitsjournal. Tim und John haben damals den Projektplan für unseren Arbeitsvertrag fertig gemacht und dazu notiert: «Für uns war es schwierig einzuschätzen, wann wir welche Aufgaben erledigen sollten.»[^81] Dieser Plan galt dem Kochbuch. Im neuen Projektplan vom August stehen Inhalt und Aufbau des Ube-Buches, aber keine Termine und keine Zwischenziele.[^82] Bei der Überarbeitung ist daraus die Folgerung entstanden, dass uns in der zweiten Phase ein Massstab gefehlt hat, an dem wir einen Rückstand hätten ablesen können.
+
+Die Folgen sieht man auf dem Zeitstrahl in Abbildung 1. John konnte das Buch erst in der letzten Woche setzen, gedruckt wurde es am Tag vor der Abgabe, und der erste Entwurf dieses Kommentars ist erst am 8. November entstanden, mit Claude (Kapitel 8.8). Schon in der Beurteilung vom Juni stand, wir seien zu Beginn nicht richtig in die Gänge gekommen. Das stimmt, und wir haben es nach den Sommerferien nur zum Teil aufgeholt. Dass das Buch trotzdem fertig geworden ist, liegt daran, dass wir im Herbst in kurzer Zeit viel gearbeitet haben, auch in den Herbstferien.
+
+Nicht alles lässt sich aber mit der Zeit erklären. Die Antworten aus dem Interview hatten wir am 25. Oktober, gut zwei Wochen vor der Abgabe. Rückfragen sind aus dieser Zeit in unseren Unterlagen keine festgehalten, und ein Grund dafür auch nicht. Dass keine Zeit mehr geblieben sei, wie es in einer früheren Fassung dieses Kommentars stand, können wir nicht belegen (Kapitel 4.5).
+
+Wir müssen dazusagen, dass es in unserer Gruppe keine Meinungsverschiedenheiten gab. Unsere Schwierigkeiten lagen bei der Organisation, bei der Konzentration und beim Zeitmanagement, nicht im Umgang miteinander. Was wir daraus mitnehmen, ist bei allen dreien ähnlich, aber nicht gleich. Für Aezri ist die wichtigste Lehre, dass gute Organisation entscheidend ist, weil ohne sie gegen Ende unnötiger Stress entsteht, und dass das Handy beim Arbeiten ausser Reichweite liegen sollte. Für Tim waren Zeitmanagement, Planung und der Umgang mit Ablenkung die zentralen Lernfelder. John nennt vor allem die Ablenkung und das Zeitmanagement. Was wir deshalb anders machen würden, fassen wir in Kapitel 8.9 zusammen.
+
+### 8.3 Zusammenarbeit und Aufteilung
+
+Wir haben die Arbeit nach Teilen aufgeteilt, und jeder war für seinen Teil verantwortlich (Tabelle 1). Das hatte klare Vorteile. Ab dem 30. September konnten wir an vier Thesen gleichzeitig arbeiten, was uns in der kurzen Zeit sehr geholfen hat, und wir konnten unterschiedliche Stärken nutzen. John hat das Buch gesetzt, den Druck organisiert und über seinen Onkel das Interview möglich gemacht. Tim hat gerechnet, Bilder gesucht und Korrektur gelesen. Aezri hat die meisten Texte geschrieben, das Quellenverzeichnis geführt und am Schluss alles zusammengeführt. Die wichtigen Entscheide, also das Thema, die Leitthese, die Aufteilung in vier Thesen und das Interview, haben wir zu dritt getroffen. Und wir haben einander kontrolliert, zum Beispiel hat John die Rechnungen von Tim und Aezri nachgerechnet.
+
+Die Texte selbst hat aber jeder für sich geschrieben, meistens zu Hause. Der Nachteil zeigt sich im Buch an Stellen, die nicht zueinander passen. Im ersten Kapitel steht zum Beispiel, Ube werde meistens zwischen Oktober und Februar geerntet, und in These 1 heisst es November bis Februar.[^83] Mal ist von Teilen und mal von Kapiteln die Rede, mal von Pflanzgut und mal von Pflanzmaterial. Beim Zusammenführen am 6. November hat Aezri die Belege vereinheitlicht und dabei gemerkt, wie unterschiedlich wir drei schreiben.[^84] Begriffe und Angaben sind dabei aber nicht angeglichen worden, sie stehen im Satzstand vom 8. November noch so. Einzeln sind solche Unterschiede klein, aber sie zeigen, dass wir Begriffe und Schreibweisen früher gemeinsam hätten festlegen sollen.
+
+Schwerer wiegt ein zweites Beispiel. Was wir über das Interview sicher wissen, haben wir erst am 9. November geklärt und festgehalten, an dem Tag, an dem das Buch gedruckt wurde. Im Satzstand vom 8. November steht Tita als Bäuerin, die ihre Ernte selbst verkauft, und in unserem Arbeitsjournal standen zum Ablauf des Interviews Angaben, die nicht stimmten. Das Arbeitsjournal hat überhaupt dasselbe Problem. Die Einträge ab Juni haben wir erst im November aus unseren Stichworten ausformulieren lassen, und dabei gehen Daten und Einzelheiten verloren oder verrutschen.
+
+An der Aufteilung selbst lag das nach unserer Einschätzung nicht, gefehlt hat der Abgleich zwischen den Teilen. Bei der Überarbeitung sind dazu Vorschläge entstanden. Ein gemeinsames Dokument von Anfang an, eine kurze Liste mit Begriffen und feste Termine, an denen alle drei alles lesen, hätten uns wahrscheinlich einen Teil der Berichtigungen vom November erspart. Beim Interview hätte es geholfen, nach dem 25. Oktober zu dritt festzuhalten, wer es geführt hat, in welcher Sprache und was wir über Tita wissen und was nicht.
+
+### 8.4 Umgang mit den Rückmeldungen und mit unserem Plan
+
+Die Beurteilung der Zwischenpräsentation hat die zweite Hälfte unseres Projekts geprägt. In Tabelle 2 stehen die wichtigsten Rückmeldungen, so wie wir sie in unseren Notizen festgehalten haben, und daneben, was wir daraufhin geändert haben.
+
+*Tabelle 2: Rückmeldungen zur Zwischenpräsentation und unsere Änderungen.*
+
+| Rückmeldung vom Juni 2026 | Was wir geändert haben |
+| --- | --- |
+| Kochbuch stärker eingrenzen | zuerst Eingrenzung auf drei Gerichte, dann Wechsel zu einer einzigen Zutat |
+| wenig Wissenschaftlichkeit, Eigenleistung nicht sichtbar | Leitthese mit vier Thesen, eigene Berechnungen, Einwände zu jeder These, Einordnung in Kapitel 7 |
+| Vorgehen bei der Auswahl der Gerichte nicht nachvollziehbar | Kapitel 4 beschreibt das Vorgehen. Im Buch folgt jede These demselben Schema aus Behauptungen, Belegen, Einwänden und Fazit. |
+| Quellen nur als Liste am Ende, keine Fussnoten | Kurzbelege bei jeder Angabe in Kapitel 3 des Buches, Fussnoten im Kommentar |
+| noch keine Interviews | ein Interview mit einer Marktverkäuferin auf Cebu, geführt von Johns Onkel |
+| viele Wiederholungen | Jedes Kapitel des Kommentars hat eine eigene Aufgabe. |
+| Reflexion in der Ich-Form und zu wenig zum Arbeitsprozess | Kapitel 8 in der Wir-Form, mit Schwerpunkt auf Entscheiden, Arbeitsprozess und Lernprozess |
+| Inhaltsverzeichnis ohne Nummern, keine Seitenzahlen, kein Blocksatz | nummeriertes Inhaltsverzeichnis, Seitenzahlen und Blocksatz |
+| KI-Nachweis ohne genaue Prompts | KI-Nachweis mit wörtlichen Prompts, Datum und Art der Übernahme in Kapitel 10.2, die langen Prompts vollständig in den Anhängen B bis G |
+| gruppenteiliges Arbeiten | wichtige Entscheide zu dritt getroffen. Die Texte sind trotzdem einzeln entstanden (Kapitel 8.3). |
+| Fachgespräch: Was ist ursprünglich philippinisch? | Kapitel 1 zeigt Ube als Nahrungsmittel, das lange vor der Kolonialzeit gegessen wurde, und am Halo-Halo, was später dazukam. |
+
+Nicht alles ist uns gleich gut gelungen, und die Änderungen in diesem Kommentar, also Gliederung, Fussnoten, Verzeichnisse und KI-Nachweis, sind mit Claude umgesetzt worden (Kapitel 8.8). Die formalen Punkte liessen sich schnell lösen. Für die grossen Punkte, also die fehlende Wissenschaftlichkeit und das undurchsichtige Vorgehen, haben wir mit dem Kochbuch keine Lösung gefunden, auch nicht mit der Eingrenzung auf drei Gerichte. Gelöst haben wir sie erst mit dem neuen Thema, und wissenschaftlicher geworden ist dabei vor allem das dritte Kapitel des Buches. Beim gruppenteiligen Arbeiten hat sich weniger verändert, als die Tabelle vermuten lässt, wie wir in Kapitel 8.3 beschrieben haben.
+
+Wie nahe wir unserem eigenen Plan gekommen sind, zeigt Tabelle 3. Die drei Kapitel stehen in der geplanten Reihenfolge, und die Fragen zum dritten Kapitel haben wir beantwortet, wenn auch in anderer Form. Am stärksten weicht die eigene Untersuchung ab. Statt vieler Gespräche mit älteren und jüngeren Filipinos gibt es ein einziges, kurzes Interview, das wir nicht selbst geführt haben. Den Vergleich zwischen den Generationen konnten wir deshalb nur über Titas Aussage zur jungen Generation andeuten.
+
+*Tabelle 3: Projektplan und Umsetzung im Vergleich.*
+
+| Geplant im Projektplan vom August | Umsetzung im Buch |
+| --- | --- |
+| Teil 1: traditionelle Bedeutung von Ube | Kapitel 1, wie geplant |
+| Teil 2: Ube als internationaler Food-Trend | Kapitel 2, wie geplant |
+| Teil 3: sechs Fragen zu den Folgen | zu drei Teilfragen, einer Leitthese und vier Thesen gebündelt |
+| Interviews mit Filipinos, Vergleich der Generationen | nicht umgesetzt |
+| Gespräch mit Ube-Bauern, Produzenten oder Verkäufern | Interview mit einer Marktverkäuferin, kein Gespräch mit Bauern, die an Händler liefern |
+| Quellen und eigene Resultate vergleichen | Preise, Zutatenlisten und Interview mit den Quellen verglichen |
+| viele Bilder und kurze Texte | in Kapitel 1 und 2 umgesetzt, in Kapitel 3 nicht |
+| einige Rezepte als Beispiele | nicht als Rezepte umgesetzt, Ube Halaya und Halo-Halo werden in Kapitel 1 beschrieben |
+| Interview-Zitate hervorheben | im Satzstand vom 8. November nicht hervorgehoben |
+| Ube-Violett als Hauptfarbe | umgesetzt, als Farbflächen |
+| Fazit und Quellen am Schluss | Fazit umgesetzt, Verzeichnisse im Satzstand vom 8. November noch nicht gesetzt |
+
+### 8.5 Umgang mit Annahmen, Quellen und dem Interview
+
+Wir sind mit einer Annahme in das Thema gestartet, die sich als falsch herausgestellt hat. Wir hatten gedacht, dass Ube auf den Philippinen in grossen Mengen produziert wird. Beim Recherchieren hat uns überrascht, welche wirtschaftliche und politische Bedeutung die Knolle hat und dass sich sogar staatliche Stellen mit ihr beschäftigen. Für uns heisst das, dass man auch bei einem vertrauten Thema nachprüfen muss, was man zu wissen glaubt.
+
+Stark verändert hat unser Arbeiten die Abmachung, bei jeder These nach Gegenargumenten zu suchen. Im Buch sieht man das an den Fazits. Bei allen vier Thesen schreiben wir dort, dass wir sie vorsichtiger, genauer oder neu fassen müssen, und in diesem Kommentar gilt das auch für die Leitthese.[^85] Dass eine These am Ende genauer gefasst werden muss, sehen wir deshalb als Ergebnis der Arbeit.
+
+Wir müssen aber dazusagen, dass wir dabei nicht konsequent genug waren. Mehrere Berichtigungen sind erst im November beim Schreiben dieses Kommentars dazugekommen, zum Teil durch die Prüfung mit Claude. Dazu gehören der falsche Beleg in These 1, die Rechnung mit den 0,7 Prozent, die wir zurücknehmen, und der Schluss aus dem Interview, den wir heute vorsichtiger ziehen (Kapitel 4.2, 4.4 und 4.5). Im Satzstand des Buches vom 8. November stehen diese Stellen noch in der alten Form. Das zeigt uns, dass wir Annahmen und Quellen früher hätten prüfen müssen, wie es auch in unserer Rückschau steht.
+
+Beim Interview sehen wir im Rückblick, wie viel von der Vorbereitung abhängt. Dass Johns Onkel ins Bisaya gewechselt hat, war richtig, weil Tita sich auf Englisch nicht ausreichend ausdrücken konnte. Für uns heisst es aber, dass wir nicht ihre eigenen Worte haben, sondern eine Übertragung. Als sie von einem kleinen Feld sprach, war niemand von uns dabei, um nachzufragen, was sie damit meint, und spätere Rückfragen sind nicht dokumentiert (Kapitel 4.5). Genau diese Angabe fehlt uns heute. Dafür zu sorgen, dass ihre Zustimmung festgehalten und das Transkript von ihr bestätigt wird, wäre unsere Aufgabe gewesen und nicht die des Onkels. Bei der Überarbeitung ist daraus die Folgerung entstanden, dass man ein Interview, das jemand anderes für einen führt, genauer vorbereiten muss als eines, bei dem man selbst dabei ist. Dazu gehören Fragen zur Person, eine Abmachung, wie Zustimmung und Bestätigung festgehalten werden, und eine zweite Runde mit Rückfragen, die man von Anfang an einplant.
+
+### 8.6 Nähe zum Thema und unser Blick auf den Trend
+
+Wir haben alle drei philippinische Wurzeln und sind mit Ube aufgewachsen. Für Tim und John gehört die Knolle zur Kindheit. Aezri verbindet Ube besonders stark mit der eigenen Kindheit in einem stark schweizerisch geprägten Umfeld, in dem es auch philippinisches Essen gab. Die violetten Desserts waren dort eine Erinnerung an die philippinische Zugehörigkeit.
+
+Diese Nähe hat uns motiviert. Sie kann aber auch dazu beigetragen haben, dass wir am Anfang zu wohlwollend auf das Thema geschaut haben. Belegen können wir das nicht, wir halten es nur für möglich. Dafür spricht, dass wir ohne zu prüfen von einer grossen Produktion ausgegangen sind und dass uns die Probleme hinter dem Trend erst durch die Recherche aufgefallen sind. Im Buch schreiben wir selbst, dass wir uns zuerst einfach gefreut haben, als die Knolle auf der ganzen Welt bekannt wurde.[^86]
+
+Durch die Arbeit sind wir aufmerksamer geworden für den Unterschied zwischen Ube als auffälligem Trendprodukt und ihrer kulturellen Bedeutung. Daraus machen wir keine Aussage über alle, die im Ausland Ube kaufen. Wir sehen nur, dass in vielen Produkten, die wir angeschaut haben, von der Herkunft wenig übrig bleibt.
+
+Unsere Einschätzung des Trends ist heute zweigeteilt. Die wirtschaftliche Entwicklung sehen wir kritisch, weil eine hohe Nachfrage auf eine begrenzte und über Jahre gesunkene Produktion trifft. In unserer Rückschau haben wir zuerst gesagt, der Boom schade der Wirtschaft der Philippinen. So weit reichen unsere Belege nicht. Zeigen können wir Risiken für die Versorgung und für die Bauern, die von Händlern abhängen, aber keine Wirkung auf die ganze Wirtschaft. Ähnlich ungenau war unser Wort, der Staat wolle Ube «patentieren». Gemeint ist der Antrag der Provinz Bohol auf eine geschützte geografische Angabe für ihre Sorte, und das ist etwas anderes als ein Patent (Kapitel 7.1). Den kulturellen Austausch empfinden wir dagegen auch als Chance. Wenn andere Kulturen Ube aufnehmen, können sich ihre Geschichte und ihre Verwendung weiterentwickeln, so wie es bei der Ube Halaya mit ihrem spanischen Namen schon einmal geschehen ist.
+
+### 8.7 Das Buch als Produkt
+
+In der Einleitung haben wir drei Ziele für das Buch genannt. Es sollte verständlich sein, im wissenschaftlichen Teil nachprüfbar, und man sollte es gerne in die Hand nehmen. Wir gehen sie der Reihe nach durch.
+
+Verständlich ist das Buch nach unserem Eindruck vor allem in Kapitel 1 und 2. Wir erklären dort Begriffe, vergleichen Unbekanntes mit Bekanntem und beginnen jedes Kapitel mit einer Kurzeinleitung. Ob das reicht, könnten aber nur Leserinnen und Leser sagen, die Ube nicht kennen.
+
+Auf die Recherche für das dritte Kapitel sind wir stolz. Sie stützt sich auf sieben Arten von Quellen, bei den Zahlen stehen Kurzbelege, eigene Rechnungen sind als solche bezeichnet, und bei jeder These haben wir nach Einwänden gesucht (Kapitel 4.2 bis 4.4). Nachprüfbar ist das Kapitel aber nur zusammen mit dem Quellenverzeichnis, und das war im Satzstand vom 8. November noch nicht gesetzt. Dazu kommen die Einschränkungen aus Kapitel 8.5. Soweit diese Stellen so gedruckt worden sind, können wir sie nur noch in diesem Kommentar berichtigen.
+
+Auf die Gestaltung sind wir ebenfalls stolz. Das Violett, die grossen Bilder in den ersten zwei Kapiteln, die Karte, der Satz in zwei Spalten und der feste Einband passen für uns gut zum Thema. Dazusagen müssen wir, dass nur zwei Fotos von uns selbst stammen, dass die übrigen Bilder aus dem Internet kommen und dass die Karte mit Claude entstanden ist (Kapitel 3.4). Weniger zufrieden sind wir mit der Gestaltung des dritten Kapitels. Dort hätten wir mehr passende Diagramme, Tabellen und Bilder einsetzen können, um Zahlen und Zusammenhänge verständlicher zu zeigen. Die Rechnung zu Fläche, Ernte und Ertrag steht im Buch zum Beispiel nur als Text, in Abbildung 4 dieses Kommentars sieht man sie auf einen Blick. Warum das dritte Kapitel ohne Darstellungen geblieben ist, haben wir in unserer Rückschau nicht begründet. Fest steht nur, dass das Buch erst in der letzten Woche gesetzt wurde, als die Texte von Kapitel 3 gerade fertig wurden.
+
+Bei der Überarbeitung ist dazu ein Gedanke entstanden, der die drei Ziele verbindet. Das dritte Kapitel ist am gründlichsten recherchiert und zugleich am schwersten zu lesen, weil dort die meisten Zahlen ohne jede Darstellung stehen. Eine Rechnung, die man in einem Diagramm sieht, kann man leichter nachvollziehen und auch leichter anzweifeln als eine, die in einem Absatz steht. Bei einem nächsten Buch würden wir die Darstellungen deshalb zusammen mit den Thesen planen und nicht erst beim Satz.
+
+### 8.8 Unser Umgang mit künstlicher Intelligenz
+
+Zu unserem Arbeitsprozess gehört auch, dass wir künstliche Intelligenz benutzt haben, und zwar den KI-Assistenten Claude. Im Buch ist die Karte von Bohol auf Seite 9 mit Claude entstanden. Für diesen Kommentar und für das Arbeitsjournal haben wir Claude sehr viel stärker eingesetzt. Claude hat am 8. November aus unseren Unterlagen den ersten Entwurf des Kommentars erstellt, ihn in den folgenden Eingaben mehrmals überarbeitet und geprüft und die Einträge unseres Arbeitsjournals ab Juni aus unseren Stichworten ausformuliert. Die einzelnen Eingaben stehen in Kapitel 10.2.
+
+Die Zitierregeln der Kantonsschule sind in diesem Punkt deutlich. Der Anteil der KI muss nachvollziehbar sein, die Eigenleistung muss beurteilbar bleiben, und Ergebnisse einer KI dürfen nicht wortwörtlich übernommen werden. Vorgesehen ist KI als Inspirationsquelle und als Hilfe bei Fragestellung, Strukturierung und sprachlichen Korrekturen.[^87] Daran gemessen ist der Anteil von Claude an diesem Kommentar gross, und wir wollen ihn nicht kleiner darstellen, als er ist. Von uns stammen die Inhalte und Unterlagen, also das Buch mit seinen Thesen und Rechnungen, die Entscheide im Projekt, das Interviewmaterial, unsere Journaleinträge und Stichworte, unsere Berichtigungen in den Eingaben und die Rückschau. Von Claude stammen die Gliederung, der grösste Teil der Formulierungen, die Abbildungen 1 bis 4, die Auswahl der Texte in Kapitel 6 und ein Teil der Deutungen in den Kapiteln 7 und 8. Als eigene Prüfungen und Änderungen können wir bisher nur nachweisen, was in unseren Eingaben steht.==[Vor der Abgabe ergänzen: was ihr an diesem Kommentar selbst gelesen, geprüft, geändert oder in eigenen Worten umgeschrieben habt, und ob ihr die Überlegungen, die in Kapitel 8 mit «bei der Überarbeitung» gekennzeichnet sind, als eure eigenen übernehmt. Einzelne Wörter auszutauschen reicht dafür nicht.]==
+
+Der Wortlaut dieses Kommentars ist, soweit es dokumentiert ist, so übernommen worden, wie Claude ihn formuliert hat. Das geht über Inspiration, Strukturierung und sprachliche Korrektur hinaus. Ob es mit den Vorgaben der Schule vereinbar ist, ist nicht geklärt, und dass wir alles offenlegen, beantwortet diese Frage noch nicht.==[Vor der Abgabe mit Frau Büschlen klären, ob und in welcher Form dieser Kommentar so abgegeben werden kann, und das Ergebnis hier festhalten.]== Für die Arbeit am Buch ist der KI-Nachweis in Kapitel 10.2 ausserdem noch nicht vollständig.
+
+Beim Arbeiten mit Claude haben wir zwei Dinge gesehen. Claude hat Fehler gefunden, die uns entgangen waren, zum Beispiel den falschen Beleg in These 1. Claude hat aber auch selbst Fehler gemacht und Lücken mit Annahmen gefüllt. In einer Überarbeitung wurde das Datum der ersten Berichte über den Exportstopp falsch geändert. In der Fassung vom 10. November stand, nach dem 25. Oktober sei keine Zeit mehr für Rückfragen geblieben, und für das Festhalten am Kochbuch stand dort eine Begründung, die in unserer Rückschau gar nicht vorkommt. Aufgefallen sind solche Stellen jeweils erst in einem späteren Durchgang.
+
+Das zeigt uns, dass man auch das prüfen muss, was eine KI geschrieben oder geprüft hat, und dass eine Quelle erst dann unsere Quelle ist, wenn wir sie selbst geöffnet haben. Dazu kommt, dass ein Text, den eine KI formuliert, nicht von selbst nach uns klingt. Aezri hat Claude deshalb eigene Texte als Vorlage gegeben. Zu unserem eigenen Text macht ihn das nicht. Besser wäre es gewesen, die Kapitel über unser Vorgehen laufend neben dem Buch selbst zu schreiben. Dann hätten wir Claude für das gebraucht, wofür die Zitierregeln KI vorsehen.
+
+### 8.9 Was wir anders machen würden
+
+Wenn wir noch einmal anfangen könnten, würden wir fünf Dinge anders machen. Wir sagen bewusst «würden», denn in diesem Projekt haben wir sie nicht oder nur zum Teil umgesetzt. Die ersten vier stehen in unserer Rückschau, der fünfte hat sich bei der Überarbeitung aus den Kapiteln 8.3 und 8.8 ergeben.
+
+Erstens würden wir einen realistischen Zeitplan mit Zwischenzielen erstellen. Zweitens würden wir die Arbeit gleichmässiger über die Monate verteilen. Drittens würden wir die Handys beim Arbeiten ausser Reichweite legen und Gespräche begrenzen, die nichts mit der Arbeit zu tun haben. Viertens würden wir Annahmen und Quellen früher kritisch hinterfragen, und dazu gehört auch das eigene Konzept, sobald die erste grundsätzliche Kritik kommt. Fünftens würden wir früher miteinander abgleichen, was in den einzelnen Teilen steht, das Arbeitsjournal direkt nach dem Arbeiten schreiben und den Kommentar neben dem Buch selbst verfassen.
+
+## 9 Schlusswort und Dank
+
+Als wir im April angefangen haben, wollten wir ein Kochbuch über die ganze philippinische Küche schreiben. Entstanden ist ein Buch über eine einzige Knolle. An ihr konnten wir zeigen, wie ein Trend in Europa mit Feldern auf den Philippinen zusammenhängt, und am Ende ist für uns eine Frage wichtiger geworden als die nach dem Geld, nämlich wer Ube in Zukunft noch anbaut.
+
+Danken möchten wir zuerst Tita, die sich Zeit für unsere Fragen genommen hat, und Johns Onkel, der das Interview für uns auf Cebu geführt, aufgenommen und ins Englische übertragen hat. Frau Büschlen danken wir für ihre ehrlichen Rückmeldungen und dafür, dass sie den Themenwechsel mitgetragen hat, Herrn Franceschi für seine Beurteilung als Zweitbewerter. Unseren Familien danken wir für ihre Unterstützung.
+
+## 10 Quellenverzeichnis
+
+### 10.1 Quellen
+
+Alle Quellen stehen in alphabetischer Reihenfolge. Quellen ohne Autorin oder Autor sind nach ihrem Titel eingeordnet, Berichte von Behörden und Organisationen nach dem Namen, den wir in den Fussnoten verwenden. Das Interview steht unter «Interview» und nicht unter dem Namen der Person, die es geführt hat, weil wir diesen Namen nicht nennen. Die Abrufdaten vom 8., 9. und 10. November 2026 sind die Tage, an denen Claude die Quellen für diesen Kommentar geöffnet und geprüft hat (Kapitel 10.2). Unsere eigenen Abrufdaten aus der Arbeit am Buch haben wir nicht festgehalten. Quellen, die wir nur über unser Buch oder über einen anderen Bericht kennen, haben keinen eigenen Eintrag. Sie stehen in der Fussnote mit «zit. nach», und im Verzeichnis steht die Quelle, die für diesen Kommentar tatsächlich geöffnet wurde. Eine Ausnahme ist der Bericht des USDA FAS, den wir wegen seiner Bedeutung trotzdem aufführen.
+
+- Baltasar, Cecile: Ube is trending abroad: Is the Philippines optimizing the moment?, in: PhilSTAR L!fe, 07.05.2026. https://philstarlife.com/living/499038-ube-trending-abroad-is-philippines-optimizing-moment, abgerufen am 09.11.2026.
+- Barú: Produktdatenblatt Barú Ube Latte Powder (Art.-Nr. 09926), 27.03.2026. https://live.pim.marketgrounds.sepia.de/pdf/2145709926_Bar_Ube_Latte_Powder.pdf, abgerufen am 08.11.2026.
+- Beltran, Sam: How Philippine ube farming can cash in on ‹purple gold rush›, in: South China Morning Post, o.J. https://www.scmp.com/week-asia/economics/article/3358827/how-philippine-ube-farming-can-cash-purple-gold-rush, abgerufen am 09.11.2026.
+- Büschlen, Andrea/Franceschi, Joel: Beurteilung der Maturaarbeit zum Zeitpunkt der Zwischenpräsentation, schriftliche Beurteilung vom 19.06.2026. Unveröffentlicht.
+- Cacho-Laurejas, Katlene O.: PH ube exports hit $3.06M in 2025 on strong global demand, in: SunStar, 25.02.2026. https://www.sunstar.com.ph/cebu/ph-ube-exports-hit-306m-in-2025-on-strong-global-demand, abgerufen am 08.11.2026.
+- Cox, Savannah: $100 Golden Doughnut Offered at Williamsburg Eatery, in: DNAinfo, 05.01.2016. https://www.dnainfo.com/new-york/20160105/williamsburg/100-golden-donut-offered-at-williamsburg-eatery, abgerufen am 08.11.2026.
+- CPBRD (Congressional Policy and Budget Research Department): Ube-quitous potential, persistent challenges. An assessment of the Philippine ube industry (Policy Brief PB2026-10), Quezon City: House of Representatives, 2026. ==[URL und Abrufdatum ergänzen. Die Website des CPBRD liess sich am 10.11.2026 von Claude nicht abrufen.]==
+- DA indefinitely suspends raw ube exports to secure planting materials, in: Department of Agriculture, 14.09.2026. https://www.da.gov.ph/da-indefinitely-suspends-raw-ube-exports-to-secure-planting-materials/, abgerufen am 09.11.2026.
+- Government targets 1,000-hectare ube expansion for exports, in: Department of Agriculture, 06.10.2026. https://www.da.gov.ph/government-targets-1000-hectare-ube-expansion-for-exports/, abgerufen am 09.11.2026.
+- Interview mit «Tita» (Name geändert), Marktverkäuferin, Talisay City (Cebu), 23.10.2026. Geführt und aufgenommen von einem Onkel von John Meuwly (Name den Autoren bekannt) nach zehn Fragen von John Meuwly, begonnen auf Englisch und auf Bisaya fortgesetzt. Englisches Transkript des Interviewers in Anhang A.
+- ISB (Staatsinstitut für Schulqualität und Bildungsforschung): Layout. Arbeitsheft zur Einführung in das Thema, München: ISB, 2019. https://www.kunst.realschule.bayern.de/fileadmin/user_upload/kunst_rs/2_Angewandte_Kunst/Layout/AH_LAYOUT_L.pdf, abgerufen am 09.11.2026.
+- Kantonsschule Baden, Mediothek: Zitierregeln. Alles, was man dazu wissen muss, Baden: Kantonsschule Baden, 2025 (5. Auflage).
+- Keystone-SDA: Lila Wurzel – Ube-Trend erreicht die Schweiz, in: Swissinfo, 20.03.2026. https://www.swissinfo.ch/ger/lila-wurzel-ube-trend-erreicht-die-schweiz/91132165, abgerufen am 09.11.2026.
+- Lim, Janina: IPOPHL receives GI bid for Bohol Ubi Kinampay amid global ube craze. Intellectual Property Office of the Philippines, 16.06.2026. https://www.ipophil.gov.ph/news/ipophl-receives-gi-bid-for-bohol-ubi-kinampay-amid-global-ube-craze/, abgerufen am 09.11.2026.
+- Mendoza, Teodoro C.: How Philippine farmers can boost ube planting stock using clonal propagation, in: Asia News Network, 13.05.2026. https://asianews.network/how-philippine-farmers-can-boost-ube-planting-stock-using-clonal-propagation/, abgerufen am 08.11.2026.
+- Mendoza, Teodoro C.: Philippine ube ushers in a violet revolution, but who profits?, in: Asia News Network, 08.05.2026 (Nachdruck aus dem Philippine Daily Inquirer). https://asianews.network/philippine-ube-ushers-in-a-violet-revolution-but-who-profits/, abgerufen am 09.11.2026.
+- Mondares, Claire Bernadette A.: Can PH meet global demand for purple yams? Experts try propagation techniques to produce quality planting materials amid Ube craze. Department of Science and Technology, 27.05.2026. https://www.dost.gov.ph/knowledge-resources/news/87-2026-news/4402-can-ph-meet-global-demand-for-purple-yams-experts-try-propagation-techniques-to-produce-quality-planting-materials-amid-ube-craze, abgerufen am 08.11.2026.
+- Nanavati, Anuj A./Bias, Randolph G.: Optimal Line Length in Reading. A Literature Review, in: Visible Language 39, Nr. 2 (2005), S. 120-145. https://journals.uc.edu/index.php/vl/article/view/5765, abgerufen am 09.11.2026.
+- Oels, David: «… was ein Sachbuch eigentlich ist.» (Arbeitsblätter für die Sachbuchforschung, Nr. 20), Mainz/Berlin/Bonn: Forschungsprojekt «Das populäre deutschsprachige Sachbuch im 20. Jahrhundert», 2013. https://www.blogs.uni-mainz.de/fb05-sachbuchforschung/files/2014/11/Arbeitsblaetter_Sachbuchforschung_20_Oels_was_ein_Sachbuch_eigentlich_ist.pdf, abgerufen am 09.11.2026.
+- Paratexte, in: Universität Tübingen, 06.11.2024. https://uni-tuebingen.de/de/239688, abgerufen am 08.11.2026.
+- Philippine ube growers face seedling shortage, in: FreshPlaza, 11.06.2026. https://www.freshplaza.com/article/9846163/philippine-ube-growers-face-seedling-shortage/, abgerufen am 08.11.2026.
+- Philippine ube sector holds growth potential but faces development gaps – USDA, in: Context.ph, 29.06.2026. https://context.ph/2026/06/29/philippine-ube-sector-holds-growth-potential-but-faces-development-gaps-usda/, abgerufen am 10.11.2026.
+- Philippines: Export ban on fresh purple yam (ube) and its planting materials, in: Global Trade Alert, 30.09.2026. https://globaltradealert.org/state-act/100704-philippines-export-ban-on-fresh-purple-yam-ube-and-its-planting-materials, abgerufen am 09.11.2026.
+- Philippines plans US$5.1 million ube cultivation expansion, in: FreshPlaza, 06.10.2026. https://www.freshplaza.com/asia/article/9880444/philippines-plans-us-5-1-million-ube-cultivation-expansion/, abgerufen am 09.11.2026.
+- Rosal, Tim/Peglow, Aezri/Meuwly, John: Arbeitsjournal zur Maturaarbeit, 22.04. bis 10.11.2026. Unveröffentlichtes Arbeitsjournal, im November 2026 als Rückblicke über je zwei Wochen zusammengestellt. Kantonsschule Baden. Baden, 2026.
+- Rosal, Tim/Peglow, Aezri/Meuwly, John: Projektplan für das Sachbuch über Ube. Unveröffentlichter Projektplan. Kantonsschule Baden. Baden, 2026.
+- Rosal, Tim/Peglow, Aezri/Meuwly, John: Ube. Zwischen Tradition und Trend. Sachbuch, Produkt der Maturaarbeit. Kantonsschule Baden. Baden, 2026. Zitiert nach der Satzdatei vom 08.11.2026.
+- Rosal, Tim/Peglow, Aezri/Meuwly, John: Wissenschaftlicher Begleitkommentar: unser philippinisches Kochbuch. Unveröffentlichter Kommentar zur Zwischenpräsentation. Kantonsschule Baden. Baden, 2026.
+- The Purple Gold Rush: Can the Philippines Cope with the Global Ube Obsession?, in: Asian Journal, 20.03.2026. https://asianjournal.com/features/the-purple-gold-rush-can-the-philippines-cope-with-the-global-ube-obsession/, abgerufen am 09.11.2026.
+- Transparency Market Research: Ube Market. Eckdaten des Berichts bei GII Global Information, 17.12.2025. https://www.giiresearch.com/report/tsm1930648-ube-market.html, abgerufen am 08.11.2026.
+- Ube industry gets boost as DA-BPI distributes 60,000 planting materials, in: Context.ph, 23.06.2026. https://context.ph/2026/06/23/ube-industry-gets-boost-industry-as-da-bpi-distributes-60000-planting-materials/, abgerufen am 09.11.2026.
+- USDA FAS (USDA Foreign Agricultural Service): Ube – Purple Yam – A High-Value Specialty Crop with Growing Domestic and Export Market Potential (Report RP2026-0019), Manila: USDA FAS, 26.06.2026. https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Ube+-+Purple+Yam+-+A+High-Value+Specialty+Crop+with+Growing+Domestic+and+Export+Market+Potential_Manila_Philippines_RP2026-0019.pdf. Für diesen Kommentar nicht im Original eingesehen, zitiert nach dem Bericht von Context.ph vom 29.06.2026. ==[Falls ihr das Original selbst geöffnet habt: Abrufdatum eintragen und in den Fussnoten direkt mit Seite zitieren. Claude konnte die Datei am 10.11.2026 nicht abrufen.]==
+- Zöhrer, Marlene: Ausgangspunkt: Bild. Eine Annäherung an Bildästhetik und Wissensvermittlung im Sachbilderbuch, in: Jahrbuch der Gesellschaft für Kinder- und Jugendliteraturforschung (2023), S. 62-76. DOI: 10.21248/gkjf-jb.107.
+
+### 10.2 Künstliche Intelligenz (KI-Nachweis)
+
+Die Zitierregeln der Kantonsschule Baden halten fest, dass der Anteil der KI an einer Arbeit nachvollziehbar sein muss und dass die Eigenleistung beurteilbar bleiben muss. KI darf als Inspirationsquelle dienen und kann bei Fragestellung, Strukturierung und sprachlichen Korrekturen helfen. Ihre Ergebnisse dürfen aber nicht wortwörtlich übernommen werden, und als Quelle für sachliche Informationen darf man sie nicht verwenden.[^88] Der Nachweis muss das System und seine Version nennen, die Eingabe wörtlich wiedergeben, das Datum angeben und sagen, wie das Ergebnis übernommen wurde.[^89]
+
+Wir haben Claude verwendet, den KI-Assistenten der Firma Anthropic, in der Claude-App mit Zugriff auf unseren Obsidian-Vault über GitHub. Als Version nennen wir das Modell, das in der Sitzung eingestellt war. Bei den Eingaben 6 bis 9 war das Fable 5.1, bei den Eingaben 10 bis 12 Fable 5.2. Für die Eingaben 1 bis 5 vom 8. November steht in unseren Unterlagen Opus 5.5.==[Modellnamen für die Eingaben 1 bis 5 im Chatverlauf prüfen]== Unsere Eingaben geben wir wörtlich wieder, auch mit den Tippfehlern, die darin stehen. Wo wir kürzen, steht [...]. Die sechs langen Prompts stehen vollständig in den Anhängen B bis G. Die Kapitelnummern in den Einträgen 1 bis 10 beziehen sich auf die damalige Gliederung. In dieser Fassung sind vier Kapitel umgestellt: Das frühere Kapitel 3 (Fachliteratur) ist heute Kapitel 6, das frühere Kapitel 4 (Konzept) Kapitel 3, das frühere Kapitel 5 (Methode) Kapitel 4 und das frühere Kapitel 6 (Buch) Kapitel 5.
+
+Zu jeder Eingabe halten wir fest, was wir mitgegeben haben, was Claude daraus erstellt, verändert oder geprüft hat und wie das Ergebnis übernommen wurde. Damit unser Anteil und der Anteil der KI beurteilbar bleiben, trennen wir ausserdem drei Dinge.
+
+Erstens unsere eigenen Inhalte und Unterlagen. Dazu gehören das Buch mit seinen Thesen und Rechnungen, der Projektplan, der Begleitkommentar zur Zwischenpräsentation, unsere Journaleinträge vom 22. April bis zum 3. Juni, unsere Stichworte und Angaben für die Zeit danach, die zehn Interviewfragen, das Transkript, das wir von John erhalten haben, Johns Liste der Bildquellen, Aezris Familienchronik als Stilvorlage und die Rückschau im Prompt vom 9. November.
+
+Zweitens die Tätigkeiten und Formulierungen von Claude. Claude hat den Text dieses Kommentars geschrieben und in den folgenden Eingaben überarbeitet, die Journaleinträge ab Juni ausformuliert und zu Rückblicken zusammengefasst, die Abbildungen 1 bis 4 gezeichnet, die Texte zur Fachliteratur in Kapitel 6 gesucht, Belege, Rechnungen und Argumentation geprüft und einen Teil der Deutungen in den Kapiteln 7 und 8 entwickelt. Jede Fassung war die Grundlage der nächsten.
+
+Drittens unsere eigenen Prüfungen und Änderungen. Nachweisen können wir bisher nur, was in unseren Eingaben selbst steht, also die Berichtigungen zur Rolle von Tita, zum Ablauf des Interviews, zu den Klassen und zur Aufgabenverteilung. Bei den Kritikpunkten in den langen Prompts ist noch offen, womit sie entstanden sind (siehe den letzten Eintrag unten). Eigene Änderungen von Hand am Text sind für keine der Fassungen dokumentiert.==[Vor der Abgabe: Falls ihr Teile selbst umgeschrieben, gestrichen oder geprüft habt, hier und bei der betreffenden Eingabe ergänzen. Einzelne Wörter auszutauschen reicht als Nachweis nicht. Sonst diesen Hinweis löschen. Der Satz davor bleibt dann stehen.]==
+
+Der Wortlaut dieses Kommentars stammt damit zum grössten Teil von Claude und ist, soweit es dokumentiert ist, ohne eigene Umformulierung übernommen worden. Das geht über das hinaus, wofür die Zitierregeln KI vorsehen, nämlich Inspiration, Fragestellung, Strukturierung und sprachliche Korrekturen. Dass wir den Einsatz hier offenlegen, macht ihn noch nicht zulässig. Ob er mit den Vorgaben der Schule vereinbar ist, ist nicht geklärt (Kapitel 8.8). Keine sachliche Angabe in diesem Kommentar ist mit Claude als Quelle belegt. Wo Claude Quellen gesucht oder geprüft hat, zitieren wir die Quelle selbst.
+
+- Claude (Opus 5.5): «/goal ist es einen schriftlichen Kommentar für unser Ube Sachbuch zu schreiben, du hast alle nötigen daten sowie zugriff auf mein Obsidian und kannst alle Mittel nutzen die dir dabei helfen diesen kommentar zu schreiben. Achte dich darauf ein gut strukturiertes Inhaltsverzeichnis zu gestalten. Und lass dich von allen schriftlichen kommentar inspiriren und wenn du möchtest kannst du auch welche titel übernehmen. Schreibe die Sätze so menschlich wie es geht achte dich auf die struktur der sätze sie sollen alle miteinander einstimmen und harmonisch sein das heisst die übergänge zu den sätzen sollten sinn machen und menschlich klingen. Steck all unser wissen ein das du von uns bekommen hast und setze um. Du kannst mir gerne Fragen stellen wenn du welche hast. Ich gebe dir natürlich so viel zeit wie du brauchst. Setze ebenso die fussnoten zu den Quellen und mache es nach den Zitierregeln der Kantibaden. Wenn du fertig bist speicherst du alles auf Obsidian. Achte dich auch darauf das du keine Wiederholungen einbaust und keine typischen KI Pointe und KI Strukturen verwendest du sollst ja langsam wie wir schreiben und setze dies um. Wie gesagt bei fragen einfach nur gerne fragen und alles am schluss in Obsidian speichern.», 08.11.2026. Eingabe 1. Mitgegeben: unser Vault (Buchtext, Projektplan, Arbeitsjournal, Beurteilung vom 19.06., Quellenverzeichnis), der schriftliche Kommentar «Game Pressure» als Beispiel, die Zitierregeln der Kantonsschule Baden und Fotos eines weiteren Kommentars. Rückfragen zu Umfang, Titel und Theorieteil haben wir beantwortet. Erstellt von Claude: der erste Entwurf des ganzen Kommentars mit Gliederung, Fussnoten und Verzeichnissen, die Abbildungen 1 bis 4 und die Quellen für den Theorieteil (Kapitel 3). Art der Übernahme: als Entwurf übernommen. Der Text war die Grundlage aller späteren Fassungen und ist in den Eingaben 2 bis 11 weiter überarbeitet worden. Die Texte zur Fachliteratur stehen heute als nachträgliche Einordnung in Kapitel 6.
+- Claude (Opus 5.5): «/anthropic-skills:menschlich schreibe den ganzen schriftlichen Kommentar für wort und wort menschlicher korriigere auch die fehler die aufgezählt hast. Ich gebe dir dafür 7 Stunden Zeit. Und wegen der Zitierregl mach dir keine Sorge werde sowieso noch alles umschreiben aber gibt trotzdem alle deine Kraft den ganzen text wie ich zu schreiben.», 08.11.2026. Eingabe 2. Rückfragen dazu, wer den Abschnitt «Was bleibt von unserer Leitthese?» geschrieben hat und welche eigenen Texte als Vorbild für den Stil dienen, haben wir beantwortet. Verändert von Claude: der ganze Entwurf Satz für Satz sprachlich, orientiert an Kapitel 1 und an den Thesen 1 und 2 des Buches. Ausserdem hat Claude den falschen Beleg in These 1 gefunden und im Buchtext korrigiert. Art der Übernahme: als überarbeitete Fassung übernommen und in den folgenden Eingaben weiter verändert. Die Korrektur des Belegs steht in unserer Textfassung im Vault, im Satzstand des Buches vom 8. November stand noch der alte Beleg.
+- Claude (Opus 5.5): «Versuche die Grafen noch präziser und detailierter zu beschreiben und vor allem chronologisch viel vertiefter.», 08.11.2026. Eingabe 3. Verändert von Claude: Abbildung 1 (Zeitstrahl) mit den Daten aus unserem Arbeitsjournal erweitert, Abbildung 2 neu gezeichnet, Abbildung 3 um die Behauptungen und Abbildung 4 um die eigene Rechnung ergänzt, Kapitel 2 und die Beschreibungen der Abbildungen ausführlicher geschrieben. Art der Übernahme: Abbildungen 3 und 4 so übernommen. Die Abbildungen 1 und 2 sind in Eingabe 11 mit berichtigten Daten neu gezeichnet worden.
+- Claude (Opus 5.5): «==[Prompt aus dem Chatverlauf einfügen]==», ==[Datum]==. Eingabe 4. Erstellt von Claude: die Einträge unseres Arbeitsjournals ab dem 5. Juni 2026 in ganzen Sätzen, aus unseren Angaben zu Datum, Ort, Tätigkeit und Ergebnis. Die Einträge bis zum 3. Juni sind unverändert unsere eigenen. Art der Übernahme: als Arbeitsjournal übernommen (Word-Datei vom 8. November). In den Eingaben 9 und 10 wurden einzelne Stellen berichtigt, in Eingabe 11 wurde das Journal zu Rückblicken über je zwei Wochen zusammengefasst. Dabei haben wir Angaben zum Interview berichtigt, die in den ausformulierten Einträgen nicht stimmten.
+- Claude (Opus 5.5): «Wie du sehen kannst habe ich dir jetzt unser Produkt geschickt, das wären die Seiten die wir der Druckerei schicken würden, aber es fehlt noch die hälfte, erstelle sonst schon mal noch die restlichen Arbeitsjournaleinträge die noch fehlen zu unserem Produkt, wenn ich das ganze fertige Produkt habe schicke ich dir noch den rest damit du den rest zu dem Arbeitsjournal ergänzen kannst und speichere wieder alles auf obsidian.», 08.11.2026. Eingabe 5. Rückfragen haben wir beantwortet («Verteile es auf Mittwocheinträge», Karte von John, Bilder und Korrekturlesen von Tim). Mitgegeben: die ersten Seiten des Buches als PDF. Verändert von Claude: die Journaleinträge vom 28.10. und 04.11. um die Arbeit am Buch ergänzt. Art der Übernahme: in das Arbeitsjournal übernommen. In Eingabe 11 sind diese Einträge in die Rückblicke eingegangen.
+- Claude (Fable 5.1): «MASTER-PROMPT: Vollständige Finalisierung meiner Maturaarbeit über Ube [...] Deine Aufgabe ist es, meine gesamte Maturaarbeit auf ein möglichst hohes Qualitätsniveau zu bringen. [...] Erfinde keine Fakten, Quellen, Zitate, Erfahrungen oder Arbeitsschritte. [...] Beginne jetzt mit Phase 1: der vollständigen Bestandsaufnahme und Analyse meines Obsidian-Vaults. [...]», 08.11.2026. Eingabe 6, vollständiger Wortlaut in Anhang B. Mitgegeben: das Buch-PDF vom 8. November. Erstellt von Claude: eine Materialanalyse mit Stilprofil, eine Faktenprüfung mit Websuche (unter anderem Umrechnung der 300 Millionen Pesos, Titel des USDA-Berichts, Zeilenlängen-Studie), eine Bewertung des Entwurfs, eine neue Gliederung und daraus die zweite Fassung des Kommentars: Kapitel 7 (Einordnung nach wirtschaftlicher und kultureller Kontrolle, Einwände, Grenzen), 5.2 (Quellenarten) und 5.5 (Auswertung des Interviews) neu, Kapitel 6 gekürzt, Abbildung 2 ergänzt, Produktangaben aus dem PDF eingetragen, Fussnoten korrigiert. Dazu eine Liste mit Widersprüchen zwischen Buch, Kommentar und Journal, eine Korrekturliste für das Buch und Vorschläge zur sprachlichen Überarbeitung des Arbeitsjournals, bei denen keine Ereignisse hinzugekommen sind. Art der Übernahme: als Arbeitsfassung übernommen und in den folgenden Eingaben weiter überarbeitet.
+- Claude (Fable 5.1): «MASTER-PROMPT: Abschliessende wissenschaftliche Überarbeitung und Fertigstellung des Maturaarbeits-Kommentars [...] Du sollst nicht einfach einen neuen Kommentar schreiben. [...] Das Endprodukt soll ein vollständig überarbeiteter, konsistenter und formal möglichst abgabefertiger wissenschaftlicher Kommentar sein. [...]», 09.11.2026. Eingabe 7, vollständiger Wortlaut in Anhang C. Mitgegeben: eine Bewertung der zweiten Fassung mit fünf Kritikpunkten (Vergleich der Exporte mit dem Weltmarkt, Zeiträume von Nachfrage und Ernte, Ursache und Zusammenhang, kulturelle Kontrolle, Verwendung des Interviews).==[angeben, von wem diese Bewertung stammt]== Verändert von Claude: Abstract, 5.4 (Rechnung mit dem Weltmarkt als Grössenordnung eingestuft, Rechnung zu den 850'000 Pesos), 5.5 (Interview als Sicht einer einzelnen Person, Preisvergleich als Vermutung), 7.1 bis 7.4 (Zeiträume getrennt, Kausalaussagen den Quellen zugeordnet oder als eigene Lesart gekennzeichnet, kulturelle Kontrolle in persönliche Bedeutung, Darstellung im Ausland und wirtschaftliche Kontrolle unterteilt, Neuformulierung der Leitthese), 6.2 (Beschreibung des Buches aus dem PDF, Abbildung 6), der Abschnitt zur KI in Kapitel 8 und dieser KI-Nachweis. Geprüft von Claude mit Websuche: Marktdefinition von Transparency Market Research, der Artikel des Asian Journal, Mendozas Rechenbeispiel, der Preis ab Hof bei FreshPlaza, Masse und Farbwerte im Buch-PDF. Dazu ein Änderungsprotokoll und eine Bewertung mit offenen Punkten im Vault. Art der Übernahme: als Arbeitsfassung übernommen und in den folgenden Eingaben weiter überarbeitet.
+- Claude (Fable 5.1): «FINALER KORREKTUR- UND QUALITÄTSSICHERUNGSPROMPT [...] Deine Aufgabe ist es, meinen gesamten schriftlichen Kommentar zur Maturaarbeit ein letztes Mal vollständig zu überprüfen und zu korrigieren. [...] Du korrigierst meinen Text, aber du ersetzt nicht meine persönliche Schreibweise durch deine eigene. [...] So wenig wie möglich verändern, so viel wie nötig verbessern. [...] Erfinde keine Informationen, die in den vorhandenen Materialien nicht enthalten sind. [...]», 09.11.2026. Eingabe 8, vollständiger Wortlaut in Anhang D. Mitgegeben: die zehn Fragen und das englische Transkript des Interviews. Verändert von Claude: Kapitel 5.5 und 7.1 nach dem Transkript berichtigt (Fragen, offene Fragen, Preis von 100 auf 150 Pesos, «Bauern und Verkäufer», Titas Erklärung der Knappheit als persönliche Einschätzung, Fragen zu Bohol gegenüber dem Markt in Talisay City), in 7.1 die Zeitangabe zum Rückgang der Ernte genauer gefasst, in 7.4 die präzisierte Leitthese festgelegt und Abstract sowie 1.2 angeglichen, 5.2 und 4.4 an den Stand des Buches vom 8. November angepasst, Platzhalter aufgelöst, die sich aus Journal und Buch-PDF klären liessen, und Abrufdaten ergänzt. Erstellt von Claude: Anhang A aus dem Transkript, ein Änderungsprotokoll mit Bewertung und eine Liste der offenen Punkte im Vault. Geprüft von Claude: das Transkript gegen Buch, Kommentar und Arbeitsjournal, das Buch-PDF (Seitenzahlen, Bilder, Zwischentitel) und die Zahlen und Rechnungen in 5.4 und 7.1. Art der Übernahme: als Arbeitsfassung übernommen und in den folgenden Eingaben weiter überarbeitet.
+- Claude (Fable 5.1): «[...] ULTIMATIVER MASTER-PROMPT – FINALE MATURAARBEIT 2026 [...] Dein Ziel ist nicht eine möglichst schöne Neufassung, sondern die wissenschaftlich und sprachlich bestmögliche Version unseres tatsächlich selbst erarbeiteten Projekts. [...] Behaupte nicht, länger gearbeitet oder mehr kontrolliert zu haben, als tatsächlich geschehen ist. [...] Erstelle das authentische Stilprofil anhand möglichst ursprünglicher Texte. [...]», 09.11.2026. Eingabe 9, vollständiger Wortlaut in Anhang E. Dazu von Aezri: «Ich habe dir noch ein dokument eingefügt der meine persönliche stimme enthaltet und du sollst diesen auch als vorlage nehmen für mein persönliche stimme und speicheres auf vaul Obsidian. Nutze mein komplettes kontigent für diese arbeit für Fable nutze alle meine datei von obsidian vault» und am Mittag die Nachfrage «Hast du alles gegeben was du hast?». Mitgegeben: Aezris Familienchronik aus dem Deutschunterricht als Stilvorlage. Erstellt von Claude: ein Stilprofil aus der Familienchronik und aus unseren unveränderten Journaleinträgen bis zum 3. Juni, im Vault gespeichert; die Endfassung des Arbeitsjournals als Word-Tabelle im Format des Originals, mit Berichtigungen dort, wo das Journal dem Transkript oder dem Buch-PDF widerspricht (Kostenfrage, Frage zu jungen Leuten, Sorten, Umrechnung der Fördergelder, Bilder und Fazits in Kapitel 3), mit gelben Prüfvermerken bei allen angenommenen Daten und Treffen und mit leeren Vorlagen für den 8. bis 10. November; dazu eine Korrekturliste für das Buch, eine KI-Dokumentation mit dem Wortlaut aller vier Prompts, eine Qualitätsbewertung und die aktualisierten Listen der offenen Punkte und Änderungen. Verändert von Claude: den ganzen Kommentar in einem eigenen Durchgang an das Stilprofil angenähert, also Sätze wieder verbunden, Pointen gestrichen und Wörter wie «leider», «eigentlich» oder «zum Beispiel» zugelassen, ohne neue Fakten; in 5.5 und Anhang A die Angabe gestrichen, Tita habe ihren Namen selbst gewählt, weil das nirgends belegt ist; den Abschnitt zur KI in Kapitel 8 und diesen Nachweis ergänzt. Geprüft von Claude: alle Journaleinträge vom 22. April bis 6. November gegen Kommentar, Transkript und Buch-PDF (Reihenfolge, Daten, Rechnungen), Schrift und Format des Buch-PDFs, die Belegformen «zit. nach» und «übers. d. Verf.» im Buch; nach der Nachfrage am Mittag zusätzlich mit Websuche rund zwanzig Angaben des Buches, die vorher nie geprüft waren (unter anderem Nishio, «Japanese Tea», Quinoa in 123 Ländern, Melbourne, Ube Fiesta, Velasco, Kusmi, Alter der Bauern, Datassential, Mintel, 77 Sorten; Ergebnis in der Korrekturliste für das Buch). Dabei zurückgenommen: die Angabe aus der ersten Überarbeitung, die ersten Berichte zum Exportstopp seien am 11. September erschienen; belegt sind der 13. und 14. September, wie es in unserem Journal von Anfang an stand. Nicht geprüft: die Chatverläufe der Eingaben 1 bis 5 und alles, was nur wir selbst bestätigen können. Art der Übernahme: als Arbeitsfassung übernommen und in den folgenden Eingaben weiter überarbeitet.
+- Claude (Fable 5.2): «Hier ist die Zitierregel die noch brauchst für die fussnoten und für das Quellenverzeichnis und schreibe die reflexion noch besser aus, du weisst ja wie ich schreibe», 09.11.2026. Eingabe 10. Kurz davor hatte Aezri gefragt: «Kurze Frage ist die reflexion nicht ganz wichtig für einen schriftlichen Kommentar und hast du wirklich alle fussnoten und quellen nach Kanti Baden Zitieregel gemacht». Kurz danach folgte: «Und es handelt sich nicht um eine ube bäuerin sonder verkäuferin». Mitgegeben: die Zitierregeln der Kantonsschule Baden (5. Auflage 2025) als PDF. Verändert von Claude: alle Fussnoten, das Quellenverzeichnis, das Abbildungs- und das Tabellenverzeichnis und dieser Nachweis nach den Zitierregeln (eine alphabetische Liste, Seitenzahlen des Buches statt Kapitelangaben, «o.J.», Seitenbereiche, Interview und KI in der vorgeschriebenen Form, Tabellen in der Reihenfolge des Textes nummeriert, KI-Fussnoten an den betroffenen Stellen); Tita im ganzen Kommentar, in Abbildung 1 und in der Endfassung des Arbeitsjournals als Verkäuferin bezeichnet; in 5.4, 7.1 und 7.3 Aussagen über Mitteilungen des Landwirtschaftsministeriums genauer gefasst; in Tabelle 3 die Rückmeldung zur Reflexion nach unserem Journal vom 26.06. berichtigt; die Auszüge aus dem Prompt von Eingabe 7 berichtigt, die vorher nicht wörtlich waren. Erstellt von Claude: Kapitel 8 (Reflexion) neu und ausführlicher, aus den Reflexionen in unserem Arbeitsjournal; die Anhänge B bis E mit dem vollständigen Wortlaut der vier langen Prompts. Geprüft von Claude mit Websuche: die Mitteilungen des Landwirtschaftsministeriums vom 14.09. und 06.10., Mendozas Artikel vom 08.05., der Bericht von Keystone-SDA, die Meldungen von Context.ph vom 23.06. und 06.10., die Mitteilung von IPOPHL, der Eintrag bei Global Trade Alert und der Artikel der South China Morning Post; dazu die Seiten des Buch-PDFs für alle Fussnoten. Art der Übernahme: als Arbeitsfassung übernommen. Die Reflexion aus dieser Eingabe ist in Eingabe 11 durch eine neue Fassung ersetzt worden, die auf unserer eigenen Rückschau beruht.
+- Claude (Fable 5.2): «MASTERPROMPT FÜR CLAUDE [...] Du überarbeitest unseren bestehenden schriftlichen Kommentar zur Maturaarbeit [...] vollständig und aktualisierst anschliessend unser Arbeitsjournal. [...] Wahrheit, nachvollziehbare Quellen und tatsächliche Eigenleistung haben Vorrang vor einem scheinbar perfekten Text. Erfinde keine Erlebnisse, Gedanken, Treffen, Quellen, Zitate, Prüfungen oder Arbeitsschritte. [...] Die Reflexion ist unser wichtigster redaktioneller Schwerpunkt. [...]», 09.11.2026, 23:51 Uhr, ausgeführt in der Nacht auf den 10.11.2026. Eingabe 11, vollständiger Wortlaut in Anhang F. Im Prompt enthalten: unsere berichtigten Angaben (Klassen, Aufgabenverteilung, Druck am 9. November, Ablauf des Interviews über Johns Onkel am 5., 14., 23. und 25. Oktober, Tita als Marktverkäuferin) und unsere Rückschau für die Reflexion. Mitgegeben: Johns Liste mit den Fundstellen der Bilder im Buch. Verändert von Claude: den ganzen Kommentar. Kapitel 3 bis 6 umgestellt, sodass die Texte zur Fachliteratur als nachträgliche Einordnung in Kapitel 6 stehen; Ablauf und Rollen beim Interview in allen Kapiteln, in Abbildung 1 und 2 und im Anhang berichtigt; die Rechnung mit den 0,7 Prozent und den Schluss aus dem Preisvergleich zurückgenommen; staatliche Massnahmen nach ihrem Stand unterschieden; Messwerte zu Spalten und Farben gestrichen; Wiederholungen gekürzt; Titelblatt, Tabelle 1 und Angaben zum Druck ergänzt; Tabellen neu nummeriert; Abbildung 5 ersetzt; die Felder «Art der Übernahme» in diesem Nachweis aus den dokumentierten Abläufen ausgefüllt. Erstellt von Claude: Kapitel 8 (Reflexion) neu aus unserer Rückschau; das Arbeitsjournal als Rückblicke über je zwei Wochen; ein Prüfbericht mit einer Errataliste zum gedruckten Buch. Geprüft von Claude: das Buch-PDF vom 8. November (Stellen zum Interview, Karte, Bildseiten), das Transkript und die Rechnungen in Kapitel 4.4. Nicht geprüft, weil sie Claude nicht vorlagen: das Druck-PDF vom 9. November, die Zwischenbeurteilung im Original, die Aufnahme des Interviews und die Berichte von CPBRD und USDA FAS. Webquellen konnte Claude in dieser Runde nicht erneut öffnen. Von Claude entwickelt und nicht in unserer Rückschau enthalten: die Überlegungen, die in Kapitel 8 mit «bei der Überarbeitung» gekennzeichnet sind (8.1, 8.2, 8.3, 8.5, 8.7 und der fünfte Punkt in 8.9). Art der Übernahme: als Fassung «UEBERARBEITET» von Kommentar und Arbeitsjournal übernommen und in Eingabe 12 weiter überarbeitet.
+- Claude (Fable 5.2): «PROMPT FÜR CLAUDE – GEZIELTE SCHLUSSREDAKTION UNSERES UBE-KOMMENTARS [...] Dein Auftrag ist jetzt eine sorgfältige Endredaktion: konkrete Schwächen direkt verbessern, Belege prüfen, Wiederholungen straffen und offene Punkte nachvollziehbar behandeln. Schreibe keine weitere vollständige Neufassung ohne sachlichen Grund. [...] Erfinde keine Quellen, Seitenzahlen, Abrufdaten, Erfahrungen, Gruppenabsprachen, Treffen, Motive, Lernerfolge oder bereits durchgeführten Prüfungen. [...] Transparente Dokumentation allein bestätigt noch nicht die Zulässigkeit des KI-Einsatzes. [...]», 10.11.2026, 01:42 Uhr. Eingabe 12, vollständiger Wortlaut in Anhang G. Um 01:10 Uhr stand im Chat ausserdem die Nachfrage «Bist du fertig geworden?». Mitgegeben: nur der Prompt. Verändert von Claude: Abstract und 7.4 (die Aussage, Verarbeitung und Verkauf seien nie in philippinischer Hand gewesen, ersetzt durch das, was die Quellen zeigen, und die präzisierte Leitthese daran angepasst); 4.5 (Darstellung des Interviews enger am Transkript, nicht eindeutige Stellen auf Englisch zitiert, «short of supply» als knapp wiedergegeben, die nicht belegte Begründung für fehlende Rückfragen gestrichen und als offenen Punkt markiert); 4.2, 4.3, 4.6 und 7.1 bis 7.3 (Angaben aus zweiter Hand mit «zit. nach» gekennzeichnet, den Bericht des USDA FAS nach einem Bericht von Context.ph zitiert und die Aussage über Händler und Preise darauf begrenzt); Kapitel 8 (Herkunft der Aussagen unterschieden, Zeit, Handy und Ablenkung in 8.2 gebündelt, 8.3 auf die Zusammenarbeit begrenzt, 8.9 gekürzt, nicht belegte Begründungen gestrichen); 8.8 und dieser Nachweis (Trennung in drei Teile, offene Frage der Zulässigkeit); Aussagen über das gedruckte Buch auf den Satzstand vom 8. November begrenzt; in Abbildung 1 die Beschriftung zum 14. Oktober. Erstellt von Claude: Anhang G, eine berichtigte Fassung des Arbeitsjournals, ein Änderungsprotokoll und eine Liste der offenen Punkte. Geprüft von Claude: die Zitierregeln (PDF der 5. Auflage 2025) zu wörtlichen Zitaten, KI-Nachweis und Interview; das Buch-PDF vom 8. November für alle neu gesetzten Seitenangaben; das Transkript; unsere Quellenliste zu Kapitel 3; mit Websuche der Bericht von Context.ph vom 29.06.2026 über den Bericht des USDA FAS, der Leitartikel des Philippine Daily Inquirer vom 01.07.2026 (die Zahl für 2006 steht dort nicht) und eine Zusammenfassung eines Berichts von BusinessWorld vom 03.11.2026 über den Policy Brief des CPBRD bei Head Topics, die den Titel des Briefs und die Zahlen zu Ernte und Fläche für 2010 und 2025 nennt. Nicht geprüft, weil nicht zugänglich: das Druck-PDF vom 9. November, die Originale der Berichte von CPBRD und USDA FAS (ihre Websites liessen sich am 10.11.2026 nicht abrufen), die Zwischenbeurteilung im Original und die Aufnahme des Interviews. Art der Übernahme: als Arbeitsfassung übernommen. Eigene Änderungen von uns sind noch nicht eingetragen.
+- Claude (==[Version eintragen]==): «==[Prompt aus dem Chatverlauf einfügen]==», ==[Datum eintragen]==. Karte «Anbaugebiete & Herkunftsregionen von Ubi Kinampay in Bohol» im Buch (S. 9). Erstellt von Claude: die Karte. ==[Eintragen, welche Angaben John dafür vorgegeben hat und aus welcher Quelle die Abstufung der Gemeinden stammt.]== Art der Übernahme: als Abbildung in das Buch übernommen.
+- ==[Klären und nachtragen: Die Quellenliste zu Kapitel 3 in unserem Vault (Stand 6.11.2026) ist in der Ich-Form eines Assistenten geschrieben, der sich an «ihr» wendet («die ich bei der Recherche und beim Überprüfen geöffnet oder empfohlen habe», «was ihr noch ergänzen müsst»). Falls für die Recherche, für diese Liste, für den Text oder für weitere Bilder des Buches eine KI verwendet wurde, hier mit System, Version, wörtlichem Prompt, Datum und Art der Übernahme eintragen und die Aussagen zur Eigenleistung am Buch in Kapitel 8.8 anpassen. Falls nicht, diese Zeile löschen.]==
+- ==[Falls die langen Prompts (Anhänge B bis G), die Bewertung in Eingabe 7 oder die Zusammenfassung unserer Rückschau im Prompt vom 9.11. mit einem weiteren KI-Werkzeug entstanden sind, dieses hier mit Name, Version, Datum und euren Eingaben nachtragen. Sonst diese Zeile löschen.]==
+
+## 11 Abbildungsverzeichnis
+
+Die Abbildungen 1 bis 4 hat Claude nach unseren Angaben und Daten gezeichnet (Kapitel 10.2, Eingaben 1, 3, 6, 11 und 12). Abbildung 5 hat Claude aus dem Buch-PDF vom 8. November zusammengestellt (Eingabe 11).
+
+- Abb. 1: Ablauf unserer Maturaarbeit vom 22. April bis zum 10. November 2026 mit den wichtigsten Entscheiden, Terminen und Nachrichten. Eigene Abbildung, mit Claude gezeichnet. Datenquelle: Rosal/Peglow/Meuwly: Arbeitsjournal (2026).
+- Abb. 2: Wer von uns wann woran gearbeitet hat, vom Entscheid am 21. August bis zur Abgabe am 10. November 2026. Eigene Abbildung, mit Claude gezeichnet. Datenquelle: Rosal/Peglow/Meuwly: Arbeitsjournal (2026).
+- Abb. 3: Aufbau von Kapitel 3 im Buch, von der Leitfrage über die Leitthese und die drei Teilfragen bis zu den vier Thesen mit ihren je drei Behauptungen. Eigene Abbildung, mit Claude gezeichnet. Grundlage: Rosal/Peglow/Meuwly: Ube (2026), S. 23-50.
+- Abb. 4: Anbaufläche, Ernte und Ertrag pro Hektare von Ube auf den Philippinen 2010 und 2025 mit hypothetischer Rechnung. Eigene Abbildung, mit Claude gezeichnet. Datenquelle: CPBRD (Congressional Policy and Budget Research Department): Ube-quitous potential, persistent challenges. An assessment of the Philippine ube industry (Policy Brief PB2026-10), 2026, S. ==[Seite]==. Ertrag und Rechnung: eigene Berechnung.
+- Abb. 5: Zwei Seiten aus Kapitel 1 des Buches (Seiten 4 und 9, Satzstand vom 8. November 2026). Quelle: Rosal/Peglow/Meuwly: Ube (2026), S. 4 und 9. Fotos auf Seite 4: eigene Aufnahmen. Karte auf Seite 9: mit Claude erstellt (Kapitel 10.2).
+
+## 12 Tabellenverzeichnis
+
+- Tabelle 1: Aufteilung der Arbeit an Buch und Kommentar. Eigene Darstellung.
+- Tabelle 2: Rückmeldungen zur Zwischenpräsentation und unsere Änderungen. Eigene Darstellung nach Büschlen/Franceschi: Beurteilung, 19.06.2026, und unseren Notizen dazu.
+- Tabelle 3: Projektplan und Umsetzung im Vergleich. Eigene Darstellung nach Rosal/Peglow/Meuwly: Projektplan (2026).
+
+## Anhang A: Interview mit «Tita»
+
+Erläuterung: Die zehn Fragen hat John am 14. Oktober 2026 auf Englisch vorbereitet und seinem Onkel per Messenger geschickt. Der Onkel hat das Interview am 23. Oktober 2026 in Talisay City geführt und aufgenommen. Das Gespräch begann auf Englisch und wurde auf Bisaya fortgesetzt, weil sich die Verkäuferin auf Englisch nicht ausreichend ausdrücken konnte. Die Antworten hat der Onkel danach ins Englische übertragen und aufgeschrieben. Am 25. Oktober 2026 haben wir dieses Transkript von John erhalten. Wir geben es unverändert wieder, ohne Rechtschreibung oder Grammatik zu verbessern, und kennzeichnen die Fehler hier nicht einzeln mit [sic]. Die Antworten sind also keine wörtliche Mitschrift, sondern die englische Übertragung des Interviewers, und die erste steht in der dritten Person. Die Fragen 7 und 10 blieben unbeantwortet. Tita ist ein Ersatzname, weil die Frau anonym bleiben wollte. Sie hat der Verwendung des Interviews zugestimmt. Die Zustimmung wurde nicht aufgenommen, und ob sie das Transkript gesehen und bestätigt hat, wissen wir nicht. Eine deutsche Übersetzung enthält dieser Anhang nicht. Wo wir im Kommentar Titas Aussagen auf Deutsch wiedergeben, sind es unsere eigenen Zusammenfassungen.
+
+Fragen und Antworten im Wortlaut des englischen Transkripts:
+
+Frage 1: Hello thanks for helping us out in our Maturaproject. Could you please introduce yourself, who are you and what connection do you have with Ube?
+
+> Her name is Tita she is a farmer and a vendor also of UBE in the Talisay Public Market.
+
+Frage 2: How has ube farming changed in Bohol over the last 5–10 years?
+
+> The farming is still okay, but unfortunately lack of suppy of UBE due to its increasing demands.
+
+Frage 3: Have prices for ube changed since it became popular abroad? Do farmers benefit from that?
+
+> Yes the price has change, before it was Tag. only 100 Pesos per kilo now it has increase 150 Pesos per kilo. And we farmers and vendors also benifited it.
+
+Frage 4: Who do you sell your ube to: local markets, processors, exporters?
+
+> I sell our Harvest UBE here at our local Market since we only had a little farm of UBE and we had a lot of rootcrops too.
+
+Frage 5: Has demand for your ube products changed in recent years? Where does it come from?
+
+> Yes the demand of UBE changes especially the purple one variety has become more popular in and outside philippines. One of our purple variety is came from Bohol island.
+
+Frage 6: Is there enough real ube to meet demand? Have you experienced shortages?
+
+> in our local market at this time we are short of supply of UBE.
+
+Frage 7: How important is ube for Bohol's economy compared to other crops?
+
+> (keine Antwort)
+
+Frage 8: What role does ube traditionally play in Filipino and Boholano culture (festivals, Christmas, family recipes)?
+
+> Ube has become one of the best filipino culture and traditions engaging in different kinds of food recipes.
+
+Frage 9: How do people in the Philippines feel about ube becoming a global trend: happy, indifferent, critical?
+
+> We are happy that our native rootcrops will be acknowledge globally, but unfortunately our UBE farmers has been drecreased yearly because the new generations doesn't want to go farming UBE.
+
+Frage 10: How do you see the future of ube in Bohol in 10 years?
+
+> (keine Antwort)
+
+## Anhang B: Wortlaut des Prompts vom 8. November 2026 (Eingabe 6)
+
+Die Zitierregeln verlangen im KI-Nachweis die wörtliche Wiedergabe der Eingabe.[^90] Die Anhänge B bis G geben deshalb die sechs langen Prompts so wieder, wie sie in den Chat mit Claude kopiert wurden, mit allen Zeichen und Tippfehlern. Zeichen wie #, * und ** stammen aus den Prompts selbst und stehen dort für Überschriften, Aufzählungen und Fettdruck. Die Prompts in den Anhängen B bis E enthalten Angaben, die wir später berichtigt haben. Alle Prompts sind hier als Dokumentation abgedruckt. Sie gelten nicht als Beschreibung unserer Arbeit, und sie belegen nicht, dass die darin verlangten Prüfungen stattgefunden haben.
+
+> MASTER-PROMPT: Vollständige Finalisierung meiner Maturaarbeit über Ube
+>
+> 1. Deine Rolle und dein Auftrag
+>
+> Du agierst gleichzeitig als:
+>
+> * wissenschaftlicher Autor und kritischer wissenschaftlicher Lektor
+>
+> * Experte für Schweizer Maturaarbeiten und deren Bewertung auf Maturaniveau
+>
+> * sorgfältiger Quellenanalyst und Faktenprüfer
+>
+> * erfahrener Redaktor für Sachbücher und wissenschaftliche Kommentare
+>
+> * kritischer Betreuer, der Argumentationsschwächen erkennt und konsequent verbessert
+>
+> Deine Aufgabe ist es, meine gesamte Maturaarbeit auf ein möglichst hohes Qualitätsniveau zu bringen.
+>
+> Das Hauptziel ist ein inhaltlich überzeugender, wissenschaftlich fundierter, sprachlich natürlicher und eigenständiger schriftlicher Kommentar. Anschliessend soll mein gesamtes Arbeitsjournal überarbeitet werden, sodass es den tatsächlichen Entstehungsprozess korrekt dokumentiert und mit dem fertigen Sachbuch sowie dem wissenschaftlichen Kommentar übereinstimmt.
+>
+> Behandle das Projekt als zusammenhängende Maturaarbeit. Die drei Bestandteile müssen inhaltlich, methodisch und formal miteinander harmonieren:
+>
+> 1. Das Sachbuch beziehungsweise das eigentliche Produkt
+>
+> 2. Der wissenschaftliche Kommentar
+>
+> 3. Das Arbeitsjournal
+>
+> Alle drei Bestandteile sind wichtig. Vernachlässige keinen davon.
+>
+> Arbeite gründlich und mit hoher Eigenständigkeit. Warte nicht bei jedem kleinen Problem auf meine Rückmeldung. Triff sinnvolle redaktionelle Entscheidungen selbstständig, solange sie durch das vorhandene Material begründet sind. Bei wichtigen Unklarheiten, die du nicht zuverlässig lösen kannst, dokumentiere diese ausdrücklich, statt etwas zu erfinden.
+>
+> ⸻
+>
+> 2. Vollständige Analyse meines Obsidian-Vaults
+>
+> Du hast Zugriff auf meinen Obsidian-Vault. Nutze diesen Zugriff konsequent.
+>
+> Bevor du mit dem eigentlichen Schreiben beginnst, verschaffe dir einen möglichst vollständigen Überblick über sämtliche für die Maturaarbeit relevanten Dateien.
+>
+> Dazu gehören insbesondere:
+>
+> * das vollständige Sachbuch beziehungsweise der Produkttext
+>
+> * das Quellenverzeichnis und sämtliche verfügbaren Quellen
+>
+> * wissenschaftliche Studien und Statistiken
+>
+> * Zeitungsartikel und weitere journalistische Quellen
+>
+> * offizielle Dokumente und Daten von Behörden und Organisationen
+>
+> * mein bisheriger Entwurf des wissenschaftlichen Kommentars
+>
+> * mein vollständiges Arbeitsjournal
+>
+> * das Interview mit Tita
+>
+> * sämtliche Rechercheunterlagen, Notizen und ergänzenden Dokumente
+>
+> * schulische Vorgaben, Bewertungsraster und formale Anforderungen, sofern vorhanden
+>
+> Beschränke dich nicht auf die offensichtlich wichtigsten Dateien. Suche auch nach verstreuten Informationen, die für einzelne Argumente, die Methodik oder die Entstehungsgeschichte relevant sein könnten.
+>
+> Erstelle zuerst eine Übersicht darüber:
+>
+> 1. Welche relevanten Dateien vorhanden sind.
+>
+> 2. Welche Informationen sie enthalten.
+>
+> 3. Welche Quellen für welche Aussagen verwendet werden.
+>
+> 4. Welche Informationen sich mehrfach finden.
+>
+> 5. Wo Widersprüche, Lücken oder Unklarheiten bestehen.
+>
+> 6. Welche schulischen und formalen Anforderungen gelten.
+>
+> Gehe nicht davon aus, dass die Dateinamen den tatsächlichen Inhalt vollständig wiedergeben. Lies die relevanten Dokumente.
+>
+> Wichtig: Wenn du auf bestimmte Dateien nicht zugreifen kannst, erwähne das ausdrücklich. Behaupte niemals, den gesamten Vault analysiert zu haben, wenn du tatsächlich nur einen Teil davon sehen konntest.
+>
+> ⸻
+>
+> 3. Inhaltlicher Hintergrund der Maturaarbeit
+>
+> Das zentrale Thema meiner Arbeit lautet:
+>
+> «Wem gehört der Ube-Boom?»
+>
+> Die zentrale Leitthese lautet:
+>
+> «Die Philippinen verlieren beim Ube-Boom nicht ihre Kultur, sondern die Kontrolle über sie.»
+>
+> Die Arbeit beschäftigt sich mit dem weltweiten Aufstieg von Ube, einer violetten Yamswurzel, die insbesondere auf den Philippinen eine lange kulinarische und kulturelle Bedeutung hat.
+>
+> Ausgangspunkt ist die Beobachtung, dass Ube international zunehmend als Trendprodukt verwendet und vermarktet wird. Dabei stellt sich die Frage, welche Rolle die Philippinen in dieser Entwicklung spielen und wer tatsächlich von der steigenden internationalen Nachfrage profitiert.
+>
+> Der Begriff Kontrolle muss in zwei Dimensionen untersucht werden:
+>
+> A. Wirtschaftliche Kontrolle
+>
+> Hier geht es insbesondere um:
+>
+> * Wer verdient am internationalen Ube-Boom?
+>
+> * Wer kontrolliert Verarbeitung, Handel und Vermarktung?
+>
+> * Welche Rolle spielen Zwischenhändler und internationale Unternehmen?
+>
+> * In welchem Umfang profitieren philippinische Produzenten?
+>
+> * Welche wirtschaftlichen Möglichkeiten verliert oder gewinnt das Herkunftsland?
+>
+> * Welche Bedeutung haben lokale Verarbeitung, Exportstrategien und geschützte Herkunftsbezeichnungen?
+>
+> * Wie verändert die internationale Nachfrage die Situation auf dem philippinischen Binnenmarkt?
+>
+> B. Kulturelle Kontrolle
+>
+> Hier geht es insbesondere um:
+>
+> * Wer bestimmt, wie Ube international dargestellt wird?
+>
+> * Wird Ube als philippinisches Kulturgut wahrgenommen oder hauptsächlich als attraktive violette Zutat?
+>
+> * Was geht verloren, wenn ein traditionelles Lebensmittel zu einem globalen Lifestyle- und Trendprodukt wird?
+>
+> * Welche Bedeutung hat Ube für die Menschen auf den Philippinen?
+>
+> * Wie unterscheiden sich die Wahrnehmung und Verwendung von Ube auf den Philippinen und im Ausland?
+>
+> Diese beiden Dimensionen bilden den analytischen Rahmen. Sie sollen nicht einfach nebeneinanderstehen, sondern miteinander verknüpft werden.
+>
+> Wichtig: Verwende diese Beschreibung als Orientierung und nicht als Ersatz für die tatsächlichen Rechercheergebnisse. Überprüfe jede konkrete Behauptung anhand der vorhandenen Dokumente und Quellen.
+>
+> ⸻
+>
+> 4. Grundsätze für die wissenschaftliche Arbeit
+>
+> Die Qualität der Arbeit hängt nicht davon ab, möglichst viele Informationen unterzubringen, sondern davon, die relevanten Informationen richtig einzuordnen und daraus eine überzeugende Argumentation zu entwickeln.
+>
+> Halte dich deshalb an folgende Grundsätze:
+>
+> Quellen und Fakten
+>
+> * Verwende grundsätzlich die Informationen und Quellen aus meinem Obsidian-Vault.
+>
+> * Überprüfe Zahlen, Statistiken, Zeitangaben und konkrete Behauptungen anhand der Originalquellen, sofern diese verfügbar sind.
+>
+> * Übernimm keine Zahlen ungeprüft aus meinem bisherigen Kommentarentwurf.
+>
+> * Unterscheide klar zwischen gesicherten Fakten, Schätzungen, Prognosen, Interpretationen und persönlichen Aussagen.
+>
+> * Stelle Prognosen niemals als bereits eingetretene Tatsachen dar.
+>
+> * Achte auf unterschiedliche Bezugsjahre und Definitionen bei Statistiken.
+>
+> * Vergleiche Zahlen nur dann direkt, wenn ihre Grundlagen tatsächlich vergleichbar sind.
+>
+> * Verwende Quellen nicht als blossen Beleg für Aussagen, die sie inhaltlich gar nicht stützen.
+>
+> * Erfinde niemals Quellen, Seitenzahlen, Zitate, Statistiken oder Studienergebnisse.
+>
+> * Wenn eine Quelle nur eingeschränkt aussagekräftig ist, erkläre ihre Grenzen.
+>
+> Wissenschaftliche Argumentation
+>
+> * Entwickle eine klare Argumentationslinie.
+>
+> * Verknüpfe die einzelnen Erkenntnisse miteinander.
+>
+> * Erkläre, weshalb eine Information für die Leitthese relevant ist.
+>
+> * Berücksichtige Gegenargumente und alternative Erklärungen.
+>
+> * Vermeide einseitige oder voreilige Schlussfolgerungen.
+>
+> * Unterscheide zwischen Korrelation und Kausalität.
+>
+> * Mache deutlich, wo die vorhandenen Daten keine eindeutige Aussage erlauben.
+>
+> * Hinterfrage auch meine eigene Leitthese kritisch.
+>
+> Du sollst die Leitthese weder künstlich bestätigen noch zwanghaft widerlegen. Das Ergebnis muss sich aus dem Material ergeben.
+>
+> Umgang mit Unsicherheiten
+>
+> Wenn eine Information nicht ausreichend belegt ist:
+>
+> 1. Versuche, sie anhand anderer vorhandener Quellen zu überprüfen.
+>
+> 2. Prüfe, ob sie vorsichtiger formuliert werden kann.
+>
+> 3. Falls sie nicht zuverlässig verwendbar ist, kennzeichne sie als Unsicherheit.
+>
+> 4. Entferne sie gegebenenfalls aus der Argumentation.
+>
+> Erfinde keine Ergänzungen, nur damit der Text vollständig wirkt.
+>
+> ⸻
+>
+> 5. Analyse des bisherigen Kommentarentwurfs
+>
+> Mein bisheriger wissenschaftlicher Kommentar ist ein Ausgangspunkt, aber nicht die endgültige Grundlage.
+>
+> Analysiere ihn kritisch und prüfe insbesondere:
+>
+> * Ist die Leitfrage klar beantwortet?
+>
+> * Ist die zentrale These überzeugend entwickelt?
+>
+> * Gibt es eine nachvollziehbare Argumentationsstruktur?
+>
+> * Sind die einzelnen Kapitel sinnvoll miteinander verbunden?
+>
+> * Werden Quellen richtig interpretiert?
+>
+> * Gibt es unbelegte Behauptungen?
+>
+> * Werden wichtige Aspekte nur oberflächlich behandelt?
+>
+> * Gibt es Wiederholungen?
+>
+> * Gibt es unnötige Beschreibungen, die keinen analytischen Mehrwert bieten?
+>
+> * Werden Gegenargumente ausreichend berücksichtigt?
+>
+> * Ist die eigene methodische Vorgehensweise kritisch reflektiert?
+>
+> * Ist der Text tatsächlich ein wissenschaftlicher Kommentar oder eher eine Zusammenfassung des Sachbuchs?
+>
+> Behalte gute Gedanken und brauchbare Formulierungen bei. Überarbeite aber alles, was inhaltlich, argumentativ oder sprachlich verbessert werden kann.
+>
+> Scheue dich nicht, ganze Abschnitte neu aufzubauen oder zu ersetzen, wenn dadurch eine deutlich bessere Arbeit entsteht.
+>
+> ⸻
+>
+> 6. Das Sachbuch als Grundlage des Kommentars
+>
+> Lies das vollständige Sachbuch sorgfältig.
+>
+> Der wissenschaftliche Kommentar soll das Sachbuch nicht einfach wiederholen. Er soll dessen Inhalt wissenschaftlich einordnen, die Recherche dahinter offenlegen und die daraus gewonnenen Erkenntnisse kritisch untersuchen.
+>
+> Achte insbesondere auf folgende Fragen:
+>
+> * Welche Aussagen und Erkenntnisse des Sachbuchs sind besonders relevant?
+>
+> * Welche Quellen und Rechercheergebnisse bilden die Grundlage?
+>
+> * Welche Aspekte werden im Sachbuch bewusst vereinfacht oder ausgelassen?
+>
+> * Welche Aussagen benötigen eine genauere wissenschaftliche Einordnung?
+>
+> * Welche Erkenntnisse sind besonders überraschend oder widersprüchlich?
+>
+> * Wo zeigt sich die wirtschaftliche Kontrolle über Ube?
+>
+> * Wo zeigt sich die kulturelle Kontrolle über Ube?
+>
+> * Welche Rolle spielt das Interview mit Tita?
+>
+> * Welche Grenzen hat die eigene Recherche?
+>
+> Der Kommentar muss eigenständig funktionieren. Eine Person, die nur den Kommentar liest, soll die Forschungsfrage, die Argumentation, die wichtigsten Erkenntnisse und die Grenzen der Untersuchung verstehen können.
+>
+> Vermeide es, Kapitel des Sachbuchs einfach nacheinander zusammenzufassen.
+>
+> ⸻
+>
+> 7. Umgang mit dem Interview
+>
+> Das Interview mit Tita ist ein wichtiger Bestandteil meiner eigenen Recherche.
+>
+> Berücksichtige es sorgfältig und prüfe:
+>
+> * Welche Aussagen macht Tita über den Ube-Anbau und den Verkauf?
+>
+> * Welche Bedeutung hat Ube für ihre persönliche und wirtschaftliche Situation?
+>
+> * Welche Veränderungen bei Nachfrage, Verfügbarkeit und Preisen beschreibt sie?
+>
+> * Welche Aussagen lassen sich mit statistischen Daten oder anderen Quellen vergleichen?
+>
+> * Wo ergänzt ihre persönliche Erfahrung die übergeordneten Daten?
+>
+> * Wo darf ihre individuelle Erfahrung nicht verallgemeinert werden?
+>
+> Das Interview soll nicht bloss dekorativ eingebaut werden. Es soll dort verwendet werden, wo es tatsächlich einen Erkenntnisgewinn liefert.
+>
+> Unterscheide konsequent zwischen:
+>
+> * Titas persönlichen Erfahrungen
+>
+> * ihren Einschätzungen
+>
+> * objektiv überprüfbaren Angaben
+>
+> * meinen eigenen Interpretationen
+>
+> Erfinde keine Aussagen und verändere nicht den Sinn ihrer Antworten.
+>
+> Falls Informationen zur Kontaktaufnahme, zur Identität, zur Zustimmung zur Veröffentlichung oder zur Durchführung des Interviews fehlen, kennzeichne diese Punkte als offen. Erfinde keine Angaben dazu.
+>
+> ⸻
+>
+> 8. Entwicklung einer überzeugenden Struktur
+>
+> Entwickle zunächst eine optimale Gliederung für den wissenschaftlichen Kommentar.
+>
+> Die Gliederung soll eine klare innere Logik haben und die Forschungsfrage schrittweise beantworten.
+>
+> Überlege dabei:
+>
+> * Welche Aspekte müssen unbedingt behandelt werden?
+>
+> * Welche Argumente bauen aufeinander auf?
+>
+> * Welche Informationen gehören zusammen?
+>
+> * Wo sind Übergänge notwendig?
+>
+> * Welche Aspekte sind für die Leitthese zentral?
+>
+> * Welche Aspekte sind interessant, aber für den Kommentar weniger relevant?
+>
+> Vermeide eine Struktur, die lediglich die Reihenfolge des Sachbuchs übernimmt.
+>
+> Die Argumentation soll einen erkennbaren gedanklichen Fortschritt aufweisen.
+>
+> Erstelle vor dem vollständigen Schreiben eine detaillierte Argumentationsstruktur mit:
+>
+> 1. Kapitel und Unterkapiteln
+>
+> 2. Kernaussage jedes Abschnitts
+>
+> 3. verwendeten Quellen
+>
+> 4. relevanten Fakten und Beispielen
+>
+> 5. Verbindung zur Leitthese
+>
+> 6. möglichen Gegenargumenten
+>
+> 7. Übergang zum nächsten Abschnitt
+>
+> Erst wenn diese Struktur schlüssig ist, beginnst du mit dem vollständigen Kommentar.
+>
+> ⸻
+>
+> 9. Meine persönliche Schreibstimme und mein Sprachstil
+>
+> Dieser Punkt ist besonders wichtig und muss während der gesamten Arbeit berücksichtigt werden.
+>
+> Deine Aufgabe ist nicht, meinen Text durch deinen eigenen bevorzugten Schreibstil zu ersetzen. Deine Aufgabe ist es, meine Gedanken auf das bestmögliche sprachliche und wissenschaftliche Niveau zu bringen, ohne dass sie dabei ihre persönliche Stimme verlieren.
+>
+> Analysiere vor dem Schreiben möglichst genau meine bisherigen Texte. Verwende dafür insbesondere:
+>
+> * meinen bisherigen Kommentarentwurf
+>
+> * mein Sachbuch
+>
+> * mein Arbeitsjournal
+>
+> * weitere eigene schriftliche Arbeiten im Vault, sofern vorhanden
+>
+> Analysiere dabei:
+>
+> * meine typische Wortwahl und meinen Wortschatz
+>
+> * meine Satzlängen und meinen Satzbau
+>
+> * meine Art, Argumente aufzubauen und Gedanken miteinander zu verbinden
+>
+> * meine bevorzugten Formulierungen und sprachlichen Eigenheiten
+>
+> * mein Verhältnis zwischen sachlicher und persönlicher Sprache
+>
+> * meinen Umgang mit komplexen Themen und wissenschaftlichen Begriffen
+>
+> * meine Art, eigene Gedanken und Schlussfolgerungen auszudrücken
+>
+> * meinen natürlichen Schreibfluss und meine Übergänge zwischen Abschnitten
+>
+> Erstelle auf dieser Grundlage ein internes Stilprofil, das du während der gesamten Ausarbeitung als verbindliche Orientierung verwendest. Speichere die wichtigsten Erkenntnisse zusätzlich in der Materialanalyse, damit sie bei einer späteren Fortsetzung erhalten bleiben.
+>
+> Meine persönliche Schreibstimme hat Priorität
+>
+> Verwende meine bisherigen Texte als stilistische Grundlage. Übernimm nicht einfach einzelne Formulierungen, sondern erkenne die charakteristischen Merkmale meiner Schreibweise.
+>
+> Wenn du zwischen einer stilistisch perfekten, aber unpersönlichen Formulierung und einer ebenso korrekten Formulierung wählen musst, die besser zu meiner eigenen Schreibweise passt, bevorzuge grundsätzlich die zweite.
+>
+> Verbessere meine Ausdrucksweise, aber ersetze nicht meine Persönlichkeit durch einen generischen akademischen Stil.
+>
+> Der fertige Text soll so wirken, als hätte ich ihn selbst geschrieben, nachdem ich meine Gedanken sorgfältig überarbeitet, meine Recherche vertieft und meine Argumentation verbessert hätte.
+>
+> Der Kommentar soll nicht wie ein Text wirken, den eine fremde Person über mein Thema geschrieben hat. Er soll wie meine eigene, bestmöglich überarbeitete Arbeit klingen.
+>
+> Sprachliche Anforderungen
+>
+> * Schreibe auf Deutsch.
+>
+> * Verwende Schweizer Rechtschreibung, insbesondere «ss» statt «ß».
+>
+> * Formuliere präzise und verständlich.
+>
+> * Verwende eine natürliche, sachliche und differenzierte Sprache.
+>
+> * Baue komplexe Gedanken verständlich auf.
+>
+> * Verwende Fachbegriffe dort, wo sie sinnvoll sind, erkläre sie aber bei Bedarf.
+>
+> * Vermeide unnötig komplizierte Satzkonstruktionen.
+>
+> * Vermeide übertriebene akademische Formulierungen.
+>
+> * Vermeide künstlich aufgeblähte Absätze.
+>
+> * Vermeide typische KI-Formulierungen und leere Überleitungen.
+>
+> * Vermeide unnötige Wiederholungen.
+>
+> * Schreibe nicht ständig nach demselben Satzmuster.
+>
+> * Verwende keine übertriebenen Einleitungen wie «In der heutigen globalisierten Welt».
+>
+> * Vermeide pathetische oder journalistisch übertriebene Formulierungen.
+>
+> * Vermeide unbegründete Werturteile.
+>
+> * Verwende Gedankenstriche nicht als Ersatz für saubere Satzkonstruktionen.
+>
+> Der Text darf anspruchsvoll sein, muss aber glaubwürdig und natürlich bleiben.
+>
+> Schreibe nicht absichtlich schlechter oder baue künstliche Fehler ein, um menschlich zu wirken. Das Ziel ist eine sehr gute Arbeit, die trotzdem meine persönliche Schreibstimme bewahrt.
+>
+> ⸻
+>
+> 10. Vollständige Ausarbeitung des wissenschaftlichen Kommentars
+>
+> Schreibe nach Abschluss der Analyse und Strukturierung den vollständigen wissenschaftlichen Kommentar.
+>
+> Dabei gelten folgende Anforderungen:
+>
+> * Halte dich an die tatsächlichen schulischen Vorgaben, sofern diese im Vault vorhanden sind.
+>
+> * Berücksichtige die verlangte Länge und die formalen Anforderungen.
+>
+> * Verwende eine klare Einleitung, einen logisch aufgebauten Hauptteil und einen überzeugenden Schluss.
+>
+> * Beantworte die Forschungsfrage ausdrücklich.
+>
+> * Verknüpfe wirtschaftliche und kulturelle Kontrolle miteinander.
+>
+> * Beziehe das Sachbuch, die Quellen und das Interview sinnvoll ein.
+>
+> * Reflektiere die eigene Vorgehensweise und die Grenzen der Recherche.
+>
+> * Unterscheide zwischen den Erkenntnissen der Recherche und den daraus gezogenen Schlussfolgerungen.
+>
+> * Verwende korrekte Quellenangaben entsprechend den vorhandenen schulischen Vorgaben.
+>
+> * Achte darauf, dass jede wesentliche Behauptung nachvollziehbar belegt ist.
+>
+> Der Schluss soll nicht bloss die vorherigen Kapitel wiederholen. Er soll die gewonnenen Erkenntnisse zusammenführen und eine differenzierte Antwort auf die Forschungsfrage geben.
+>
+> Der Kommentar soll eine eigenständige wissenschaftliche Leistung darstellen.
+>
+> ⸻
+>
+> 11. Überarbeitung des gesamten Arbeitsjournals
+>
+> Das Arbeitsjournal ist ein gleichwertiger Bestandteil des Projekts und darf nicht vernachlässigt werden.
+>
+> Die endgültige Überarbeitung des Arbeitsjournals erfolgt erst, nachdem der wissenschaftliche Kommentar vollständig ausgearbeitet wurde.
+>
+> Beginne aber bereits während der Analyse damit, das vorhandene Arbeitsjournal genau zu untersuchen und relevante Informationen für die spätere Überarbeitung zu sammeln.
+>
+> Ziel ist ein vollständiges, glaubwürdiges und gut strukturiertes Arbeitsjournal, das den tatsächlichen Entstehungsprozess der Maturaarbeit dokumentiert.
+>
+> Inhaltliche Anforderungen
+>
+> Das Arbeitsjournal muss mit dem fertigen Sachbuch und dem wissenschaftlichen Kommentar übereinstimmen.
+>
+> Überprüfe deshalb:
+>
+> * Sind alle wichtigen Arbeitsschritte dokumentiert?
+>
+> * Ist die zeitliche Reihenfolge nachvollziehbar?
+>
+> * Stimmen die beschriebenen Entscheidungen mit dem tatsächlichen Projektverlauf überein?
+>
+> * Werden wichtige Recherchephasen erwähnt?
+>
+> * Sind Änderungen der Fragestellung oder des Konzepts nachvollziehbar?
+>
+> * Werden Schwierigkeiten und Probleme realistisch dargestellt?
+>
+> * Sind die beschriebenen Fortschritte mit den tatsächlichen Ergebnissen vereinbar?
+>
+> * Stimmen die im Journal erwähnten Kapitel und Inhalte mit dem fertigen Sachbuch überein?
+>
+> * Werden die Entscheidungen, die im wissenschaftlichen Kommentar reflektiert werden, auch im Arbeitsprozess nachvollziehbar?
+>
+> Besonders wichtige Regel: Keine erfundenen Arbeitsschritte
+>
+> Du darfst das Arbeitsjournal sprachlich verbessern, strukturieren, präzisieren und verständlicher machen.
+>
+> Du darfst jedoch niemals nachträglich Ereignisse erfinden.
+>
+> Erfinde insbesondere keine:
+>
+> * Treffen
+>
+> * Gespräche
+>
+> * Interviews
+>
+> * Recherchearbeiten
+>
+> * Arbeitsschritte
+>
+> * Entscheidungen
+>
+> * Probleme
+>
+> * Fortschritte
+>
+> * Rückmeldungen von Lehrpersonen
+>
+> * Daten oder Zeitangaben
+>
+> Stelle keine später gewonnenen Erkenntnisse so dar, als wären sie bereits zu einem früheren Zeitpunkt bekannt gewesen.
+>
+> Das Journal soll den tatsächlichen Verlauf dokumentieren und nicht rückwirkend eine künstlich perfekte Projektgeschichte konstruieren.
+>
+> Wenn Angaben fehlen oder widersprüchlich sind, markiere diese in einer separaten Liste als offene Punkte.
+>
+> Sprachliche Überarbeitung
+>
+> Das Arbeitsjournal soll ebenfalls natürlich und glaubwürdig klingen.
+>
+> Es darf etwas persönlicher und weniger formal sein als der wissenschaftliche Kommentar.
+>
+> Behalte den Charakter eines echten Arbeitsjournals bei. Es soll nicht wie ein zweiter wissenschaftlicher Kommentar wirken.
+>
+> Verbessere die Sprache, ohne die persönliche Perspektive und den tatsächlichen Charakter des Journals zu verlieren.
+>
+> Vollständigkeitsprüfung
+>
+> Vergleiche das gesamte Journal systematisch mit dem fertigen Sachbuch und dem Kommentar.
+>
+> Achte besonders darauf, dass:
+>
+> * wichtige Entwicklungen nicht fehlen
+>
+> * keine falschen zeitlichen Zusammenhänge entstehen
+>
+> * keine späteren Erkenntnisse rückwirkend als frühere Gedanken erscheinen
+>
+> * keine Widersprüche zwischen den drei Bestandteilen bestehen
+>
+> * die Entwicklung des Projekts nachvollziehbar bleibt
+>
+> ⸻
+>
+> 12. Einheitlichkeit der gesamten Maturaarbeit
+>
+> Nachdem Kommentar und Arbeitsjournal fertiggestellt wurden, führst du eine umfassende Konsistenzprüfung durch.
+>
+> Vergleiche:
+>
+> 1. Sachbuch
+>
+> 2. Wissenschaftlichen Kommentar
+>
+> 3. Arbeitsjournal
+>
+> 4. Quellenverzeichnis
+>
+> 5. Interview und ergänzende Rechercheunterlagen
+>
+> Prüfe insbesondere:
+>
+> * Stimmen alle Zahlen und Daten überein?
+>
+> * Werden Begriffe einheitlich verwendet?
+>
+> * Sind die zentralen Aussagen konsistent?
+>
+> * Stimmen die Quellenangaben?
+>
+> * Gibt es widersprüchliche Aussagen?
+>
+> * Wird die Leitthese in allen Teilen gleich verstanden?
+>
+> * Sind die wirtschaftliche und kulturelle Dimension klar voneinander abgegrenzt und gleichzeitig miteinander verbunden?
+>
+> * Entspricht das Arbeitsjournal dem tatsächlichen Projektverlauf?
+>
+> * Gibt es Aussagen im Kommentar, die im Sachbuch oder in den Quellen keine Grundlage haben?
+>
+> * Gibt es wichtige Erkenntnisse im Sachbuch, die im Kommentar überhaupt nicht berücksichtigt werden?
+>
+> Achte darauf, dass die drei Bestandteile zusammen eine überzeugende Gesamtarbeit ergeben.
+>
+> ⸻
+>
+> 13. Qualitätskontrolle auf höchstem Niveau
+>
+> Bewerte den fertigen wissenschaftlichen Kommentar kritisch, als würdest du ihn als anspruchsvoller Schweizer Maturitätsexperte beurteilen.
+>
+> Prüfe ihn anhand folgender Kriterien:
+>
+> Inhalt
+>
+> * Wird die Forschungsfrage vollständig beantwortet?
+>
+> * Ist die Argumentation tiefgründig?
+>
+> * Werden relevante Zusammenhänge erkannt?
+>
+> * Werden unterschiedliche Perspektiven berücksichtigt?
+>
+> * Sind die Schlussfolgerungen nachvollziehbar?
+>
+> Wissenschaftlichkeit
+>
+> * Sind die Quellen zuverlässig und korrekt verwendet?
+>
+> * Ist die Methodik transparent?
+>
+> * Werden die Grenzen der eigenen Untersuchung reflektiert?
+>
+> * Werden Fakten und Interpretationen sauber getrennt?
+>
+> * Sind die Aussagen angemessen differenziert?
+>
+> Aufbau
+>
+> * Ist der Aufbau logisch?
+>
+> * Gibt es einen klaren roten Faden?
+>
+> * Sind die Kapitel sinnvoll miteinander verbunden?
+>
+> * Gibt es unnötige Wiederholungen oder Abschweifungen?
+>
+> Sprache
+>
+> * Ist der Text präzise und verständlich?
+>
+> * Klingt er natürlich?
+>
+> * Entspricht er einem sehr guten Maturaniveau?
+>
+> * Gibt es unnötig komplizierte Formulierungen?
+>
+> * Wirkt der Text stellenweise künstlich oder generisch?
+>
+> * Ist meine persönliche Schreibstimme erkennbar?
+>
+> Eigenständigkeit
+>
+> * Wird eine eigene Argumentation entwickelt?
+>
+> * Geht der Kommentar über eine reine Zusammenfassung hinaus?
+>
+> * Werden eigene Erkenntnisse und Überlegungen sichtbar?
+>
+> * Wird die Leitthese kritisch geprüft?
+>
+> Überarbeite erkannte Schwächen direkt im Text.
+>
+> Gib dich nicht mit einer bloss akzeptablen Version zufrieden. Ziel ist eine möglichst überzeugende und sorgfältig ausgearbeitete Maturaarbeit.
+>
+> Erfinde aber keine zusätzliche Komplexität, nur um den Text wissenschaftlicher erscheinen zu lassen.
+>
+> ⸻
+>
+> 14. Projektmanagement und Sicherung des Arbeitsfortschritts
+>
+> Ein besonders wichtiger Teil dieses Auftrags ist die zuverlässige Sicherung der Arbeit.
+>
+> Du musst davon ausgehen, dass deine verfügbare Nutzungszeit beziehungsweise dein Kontingent während der Bearbeitung enden kann.
+>
+> Versuche deshalb niemals, die gesamte Arbeit in einer einzigen Sitzung ohne Zwischenspeicherung fertigzustellen.
+>
+> Qualität ist wichtiger als Geschwindigkeit. Gleichzeitig muss jeder bereits erreichte Fortschritt zuverlässig gesichert werden.
+>
+> Lege im Obsidian-Vault folgenden Ordner an:
+>
+> Maturaarbeit/Finalisierung/
+>
+> Erstelle darin folgende Arbeitsdateien:
+>
+> * 00_PROJEKTSTATUS.md
+>
+> * 01_MATERIALANALYSE.md
+>
+> * 02_ARGUMENTATIONSSTRUKTUR.md
+>
+> * 03_KOMMENTAR_ENTWURF.md
+>
+> * 04_ARBEITSJOURNAL_ENTWURF.md
+>
+> * 05_KONSISTENZPRUEFUNG.md
+>
+> * 06_OFFENE_AUFGABEN.md
+>
+> Wenn bereits ein entsprechender Ordner oder gleichwertige Dateien existieren, prüfe zuerst, ob du sie sinnvoll weiterverwenden kannst.
+>
+> Überschreibe niemals meine ursprünglichen Dokumente. Arbeite mit neuen Dateien beziehungsweise Arbeitskopien. Die Originale müssen erhalten bleiben.
+>
+> Inhalt der Statusdatei
+>
+> Die Datei 00_PROJEKTSTATUS.md muss jederzeit den aktuellen Stand der Arbeit wiedergeben.
+>
+> Sie soll mindestens folgende Informationen enthalten:
+>
+> 1. Projektziel und zentrale Forschungsfrage
+>
+> 2. Übersicht der vorhandenen Materialien
+>
+> 3. Bereits vollständig abgeschlossene Arbeitsschritte
+>
+> 4. Bereits getroffene inhaltliche und strukturelle Entscheidungen
+>
+> 5. Aktuelle Gliederung des Kommentars
+>
+> 6. Bereits fertiggestellte Textabschnitte
+>
+> 7. Noch ausstehende Arbeitsschritte
+>
+> 8. Offene inhaltliche und methodische Fragen
+>
+> 9. Quellen oder Fakten, die noch überprüft werden müssen
+>
+> 10. Exakter nächster Arbeitsschritt
+>
+> 11. Hinweise für die Fortsetzung in einer neuen Sitzung
+>
+> 12. Das erstellte Stilprofil meiner persönlichen Schreibstimme
+>
+> Regelmässige Zwischenspeicherung
+>
+> Speichere nach jedem grösseren Arbeitsschritt.
+>
+> Dazu gehören insbesondere:
+>
+> * nach der Materialanalyse
+>
+> * nach der Quellenprüfung
+>
+> * nach der Analyse des Kommentarentwurfs
+>
+> * nach der Erstellung der Argumentationsstruktur
+>
+> * nach jedem fertiggestellten grösseren Kommentarabschnitt
+>
+> * nach Fertigstellung des Kommentars
+>
+> * nach der Überarbeitung des Arbeitsjournals
+>
+> * nach der abschliessenden Konsistenzprüfung
+>
+> Aktualisiere nach jedem dieser Schritte auch die Statusdatei.
+>
+> Verlasse dich niemals darauf, dass du dich in einer späteren Sitzung an deine bisherigen Überlegungen erinnern kannst.
+>
+> Die Dateien im Obsidian-Vault sind die verbindliche Grundlage für die Fortsetzung.
+>
+> Wenn das Kontingent knapp wird
+>
+> Falls du erkennst, dass deine verfügbare Nutzungszeit oder dein Kontingent bald erschöpft sein könnte, unterbrich die inhaltliche Arbeit und sichere zuerst den aktuellen Stand.
+>
+> Priorität:
+>
+> 1. Aktuellen Arbeitsstand speichern.
+>
+> 2. Alle bereits erarbeiteten Inhalte sichern.
+>
+> 3. Statusdatei vollständig aktualisieren.
+>
+> 4. Offene Aufgaben dokumentieren.
+>
+> 5. Den nächsten Arbeitsschritt so genau beschreiben, dass eine neue Sitzung unmittelbar weiterarbeiten kann.
+>
+> Beginne keine neuen umfangreichen Analysen, wenn du nicht mehr genügend Kapazität hast, um die bisherigen Ergebnisse zuverlässig zu sichern.
+>
+> Behaupte niemals, eine Datei gespeichert zu haben, wenn dies nicht tatsächlich geschehen ist.
+>
+> Fortsetzung am nächsten Tag
+>
+> Wenn das Kontingent aufgebraucht ist und die Arbeit erst nach der Rücksetzung fortgesetzt werden kann, muss eine neue Sitzung ohne unnötige Wiederholung weiterarbeiten können.
+>
+> Dafür soll 00_PROJEKTSTATUS.md eine eindeutige Fortsetzungsanweisung enthalten.
+>
+> Bei einer neuen Sitzung gilt:
+>
+> 1. Lies zuerst 00_PROJEKTSTATUS.md.
+>
+> 2. Prüfe die darin genannten Arbeitsdateien.
+>
+> 3. Überprüfe, welche Arbeitsschritte tatsächlich abgeschlossen sind.
+>
+> 4. Lies die ursprünglichen Materialien nur dort erneut, wo es für die Fortsetzung notwendig ist.
+>
+> 5. Setze exakt beim dokumentierten nächsten Arbeitsschritt an.
+>
+> 6. Wiederhole keine bereits abgeschlossenen Arbeiten ohne konkreten Grund.
+>
+> 7. Aktualisiere nach der Fortsetzung erneut die Statusdatei.
+>
+> 8. Verwende weiterhin das gespeicherte Stilprofil meiner persönlichen Schreibstimme.
+>
+> Die Fortsetzung muss auch dann funktionieren, wenn der gesamte bisherige Chatverlauf nicht mehr verfügbar ist.
+>
+> ⸻
+>
+> 15. Reihenfolge der gesamten Bearbeitung
+>
+> Arbeite in folgender Reihenfolge:
+>
+> Phase 1: Vollständige Bestandsaufnahme
+>
+> Analysiere den Vault, identifiziere alle relevanten Dokumente und erstelle die Materialübersicht.
+>
+> Analysiere dabei auch meine persönliche Schreibstimme und erstelle ein Stilprofil.
+>
+> Speichere die Ergebnisse in 01_MATERIALANALYSE.md.
+>
+> Phase 2: Quellen- und Faktenprüfung
+>
+> Überprüfe die wesentlichen Fakten, Zahlen, Quellen und Aussagen. Dokumentiere Unsicherheiten und Widersprüche.
+>
+> Ergänze die Materialanalyse und die offene Aufgabenliste.
+>
+> Phase 3: Analyse des bisherigen Kommentarentwurfs
+>
+> Bewerte den bisherigen Kommentar kritisch und identifiziere konkrete Verbesserungsmöglichkeiten.
+>
+> Phase 4: Entwicklung der Argumentation
+>
+> Erstelle eine überzeugende Gliederung und eine detaillierte Argumentationsstruktur.
+>
+> Speichere diese in 02_ARGUMENTATIONSSTRUKTUR.md.
+>
+> Phase 5: Vollständige Ausarbeitung des wissenschaftlichen Kommentars
+>
+> Schreibe den Kommentar vollständig und überarbeite ihn anschliessend kritisch.
+>
+> Bewahre dabei konsequent meine persönliche Schreibstimme.
+>
+> Speichere den Text in 03_KOMMENTAR_ENTWURF.md.
+>
+> Phase 6: Überarbeitung des Arbeitsjournals
+>
+> Erst nachdem der Kommentar fertiggestellt wurde, überarbeite das gesamte Arbeitsjournal.
+>
+> Speichere die überarbeitete Version in 04_ARBEITSJOURNAL_ENTWURF.md.
+>
+> Phase 7: Konsistenzprüfung
+>
+> Vergleiche alle drei Bestandteile und prüfe die Übereinstimmung mit den Quellen.
+>
+> Dokumentiere die Ergebnisse in 05_KONSISTENZPRUEFUNG.md.
+>
+> Phase 8: Abschliessende Qualitätskontrolle
+>
+> Führe eine letzte sprachliche, inhaltliche, wissenschaftliche und formale Prüfung durch.
+>
+> Korrigiere alle eindeutig erkennbaren Schwächen.
+>
+> Phase 9: Offene Punkte
+>
+> Erstelle eine übersichtliche Liste aller Punkte, die noch meine Entscheidung, zusätzliche Informationen oder eine manuelle Überprüfung benötigen.
+>
+> Speichere diese in 06_OFFENE_AUFGABEN.md.
+>
+> ⸻
+>
+> 16. Abschliessende Ergebnisse
+>
+> Am Ende sollen folgende Ergebnisse vorliegen:
+>
+> 1. Finaler wissenschaftlicher Kommentar
+>
+> Ein vollständig ausgearbeiteter, wissenschaftlich fundierter und sprachlich überzeugender Kommentar, der meine persönliche Schreibstimme bewahrt.
+>
+> 2. Finales Arbeitsjournal
+>
+> Ein vollständig überarbeitetes, chronologisch nachvollziehbares und authentisches Arbeitsjournal.
+>
+> 3. Konsistenz- und Qualitätsbericht
+>
+> Eine kritische Bewertung der gesamten Maturaarbeit mit den wichtigsten vorgenommenen Verbesserungen und allfälligen verbleibenden Schwächen.
+>
+> 4. Liste offener Punkte
+>
+> Eine klare Liste aller Angaben, die nicht zuverlässig überprüft oder ohne meine Mitwirkung ergänzt werden können.
+>
+> 5. Aktualisierte Projektstatusdatei
+>
+> Eine vollständige Dokumentation des Projektstands, damit die Arbeit jederzeit fortgesetzt werden kann.
+>
+> ⸻
+>
+> 17. Abschliessende Anweisungen
+>
+> Nimm dir für die Arbeit so viel Zeit und Kapazität, wie innerhalb deiner tatsächlichen technischen und kontingentbedingten Grenzen verfügbar ist.
+>
+> Es gibt keinen künstlichen Zeitdruck. Eine gründliche und qualitativ hochwertige Arbeit ist wichtiger als eine schnelle Fertigstellung.
+>
+> Arbeite selbstständig und kritisch. Schreibe nicht einfach möglichst viel Text, sondern konzentriere dich auf die Qualität der Argumentation.
+>
+> Vermeide unnötige Rückfragen, wenn du eine Entscheidung anhand des vorhandenen Materials selbst treffen kannst. Wenn eine wichtige Information fehlt, dokumentiere sie und arbeite mit den übrigen verfügbaren Informationen weiter.
+>
+> Verändere keine Originaldateien.
+>
+> Erfinde keine Fakten, Quellen, Zitate, Erfahrungen oder Arbeitsschritte.
+>
+> Achte während der gesamten Arbeit darauf, dass der wissenschaftliche Kommentar und das Arbeitsjournal meine eigene Schreibstimme bewahren. Der Text soll sprachlich verbessert sein, aber weiterhin eindeutig wie meine eigene Arbeit wirken.
+>
+> Stelle sicher, dass jeder grössere Fortschritt gespeichert wird.
+>
+> Beginne jetzt mit Phase 1: der vollständigen Bestandsaufnahme und Analyse meines Obsidian-Vaults. Schreibe noch nicht sofort den fertigen Kommentar. Arbeite zuerst das Material gründlich durch und halte alle Ergebnisse in den vorgesehenen Dateien fest.
+>
+
+## Anhang C: Wortlaut des Prompts vom 9. November 2026, 00:53 Uhr (Eingabe 7)
+
+> MASTER-PROMPT: Abschliessende wissenschaftliche Überarbeitung und Fertigstellung des Maturaarbeits-Kommentars
+>
+> 1. Deine Rolle und dein Auftrag
+>
+> Du übernimmst die Rolle eines erfahrenen wissenschaftlichen Lektors, kritischen akademischen Gutachters und sorgfältigen Redakteurs für eine Schweizer Maturaarbeit.
+>
+> Dein Auftrag ist es, meinen bereits vollständig verfassten wissenschaftlichen Kommentar zu unserer Maturaarbeit über den internationalen Ube-Boom anhand des nachfolgenden Feedbacks systematisch zu überprüfen, wissenschaftlich zu verbessern und vollständig abgabefertig zu machen.
+>
+> Du sollst nicht einfach einen neuen Kommentar schreiben.
+>
+> Du sollst unseren bestehenden Kommentar verbessern, seine wissenschaftlichen Schwächen beheben, offene Stellen vervollständigen, Aussagen überprüfen und seine Qualität auf ein sehr hohes Maturaniveau bringen.
+>
+> Dabei gelten drei gleich wichtige Ziele:
+>
+> 1. Wissenschaftliche Korrektheit: Jede Aussage muss nachvollziehbar, methodisch sauber und durch die vorhandenen Quellen gedeckt sein.
+>
+> 2. Inhaltliche Qualität: Die Argumentation soll differenziert, logisch und überzeugend sein. Widersprüche und Schwächen müssen erkannt und tatsächlich behoben werden.
+>
+> 3. Authentische Schreibstimme: Der Kommentar muss weiterhin wie von uns selbst geschrieben klingen. Er darf nicht wie ein künstlich perfektionierter KI-Text wirken.
+>
+> Das Endprodukt soll ein vollständig überarbeiteter, konsistenter und formal möglichst abgabefertiger wissenschaftlicher Kommentar sein.
+>
+> ⸻
+>
+> 2. Zuerst: Alle verfügbaren Materialien vollständig prüfen
+>
+> Du hast Zugriff auf unseren Obsidian-Vault und die dort vorhandenen Projektmaterialien.
+>
+> Nutze diesen Zugriff aktiv und vollständig.
+>
+> Berücksichtige insbesondere:
+>
+> * Den aktuellen vollständigen Kommentarentwurf.
+>
+> * Das fertige beziehungsweise aktuelle Sachbuch.
+>
+> * Das vollständige Quellenverzeichnis.
+>
+> * Die verwendeten Originalquellen und wissenschaftlichen Studien.
+>
+> * Das Arbeitsjournal.
+>
+> * Das Interview mit Tita.
+>
+> * Die Interviewfragen und das englische Originaltranskript.
+>
+> * Vorhandene Berechnungen, Tabellen und Abbildungen.
+>
+> * Frühere Entwürfe und relevante Projektdokumente.
+>
+> * Bereits vorhandene KI-Dokumentationen und Prompts.
+>
+> Öffne nicht nur den Kommentar und beginne sofort mit dem Umschreiben.
+>
+> Verschaffe dir zunächst einen Überblick über die vorhandenen Materialien und ihre Zusammenhänge.
+>
+> Verbindliche Quellenhierarchie
+>
+> Verwende Informationen in folgender Reihenfolge:
+>
+> 1. Originalquellen und wissenschaftliche Studien.
+>
+> 2. Offizielle Statistiken und Behördenpublikationen.
+>
+> 3. Das Interview mit Tita als eigene empirische Quelle.
+>
+> 4. Unser fertiges Sachbuch und unsere eigenen Projektdokumente.
+>
+> 5. Sekundärliteratur und journalistische Berichte.
+>
+> Das bisherige Feedback ist eine wichtige Grundlage für die Überarbeitung, aber nicht automatisch in jedem Punkt richtig.
+>
+> Prüfe jede Kritik anhand der tatsächlich vorhandenen Materialien.
+>
+> Wenn eine Kritik berechtigt ist, korrigiere sie.
+>
+> Wenn eine Kritik nur teilweise zutrifft, berücksichtige die Einschränkung.
+>
+> Wenn eine Kritik nicht durch die vorhandenen Informationen bestätigt werden kann, übernimm sie nicht unkritisch.
+>
+> Strenge Regel gegen erfundene Informationen
+>
+> Du darfst unter keinen Umständen:
+>
+> * Quellen erfinden.
+>
+> * Zahlen oder Statistiken ergänzen, die nicht nachweisbar sind.
+>
+> * Interviewantworten erfinden.
+>
+> * Fehlende Interviewfragen nachträglich als beantwortet darstellen.
+>
+> * Gespräche, Treffen oder Entscheidungen erfinden.
+>
+> * Arbeitsprozesse rückwirkend verändern.
+>
+> * Behaupten, wir hätten etwas selbst überprüft, wenn dies nicht geschehen ist.
+>
+> * Fehlende Angaben durch plausible Vermutungen ersetzen.
+>
+> Wenn eine Information fehlt, kennzeichne sie als offen.
+>
+> Wenn eine Angabe überprüft werden muss, suche sie in den vorhandenen Projektmaterialien.
+>
+> Falls externe Recherche notwendig ist, verwende möglichst Originalquellen und dokumentiere genau, welche Informationen von extern stammen.
+>
+> Unterscheide immer zwischen:
+>
+> * nachgewiesenen Fakten,
+>
+> * plausiblen Interpretationen,
+>
+> * eigenen Schlussfolgerungen,
+>
+> * offenen Fragen.
+>
+> ⸻
+>
+> 3. Besonders wichtig: Unsere persönliche Schreibstimme erhalten
+>
+> Dieser Punkt hat höchste Priorität.
+>
+> Der Kommentar wurde von uns als Schülerinnen beziehungsweise Schüler einer Schweizer Kantonsschule geschrieben. Er soll sprachlich sehr gut sein, aber weiterhin wie eine eigenständige Maturaarbeit wirken.
+>
+> Orientiere dich an unserer tatsächlichen Schreibweise im bestehenden Kommentar und in unseren früheren Texten.
+>
+> Merkmale unserer Schreibstimme
+>
+> * Natürliches, verständliches Deutsch.
+>
+> * Direkte und klare Formulierungen.
+>
+> * Keine unnötig komplizierten Satzkonstruktionen.
+>
+> * Fachbegriffe nur dort, wo sie wirklich notwendig sind.
+>
+> * Wissenschaftliche Präzision ohne künstliche Akademisierung.
+>
+> * Eigene Gedanken und persönliche Reflexionen dürfen sichtbar bleiben.
+>
+> * Kritische Aussagen sollen konkret und nachvollziehbar sein.
+>
+> * Der Text soll nicht übermässig glatt oder perfekt wirken.
+>
+> * Unterschiedliche Satzlängen und natürliche Übergänge beibehalten.
+>
+> * Die persönliche Perspektive darf dort erhalten bleiben, wo sie in einem wissenschaftlichen Kommentar sinnvoll ist.
+>
+> Was du unbedingt vermeiden musst
+>
+> Schreibe nicht in einer typischen KI-Sprache.
+>
+> Vermeide insbesondere:
+>
+> * Künstlich akademische Formulierungen.
+>
+> * Unnötige Fachbegriffe.
+>
+> * Übertriebene Abstraktion.
+>
+> * Immer gleich aufgebaute Absätze.
+>
+> * Wiederholte Dreierschemata.
+>
+> * Ständige Formulierungen wie «Dies verdeutlicht, dass …».
+>
+> * Künstliche Überleitungen.
+>
+> * Übermässig perfekte Zusammenfassungen am Ende jedes Abschnitts.
+>
+> * Allgemeine Aussagen, die intelligent klingen, aber wenig aussagen.
+>
+> * Übertriebene Selbstreflexion.
+>
+> * Unnötige Wiederholungen derselben Erkenntnis in mehreren Kapiteln.
+>
+> Ein Beispiel für die gewünschte Sprache sind Formulierungen wie:
+>
+> «Beim ersten Lesen waren wir enttäuscht. Beim zweiten Lesen mussten wir zugeben, dass die meisten Punkte stimmen.»
+>
+> Oder:
+>
+> «Eine These, die nach der Prüfung genauer ist als vorher, zeigt, dass wir geprüft haben und nicht nur Belege für eine fertige Meinung gesammelt haben.»
+>
+> Solche Formulierungen sind konkret, persönlich und verständlich.
+>
+> Verbessere sprachliche Schwächen, aber entferne nicht die Eigenschaften, die unseren Text eigenständig machen.
+>
+> Wichtig bei jeder Überarbeitung
+>
+> Verändere einen Absatz nicht nur deshalb, weil du ihn stilistisch anders schreiben würdest.
+>
+> Wenn eine Passage bereits gut funktioniert, lass sie möglichst unverändert.
+>
+> Überarbeite gezielt dort, wo:
+>
+> * ein wissenschaftlicher Fehler vorliegt,
+>
+> * eine Aussage unklar ist,
+>
+> * eine Argumentation nicht funktioniert,
+>
+> * eine Wiederholung unnötig ist,
+>
+> * eine Formulierung sprachlich tatsächlich schwach ist,
+>
+> * eine wichtige Information fehlt.
+>
+> ⸻
+>
+> 4. Das konkrete wissenschaftliche Feedback vollständig umsetzen
+>
+> Die folgende Kritik muss systematisch abgearbeitet werden.
+>
+> A. Weltmarktanteil und Exportzahlen
+>
+> Im bisherigen Kommentar werden folgende Zahlen miteinander verglichen:
+>
+> * Geschätzter weltweiter Ube-Markt 2024: 455,3 Millionen US-Dollar.
+>
+> * Philippinische Ube-Exporte 2025: 3,06 Millionen US-Dollar.
+>
+> * Daraus errechneter Anteil: ungefähr 0,7 Prozent.
+>
+> Die mathematische Rechnung ist grundsätzlich nachvollziehbar.
+>
+> Das wissenschaftliche Problem liegt im Vergleich selbst.
+>
+> Ein nationaler Exportwert ist nicht automatisch mit dem gesamten weltweiten Marktvolumen vergleichbar.
+>
+> Der globale Markt kann beispielsweise auch verarbeitete Produkte, verschiedene Handelsstufen und den Binnenmarkt umfassen.
+>
+> Deine Aufgabe
+>
+> 1. Überprüfe beide Zahlen anhand der Originalquellen.
+>
+> 2. Prüfe, wie der globale Marktwert definiert wird.
+>
+> 3. Prüfe, welche Produkte in den philippinischen Exportzahlen enthalten sind.
+>
+> 4. Überprüfe, ob die beiden Grössen tatsächlich vergleichbar sind.
+>
+> 5. Entscheide, ob die Prozentrechnung beibehalten werden kann.
+>
+> 6. Formuliere die Interpretation wissenschaftlich korrekt.
+>
+> Wenn die Zahlen nicht direkt vergleichbar sind, darf die Rechnung höchstens als grobe Grössenordnung dargestellt werden.
+>
+> Insbesondere darf aus den 0,7 Prozent nicht automatisch geschlossen werden, dass der gesamte restliche Gewinn im Ausland entsteht.
+>
+> Diese Schlussfolgerung muss durch zusätzliche Quellen zur Verarbeitung, Wertschöpfung, Vermarktung und Gewinnverteilung gestützt werden.
+>
+> Das wirtschaftliche Argument soll erhalten bleiben, aber auf einer wissenschaftlich tragfähigen Grundlage stehen.
+>
+> B. Zeitliche Gegenüberstellung von Nachfrage und Ernte
+>
+> Im bisherigen Kapitel 7.1 wird geschrieben:
+>
+> «Auf den Philippinen ist die Ernte im selben Zeitraum gesunken …»
+>
+> Das ist zeitlich ungenau.
+>
+> Die Nachfrageentwicklung bezieht sich auf die jüngeren Jahre beziehungsweise die letzten vier Jahre.
+>
+> Die langfristige Entwicklung der philippinischen Ernte betrachtet dagegen einen deutlich längeren Zeitraum von 2010 bis 2025.
+>
+> Ausserdem begann der Rückgang der Ernte bereits vor dem internationalen Ube-Boom.
+>
+> Deine Aufgabe
+>
+> * Überprüfe sämtliche Zeitangaben.
+>
+> * Korrigiere die Formulierung «im selben Zeitraum».
+>
+> * Stelle klar dar, dass die internationale Nachfrage in den letzten Jahren gestiegen ist, während die philippinische Ernte langfristig zurückgegangen ist.
+>
+> * Vermeide eine zeitliche Gleichsetzung unterschiedlicher Untersuchungszeiträume.
+>
+> * Erhalte die Erkenntnis, dass der Ernte­rückgang nicht einfach durch den internationalen Boom erklärt werden kann.
+>
+> C. Kausalität und die Leitthese
+>
+> Die Formulierung:
+>
+> «Je gefragter die Knolle, desto knapper wird sie dort, wo sie herkommt.»
+>
+> ist einprägsam, suggeriert aber einen direkten Ursache-Wirkungs-Zusammenhang.
+>
+> Unsere Daten zeigen steigende internationale Nachfrage und eine langfristig sinkende philippinische Ernte.
+>
+> Sie beweisen nicht automatisch, dass die internationale Nachfrage den Rückgang der Ernte verursacht hat.
+>
+> Deine Aufgabe
+>
+> Prüfe sämtliche kausalen Aussagen im gesamten Kommentar.
+>
+> Achte besonders auf Formulierungen wie:
+>
+> * «führt dazu, dass»
+>
+> * «verursacht»
+>
+> * «deshalb»
+>
+> * «dadurch»
+>
+> * «als Folge»
+>
+> * «je mehr, desto weniger»
+>
+> Unterscheide konsequent zwischen Korrelation und Kausalität.
+>
+> Formuliere Aussagen vorsichtiger, wenn die Quellen keinen direkten Zusammenhang beweisen.
+>
+> Die Argumentation soll dadurch nicht schwächer werden. Sie soll wissenschaftlich belastbarer werden.
+>
+> D. Kulturelle Kontrolle genauer definieren
+>
+> Im bisherigen Kapitel 7.2 steht:
+>
+> «Keine davon liegt bei den Menschen, die Ube anbauen.»
+>
+> Diese Aussage ist zu absolut.
+>
+> Unser eigenes Interview mit Tita zeigt, dass sie Ube durchaus eine eigene kulturelle Bedeutung zuschreibt und sich über die internationale Bekanntheit freut.
+>
+> Sie hat also eine persönliche kulturelle Beziehung zu Ube und eine eigene Vorstellung davon, was die Knolle bedeutet.
+>
+> Das eigentliche Argument ist ein anderes:
+>
+> Bauern haben möglicherweise weniger Einfluss darauf, wie Ube international vermarktet, dargestellt und kulturell interpretiert wird als Unternehmen, Medien oder andere Institutionen.
+>
+> Deine Aufgabe
+>
+> Unterscheide klar zwischen:
+>
+> 1. Persönlicher kultureller Bedeutung: Wie Menschen auf den Philippinen Ube verstehen, verwenden und mit ihrer eigenen Identität verbinden.
+>
+> 2. Internationaler Darstellung: Wer bestimmt, wie Ube im Ausland präsentiert, vermarktet und interpretiert wird.
+>
+> 3. Wirtschaftlicher Kontrolle: Wer Verarbeitung, Vertrieb, Preise und Wertschöpfung beeinflusst.
+>
+> Vermeide absolute Aussagen über die fehlende Kontrolle der Bauern.
+>
+> Zeige stattdessen, wo ihre Einflussmöglichkeiten begrenzt sind und wo sie weiterhin eigene Deutungsmacht besitzen.
+>
+> Diese Unterscheidung muss sich konsequent durch Kapitel 7 ziehen.
+>
+> E. Das Interview mit Tita methodisch sauber darstellen
+>
+> Das Interview ist eine wichtige eigenständige Quelle unserer Arbeit.
+>
+> Besonders wichtig ist, dass wir Tita nicht als repräsentative Stimme aller Ube-Bauern darstellen.
+>
+> Ihre Aussagen sollen als individuelle Perspektive verwendet werden.
+>
+> Ein weiterer offener Punkt betrifft den Preisvergleich:
+>
+> * Titas Verkaufspreis: 150 Pesos pro Kilogramm.
+>
+> * Andere Berichte nennen Preise von 80 bis 100 Pesos, die Bauern beim Verkauf an Händler erhalten.
+>
+> Es ist plausibel, dass hier unterschiedliche Handelsstufen verglichen werden.
+>
+> Das ist jedoch nicht abschliessend bewiesen.
+>
+> Deine Aufgabe
+>
+> * Überprüfe die Preisangaben anhand der Quellen.
+>
+> * Erkläre den möglichen Unterschied zwischen Verkauf an Händler und Verkauf auf dem öffentlichen Markt.
+>
+> * Stelle die Erklärung ausdrücklich als plausible Interpretation dar, wenn sie nicht belegt ist.
+>
+> * Behaupte nicht, dass das Interview den Preisunterschied eindeutig erklärt.
+>
+> * Überprüfe, ob Titas Aussagen an allen Stellen korrekt wiedergegeben werden.
+>
+> * Bewahre die individuellen Aussagen und die Grenzen der Aussagekraft des Interviews.
+>
+> Zusätzlich müssen folgende Angaben ergänzt beziehungsweise überprüft werden:
+>
+> * Datum der Aufnahme beziehungsweise Durchführung.
+>
+> * Die zwei unbeantworteten Interviewfragen.
+>
+> * Das vollständige englische Originaltranskript.
+>
+> * Dokumentation der Bestätigung des Transkripts durch Tita, sofern tatsächlich vorhanden.
+>
+> * Angaben dazu, wie der Kontakt zustande kam.
+>
+> * Klärung, ob Tita ein Spitzname ist und ob der Name veröffentlicht werden darf, sofern diese Information noch offen ist.
+>
+> * Dokumentation, ob das Interview schriftlich, mündlich oder aufgezeichnet durchgeführt wurde.
+>
+> Erfinde keine dieser Angaben.
+>
+> Wenn etwas fehlt, kennzeichne es als offene Aufgabe.
+>
+> ⸻
+>
+> 5. Alle offenen Stellen im Dokument systematisch bearbeiten
+>
+> Die ursprüngliche Durchsicht hat folgende offenen Stellen identifiziert.
+>
+> Arbeite diese Liste vollständig ab.
+>
+> Stelle    Aufgabe
+>
+> Deckblatt    Klasse eintragen
+>
+> Abstract    Endgültigen Buchtitel einsetzen
+>
+> Kapitel 2.2    Abgabedatum des Zwischenkommentars prüfen
+>
+> Kapitel 2.3    Reisedaten überprüfen
+>
+> Kapitel 2.5    Treffen vom 14. September überprüfen
+>
+> Kapitel 3.2    Endgültigen Buchtitel und Buchbestandteile überprüfen
+>
+> Kapitel 3.3    Tatsächliche Zeilenlänge aus InDesign eintragen
+>
+> Kapitel 3.4    Beschreibung von Text und Bild mit dem fertigen Buch abgleichen
+>
+> Kapitel 4.3    Quellenverzeichnis und Zitierweise im Buch überprüfen; Absprache mit Betreuungsperson klären
+>
+> Kapitel 4.4    Farbwerte, Schriftgrössen, Bilddatenbank und Lizenzen ergänzen
+>
+> Kapitel 4.4    KI-generierte Bilder gegebenenfalls deklarieren
+>
+> Kapitel 4.5    Seitenzahl, Papier, Bindung und Anzahl Exemplare ergänzen
+>
+> Kapitel 5.1    Verantwortliche für die Kurzeinleitungen eintragen
+>
+> Kapitel 5.4    Rechnung zu den 300 Millionen Pesos nachvollziehen
+>
+> Kapitel 5.5    Zwei unbeantwortete Interviewfragen und Aufnahmedatum ergänzen
+>
+> Kapitel 5.5    Bestätigung des Transkripts durch Tita dokumentieren
+>
+> Kapitel 6.1    Seitenzahlen und Reihenfolge mit dem fertigen Buch abgleichen
+>
+> Kapitel 6.2    Vollständig ausfüllen und beide Abbildungen einfügen
+>
+> Kapitel 7.4    Entscheiden, ob die neue Formulierung der Leitthese übernommen wird
+>
+> Kapitel 7.5    Beide offenen Tabellenfelder ergänzen
+>
+> Kapitel 8.3    Konkret beschreiben, was nach der KI-Überarbeitung selbst geändert wurde
+>
+> Quellenverzeichnis    Fehlende URLs, Abrufdaten, Titel und bibliografische Angaben ergänzen
+>
+> Anhang A    Interviewfragen und englisches Transkript einfügen
+>
+> Anhang B    Entscheiden, ob der Master-Prompt abgedruckt werden soll
+>
+> Regeln für die Bearbeitung
+>
+> Gehe jeden Punkt einzeln durch.
+>
+> Suche zunächst nach der benötigten Information in den vorhandenen Materialien.
+>
+> Wenn sie vorhanden ist, ergänze sie direkt.
+>
+> Wenn sie nicht vorhanden ist, lasse keine erfundene Information einsetzen.
+>
+> Erstelle stattdessen eine übersichtliche Liste mit den Angaben, die noch von uns benötigt werden.
+>
+> Unterscheide zwischen:
+>
+> * Informationen, die du selbst aus den Materialien ergänzen kannst.
+>
+> * Informationen, die du durch Quellenprüfung ermitteln kannst.
+>
+> * Informationen, die ausschliesslich wir selbst bestätigen können.
+>
+> Versuche nicht, fehlende Informationen durch allgemeine Formulierungen zu kaschieren.
+>
+> ⸻
+>
+> 6. KI-Nachweis: Besonders sorgfältig überarbeiten
+>
+> Kapitel 10.6 muss besonders genau geprüft werden.
+>
+> Die bisherige Dokumentation beschreibt eine umfangreiche KI-Nutzung.
+>
+> Unter anderem wurde KI verwendet für:
+>
+> * Einen ersten Entwurf des gesamten Kommentars.
+>
+> * Sprachliche Überarbeitungen Satz für Satz.
+>
+> * Erstellung beziehungsweise Überarbeitung von Abbildungen.
+>
+> * Ausformulierung von Arbeitsjournaleinträgen.
+>
+> * Überprüfung von Fakten und Widersprüchen.
+>
+> * Eine weitere vollständige Überarbeitung mit Fable 5.1.
+>
+> Diese Nutzung muss transparent und vollständig dokumentiert werden.
+>
+> Problematische bisherige Formulierung
+>
+> «Danach haben wir die Texte gelesen, geprüft und in eigene Worte gebracht.»
+>
+> Diese Formulierung ist zu allgemein.
+>
+> Sie erklärt nicht, welchen tatsächlichen Eigenanteil wir geleistet haben.
+>
+> Deine Aufgabe
+>
+> Überprüfe die vorhandene KI-Dokumentation und beschreibe konkret:
+>
+> 1. Welche Teile durch KI erstellt wurden.
+>
+> 2. Welche Teile durch KI überarbeitet wurden.
+>
+> 3. Welche Quellen und Fakten wir selbst überprüft haben.
+>
+> 4. Welche inhaltlichen Entscheidungen wir selbst getroffen haben.
+>
+> 5. Welche KI-Vorschläge wir übernommen haben.
+>
+> 6. Welche KI-Vorschläge wir verworfen oder verändert haben.
+>
+> 7. Welche Passagen wir eigenständig neu geschrieben haben.
+>
+> 8. Wie wir die endgültige Fassung kontrolliert haben.
+>
+> Wichtig: Du darfst unseren Eigenanteil nicht grösser darstellen, als er tatsächlich war.
+>
+> Wenn sich eine konkrete Änderung nicht anhand der vorhandenen Entwürfe oder Dokumentation nachvollziehen lässt, behaupte nicht, dass wir sie selbst vorgenommen haben.
+>
+> Die Formulierung soll ehrlich, konkret und nachvollziehbar sein.
+>
+> Plattform und Modell unterscheiden
+>
+> Überprüfe ausserdem die Bezeichnung «Claude (Fable 5.1)».
+>
+> Plattform, Modell und verwendetes Tool müssen korrekt voneinander unterschieden werden.
+>
+> Übernimm keine Modellbezeichnung ungeprüft.
+>
+> Master-Prompt im Anhang
+>
+> Der bisherige Kommentar umfasst ungefähr 58 Seiten. Ein erheblicher Teil davon besteht aus dem vollständigen Master-Prompt, den wir für die KI verwendet haben.
+>
+> Prüfe, ob dieser Anhang für die schulische Abgabe tatsächlich erforderlich ist.
+>
+> Wenn er nicht verlangt wird, empfehle eine separate Dokumentation des Prompts und der KI-Nutzung.
+>
+> Entferne ihn jedoch nicht eigenmächtig aus dem Dokument, bevor die Entscheidung getroffen und die Konsequenzen überprüft wurden.
+>
+> ⸻
+>
+> 7. Weitere strukturelle und sprachliche Verbesserungen
+>
+> Neben den konkreten Kritikpunkten sollst du den gesamten Kommentar nochmals kritisch lesen.
+>
+> Kapitel 2 und 3
+>
+> Diese Kapitel beschreiben die Entstehung der Arbeit und die formale Sachbuchrecherche relativ ausführlich.
+>
+> Prüfe, ob einzelne Abschnitte unnötig lang sind oder sich wiederholen.
+>
+> Kürze nur dort, wo tatsächlich Informationen doppelt vorkommen oder für den wissenschaftlichen Kommentar wenig relevant sind.
+>
+> Die Entstehungsgeschichte und die Reflexion des Arbeitsprozesses sollen erhalten bleiben.
+>
+> Kapitel 7
+>
+> Kapitel 7 ist der argumentative Kern des Kommentars.
+>
+> Hier müssen die wichtigsten wissenschaftlichen Erkenntnisse zusammengeführt werden.
+>
+> Prüfe insbesondere:
+>
+> * Ist die Leitfrage klar beantwortet?
+>
+> * Werden wirtschaftliche und kulturelle Kontrolle sauber voneinander getrennt?
+>
+> * Sind die einzelnen Argumente ausreichend belegt?
+>
+> * Werden Gegenargumente ernst genommen?
+>
+> * Ist die Schlussfolgerung differenzierter als die ursprüngliche These?
+>
+> * Werden Erkenntnisse aus dem Interview sinnvoll integriert?
+>
+> * Gibt es Wiederholungen zwischen den Unterkapiteln?
+>
+> * Ist die Argumentation logisch aufgebaut?
+>
+> Kapitel 7 darf nicht durch unnötige Kürzungen an Tiefe verlieren.
+>
+> Schlussfolgerung
+>
+> Die ursprüngliche Leitthese lautet:
+>
+> «Die Philippinen verlieren beim Ube-Boom nicht ihre Kultur, sondern die Kontrolle über sie.»
+>
+> Die Arbeit zeigt allerdings, dass diese Aussage differenziert werden muss.
+>
+> Prüfe, ob eine neue Formulierung der Leitthese wissenschaftlich sinnvoller wäre.
+>
+> Die endgültige These muss:
+>
+> * Unsere ursprüngliche Fragestellung erkennbar beantworten.
+>
+> * Wirtschaftliche und kulturelle Aspekte berücksichtigen.
+>
+> * Die Grenzen unserer Daten berücksichtigen.
+>
+> * Keine unbelegten Kausalitäten enthalten.
+>
+> * Die tatsächlichen Erkenntnisse der Arbeit widerspiegeln.
+>
+> Behalte die ursprüngliche These nicht nur deshalb bei, weil sie gut klingt.
+>
+> Ändere sie aber auch nicht unnötig.
+>
+> ⸻
+>
+> 8. Das Sachbuch und der Kommentar müssen übereinstimmen
+>
+> Der Kommentar darf keine falschen oder veralteten Angaben über das fertige Sachbuch enthalten.
+>
+> Vergleiche deshalb die relevanten Abschnitte direkt mit dem tatsächlichen Buch.
+>
+> Prüfe insbesondere:
+>
+> * Endgültiger Buchtitel.
+>
+> * Aufbau und Kapitelreihenfolge.
+>
+> * Inhalt der einzelnen Kapitel.
+>
+> * Verwendete Bilder.
+>
+> * Bildnachweise und Bildlizenzen.
+>
+> * Layout und Gestaltung.
+>
+> * Quellenverzeichnis.
+>
+> * Seitenzahlen.
+>
+> * Umfang.
+>
+> * Tatsächliche Gestaltung und Formatierung.
+>
+> Der Kommentar beschreibt das fertige Produkt und nicht einen früheren Planungsstand.
+>
+> Wenn sich etwas während der Produktion verändert hat, muss der Kommentar diese Entwicklung korrekt widerspiegeln.
+>
+> ⸻
+>
+> 9. Arbeitsweise: Schritt für Schritt statt oberflächlicher Gesamtüberarbeitung
+>
+> Arbeite systematisch.
+>
+> Versuche nicht, den gesamten Kommentar in einem einzigen unkontrollierten Schreibdurchgang zu verändern.
+>
+> Gehe in dieser Reihenfolge vor:
+>
+> Phase 1: Bestandsaufnahme
+>
+> * Alle relevanten Projektmaterialien finden.
+>
+> * Aktuellen Kommentar identifizieren.
+>
+> * Versionen unterscheiden.
+>
+> * Vorhandene Quellen und Anhänge prüfen.
+>
+> * Offene Stellen identifizieren.
+>
+> * Einen Überblick über die Kapitelstruktur erstellen.
+>
+> Erstelle intern eine Übersicht über die wichtigsten Probleme.
+>
+> Beginne noch nicht mit einer vollständigen Neufassung.
+>
+> Phase 2: Wissenschaftliche Überprüfung
+>
+> Prüfe die Argumentation des gesamten Kommentars.
+>
+> Kontrolliere insbesondere die fünf wissenschaftlichen Problemfelder aus Kapitel 4.
+>
+> Überprüfe Zahlen, Zeiträume, Berechnungen, Kausalitäten und methodische Aussagen.
+>
+> Erstelle eine interne Liste mit allen notwendigen inhaltlichen Änderungen.
+>
+> Phase 3: Inhaltliche Überarbeitung
+>
+> Überarbeite die betroffenen Kapitel.
+>
+> Stelle sicher, dass:
+>
+> * Die Argumentation wissenschaftlich korrekt ist.
+>
+> * Alle Änderungen mit den Quellen übereinstimmen.
+>
+> * Die Leitthese und Schlussfolgerung zusammenpassen.
+>
+> * Interviewaussagen korrekt verwendet werden.
+>
+> * Keine Widersprüche zwischen den Kapiteln entstehen.
+>
+> Phase 4: Offene Stellen und formale Fertigstellung
+>
+> Bearbeite die gesamte Checkliste aus Kapitel 5.
+>
+> Ergänze alle Informationen, die in den vorhandenen Materialien nachweisbar sind.
+>
+> Dokumentiere alle fehlenden Informationen.
+>
+> Überprüfe das Quellenverzeichnis und die Anhänge.
+>
+> Phase 5: Sprachliche Überarbeitung
+>
+> Lies den gesamten Kommentar nochmals als zusammenhängenden Text.
+>
+> Verbessere:
+>
+> * Rechtschreibung.
+>
+> * Grammatik.
+>
+> * Zeichensetzung.
+>
+> * Satzbau.
+>
+> * Unklare Formulierungen.
+>
+> * Unnötige Wiederholungen.
+>
+> * Schlechte Übergänge.
+>
+> Bewahre dabei konsequent unsere persönliche Schreibstimme.
+>
+> Verwende Schweizer Rechtschreibung, insbesondere «ss» statt «ß».
+>
+> Phase 6: Abschliessende Qualitätskontrolle
+>
+> Lies den vollständig überarbeiteten Kommentar nochmals kritisch.
+>
+> Stelle dir dabei folgende Fragen:
+>
+> * Würde eine anspruchsvolle Betreuungsperson die Argumentation akzeptieren?
+>
+> * Sind alle wichtigen Aussagen belegt?
+>
+> * Sind die methodischen Einschränkungen transparent?
+>
+> * Stimmen Buch und Kommentar überein?
+>
+> * Ist der KI-Einsatz ehrlich dokumentiert?
+>
+> * Sind alle Platzhalter beseitigt?
+>
+> * Ist der Text sprachlich natürlich?
+>
+> * Gibt es noch Aussagen, die besser klingen, als sie wissenschaftlich tatsächlich sind?
+>
+> Erst nach dieser Kontrolle darfst du die Arbeit als fertig bezeichnen.
+>
+> ⸻
+>
+> 10. KRITISCH: Zeitmanagement, Kontingentgrenzen und automatische Sicherung
+>
+> Du darfst deine Arbeit nicht einfach abbrechen, weil dein Nachrichten- oder Nutzungskontingent bald erreicht ist.
+>
+> Ich möchte nicht nach einem Reset wieder von vorne beginnen müssen.
+>
+> Du musst deshalb von Anfang an mit einem integrierten Sicherungs- und Wiederaufnahmeverfahren arbeiten.
+>
+> A. Regelmässige Zwischensicherungen
+>
+> Nach jeder abgeschlossenen Phase und nach jeder grösseren Kapitelüberarbeitung:
+>
+> 1. Speichere die aktuelle Arbeitsfassung.
+>
+> 2. Aktualisiere den Bearbeitungsstatus.
+>
+> 3. Dokumentiere abgeschlossene Änderungen.
+>
+> 4. Dokumentiere noch offene Aufgaben.
+>
+> 5. Halte fest, welche Quellen bereits überprüft wurden.
+>
+> 6. Halte fest, welche Entscheidungen bereits getroffen wurden.
+>
+> 7. Notiere den nächsten konkreten Arbeitsschritt.
+>
+> Verlasse dich nicht darauf, dass der bisherige Chatverlauf nach einem Reset vollständig verfügbar ist.
+>
+> B. Dauerhafte Fortschrittsdatei
+>
+> Lege im Projektordner eine Datei mit dem Namen:
+>
+> FORTSCHRITT_KOMMENTAR.md
+>
+> an.
+>
+> Diese Datei muss jederzeit den tatsächlichen Stand der Arbeit wiedergeben.
+>
+> Sie enthält:
+>
+> * Aktuelle Version des Kommentars.
+>
+> * Zuletzt vollständig bearbeitetes Kapitel.
+>
+> * Abgeschlossene Phasen.
+>
+> * Bereits behobene Kritikpunkte.
+>
+> * Noch offene Kritikpunkte.
+>
+> * Noch fehlende Informationen.
+>
+> * Überprüfte Quellen.
+>
+> * Noch nicht überprüfte Quellen.
+>
+> * Getroffene inhaltliche Entscheidungen.
+>
+> * Nächsten Arbeitsschritt.
+>
+> * Hinweise zur persönlichen Schreibstimme.
+>
+> * Hinweise zur Fortsetzung nach einem Kontext- oder Kontingentreset.
+>
+> Aktualisiere diese Datei regelmässig und nicht erst am Ende.
+>
+> C. Sicherheitskopien
+>
+> Verändere niemals die einzige Originalfassung.
+>
+> Arbeite mit getrennten Versionen:
+>
+> * Originalentwurf.
+>
+> * Aktuelle Arbeitsfassung.
+>
+> * Gesicherte Zwischenversionen.
+>
+> * Endgültige Abgabefassung.
+>
+> Überschreibe keine wichtigen Originalmaterialien.
+>
+> D. Verhalten bei drohendem Kontingentlimit
+>
+> Wenn du bemerkst, dass dein verfügbares Kontingent oder dein Kontextfenster knapp wird:
+>
+> 1. Unterbrich die inhaltliche Arbeit kontrolliert.
+>
+> 2. Speichere zuerst den aktuellen Stand.
+>
+> 3. Aktualisiere FORTSCHRITT_KOMMENTAR.md.
+>
+> 4. Stelle sicher, dass die zuletzt bearbeiteten Kapitel vollständig gespeichert sind.
+>
+> 5. Schreibe eine konkrete Fortsetzungsanweisung für die nächste Sitzung.
+>
+> 6. Gib mir eine kurze Mitteilung, welche Arbeiten abgeschlossen wurden und wo fortgesetzt werden muss.
+>
+> Du darfst nicht einfach mitten in einer Kapitelüberarbeitung aufhören, ohne den aktuellen Stand zu sichern.
+>
+> E. Fortsetzung nach einem Reset
+>
+> Wenn eine neue Sitzung gestartet wird, lies zuerst:
+>
+> 1. FORTSCHRITT_KOMMENTAR.md.
+>
+> 2. Die aktuelle Arbeitsfassung.
+>
+> 3. Die relevanten Projektmaterialien.
+>
+> Prüfe, welche Änderungen bereits gespeichert wurden.
+>
+> Beginne anschliessend exakt an der dokumentierten Stelle.
+>
+> Wiederhole keine bereits abgeschlossenen Arbeiten, ausser eine erneute Kontrolle ist tatsächlich notwendig.
+>
+> Du sollst nicht darauf warten, dass ich dir nochmals den gesamten Auftrag erkläre.
+>
+> F. Keine vorzeitige Fertigstellung
+>
+> Ein Kontingentlimit ist kein Grund, die Aufgabe als abgeschlossen zu deklarieren.
+>
+> Wenn die Arbeit nicht vollständig erledigt werden kann, muss der genaue Zwischenstand gesichert werden.
+>
+> Der Auftrag gilt erst als abgeschlossen, wenn die gesamte Qualitätskontrolle durchgeführt wurde und eine vollständige Endfassung vorliegt.
+>
+> ⸻
+>
+> 11. Umgang mit Unsicherheiten und fehlenden Informationen
+>
+> Wenn du auf eine Information stösst, die du nicht zuverlässig feststellen kannst, gehe folgendermassen vor:
+>
+> 1. Suche in den vorhandenen Projektdateien.
+>
+> 2. Suche in den Originalquellen.
+>
+> 3. Prüfe, ob eine andere Stelle im Kommentar dieselbe Information enthält.
+>
+> 4. Prüfe, ob die Information durch eine andere Quelle bestätigt werden kann.
+>
+> 5. Wenn sie weiterhin fehlt, kennzeichne sie als offen.
+>
+> Frage mich nur dann nach einer Information, wenn sie tatsächlich notwendig ist und weder aus dem Vault noch aus den vorhandenen Quellen hervorgeht.
+>
+> Stelle nicht zehn Fragen auf einmal, wenn du einen grossen Teil der Arbeit bereits selbstständig erledigen kannst.
+>
+> Fasse notwendige Rückfragen möglichst nach abgeschlossenen Arbeitsphasen zusammen.
+>
+> ⸻
+>
+> 12. Anforderungen an das endgültige Ergebnis
+>
+> Am Ende erwarte ich folgende Ergebnisse:
+>
+> 1. Vollständig überarbeiteter Kommentar
+>
+> Eine vollständige, konsistente und sprachlich überarbeitete Endfassung.
+>
+> Die ursprüngliche Struktur soll grundsätzlich erhalten bleiben, sofern keine sachlichen Gründe für Änderungen sprechen.
+>
+> 2. Bereinigte wissenschaftliche Argumentation
+>
+> Alle relevanten wissenschaftlichen Kritikpunkte müssen überprüft und entweder behoben oder nachvollziehbar als offene Einschränkungen dokumentiert sein.
+>
+> 3. Vollständige KI-Dokumentation
+>
+> Kapitel 10.6 muss den tatsächlichen KI-Einsatz transparent darstellen.
+>
+> 4. Bereinigte Anhänge und Quellen
+>
+> Interviewtranskript, Abbildungen, Quellenangaben und weitere erforderliche Anhänge müssen kontrolliert werden.
+>
+> 5. Offene-Punkte-Liste
+>
+> Erstelle am Ende eine separate Liste aller Angaben, die du nicht selbstständig vervollständigen konntest und die noch von uns bestätigt oder ergänzt werden müssen.
+>
+> 6. Änderungsprotokoll
+>
+> Erstelle eine übersichtliche Dokumentation mit:
+>
+> * Kapitel.
+>
+> * Ursprüngliches Problem.
+>
+> * Durchgeführte Änderung.
+>
+> * Wissenschaftliche oder sprachliche Begründung.
+>
+> Dokumentiere besonders grössere inhaltliche Änderungen.
+>
+> 7. Abschliessende Bewertung
+>
+> Bewerte den fertigen Kommentar kritisch anhand folgender Kriterien:
+>
+> * Wissenschaftliche Korrektheit.
+>
+> * Qualität der Argumentation.
+>
+> * Methodische Sauberkeit.
+>
+> * Quellenarbeit.
+>
+> * Reflexion des Arbeitsprozesses.
+>
+> * Sprachliche Qualität.
+>
+> * Authentizität der Schreibstimme.
+>
+> * Formale Vollständigkeit.
+>
+> Unterscheide zwischen vollständig erfüllten Anforderungen und Punkten, die noch von uns abhängen.
+>
+> Behaupte nicht, dass der Kommentar abgabefertig ist, wenn noch zwingende offene Punkte bestehen.
+>
+> ⸻
+>
+> 13. Übergeordnete Arbeitsprinzipien
+>
+> Diese Regeln gelten während des gesamten Auftrags:
+>
+> 1. Wissenschaftliche Genauigkeit ist wichtiger als eine besonders überzeugend klingende Formulierung.
+>
+> 2. Authentische Schreibstimme ist wichtiger als künstliche sprachliche Perfektion.
+>
+> 3. Bestehende gute Passagen sollen erhalten bleiben.
+>
+> 4. Kritik muss überprüft werden, nicht blind übernommen.
+>
+> 5. Keine erfundenen Informationen.
+>
+> 6. Keine unbelegten Kausalitäten.
+>
+> 7. Keine künstliche Aufwertung unseres Eigenanteils.
+>
+> 8. Keine unnötigen Änderungen an bereits funktionierenden Abschnitten.
+>
+> 9. Alle wichtigen Änderungen müssen nachvollziehbar sein.
+>
+> 10. Die Originalfassung muss erhalten bleiben.
+>
+> 11. Der Fortschritt muss regelmässig gesichert werden.
+>
+> 12. Die Aufgabe darf nicht wegen eines Kontingentlimits unkontrolliert abgebrochen werden.
+>
+> ABSCHLIESSENDE ANWEISUNG
+>
+> Beginne jetzt mit Phase 1.
+>
+> Prüfe zunächst den gesamten verfügbaren Obsidian-Vault und identifiziere die aktuell gültige Version unseres wissenschaftlichen Kommentars sowie die dazugehörigen Projektmaterialien.
+>
+> Lies die vorhandenen Dokumente, bevor du inhaltliche Änderungen vornimmst.
+>
+> Erstelle anschliessend die Fortschrittsdatei und beginne mit der systematischen wissenschaftlichen Überprüfung.
+>
+> Arbeite eigenständig und gründlich.
+>
+> Ich möchte keine oberflächliche Korrektur, sondern eine tatsächliche Verbesserung der wissenschaftlichen Qualität des gesamten Kommentars.
+>
+> Das Ziel ist eine Maturaarbeit, die inhaltlich überzeugt, methodisch sauber ist und trotzdem eindeutig unsere eigene Arbeit und unsere persönliche Schreibstimme widerspiegelt.
+>
+
+## Anhang D: Wortlaut des Prompts vom 9. November 2026, 08:39 Uhr (Eingabe 8)
+
+> FINALER KORREKTUR- UND QUALITÄTSSICHERUNGSPROMPT
+>
+> Schriftlicher Kommentar zur Maturaarbeit «Wem gehört der Ube-Boom?»
+>
+> 1. Deine Rolle und dein Auftrag
+>
+> Du bist ein äusserst sorgfältiger wissenschaftlicher Lektor, kritischer Gutachter und Korrektor auf Maturaarbeitsniveau.
+>
+> Deine Aufgabe ist es, meinen gesamten schriftlichen Kommentar zur Maturaarbeit ein letztes Mal vollständig zu überprüfen und zu korrigieren.
+>
+> Die aktuelle Fassung wurde bereits mehrfach überarbeitet. Trotzdem können noch Fehler, Ungenauigkeiten, Widersprüche, unklare Argumentationen, sprachliche Schwächen und formale Unvollständigkeiten vorhanden sein.
+>
+> Dies ist keine gewöhnliche Korrekturrunde. Es ist die abschliessende Qualitätssicherung vor der Abgabe.
+>
+> Dein Ziel ist ein vollständig korrigierter, wissenschaftlich sauberer, sprachlich überzeugender und formal möglichst abgabefertiger Kommentar, der weiterhin eindeutig meine persönliche Schreibsprache trägt.
+>
+> Du sollst nicht nur Fehler auflisten, sondern sie direkt im Dokument verbessern. Arbeite gründlich und selbstständig. Warte nicht nach jedem Kapitel auf meine Zustimmung.
+>
+> 2. ABSOLUTE PRIORITÄT: MEINE PERSÖNLICHE SCHREIBSTIMME BEWAHREN
+>
+> Dieser Punkt ist für die gesamte Überarbeitung besonders wichtig. Er gilt für jede einzelne sprachliche Änderung und darf während der gesamten Arbeit nicht in den Hintergrund geraten.
+>
+> Du korrigierst meinen Text, aber du ersetzt nicht meine persönliche Schreibweise durch deine eigene.
+>
+> Ich möchte am Ende einen wissenschaftlich korrekten und sprachlich sauberen Text haben, der sich trotzdem eindeutig nach mir anhört.
+>
+> Der Kommentar soll weiterhin wie mein eigener Text wirken und nicht wie ein von einer KI oder einem professionellen wissenschaftlichen Lektor neu verfasster Text.
+>
+> Was du unbedingt erhalten musst
+>
+> * Meine typische Wortwahl und meinen natürlichen Ausdruck.
+>
+> * Meine Art, Gedanken miteinander zu verbinden.
+>
+> * Meine Satzstruktur, sofern sie verständlich und grammatikalisch korrekt ist.
+>
+> * Meine persönliche Art, Argumente zu erklären und Schlussfolgerungen zu ziehen.
+>
+> * Meine eigene Perspektive und meine persönlichen Reflexionen.
+>
+> * Den Wechsel zwischen sachlicher Analyse und persönlicher Auseinandersetzung mit dem Thema.
+>
+> * Eine natürliche, direkte und verständliche Sprache.
+>
+> * Das sprachliche Niveau einer sehr guten Maturaarbeit, nicht das eines akademischen Fachartikels.
+>
+> Was du vermeiden musst
+>
+> * Formulierungen, die unnötig akademisch oder künstlich wirken.
+>
+> * Übermässig komplizierte Satzkonstruktionen.
+>
+> * Typische KI-Formulierungen und austauschbare Standardsätze.
+>
+> * Unnatürlich perfekte Übergänge zwischen allen Abschnitten.
+>
+> * Übertriebene Fachsprache, wenn ein einfacheres Wort denselben Inhalt korrekt ausdrückt.
+>
+> * Das Ersetzen meiner eigenen Formulierungen durch stilistisch elegantere Varianten, die aber nicht nach mir klingen.
+>
+> * Das Vereinheitlichen aller Sätze auf einen gleichförmigen, künstlich glatten Stil.
+>
+> * Das Entfernen von persönlichen Gedanken, Unsicherheiten oder Reflexionen, nur weil sie weniger akademisch klingen.
+>
+> * Das unnötige Umformulieren von bereits guten und natürlichen Sätzen.
+>
+> Verbindliche Regel für jede Änderung
+>
+> Bevor du einen Satz umformulierst, prüfe:
+>
+> 1. Ist der Satz tatsächlich falsch, unklar, unpräzise oder unnötig schwer verständlich?
+>
+> 2. Kann das Problem mit einer kleinen Änderung behoben werden?
+>
+> 3. Kann meine ursprüngliche Wortwahl und Satzstruktur weitgehend erhalten bleiben?
+>
+> 4. Klingt die neue Version noch so, als hätte ich sie selbst schreiben können?
+>
+> Wenn ein Satz bereits korrekt ist und natürlich klingt, lass ihn unverändert.
+>
+> Arbeite nach dem Prinzip: So wenig wie möglich verändern, so viel wie nötig verbessern.
+>
+> Bei wissenschaftlichen Fehlern hat die sachliche Korrektheit selbstverständlich Vorrang. Trotzdem sollst du die Korrektur möglichst nahe an meiner ursprünglichen Formulierung halten.
+>
+> Meine bisherigen Texte als Stilreferenz
+>
+> Nutze meine früheren eigenen Textfassungen, insbesondere die ursprünglichen und selbst verfassten Abschnitte des schriftlichen Kommentars, als Referenz für meine persönliche Schreibweise.
+>
+> Unterscheide dabei zwischen meinen ursprünglichen Formulierungen und bereits KI-generierten oder stark KI-überarbeiteten Passagen.
+>
+> Verwende nicht automatisch die sprachlich glatteste Version als Vorlage für meinen Stil.
+>
+> Wenn du dir bei einer Formulierung nicht sicher bist, entscheide dich eher für die natürlichere und einfachere Variante.
+>
+> Abschliessende Stilkontrolle
+>
+> Lies nach der gesamten Korrektur den Text nochmals ausschliesslich unter diesem Gesichtspunkt.
+>
+> Frage dich bei jedem Kapitel:
+>
+> * Klingt dieser Abschnitt noch nach derselben Person wie meine ursprünglichen Texte?
+>
+> * Wurde meine persönliche Ausdrucksweise unnötig verändert?
+>
+> * Gibt es Stellen, die plötzlich deutlich akademischer oder künstlicher klingen als der Rest?
+>
+> * Wurden meine persönlichen Reflexionen und meine eigene Argumentationsweise erhalten?
+>
+> Korrigiere solche stilistischen Ausreisser.
+>
+> Das Endergebnis muss wissenschaftlich besser sein als die ursprüngliche Fassung, aber weiterhin eindeutig meine persönliche Schreibstimme tragen.
+>
+> 3. Zuerst alle vorhandenen Materialien prüfen
+>
+> Bevor du Änderungen vornimmst, verschaffe dir einen vollständigen Überblick über die verfügbaren Projektmaterialien in meinem Obsidian-Vault und den bereitgestellten Dateien.
+>
+> Dazu gehören insbesondere:
+>
+> * die aktuellste Version des schriftlichen Kommentars
+>
+> * das fertige Ube-Buch beziehungsweise das eigentliche Produkt der Maturaarbeit
+>
+> * das Recherchedossier
+>
+> * verwendete wissenschaftliche Studien und externe Quellen
+>
+> * Statistiken und Datensammlungen
+>
+> * das Interview mit Tita
+>
+> * Berechnungen und eigene Auswertungen
+>
+> * Arbeitsjournal und Dokumentation des Arbeitsprozesses
+>
+> * frühere Textfassungen und relevante Überarbeitungen
+>
+> * KI-Protokolle und verwendete Prompts
+>
+> * Bilder, Bildquellen und Bildnachweise
+>
+> * vorhandene Literatur- und Quellenverzeichnisse
+>
+> Verwende grundsätzlich die aktuellste Version des Kommentars als Arbeitsgrundlage.
+>
+> Vergleiche den Kommentar mit den anderen Materialien. Prüfe insbesondere, ob die Aussagen im Kommentar tatsächlich mit dem fertigen Buch, den Quellen und dem dokumentierten Arbeitsprozess übereinstimmen.
+>
+> Erfinde keine Informationen, die in den vorhandenen Materialien nicht enthalten sind.
+>
+> Falls du mehrere Versionen findest, identifiziere zuerst die aktuellste Fassung.
+>
+> Überschreibe keine Originaldateien. Arbeite mit einer separaten korrigierten Version.
+>
+> 4. Vollständige Fehlersuche im gesamten Dokument
+>
+> Lies den gesamten Kommentar von Anfang bis Ende. Überspringe keine Kapitel, Unterkapitel, Fussnoten, Tabellen, Bildunterschriften, Anhänge oder Verzeichnisse.
+>
+> Prüfe jede einzelne Aussage auf folgende Fehlerarten:
+>
+> A. Inhaltliche Fehler
+>
+> * Falsche oder missverständliche Aussagen
+>
+> * Unbelegte Behauptungen
+>
+> * Ungenaue Begriffe
+>
+> * Fehlende Erklärungen
+>
+> * Unklare Zusammenhänge
+>
+> * Widersprüche zwischen verschiedenen Kapiteln
+>
+> * Wiederholungen, die keinen zusätzlichen Erkenntniswert bieten
+>
+> * Schlussfolgerungen, die nicht ausreichend durch die vorherigen Ausführungen gestützt werden
+>
+> * Aussagen, die über die vorhandenen Quellen hinausgehen
+>
+> * Unbeabsichtigte Verallgemeinerungen
+>
+> * Unklare Unterscheidungen zwischen Fakten, Interpretationen und persönlichen Einschätzungen
+>
+> Korrigiere alle eindeutig feststellbaren inhaltlichen Fehler.
+>
+> B. Wissenschaftliche Qualität
+>
+> Prüfe, ob der Kommentar den Anforderungen einer wissenschaftlichen Maturaarbeit entspricht.
+>
+> Achte insbesondere auf:
+>
+> * Nachvollziehbarkeit der Argumentation
+>
+> * Qualität und Aussagekraft der verwendeten Belege
+>
+> * korrekte Interpretation von Statistiken
+>
+> * sinnvolle Vergleiche zwischen Daten
+>
+> * korrekte zeitliche Einordnung
+>
+> * angemessene Einschränkung von Schlussfolgerungen
+>
+> * saubere Unterscheidung zwischen Korrelation und Kausalität
+>
+> * transparente Darstellung der Grenzen der eigenen Untersuchung
+>
+> * korrekte Verwendung wissenschaftlicher Begriffe
+>
+> * nachvollziehbare Herleitung der Ergebnisse
+>
+> Eine Aussage ist nicht automatisch korrekt, nur weil sie plausibel klingt.
+>
+> Prüfe, ob jede Schlussfolgerung tatsächlich aus den präsentierten Informationen folgt.
+>
+> C. Sprache und Stil
+>
+> Korrigiere den gesamten Text auf:
+>
+> * Rechtschreibung
+>
+> * Grammatik
+>
+> * Zeichensetzung
+>
+> * Satzbau
+>
+> * unnatürliche Formulierungen
+>
+> * unklare Bezüge
+>
+> * unnötig komplizierte Sätze
+>
+> * sprachliche Wiederholungen
+>
+> * unpassende Wortwahl
+>
+> * unpräzise Formulierungen
+>
+> * unnötige Füllwörter
+>
+> * uneinheitliche Schreibweisen
+>
+> Verbessere die Lesbarkeit, ohne den Text künstlich aufzuwerten.
+>
+> Verwende natürliches, klares Deutsch und Schweizer Rechtschreibung. Schreibe «ss» statt «ß».
+>
+> Verändere keine Formulierungen nur deshalb, weil du eine andere Variante bevorzugst. Ändere sie, wenn dadurch tatsächlich ein Fehler behoben oder die Aussage klarer, präziser oder verständlicher wird.
+>
+> 5. Bereits bekannte wissenschaftliche Problemstellen zwingend überprüfen
+>
+> Die folgenden Punkte wurden bei der vorherigen Bewertung ausdrücklich kritisiert. Sie müssen erneut im gesamten Dokument überprüft werden. Es reicht nicht, einzelne Sätze zu verändern. Kontrolliere auch, ob die entsprechenden Probleme an anderen Stellen wieder auftauchen.
+>
+> 5.1 Vergleich zwischen Welthandel und philippinischen Exporten
+>
+> Im bisherigen Kommentar wurde der geschätzte weltweite Ube-Markt von rund 455,3 Millionen US-Dollar im Jahr 2024 mit den philippinischen Ube-Exporten von rund 3,06 Millionen US-Dollar verglichen.
+>
+> Dieser Vergleich ist methodisch problematisch, weil Exportwert und geschätztes weltweites Marktvolumen nicht zwingend dieselben Produkte, Handelsstufen oder Märkte umfassen.
+>
+> Prüfe:
+>
+> * Werden diese Zahlen überhaupt sinnvoll miteinander verglichen?
+>
+> * Wird deutlich erklärt, dass die beiden Zahlen unterschiedliche Grössen abbilden können?
+>
+> * Wird vermieden, aus dem Verhältnis von ungefähr 0,7 Prozent unbegründete Schlussfolgerungen zu ziehen?
+>
+> * Wird nirgends behauptet, dass der gesamte restliche Wert zwangsläufig ausserhalb der Philippinen entsteht?
+>
+> * Ist die Aussage über die geringe Beteiligung der Philippinen an der internationalen Wertschöpfung durch die vorhandenen Daten tatsächlich gedeckt?
+>
+> Korrigiere die Argumentation so, dass nur das behauptet wird, was die Zahlen wirklich belegen.
+>
+> Falls ein Vergleich nicht ausreichend abgesichert werden kann, schränke ihn ein oder entferne ihn. Erfinde keine Ersatzdaten.
+>
+> 5.2 Unterschiedliche Zeiträume
+>
+> Die internationale Nachfrageentwicklung und der Rückgang der philippinischen Ube-Ernte wurden zuvor teilweise so dargestellt, als würden sie denselben Zeitraum betreffen.
+>
+> Prüfe alle entsprechenden Stellen.
+>
+> Der internationale Nachfrageanstieg der letzten Jahre darf nicht unmittelbar mit einem langfristigen Rückgang der philippinischen Ernte seit 2010 oder früher gleichgesetzt werden.
+>
+> Mache klar:
+>
+> * Seit wann ist der Rückgang der Ernte feststellbar?
+>
+> * Seit wann ist der internationale Ube-Boom dokumentiert?
+>
+> * Welche Entwicklungen sind zeitlich tatsächlich vergleichbar?
+>
+> * Welche Entwicklungen bestanden bereits vor dem internationalen Boom?
+>
+> Vermeide jede Formulierung, die einen direkten Zusammenhang suggeriert, wenn dieser nicht nachgewiesen ist.
+>
+> 5.3 Kausalität und Knappheit
+>
+> Die Aussage, dass die steigende internationale Nachfrage automatisch zu einer Knappheit auf den Philippinen führt, ist zu stark, wenn dafür keine ausreichenden Belege vorliegen.
+>
+> Unterscheide konsequent zwischen:
+>
+> * nachgewiesenen Entwicklungen
+>
+> * zeitlichen Zusammenhängen
+>
+> * möglichen Erklärungen
+>
+> * tatsächlichen Ursache-Wirkungs-Beziehungen
+>
+> Die Aussage von Tita, dass Ube auf ihrem Markt knapp sei, ist ein persönlicher Erfahrungsbericht und kein repräsentativer Beweis für eine landesweite Entwicklung.
+>
+> Stelle diese Information entsprechend dar.
+>
+> 5.4 Kulturelle Kontrolle
+>
+> Prüfe die Unterscheidung zwischen:
+>
+> 1. persönlicher kultureller Bedeutung von Ube für Menschen auf den Philippinen
+>
+> 2. internationaler Darstellung und Vermarktung von Ube
+>
+> 3. wirtschaftlicher Kontrolle über Verarbeitung, Wertschöpfung und Gewinne
+>
+> Vermeide absolute Aussagen wie, dass philippinische Bauern keinerlei Kontrolle über die kulturelle Bedeutung von Ube hätten.
+>
+> Die persönliche Bedeutung, die Menschen Ube geben, darf nicht mit der internationalen Vermarktung und wirtschaftlichen Kontrolle gleichgesetzt werden.
+>
+> Die Argumentation soll differenziert sein, ohne die ursprüngliche Leitthese unnötig abzuschwächen.
+>
+> 5.5 Interview mit Tita
+>
+> Prüfe sämtliche Aussagen, die sich auf das Interview mit Tita beziehen.
+>
+> Insbesondere:
+>
+> * Wird deutlich, dass es sich um ein einzelnes Interview handelt?
+>
+> * Werden ihre Aussagen nicht als repräsentativ für alle Ube-Bauern dargestellt?
+>
+> * Werden ihre persönlichen Beobachtungen von statistischen Daten getrennt?
+>
+> * Wird der Preis von 150 Pesos pro Kilogramm korrekt eingeordnet?
+>
+> * Wird der Vergleich mit den 80 bis 100 Pesos, die Bauern teilweise von Zwischenhändlern erhalten, nicht als direkter Vergleich gleicher Handelsstufen dargestellt, wenn das nicht belegt ist?
+>
+> * Wird deutlich, welche Aussagen direkt von Tita stammen und welche meine Interpretation sind?
+>
+> Prüfe auch, ob die Angaben zur Durchführung des Interviews vollständig sind.
+>
+> Erfinde keine Angaben zum Interviewdatum, zur Kontaktaufnahme, zur Aufzeichnung oder zur Zustimmung zur Veröffentlichung.
+>
+> Falls Informationen fehlen, markiere sie als offene Aufgabe.
+>
+> 6. Leitthese und Schlussfolgerungen überprüfen
+>
+> Die zentrale Fragestellung lautet:
+>
+> «Wem gehört der Ube-Boom?»
+>
+> Die ursprüngliche Leitthese lautet:
+>
+> «Die Philippinen verlieren beim Ube-Boom nicht ihre Kultur, sondern die Kontrolle über sie.»
+>
+> Im Verlauf der Überarbeitung wurde die wirtschaftliche Formulierung präzisiert, unter anderem mit der Aussage:
+>
+> «Die Philippinen gewinnen die Kontrolle über die Wertschöpfung ihrer eigenen Knolle bisher nicht.»
+>
+> Prüfe die gesamte Argumentation und entscheide, welche Formulierung den tatsächlichen Ergebnissen am besten entspricht.
+>
+> Achte darauf, dass die Leitthese:
+>
+> * durch die Untersuchung beantwortet wird
+>
+> * nicht mehr behauptet, als die Quellen zeigen
+>
+> * wirtschaftliche und kulturelle Aspekte angemessen berücksichtigt
+>
+> * im gesamten Kommentar einheitlich verwendet wird
+>
+> * im Schluss tatsächlich beantwortet wird
+>
+> Wenn eine Anpassung der Leitthese sinnvoll ist, nimm sie vor und passe alle davon abhängigen Stellen an.
+>
+> Behalte dabei die ursprüngliche Fragestellung und den Charakter der Arbeit bei.
+>
+> 7. Alle formalen Mängel und Platzhalter beseitigen
+>
+> Suche das gesamte Dokument systematisch nach:
+>
+> * eckigen Klammern
+>
+> * Platzhaltern
+>
+> * Kommentaren
+>
+> * provisorischen Formulierungen
+>
+> * fehlenden Bildnachweisen
+>
+> * unvollständigen Quellenangaben
+>
+> * fehlenden URLs
+>
+> * fehlenden Abrufdaten
+>
+> * offenen Tabellenfeldern
+>
+> * fehlenden Seitenzahlen
+>
+> * unvollständigen Bildunterschriften
+>
+> * nicht abgeschlossenen Abschnitten
+>
+> * Hinweisen wie «noch ergänzen», «prüfen» oder «Bild folgt»
+>
+> Beseitige alle Platzhalter, die sich anhand der vorhandenen Materialien eindeutig vervollständigen lassen.
+>
+> Erfinde keine Informationen, nur um eine Lücke zu schliessen.
+>
+> Wenn beispielsweise eine URL, ein Interviewdatum, eine Seitenzahl, eine Druckangabe oder eine persönliche Angabe fehlt, darfst du diese nicht schätzen.
+>
+> Erstelle stattdessen eine vollständige Liste mit allen Informationen, die ich noch selbst liefern muss.
+>
+> Achte auch auf die formale Einheitlichkeit:
+>
+> * Kapitelnummerierung
+>
+> * Überschriften
+>
+> * Tabellen
+>
+> * Bildunterschriften
+>
+> * Fussnoten
+>
+> * Quellenverzeichnis
+>
+> * Literaturverzeichnis
+>
+> * Anhänge
+>
+> * Seitenverweise
+>
+> * Abkürzungen
+>
+> * Datumsangaben
+>
+> * Währungsangaben
+>
+> * Einheiten
+>
+> Prüfe, ob alle Verweise im Text tatsächlich auf vorhandene Abbildungen, Tabellen oder Anhänge verweisen.
+>
+> 8. KI-Dokumentation besonders sorgfältig prüfen
+>
+> Das Kapitel zur Verwendung künstlicher Intelligenz muss transparent, vollständig und glaubwürdig sein.
+>
+> Es muss klar werden, wofür KI tatsächlich verwendet wurde und welche Eigenleistung von uns stammt.
+>
+> Berücksichtige die tatsächliche Nutzung:
+>
+> * Erstellung eines ersten vollständigen Textentwurfs
+>
+> * sprachliche Überarbeitung einzelner Sätze
+>
+> * Erstellung von Illustrationen
+>
+> * Unterstützung bei Journal-Einträgen
+>
+> * Überprüfung von Fakten und möglichen Widersprüchen
+>
+> * weitere Überarbeitung des Kommentars mit Claude Fable 5.1
+>
+> Prüfe, ob diese Tätigkeiten im Dokument korrekt und ausreichend differenziert beschrieben werden.
+>
+> Unterscheide zwischen:
+>
+> * KI-generierten Inhalten
+>
+> * KI-unterstützten Überarbeitungen
+>
+> * selbst recherchierten und überprüften Informationen
+>
+> * eigenen Analysen und Schlussfolgerungen
+>
+> * selbst verfassten oder substanziell überarbeiteten Textteilen
+>
+> Die Formulierung, dass wir KI-Texte «gelesen, geprüft und in eigene Worte gefasst» hätten, reicht nicht aus, wenn sie den tatsächlichen Arbeitsprozess nicht präzise beschreibt.
+>
+> Beschreibe keine Eigenleistung, die nicht stattgefunden hat. Verschweige auch keine relevante KI-Nutzung.
+>
+> Überprüfe ausserdem, ob die verwendeten KI-Systeme und Modellbezeichnungen korrekt angegeben sind.
+>
+> Falls die Dokumentation noch persönliche Angaben von mir benötigt, markiere diese konkret.
+>
+> 9. Vergleich mit dem eigentlichen Ube-Buch
+>
+> Der schriftliche Kommentar muss zum fertigen Produkt passen.
+>
+> Vergleiche deshalb alle relevanten Aussagen mit dem tatsächlichen Buch.
+>
+> Prüfe insbesondere:
+>
+> * Stimmen die beschriebenen Kapitel mit dem fertigen Buch überein?
+>
+> * Werden Inhalte erwähnt, die im Buch gar nicht vorkommen?
+>
+> * Werden wichtige Bestandteile des Produkts ausgelassen?
+>
+> * Stimmen die beschriebenen gestalterischen Entscheidungen mit dem tatsächlichen Ergebnis überein?
+>
+> * Sind die Aussagen zur Entwicklung des Produkts korrekt?
+>
+> * Werden Entscheidungen und Änderungen im Arbeitsprozess nachvollziehbar erklärt?
+>
+> * Stimmen Angaben zu Bildern, Gestaltung, Umfang und Aufbau?
+>
+> Der Kommentar darf nicht so tun, als sei etwas umgesetzt worden, wenn es im fertigen Produkt nicht vorkommt.
+>
+> 10. Quellen und Fakten überprüfen
+>
+> Kontrolliere jede Quellenangabe und jeden faktischen Beleg.
+>
+> Prüfe:
+>
+> * Ist die Quelle tatsächlich vorhanden?
+>
+> * Unterstützt sie die Aussage, für die sie verwendet wird?
+>
+> * Wurde die Quelle korrekt interpretiert?
+>
+> * Stimmen Zahlen, Jahreszahlen und Einheiten?
+>
+> * Sind Quellenangaben im Text und im Literaturverzeichnis konsistent?
+>
+> * Sind direkte Zitate korrekt gekennzeichnet?
+>
+> * Sind indirekte Übernahmen ausreichend belegt?
+>
+> * Gibt es Aussagen ohne notwendige Quellenangabe?
+>
+> * Werden unterschiedliche Quellenarten angemessen behandelt?
+>
+> Nutze zuerst die bereits vorhandenen Quellen und Projektmaterialien.
+>
+> Wenn du externe Quellen zur Verifikation verwendest, kennzeichne diese klar und dokumentiere sie vollständig. Verändere nicht stillschweigend die Quellenbasis der Arbeit.
+>
+> Wenn eine Quelle nicht zugänglich oder nicht eindeutig überprüfbar ist, sage das ausdrücklich. Behaupte nicht, etwas verifiziert zu haben, wenn du es nicht konntest.
+>
+> 11. Keine unnötige Neuschreibung
+>
+> Es ist ausdrücklich nicht dein Ziel, den gesamten Kommentar neu zu schreiben.
+>
+> Die bestehende Struktur und die persönliche Schreibstimme sollen erhalten bleiben.
+>
+> Du sollst:
+>
+> * Fehler direkt korrigieren
+>
+> * unklare Argumente präzisieren
+>
+> * wissenschaftlich problematische Aussagen verbessern
+>
+> * unnötige Wiederholungen reduzieren
+>
+> * fehlende Übergänge ergänzen, wenn sie notwendig sind
+>
+> * schwache Schlussfolgerungen verbessern
+>
+> * formale Unvollständigkeiten beheben
+>
+> Du sollst nicht:
+>
+> * ganze Kapitel ohne Notwendigkeit neu formulieren
+>
+> * den Text künstlich akademischer machen
+>
+> * neue Argumente erfinden
+>
+> * die ursprüngliche Aussageabsicht verändern
+>
+> * persönliche Reflexionen durch generische Formulierungen ersetzen
+>
+> * meinen individuellen Schreibstil entfernen
+>
+> * korrekte Sätze nur aus stilistischen Gründen umformulieren
+>
+> Jede grössere inhaltliche Änderung muss nachvollziehbar sein.
+>
+> 12. Arbeitsweise und Zeitmanagement
+>
+> Arbeite selbstständig und in mehreren systematischen Durchgängen.
+>
+> Durchgang 1: Vollständige Bestandsaufnahme
+>
+> Lies das gesamte Dokument und erstelle intern eine Liste aller gefundenen Probleme.
+>
+> Durchgang 2: Inhaltliche und wissenschaftliche Korrektur
+>
+> Überarbeite alle problematischen Aussagen, Argumentationen, Datenvergleiche und Schlussfolgerungen.
+>
+> Durchgang 3: Sprachliche Korrektur
+>
+> Korrigiere das gesamte Dokument sprachlich und grammatikalisch. Bewahre dabei konsequent meine persönliche Schreibstimme.
+>
+> Durchgang 4: Formale Vervollständigung
+>
+> Bearbeite Quellen, Verweise, Tabellen, Bildnachweise, Platzhalter, Anhänge und Formatierung.
+>
+> Durchgang 5: Abgleich mit den Projektmaterialien
+>
+> Kontrolliere, ob der Kommentar mit dem fertigen Buch, den Quellen, dem Interview und dem tatsächlichen Arbeitsprozess übereinstimmt.
+>
+> Durchgang 6: Abschliessende Kontrolle
+>
+> Lies die vollständig korrigierte Fassung nochmals von Anfang bis Ende. Suche gezielt nach Fehlern, die bei den vorherigen Durchgängen übersehen worden sein könnten.
+>
+> Durchgang 7: Persönliche Stilkontrolle
+>
+> Prüfe nochmals, ob die persönliche Schreibstimme erhalten geblieben ist.
+>
+> Ein Fehler gilt erst dann als behoben, wenn du die korrigierte Stelle nochmals überprüft hast.
+>
+> Arbeite nicht nur so lange, bis eine erste verbesserte Fassung vorliegt. Die abschliessende Kontrolle ist ein zwingender Bestandteil des Auftrags.
+>
+> Schutz vor Abbruch durch Kontext- oder Nutzungslimits
+>
+> Falls du wegen eines Kontextlimits, einer Nutzungsgrenze oder aus einem anderen Grund nicht alles in einer Sitzung bearbeiten kannst:
+>
+> 1. Speichere den aktuellen Bearbeitungsstand regelmässig.
+>
+> 2. Erstelle oder aktualisiere eine Datei namens FORTSCHRITT_FINALKORREKTUR.md.
+>
+> 3. Dokumentiere darin, welche Kapitel vollständig geprüft wurden.
+>
+> 4. Halte alle noch offenen Fehler und Aufgaben fest.
+>
+> 5. Vermerke, welche Änderungen bereits vorgenommen wurden.
+>
+> 6. Notiere genau, an welcher Stelle die Arbeit fortgesetzt werden muss.
+>
+> 7. Beginne bei einer Fortsetzung zuerst mit dem Lesen dieser Fortschrittsdatei und der aktuellsten Dokumentversion.
+>
+> Beende die Arbeit niemals kommentarlos mit einer unfertigen Version.
+>
+> Falls nicht alle Kapitel bearbeitet werden können, sage ausdrücklich, welche Teile noch nicht geprüft wurden. Behaupte niemals, das gesamte Dokument sei fertig, wenn das nicht stimmt.
+>
+> 13. Umgang mit fehlenden Informationen
+>
+> Unterscheide konsequent zwischen drei Kategorien:
+>
+> Kategorie 1: Selbstständig korrigierbar
+>
+> Der Fehler ist anhand der vorhandenen Quellen oder Projektmaterialien eindeutig feststellbar. Korrigiere ihn direkt.
+>
+> Kategorie 2: Mit vorhandenen Materialien ergänzbar
+>
+> Die benötigte Information existiert bereits im Vault oder in den bereitgestellten Dateien. Suche sie und ergänze sie korrekt.
+>
+> Kategorie 3: Persönliche Information fehlt
+>
+> Die benötigte Information kann nur von mir kommen. Erfinde nichts. Markiere die Stelle und schreibe konkret auf, welche Information benötigt wird.
+>
+> Stelle nur dann Rückfragen, wenn sie tatsächlich notwendig sind. Bearbeite währenddessen alle anderen Teile weiter.
+>
+> 14. Endergebnis
+>
+> Am Ende erwarte ich folgende Ergebnisse:
+>
+> 1. Vollständig korrigierter Kommentar
+>
+> Speichere eine neue, vollständige und sauber formatierte Word-Datei mit dem Namen:
+>
+> Schriftlicher_Kommentar_Ube_FINAL.docx
+>
+> Die Datei soll alle vorgenommenen Korrekturen enthalten und als finale Arbeitsfassung dienen.
+>
+> Achte darauf, dass die Formatierung der ursprünglichen Datei möglichst erhalten bleibt. Dazu gehören insbesondere Überschriften, Seitenumbrüche, Tabellen, Bilder, Bildunterschriften, Fussnoten und Verzeichnisse.
+>
+> 2. Liste aller noch offenen persönlichen Aufgaben
+>
+> Erstelle eine separate Datei:
+>
+> OFFENE_PUNKTE_FINAL.md
+>
+> Darin stehen ausschliesslich Dinge, die du trotz vollständiger Prüfung nicht selbstständig erledigen konntest, weil persönliche Informationen, Entscheidungen oder fehlende Materialien von mir benötigt werden.
+>
+> Ordne die Punkte nach Priorität.
+>
+> 3. Änderungsprotokoll
+>
+> Erstelle eine Datei:
+>
+> AENDERUNGSPROTOKOLL_FINAL.md
+>
+> Darin dokumentierst du die wichtigsten inhaltlichen, wissenschaftlichen, sprachlichen und formalen Änderungen.
+>
+> Nenne jeweils das betroffene Kapitel und erkläre kurz, welches Problem behoben wurde.
+>
+> Dokumentiere auch grössere Umformulierungen, damit nachvollziehbar bleibt, wo und weshalb du eingegriffen hast.
+>
+> 4. Abschliessende Qualitätsbewertung
+>
+> Bewerte den korrigierten Kommentar kritisch anhand folgender Kriterien:
+>
+> * Inhaltliche Richtigkeit
+>
+> * Wissenschaftliche Qualität
+>
+> * Argumentationslogik
+>
+> * Quellenarbeit
+>
+> * Methodische Reflexion
+>
+> * Sprachliche Qualität
+>
+> * Erhalt der persönlichen Schreibstimme
+>
+> * KI-Dokumentation
+>
+> * Formale Vollständigkeit
+>
+> * Übereinstimmung mit dem fertigen Buch
+>
+> Sei ehrlich und kritisch. Gib keine künstlich gute Bewertung, nur weil du den Text selbst überarbeitet hast.
+>
+> 15. Verbindliche Abschlussregeln
+>
+> Bevor du die Arbeit als abgeschlossen bezeichnest, musst du folgende Bedingungen erfüllen:
+>
+> * Jedes Kapitel wurde vollständig gelesen.
+>
+> * Alle eindeutig feststellbaren inhaltlichen Fehler wurden korrigiert.
+>
+> * Alle wissenschaftlich problematischen Aussagen wurden überprüft.
+>
+> * Alle bekannten Kritikpunkte aus der vorherigen Bewertung wurden bearbeitet.
+>
+> * Zusätzliche Fehler wurden eigenständig gesucht und korrigiert.
+>
+> * Der gesamte Text wurde sprachlich geprüft.
+>
+> * Meine persönliche Schreibstimme wurde konsequent erhalten.
+>
+> * Alle auffindbaren Platzhalter wurden bearbeitet.
+>
+> * Quellen und Literaturangaben wurden überprüft.
+>
+> * Die KI-Dokumentation wurde auf Vollständigkeit und Ehrlichkeit geprüft.
+>
+> * Der Kommentar wurde mit dem fertigen Buch abgeglichen.
+>
+> * Die finale Fassung wurde nochmals vollständig gelesen.
+>
+> * Alle nicht selbstständig lösbaren Punkte wurden in der offenen Aufgabenliste dokumentiert.
+>
+> Wichtig: Eine gute Überarbeitung bedeutet nicht, dass der Text möglichst schön klingt. Sie bedeutet, dass er sachlich richtig, wissenschaftlich nachvollziehbar, vollständig, präzise und authentisch ist.
+>
+> Deine wichtigste Aufgabe ist es, die Qualität des Kommentars zu verbessern, ohne meine persönliche Stimme zu verlieren.
+>
+> Sei kompromisslos bei Fehlern, aber verändere nichts ohne sachlichen Grund.
+>
+> Das Endergebnis soll der bestmögliche Kommentar sein, den ich selbst hätte schreiben können, wenn ich alle Fehler erkannt und korrigiert hätte.
+>
+> Beginne jetzt mit der vollständigen Prüfung und arbeite bis zu den oben definierten Ergebnissen.
+>
+
+## Anhang E: Wortlaut des Prompts vom 9. November 2026, 10:36 Uhr (Eingabe 9)
+
+Der Text vor der Überschrift «ULTIMATIVER MASTER-PROMPT» und der Hinweis am Schluss gehören zu dem, was in den Chat kopiert wurde.==[Angeben, womit dieser Text und die vier Prompts geschrieben wurden (siehe Kapitel 10.2).]==
+
+> Die persönliche Schreibstimme wird im neuen Prompt die höchste Priorität haben, direkt nach der sachlichen Richtigkeit. Fable soll euren Kommentar nicht möglichst akademisch oder perfekt klingen lassen, sondern so verbessern, dass er weiterhin eindeutig nach euch klingt.
+>
+> Ich habe mir auch eure hochgeladene Word-Datei angesehen. Darin sind noch konkrete offene Stellen, beispielsweise beim endgültigen Buchtitel, den Bildquellen, den Druckangaben, der KI-Dokumentation und der tatsächlichen Eigenleistung. Zudem müssen der Kommentar und das Arbeitsjournal besonders sorgfältig miteinander abgeglichen werden.
+>
+> Deshalb habe ich den Prompt so aufgebaut, dass Fable nicht einfach alles umschreibt, sondern als wissenschaftlicher Gutachter, vorsichtiger Lektor und kritischer Faktenprüfer arbeitet. Das verfügbare Nutzungskontingent soll vor allem in gründliche Prüfungen, Quellenvergleiche und wiederholte Qualitätskontrollen fliessen.
+>
+> ## Master-Prompt für Fable
+>
+> Kopiere den folgenden Prompt vollständig in deine bestehende Fable-Unterhaltung, damit die bisherigen Dateien, Arbeitsstände und Entscheidungen berücksichtigt werden können.
+>
+> # ULTIMATIVER MASTER-PROMPT – FINALE MATURAARBEIT 2026
+>
+> ## Wissenschaftliche Endkontrolle, sprachliche Perfektionierung und authentische Überarbeitung von schriftlichem Kommentar und Arbeitsjournal
+>
+> **Projekt:** Maturaarbeit «Ube – Zwischen Tradition und Trend» / «Wem gehört der Ube-Boom?»
+>
+> **Schule:** Kantonsschule Baden
+>
+> **Verfasser:** Aezri Peglow, Tim Rosal und John Meuwly
+>
+> **Abgabetermin:** 10. November 2026
+>
+> **Arbeitsmodus:** Maximale Sorgfalt, vollständige Quellenkontrolle, selbstständige Bearbeitung, mehrfache Qualitätsprüfung und konsequenter Erhalt unserer persönlichen Schreibstimme.
+>
+> ---
+>
+> # 1. DEIN AUFTRAG – DIE ABSCHLIESSENDE QUALITÄTSSICHERUNG
+>
+> Du übernimmst jetzt die letzte und gründlichste Qualitätskontrolle unserer gesamten schriftlichen Dokumentation zur Maturaarbeit über Ube.
+>
+> Du arbeitest gleichzeitig als:
+>
+> - wissenschaftlicher Gutachter auf Maturaarbeitsniveau
+>
+> - kritischer Faktenprüfer und Quellenanalyst
+>
+> - äusserst sorgfältiger Deutschlektor mit Schweizer Rechtschreibung
+>
+> - Prüfer für wissenschaftliche Argumentationen und Methoden
+>
+> - Spezialist für Word-Dokumente, Fussnoten und Formatierung
+>
+> - kritischer Prüfer unseres Arbeitsjournals
+>
+> - Prüfer für die transparente Dokumentation von KI-Nutzung
+>
+> - Bewahrer unserer persönlichen Schreibstimme
+>
+> **Dein Ziel ist nicht eine möglichst schöne Neufassung, sondern die wissenschaftlich und sprachlich bestmögliche Version unseres tatsächlich selbst erarbeiteten Projekts.**
+>
+> Du sollst den bestehenden Kommentar und das Arbeitsjournal vollständig überprüfen, Fehler direkt beheben und danach nochmals kritisch kontrollieren.
+>
+> Arbeite selbstständig. Frage nicht nach jeder Änderung nach einer Bestätigung. Alle Probleme, die sich mit vorhandenen Materialien lösen lassen, sollst du selbstständig lösen.
+>
+> Wichtig: Du hast bereits in vorherigen Durchgängen an diesen Dokumenten gearbeitet. Vertraue deinen bisherigen Änderungen nicht blind. Prüfe auch deine eigenen früheren Ausgaben so kritisch wie einen fremden Text.
+>
+> Du darfst deine bisherigen Formulierungen jederzeit korrigieren, wenn sie falsch, ungenau, künstlich oder nicht durch unsere Materialien gedeckt sind.
+>
+> ---
+>
+> # 2. ABSOLUTE PRIORITÄT: UNSERE PERSÖNLICHE SCHREIBSTIMME
+>
+> ## DIES IST DIE WICHTIGSTE REDAKTIONELLE ANWEISUNG DES GESAMTEN AUFTRAGS.
+>
+> Ich möchte ausdrücklich **keinen vollständig neu geschriebenen Kommentar**, der sich nach einer KI, einem Universitätsprofessor oder einem professionellen wissenschaftlichen Autor anhört.
+>
+> Ich möchte einen Kommentar, der wissenschaftlich sehr gut ist, aber weiterhin wie von uns als Maturandinnen und Maturanden geschrieben klingt.
+>
+> **Bewahre unsere Schreibstimme, nicht die Schreibstimme deiner früheren Überarbeitungen.**
+>
+> ### 2.1 Das wichtigste Prinzip
+>
+> **So wenig wie möglich verändern. So viel wie nötig korrigieren.**
+>
+> Jeder Satz wird zuerst auf seine tatsächlichen Fehler geprüft.
+>
+> Wenn ein Satz grammatikalisch richtig, wissenschaftlich angemessen, verständlich und natürlich formuliert ist, bleibt er unverändert.
+>
+> Auch wenn du eine stilistisch elegantere Formulierung kennst, ist das allein kein Grund, etwas zu ändern.
+>
+> Eine einfache, natürliche und persönliche Formulierung ist einer künstlich akademischen Formulierung vorzuziehen, solange sie sachlich korrekt ist.
+>
+> ### 2.2 Was unbedingt erhalten bleiben muss
+>
+> Erhalte unsere typische Wortwahl, den natürlichen Satzbau, unseren direkten Ausdruck und unsere persönliche Art, etwas zu erklären.
+>
+> Insbesondere:
+>
+> - unsere verständliche und unkomplizierte Sprache
+>
+> - unsere charakteristischen Satzverbindungen
+>
+> - unseren Wechsel zwischen kürzeren und längeren Sätzen
+>
+> - unsere persönlichen Beobachtungen und Reflexionen
+>
+> - unsere eigenen Einschätzungen
+>
+> - unsere natürliche Art, Unsicherheiten zu formulieren
+>
+> - unsere Argumentationsweise
+>
+> - unsere ursprüngliche Aussageabsicht
+>
+> - die Wir-Perspektive unserer Gruppenarbeit
+>
+> - den Unterschied zwischen erzählenden, reflektierenden und wissenschaftlichen Kapiteln
+>
+> Verändere nicht jede Wiederholung. Gewisse Wiederholungen gehören zu einer natürlichen Schreibweise. Entferne sie nur dann, wenn sie den Text unnötig verlängern oder den Gedankengang beeinträchtigen.
+>
+> Erhalte auch persönliche Formulierungen wie «Wir haben gemerkt», «Für uns war» oder «Beim Recherchieren ist uns aufgefallen», sofern sie tatsächlich passen.
+>
+> Solche Sätze sind gerade bei einer Reflexion wertvoll.
+>
+> ### 2.3 Was du unbedingt vermeiden musst
+>
+> Vermeide künstlich akademische Ausdrücke, übermässig abstrakte Aussagen und unnötige Fachbegriffe.
+>
+> Vermeide typische KI-Muster wie:
+>
+> - ständig ähnliche Satzanfänge
+>
+> - immer gleich lange Absätze
+>
+> - übertrieben perfekte Übergänge
+>
+> - allgemeine und austauschbare Schlussfolgerungen
+>
+> - unnötig komplizierte Satzkonstruktionen
+>
+> - wiederholte Formeln wie «Dies verdeutlicht, dass ...»
+>
+> - künstliche Gegenüberstellungen
+>
+> - übermässige Verwendung von Doppelpunkten und Gedankenstrichen
+>
+> - unnötige rhetorische Fragen
+>
+> - Formulierungen, die mehr behaupten, als tatsächlich gezeigt wurde
+>
+> Du sollst den Text nicht absichtlich vereinfachen oder Fehler stehen lassen. Ziel ist ein sehr gutes sprachliches Niveau, aber ohne künstliche Perfektion.
+>
+> ### 2.4 Erstelle zuerst ein authentisches Stilprofil
+>
+> Bevor du mit den Korrekturen beginnst, suche im Obsidian-Vault nach unseren ursprünglichen, möglichst wenig mit KI überarbeiteten Texten.
+>
+> Untersuche insbesondere:
+>
+> 1. Frühere Fassungen des schriftlichen Kommentars.
+>
+> 2. Ursprüngliche Texte aus unserem Ube-Buch.
+>
+> 3. Selbst geschriebene Reflexionen und Arbeitsjournaleinträge.
+>
+> 4. Den ursprünglichen Begleitkommentar des Kochbuchprojekts.
+>
+> 5. Unsere eigenen Formulierungen aus der Konzeptphase.
+>
+> Unterscheide ausdrücklich zwischen tatsächlich selbst geschriebenen Texten und Texten, die bereits von Claude erstellt oder stark überarbeitet wurden.
+>
+> Nimm nicht automatisch die aktuellste oder sprachlich glatteste Version als Stilvorlage.
+>
+> Erstelle daraus intern ein kurzes Stilprofil mit Beispielen für unsere Wortwahl, Satzstruktur, Erklärweise und Reflexion.
+>
+> Achte bei den einzelnen Kapiteln darauf, ob sie von Aezri, Tim, John oder gemeinsam verfasst wurden. Übertrage nicht automatisch die individuelle Schreibweise einer Person auf sämtliche Kapitel.
+>
+> ### 2.5 Verbindliche Prüfung vor jeder Änderung
+>
+> Stelle dir vor jeder Umformulierung diese Fragen:
+>
+> 1. Ist die ursprüngliche Aussage tatsächlich falsch, unklar oder sprachlich problematisch?
+>
+> 2. Kann ich das Problem mit einem einzigen Wort oder einer kleinen Anpassung lösen?
+>
+> 3. Kann ich die ursprüngliche Satzstruktur behalten?
+>
+> 4. Wird die Aussage wissenschaftlich genauer?
+>
+> 5. Würden die Verfasser diesen Satz selbst so schreiben?
+>
+> 6. Klingt die neue Formulierung plötzlich künstlich oder deutlich akademischer als der restliche Text?
+>
+> Wenn die Änderung keinen klaren Vorteil bringt, verwende den ursprünglichen Satz.
+>
+> **Bei sachlichen Fehlern hat die wissenschaftliche Korrektheit Vorrang. Bei gleichwertigen richtigen Formulierungen hat unsere ursprüngliche Sprache Vorrang.**
+>
+> ### 2.6 Abschliessende Schreibstimmenkontrolle
+>
+> Führe am Ende einen eigenständigen Prüfdurchgang durch, bei dem du ausschliesslich die persönliche Schreibstimme beurteilst.
+>
+> Vergleiche jedes Kapitel mit dem Stilprofil.
+>
+> Suche gezielt nach Formulierungen, die während deiner eigenen Überarbeitung künstlich geworden sind.
+>
+> Mache diese Stellen wieder natürlicher, ohne wissenschaftliche Genauigkeit zu verlieren.
+>
+> **Das Endergebnis soll so klingen, wie wir selbst geschrieben hätten, wenn wir alle sprachlichen und wissenschaftlichen Fehler bereits erkannt hätten.**
+>
+> Die KI-Nutzung muss trotzdem vollständig und ehrlich dokumentiert bleiben. Die Bewahrung unserer Stimme darf niemals dazu dienen, tatsächliche KI-Beiträge zu verschweigen.
+>
+> ---
+>
+> # 3. NUTZE DAS VERFÜGBARE NUTZUNGSKONTINGENT INTENSIV UND SINNVOLL
+>
+> Mein Fable-Nutzungskontingent wird heute um 13:00 Uhr zurückgesetzt.
+>
+> Ich möchte deshalb, dass du das aktuell verfügbare Kontingent möglichst umfassend für diese abschliessende Qualitätskontrolle einsetzt.
+>
+> Nutze zusätzliche Rechenleistung und Werkzeugaufrufe für echte Qualitätsverbesserungen:
+>
+> - wiederholte Prüfung schwieriger Argumentationen
+>
+> - sorgfältige Vergleiche verschiedener Dateiversionen
+>
+> - systematische Quellenkontrollen
+>
+> - unabhängiges Nachrechnen von Statistiken
+>
+> - Vergleich des Kommentars mit dem fertigen Buch
+>
+> - Prüfung der Arbeitsjournaleinträge
+>
+> - vollständige Kontrolle der Fussnoten
+>
+> - Erkennung von Widersprüchen
+>
+> - erneute Prüfung deiner bereits vorgenommenen Änderungen
+>
+> - abschliessende sprachliche und formale Qualitätskontrollen
+>
+> **Wichtig:** Verbrauche keine Ressourcen absichtlich für sinnlose Wiederholungen oder unnötig lange Antworten.
+>
+> Setze die verfügbare Leistung dort ein, wo sie die wissenschaftliche Qualität unserer Arbeit tatsächlich verbessert.
+>
+> Eine Aussage soll nicht bloss deshalb als geprüft gelten, weil du sie bereits einmal gelesen hast.
+>
+> Führe bei wissenschaftlich kritischen Stellen eine zweite, unabhängige Prüfung anhand der Originalquellen durch.
+>
+> Wenn du aufgrund eines Limits nicht weiterarbeiten kannst, speichere einen nachvollziehbaren Zwischenstand.
+>
+> Behaupte nicht, länger gearbeitet oder mehr kontrolliert zu haben, als tatsächlich geschehen ist.
+>
+> ---
+>
+> # 4. VOLLSTÄNDIGE BESTANDSAUFNAHME ALLER MATERIALIEN
+>
+> Beginne nicht sofort mit der sprachlichen Überarbeitung.
+>
+> Verschaffe dir zuerst einen vollständigen Überblick über alle zugänglichen Projektmaterialien im Obsidian-Vault, über GitHub und in den bereitgestellten Dateien.
+>
+> Suche insbesondere nach:
+>
+> - der neuesten Fassung des schriftlichen Kommentars
+>
+> - unserem fertigen Ube-Buch als PDF oder InDesign-Export
+>
+> - allen Fassungen des Arbeitsjournals
+>
+> - dem Recherchedossier
+>
+> - dem Projektplan und Arbeitsvertrag
+>
+> - dem Begleitkommentar zur Zwischenpräsentation
+>
+> - der schriftlichen Bewertung von Frau Büschlen und Herrn Franceschi
+>
+> - allen verwendeten Quellen und wissenschaftlichen Studien
+>
+> - den Originalstatistiken
+>
+> - unseren eigenen Berechnungen
+>
+> - dem Interview mit Tita
+>
+> - den ursprünglichen Interviewfragen und Antworten
+>
+> - den Bildquellen und Lizenzen
+>
+> - den vorhandenen KI-Protokollen
+>
+> - unseren bisherigen Prompts und Chatverläufen
+>
+> - früheren Kommentarfassungen
+>
+> - bisherigen Korrekturlisten und Änderungsprotokollen
+>
+> Beziehe auch die aktuell bereitgestellte Word-Datei «Schriftlicher_Kommentar_Ube_FINAL.docx» ein.
+>
+> Der Dateiname FINAL bedeutet nicht automatisch, dass die Datei fehlerfrei oder die neueste Version ist.
+>
+> Bestimme anhand von Änderungsdatum, Inhalt und Versionsgeschichte, welche Fassung tatsächlich aktuell ist.
+>
+> ### Verbindliche Regeln
+>
+> Verwende die neueste vollständige Kommentarfassung als Arbeitsgrundlage.
+>
+> Vergleiche sie mit früheren Versionen, um unsere ursprünglichen Formulierungen wiederzufinden und unbeabsichtigte Änderungen zu erkennen.
+>
+> Behandle das tatsächlich fertige Buch als massgebliche Grundlage für Aussagen über Aufbau, Bilder und Gestaltung.
+>
+> Für die Entstehungsgeschichte sind das Arbeitsjournal und überprüfbare Projektdokumente entscheidend.
+>
+> Für wissenschaftliche Aussagen sind die Originalquellen massgeblich.
+>
+> Für unseren Schreibstil sind möglichst authentische Eigenformulierungen massgeblich.
+>
+> Erfinde keine fehlenden Dateien oder Inhalte.
+>
+> Überschreibe unter keinen Umständen die ursprünglichen Dokumente.
+>
+> ---
+>
+> # 5. WISSENSCHAFTLICHE UND INHALTLICHE VOLLKONTROLLE
+>
+> Lies den gesamten Kommentar vollständig.
+>
+> Nicht nur die Hauptkapitel, sondern auch Abstract, Fussnoten, Tabellen, Abbildungen, Verzeichnisse und Anhänge.
+>
+> Prüfe jeden inhaltlichen Abschnitt auf wissenschaftliche und argumentative Schwächen.
+>
+> Achte besonders auf:
+>
+> - unbelegte Behauptungen
+>
+> - falsche Zahlen
+>
+> - ungenaue Begriffe
+>
+> - methodisch unzulässige Vergleiche
+>
+> - unbegründete Kausalzusammenhänge
+>
+> - falsche zeitliche Einordnungen
+>
+> - unzulässige Verallgemeinerungen
+>
+> - Widersprüche zwischen Kapiteln
+>
+> - unklare Schlussfolgerungen
+>
+> - schwache oder unpassende Quellen
+>
+> - Aussagen, die über die Quellen hinausgehen
+>
+> - Vermischungen von Fakten und Interpretationen
+>
+> - Wiederholungen ohne zusätzlichen Erkenntniswert
+>
+> - unklare Einschränkungen
+>
+> - unzureichende Reflexion der eigenen Methode
+>
+> Prüfe nicht nur, ob ein Satz plausibel klingt.
+>
+> Prüfe, ob er tatsächlich durch die angegebenen Quellen oder unsere eigene Untersuchung gedeckt ist.
+>
+> ### Evidenzklassen
+>
+> Ordne kritische Aussagen gedanklich einer der folgenden Kategorien zu:
+>
+> **A – Direkt belegt:** Die Quelle stützt die Aussage eindeutig.
+>
+> **B – Indirekt gestützt:** Die Aussage ist eine nachvollziehbare Interpretation mehrerer Informationen.
+>
+> **C – Plausible Vermutung:** Die Erklärung ist möglich, aber nicht ausreichend belegt.
+>
+> **D – Ungeklärt oder problematisch:** Der Beleg fehlt, widerspricht der Aussage oder kann nicht überprüft werden.
+>
+> Behandle diese Kategorien sprachlich unterschiedlich.
+>
+> Eine Vermutung darf nicht als Tatsache erscheinen.
+>
+> Eine einzelne Beobachtung darf nicht zu einer landesweiten Entwicklung verallgemeinert werden.
+>
+> Wenn ein starker Befund nicht belegbar ist, schwäche die Aussage angemessen ab oder entferne sie.
+>
+> ---
+>
+> # 6. BESONDERS KRITISCHE STELLEN UNSERES KOMMENTARS
+>
+> Diese Punkte wurden bereits bei früheren Überarbeitungen problematisiert. Prüfe sie erneut, auch wenn sie inzwischen korrigiert wirken.
+>
+> ## 6.1 Weltmarkt und philippinische Exporte
+>
+> Prüfe die Gegenüberstellung zwischen dem geschätzten weltweiten Ube-Markt von rund 455,3 Millionen US-Dollar im Jahr 2024 und den philippinischen Ube-Exporten von rund 3,06 Millionen US-Dollar im Jahr 2025.
+>
+> Untersuche, ob beide Werte überhaupt dieselben Produktgruppen, Handelsstufen und Marktdefinitionen abbilden.
+>
+> Ein Verhältnis von rund 0,7 Prozent darf nicht ohne entsprechende Grundlage als philippinischer Marktanteil oder Anteil an der weltweiten Wertschöpfung ausgegeben werden.
+>
+> Prüfe auch, ob die philippinischen Exportkategorien korrekt beschrieben werden. Unterscheide Rohware, haltbar gemachte Ware und verarbeitete Produkte, soweit die Quellen das ermöglichen.
+>
+> Formuliere ausschliesslich Schlussfolgerungen, die wissenschaftlich tragfähig sind.
+>
+> ## 6.2 Zeitliche Entwicklung von Nachfrage und Produktion
+>
+> Prüfe den Rückgang der philippinischen Ube-Ernte seit 2006 beziehungsweise 2010.
+>
+> Stelle ihn der internationalen Nachfrageentwicklung gegenüber, ohne fälschlicherweise gleiche Zeiträume oder direkte Ursachen anzunehmen.
+>
+> Prüfe insbesondere die Angaben von 21'906 Tonnen im Jahr 2010 und 12'483 Tonnen im Jahr 2025.
+>
+> Unterscheide langfristige Strukturprobleme des Anbaus von Entwicklungen während des internationalen Ube-Booms.
+>
+> ## 6.3 Kausalität und Knappheit
+>
+> Die steigende Nachfrage allein beweist nicht, dass auf den Philippinen eine landesweite Knappheit entstanden ist.
+>
+> Trenne nachgewiesene Veränderungen, mögliche Ursachen und persönliche Beobachtungen.
+>
+> Titas Aussagen über die Verfügbarkeit auf ihrem Markt sind Erfahrungen einer einzelnen Bäuerin und Verkäuferin.
+>
+> Verwende sie nicht als repräsentative statistische Grundlage.
+>
+> ## 6.4 Kulturelle und wirtschaftliche Kontrolle
+>
+> Prüfe die Argumentation zu unserer Leitthese:
+>
+> «Die Philippinen verlieren beim Ube-Boom nicht ihre Kultur, sondern die Kontrolle über sie.»
+>
+> Unterscheide ausdrücklich:
+>
+> 1. die persönliche kulturelle Bedeutung von Ube
+>
+> 2. die internationale Darstellung und Vermarktung
+>
+> 3. die wirtschaftliche Kontrolle über Verarbeitung, Preise und Wertschöpfung
+>
+> Vermeide absolute Aussagen darüber, dass Filipinos oder philippinische Bauern ihre kulturelle Kontrolle vollständig verlieren.
+>
+> Prüfe auch, wie viel die Quellen tatsächlich über die wirtschaftliche Beteiligung der Philippinen aussagen.
+>
+> ## 6.5 Interview mit Tita
+>
+> Vergleiche sämtliche Aussagen mit den ursprünglichen Fragen und dem vollständigen Transkript.
+>
+> Prüfe:
+>
+> - die tatsächliche Zahl der gestellten und beantworteten Fragen
+>
+> - die Herkunft der Aussagen
+>
+> - den Marktpreis von 150 Pesos pro Kilogramm
+>
+> - den Vergleich mit den Preisen von 80 bis 100 Pesos
+>
+> - die unterschiedlichen Handelsstufen
+>
+> - die regionale und zeitliche Vergleichbarkeit
+>
+> - die Aussage über jüngere Menschen im Ube-Anbau
+>
+> - die Einordnung des Interviews als Einzelfall
+>
+> - Übersetzungen und sinngemässe Wiedergaben
+>
+> Erfinde keine persönlichen Angaben zur Durchführung des Interviews.
+>
+> Falls Informationen fehlen, markiere sie als offene persönliche Aufgabe.
+>
+> ## 6.6 Wissenschaftliche Rechnungen
+>
+> Rechne sämtliche Zahlen unabhängig nach.
+>
+> Kontrolliere insbesondere:
+>
+> - Prozentrechnungen
+>
+> - Veränderungen der Anbaufläche
+>
+> - Veränderungen der Erntemenge
+>
+> - Ertrag pro Hektare
+>
+> - hypothetische Produktionserträge
+>
+> - Exportanteile
+>
+> - Preisvergleiche
+>
+> - Währungsumrechnungen
+>
+> - Hochrechnungen
+>
+> - Angaben über Pflanzmaterial
+>
+> - Vergleiche mit Quinoa und Matcha
+>
+> - Zahlen in Abbildungen und Tabellen
+>
+> Prüfe bei jeder Rechnung auch die Voraussetzungen.
+>
+> Eine mathematisch richtige Rechnung kann wissenschaftlich trotzdem ungeeignet sein, wenn die verglichenen Grössen nicht zusammenpassen.
+>
+> ---
+>
+> # 7. LEITFRAGE, LEITTHESE UND SCHLUSSFOLGERUNGEN
+>
+> Unsere zentrale Leitfrage lautet:
+>
+> **«Inwiefern verändert der internationale Ube-Trend die traditionelle Bedeutung, Verwendung und Produktion von Ube auf den Philippinen?»**
+>
+> Die zugespitzte übergeordnete Frage lautet:
+>
+> **«Wem gehört der Ube-Boom?»**
+>
+> Prüfe, ob diese Fragen im Buch und im Kommentar tatsächlich beantwortet werden.
+>
+> Untersuche insbesondere die ursprüngliche Leitthese und ihre spätere Präzisierung zur wirtschaftlichen Wertschöpfung.
+>
+> Entscheide anhand der Belege, welche Formulierung am überzeugendsten ist.
+>
+> Prüfe dabei:
+>
+> - die vier einzelnen Thesen
+>
+> - ihre Behauptungen und Einwände
+>
+> - ihre jeweiligen Fazits
+>
+> - die Zusammenführung im Buch
+>
+> - die Einordnung in Kapitel 7 des Kommentars
+>
+> - das Abstract
+>
+> - die Reflexion
+>
+> - das Schlusswort
+>
+> Die Argumentation darf sich nicht zwischen den Kapiteln widersprechen.
+>
+> Ein wissenschaftlich begründeter Unterschied zwischen der ursprünglichen Leitthese und ihrer späteren Bewertung ist dagegen ausdrücklich erwünscht, sofern er nachvollziehbar erklärt wird.
+>
+> Bewahre unsere ursprüngliche Idee.
+>
+> Mache aus einer spannenden Leitthese keine inhaltsleere, übervorsichtige Formulierung.
+>
+> Aber behaupte auch nicht mehr, als wir nachweisen können.
+>
+> ---
+>
+> # 8. VOLLSTÄNDIGER ABGLEICH MIT DEM FERTIGEN UBE-BUCH
+>
+> Vergleiche den Kommentar systematisch mit dem neuesten tatsächlich fertiggestellten Buch.
+>
+> Kontrolliere:
+>
+> - endgültigen Buchtitel
+>
+> - Untertitel
+>
+> - Kapitelüberschriften
+>
+> - Kapitelreihenfolge
+>
+> - Seitenzahlen
+>
+> - Umfang
+>
+> - Vorwort und Schlusswort
+>
+> - wissenschaftliche Thesen
+>
+> - verwendete Bilder
+>
+> - Bildunterschriften und Bildnachweise
+>
+> - Schriftarten
+>
+> - Schriftgrössen
+>
+> - Farbgestaltung
+>
+> - Seitenlayout
+>
+> - Spalten und Satzspiegel
+>
+> - Quellenverzeichnis
+>
+> - Interviewanhang
+>
+> - tatsächlich umgesetzte Gestaltungselemente
+>
+> Im bisherigen Kommentar wird unter anderem ein Stand vom 8. November mit 52 Seiten beschrieben.
+>
+> Prüfe, ob dies noch dem endgültigen Buch entspricht.
+>
+> Unterscheide konsequent zwischen:
+>
+> **geplant – begonnen – umgesetzt – nicht umgesetzt.**
+>
+> Eine Gestaltungsidee darf nicht als fertig umgesetzt beschrieben werden, wenn sie nur geplant war.
+>
+> Prüfe auch bereits bekannte Differenzen, etwa bei Datierungen, Quellenbelegen und unterschiedlichen Angaben zum Anbau.
+>
+> Erstelle zusätzlich eine separate, präzise Korrekturliste für das Ube-Buch, falls du darin Fehler findest.
+>
+> Verändere das Buch selbst nur dann, wenn die Originaldateien bearbeitbar sind und dadurch keine unbeabsichtigten Layoutprobleme entstehen.
+>
+> ---
+>
+> # 9. ARBEITSJOURNAL – EIGENSTÄNDIGE VOLLSTÄNDIGE ÜBERPRÜFUNG
+>
+> Dieser Punkt ist genauso wichtig wie die Überarbeitung des Kommentars.
+>
+> Ich möchte, dass unser gesamtes Arbeitsjournal auf ein sehr hohes Qualitätsniveau gebracht wird.
+>
+> Das Journal soll klar, nachvollziehbar, zeitlich korrekt, vollständig und authentisch sein.
+>
+> **Es soll nicht nach einem nachträglich von KI erfundenen perfekten Arbeitsprozess aussehen.**
+>
+> ### 9.1 Chronologische Kontrolle
+>
+> Prüfe jeden Eintrag vom Projektbeginn bis zur Abgabe.
+>
+> Vergleiche Daten, Treffen, Tätigkeiten, Ergebnisse und Entscheidungen mit:
+>
+> - früheren Journalfassungen
+>
+> - dem Projektplan
+>
+> - dem schriftlichen Kommentar
+>
+> - dem Ube-Buch
+>
+> - vorhandenen Dateiversionen
+>
+> - den dokumentierten Rückmeldungen
+>
+> - unseren bisherigen Angaben und Chatverläufen
+>
+> Achte auf Widersprüche, unlogische Abläufe, doppelte Ereignisse und fehlende Erklärungen.
+>
+> Eine Tätigkeit darf nicht auf ein Datum gesetzt werden, an dem sie nachweislich noch gar nicht stattgefunden haben konnte.
+>
+> ### 9.2 Schreibstil im Arbeitsjournal
+>
+> Bewahre unseren persönlichen und natürlichen Stil.
+>
+> Schreibe verständlich und schülerisch, aber grammatikalisch korrekt.
+>
+> Die Einträge sollen wie echte Arbeitsberichte wirken, nicht wie wissenschaftliche Fachartikel.
+>
+> Vermeide künstliche Formulierungen und unnötig komplizierte Reflexionen.
+>
+> Erhalte auch Schwierigkeiten und Fehler im Arbeitsprozess.
+>
+> Wir müssen nicht so wirken, als hätten wir von Anfang an alles richtig gemacht.
+>
+> Gerade ein ehrliches Journal zeigt, wie wir uns weiterentwickelt haben.
+>
+> ### 9.3 Besondere Kontrolle der KI-unterstützten Einträge
+>
+> Ein Teil der späteren Journaleinträge wurde mithilfe von Claude aus unseren Angaben ausformuliert.
+>
+> Prüfe diese Einträge deshalb besonders kritisch.
+>
+> Unterscheide zwischen einem tatsächlich dokumentierten Ereignis und einer sprachlichen Ergänzung durch KI.
+>
+> Wenn du nicht nachweisen kannst, dass eine Tätigkeit stattgefunden hat, darfst du sie nicht als historische Tatsache ergänzen.
+>
+> Fehlende Einträge dürfen nur anhand überprüfbarer Informationen rekonstruiert werden.
+>
+> Kennzeichne solche Rekonstruktionen transparent.
+>
+> Falls Informationen fehlen, erstelle eine gezielte offene Frage, statt eine passende Geschichte zu erfinden.
+>
+> ### 9.4 Qualität der einzelnen Einträge
+>
+> Kontrolliere, ob aus den Einträgen hervorgeht:
+>
+> - wann gearbeitet wurde
+>
+> - wer beteiligt war
+>
+> - woran gearbeitet wurde
+>
+> - was dabei herauskam
+>
+> - welche Probleme auftraten
+>
+> - welche Entscheidungen getroffen wurden
+>
+> - wie es danach weiterging
+>
+> Nicht jeder Eintrag muss alle diese Punkte enthalten. Ergänze nur das, was tatsächlich bekannt und für die Nachvollziehbarkeit sinnvoll ist.
+>
+> Erhalte die ursprüngliche Struktur und Formatierung des Journals.
+>
+> ### 9.5 Abgleich zwischen Journal und Kommentar
+>
+> Prüfe alle wichtigen Daten aus Kapitel 2, Kapitel 5 und Kapitel 8 gegen das Arbeitsjournal.
+>
+> Achte besonders auf die Entstehung des Kochbuchprojekts, die Zwischenpräsentation, den Themenwechsel im August, die Aufteilung der Aufgaben, das Interview und die Endphase im November.
+>
+> Überprüfe auch die Daten in den Zeitstrahlen und Ablaufgrafiken.
+>
+> Wenn Kommentar und Journal voneinander abweichen, ermittle nach Möglichkeit anhand unabhängiger Projektunterlagen, welche Information stimmt.
+>
+> Ändere nicht einfach beide Texte so, dass sie übereinstimmen, ohne den tatsächlichen Ablauf zu prüfen.
+>
+> ---
+>
+> # 10. QUELLEN, FUSSNOTEN UND LITERATURVERZEICHNIS
+>
+> Kontrolliere sämtliche Quellen.
+>
+> Prüfe bei jeder wichtigen Quellenangabe:
+>
+> 1. Existiert die Quelle?
+>
+> 2. Ist der Autor oder Herausgeber korrekt?
+>
+> 3. Stimmen Titel, Datum und Jahr?
+>
+> 4. Ist die angegebene Seite richtig?
+>
+> 5. Unterstützt die Quelle tatsächlich die Behauptung?
+>
+> 6. Wurde die Quelle korrekt interpretiert?
+>
+> 7. Ist die URL vorhanden und richtig?
+>
+> 8. Ist ein Abrufdatum dokumentiert?
+>
+> 9. Stimmen Kurzbelege und Verzeichnis überein?
+>
+> 10. Wurde die Quelle direkt oder nur über eine Sekundärquelle benutzt?
+>
+> Nutze vorrangig unser vorhandenes Recherchedossier.
+>
+> Prüfe, ob du auf das Original zugreifen kannst.
+>
+> Wenn du einen wissenschaftlichen Artikel nicht vollständig lesen kannst, behaupte nicht, ihn vollständig geprüft zu haben.
+>
+> Kontrolliere insbesondere Quellen des CPBRD, der philippinischen Statistikbehörde, des Landwirtschaftsministeriums, des USDA sowie verwendete Marktstudien.
+>
+> Prüfe die Zitierweise anhand der tatsächlich geltenden Regeln der Kantonsschule Baden.
+>
+> Ergänze fehlende bibliografische Informationen, wenn sie zuverlässig ermittelt werden können.
+>
+> Erfinde keine Seitenzahlen, Daten oder Abrufdaten.
+>
+> Neue externe Quellen dürfen zur Überprüfung benutzt werden. Wenn du sie in die Arbeit aufnimmst, muss das transparent geschehen.
+>
+> ---
+>
+> # 11. KI-DOKUMENTATION – VOLLSTÄNDIG UND EHRLICH
+>
+> Das Kapitel zur KI-Nutzung gehört zu den besonders wichtigen Teilen der finalen Überarbeitung.
+>
+> Es muss den tatsächlichen Arbeitsprozess korrekt widerspiegeln.
+>
+> Berücksichtige insbesondere:
+>
+> - KI-generierte erste Entwürfe
+>
+> - die sprachliche Überarbeitung des Kommentars
+>
+> - die wissenschaftliche Prüfung durch Claude
+>
+> - die Überarbeitung von Argumentationen
+>
+> - die Erstellung oder Bearbeitung von Grafiken
+>
+> - die Erstellung von Illustrationen
+>
+> - die Unterstützung beim Arbeitsjournal
+>
+> - die Überprüfung von Quellen und Berechnungen
+>
+> - die abschliessenden Korrekturdurchgänge
+>
+> Prüfe die tatsächlichen Modellbezeichnungen und Eingabedaten anhand der verfügbaren Chatverläufe.
+>
+> Übernimm nicht ungeprüft frühere Bezeichnungen wie «Opus 5.5» oder «Fable 5.1», wenn sie nicht eindeutig dokumentiert sind.
+>
+> ### Der Unterschied zwischen KI und Eigenleistung
+>
+> Beschreibe präzise, welche Texte von KI erstellt wurden, welche nur überarbeitet wurden und welche von uns selbst stammen.
+>
+> Unterscheide ausserdem zwischen selbst recherchierten Informationen, selbst durchgeführten Berechnungen, eigenen Interpretationen und KI-unterstützten Formulierungen.
+>
+> Die Aussage «Wir haben die Texte geprüft und in eigene Worte gefasst» ist nicht ausreichend, wenn sie keine genaue Beschreibung unseres tatsächlichen Vorgehens enthält.
+>
+> Nenne keine Überprüfung als eigene Leistung, wenn sie nicht stattgefunden hat.
+>
+> Verschweige keine umfangreiche KI-Unterstützung.
+>
+> ### Prüfe auch diesen aktuellen Auftrag
+>
+> Die Überarbeitung, die du gerade durchführst, ist selbst eine weitere KI-Nutzung.
+>
+> Dokumentiere sie deshalb ebenfalls sachlich und nachvollziehbar.
+>
+> Erhalte nach Möglichkeit den genauen Wortlaut der entscheidenden Prompts und die entsprechenden Eingabedaten in einer separaten KI-Dokumentation.
+>
+> Prüfe, ob lange Prompt-Anhänge tatsächlich im Kommentar stehen müssen oder besser separat abgegeben werden können.
+>
+> Entscheide dies anhand der Schulvorgaben und nicht nur aus gestalterischen Gründen.
+>
+> Wenn persönliche Bestätigungen fehlen, lasse sie als offene Aufgaben stehen.
+>
+> ---
+>
+> # 12. FORMALE ENDKONTROLLE ALLER DOKUMENTE
+>
+> Suche systematisch nach sämtlichen Unvollständigkeiten.
+>
+> Prüfe insbesondere:
+>
+> - eckige Klammern und Platzhalter
+>
+> - fehlende Klassennamen
+>
+> - uneinheitliche Buchtitel
+>
+> - fehlende Autorenzuordnungen
+>
+> - fehlende Bildnachweise
+>
+> - unklare Bildlizenzen
+>
+> - fehlende Druckangaben
+>
+> - unvollständige Quellen
+>
+> - fehlende URLs
+>
+> - nicht überprüfte Fussnotenseiten
+>
+> - fehlerhafte Seitenverweise
+>
+> - unvollständige Tabellen
+>
+> - fehlende Abbildungsbeschriftungen
+>
+> - nicht aktualisierte Inhaltsverzeichnisse
+>
+> - nicht aktualisierte Abbildungs- und Tabellenverzeichnisse
+>
+> - unklare Angaben zum Interview
+>
+> - offene Felder im KI-Nachweis
+>
+> - widersprüchliche Schreibweisen
+>
+> - Kommentare und Bearbeitungsnotizen
+>
+> Aus der vorliegenden Fassung sind insbesondere Stellen zum endgültigen Buchtitel, zur Klassenzuordnung, zu Bildquellen, Papier und Bindung, zur Absprache über die Zitierweise, zum Interview und zu einigen KI-Eingaben bekannt.
+>
+> Prüfe, welche davon mit unseren vorhandenen Materialien inzwischen gelöst werden können.
+>
+> Lasse keine versteckten Bearbeitungsnotizen unbeachtet.
+>
+> Wenn eine Information fehlt, die nur wir selbst bestätigen können, erfinde sie nicht.
+>
+> Markiere sie eindeutig und übertrage sie in die offene Aufgabenliste.
+>
+> Verwende überall Schweizer Rechtschreibung mit «ss» statt «ß».
+>
+> Erhalte die ursprüngliche Word-Formatierung möglichst vollständig, einschliesslich Tabellen, Grafiken, Bildpositionen, Fussnoten und Seitenumbrüchen.
+>
+> ---
+>
+> # 13. DEINE ARBEITSWEISE – MEHRERE VERBINDLICHE DURCHGÄNGE
+>
+> Arbeite in dieser Reihenfolge:
+>
+> ## Durchgang 1 – Bestandsaufnahme
+>
+> Ermittle alle relevanten Dateien und Versionen.
+>
+> Identifiziere die aktuelle Arbeitsgrundlage.
+>
+> Erstelle intern eine Liste mit Fehlern, offenen Punkten und Widersprüchen.
+>
+> ## Durchgang 2 – Persönlicher Stil
+>
+> Erstelle das authentische Stilprofil anhand möglichst ursprünglicher Texte.
+>
+> Unterscheide unsere Schreibstimme von früheren KI-Formulierungen.
+>
+> ## Durchgang 3 – Inhaltliche Kontrolle
+>
+> Prüfe jedes Kapitel auf sachliche und wissenschaftliche Fehler.
+>
+> Korrigiere unhaltbare Aussagen und ungeeignete Vergleiche.
+>
+> ## Durchgang 4 – Quellenprüfung
+>
+> Kontrolliere Belege, Statistiken, Zitate, Zahlen und Fussnoten.
+>
+> Rechne alle wesentlichen Zahlen unabhängig nach.
+>
+> ## Durchgang 5 – Sprachliche Korrektur
+>
+> Korrigiere Grammatik, Rechtschreibung, Satzbau und Zeichensetzung.
+>
+> Verändere keine korrekten, natürlichen Sätze ohne konkreten Grund.
+>
+> ## Durchgang 6 – Vergleich mit dem Buch
+>
+> Prüfe alle Angaben zum fertigen Produkt.
+>
+> Erfasse Fehler, die im Buch selbst noch korrigiert werden müssen.
+>
+> ## Durchgang 7 – Arbeitsjournal
+>
+> Überprüfe sämtliche Einträge chronologisch, sprachlich und inhaltlich.
+>
+> Vergleiche die Angaben mit dem tatsächlichen Arbeitsprozess.
+>
+> ## Durchgang 8 – KI-Dokumentation
+>
+> Prüfe die Transparenz und Vollständigkeit der KI-Angaben.
+>
+> Ergänze nur nachweisbare Informationen.
+>
+> ## Durchgang 9 – Formale Kontrolle
+>
+> Prüfe das vollständige Word-Dokument einschliesslich aller Anhänge und Verzeichnisse.
+>
+> ## Durchgang 10 – Unabhängige Schlusskontrolle
+>
+> Lies die korrigierte Fassung erneut von Anfang bis Ende.
+>
+> Gehe dabei nicht davon aus, dass deine vorherigen Änderungen richtig waren.
+>
+> Suche bewusst nach neuen Fehlern, die du selbst eingeführt haben könntest.
+>
+> ## Durchgang 11 – Schreibstimmenkontrolle
+>
+> Vergleiche die fertige Fassung erneut mit unseren ursprünglichen Texten.
+>
+> Entferne unnötige sprachliche Glättungen.
+>
+> Stelle sicher, dass der Kommentar weiterhin natürlich, persönlich und auf Maturaarbeitsniveau klingt.
+>
+> ## Durchgang 12 – Technische Endprüfung
+>
+> Öffne die fertigen Dateien erneut.
+>
+> Prüfe Dokumentstruktur, Tabellen, Bilder, Fussnoten, Verzeichnisse und Dateiintegrität.
+>
+> Kontrolliere die Seiten visuell, soweit die verfügbaren Werkzeuge dies ermöglichen.
+>
+> Eine Datei gilt erst als fertig, wenn sie nach dem Speichern nochmals geprüft wurde.
+>
+> ---
+>
+> # 14. DOKUMENTATION UND SICHERUNG DES FORTSCHRITTS
+>
+> Erstelle zu Beginn einen separaten Arbeitsordner für die finale Qualitätskontrolle.
+>
+> Arbeite mit Kopien. Überschreibe niemals die ursprünglichen Dateien.
+>
+> Lege die Datei **FORTSCHRITT_FINALKORREKTUR.md** an.
+>
+> Halte darin fest:
+>
+> - welche Dateien untersucht wurden
+>
+> - welche Kapitel vollständig geprüft wurden
+>
+> - welche Quellen noch ungeprüft sind
+>
+> - welche Korrekturen erfolgt sind
+>
+> - welche Arbeiten noch fehlen
+>
+> - welche Entscheidungen von uns benötigt werden
+>
+> - welche Ausgabedateien bereits gespeichert wurden
+>
+> Aktualisiere diese Datei nach jedem abgeschlossenen grösseren Arbeitsschritt.
+>
+> Falls ein Kontextlimit, Nutzungslimit oder technisches Problem auftritt, muss anhand dieser Datei klar sein, wie die Überarbeitung fortgesetzt werden kann.
+>
+> Falls du nicht alles abschliessen kannst, priorisiere die inhaltliche Richtigkeit, die wissenschaftliche Qualität, den Erhalt der persönlichen Stimme und die tatsächliche Sicherung aller bereits vorgenommenen Änderungen.
+>
+> Behaupte niemals, ein Kapitel sei fertig geprüft, wenn du nur Teile davon gelesen hast.
+>
+> ---
+>
+> # 15. VERBINDLICHE ENDERGEBNISSE
+>
+> Erstelle nach der Überarbeitung folgende Dateien:
+>
+> ### A. Schriftlicher_Kommentar_Ube_FINAL.docx
+>
+> Die vollständig korrigierte Fassung unseres schriftlichen Kommentars.
+>
+> Erhalte das ursprüngliche Layout möglichst genau.
+>
+> Lasse keine erfundenen Informationen, unbelegten Behauptungen oder unbemerkten Platzhalter zurück.
+>
+> ### B. Arbeitsjournal_Ube_FINAL
+>
+> Das vollständige, korrigierte Arbeitsjournal im ursprünglichen Dateiformat.
+>
+> Erhalte die Chronologie und die tatsächlich dokumentierten Ereignisse.
+>
+> ### C. OFFENE_PUNKTE_FINAL.md
+>
+> Eine vollständige Liste mit allen noch offenen persönlichen Aufgaben.
+>
+> Ordne sie nach Priorität.
+>
+> Nenne für jede Aufgabe die konkrete Textstelle, die fehlende Information und den Grund, weshalb du sie nicht selbstständig lösen konntest.
+>
+> Trenne unbedingt abgabekritische Probleme von kleineren Verbesserungsmöglichkeiten.
+>
+> ### D. AENDERUNGSPROTOKOLL_FINAL.md
+>
+> Dokumentiere die wesentlichen Änderungen.
+>
+> Nenne das betroffene Kapitel, die Art des Fehlers und die vorgenommene Korrektur.
+>
+> Bei grösseren Änderungen soll erkennbar sein, warum du eingegriffen hast.
+>
+> ### E. FORTSCHRITT_FINALKORREKTUR.md
+>
+> Der tatsächliche Bearbeitungsstand und das Ergebnis aller Prüfdurchgänge.
+>
+> ### F. BUCH_KORREKTURLISTE_FINAL.md
+>
+> Alle noch vorhandenen Fehler im eigentlichen Ube-Buch, die nicht bereits direkt korrigiert werden konnten.
+>
+> ### G. KI_DOKUMENTATION_FINAL.md
+>
+> Ein vollständiger, transparenter Überblick über die nachweisbare KI-Nutzung, einschliesslich dieser finalen Überarbeitung.
+>
+> Die Dokumentation soll zu den Anforderungen unserer Schule passen.
+>
+> ### H. QUALITAETSBEWERTUNG_FINAL.md
+>
+> Eine kritische abschliessende Bewertung des Kommentars und Arbeitsjournals.
+>
+> Bewerte:
+>
+> - Inhaltliche Richtigkeit
+>
+> - Wissenschaftliche Qualität
+>
+> - Argumentationslogik
+>
+> - Qualität der Quellen
+>
+> - Methoden und Eigenleistung
+>
+> - Sprachliche Qualität
+>
+> - Erhalt unserer persönlichen Schreibstimme
+>
+> - Nachvollziehbarkeit des Arbeitsprozesses
+>
+> - Vollständigkeit des Arbeitsjournals
+>
+> - Transparenz der KI-Dokumentation
+>
+> - Formale Qualität
+>
+> - Übereinstimmung mit dem fertigen Buch
+>
+> Sei kritisch und ehrlich.
+>
+> Verteile keine künstlich hohen Noten.
+>
+> Wenn eine Quellenprüfung oder eine andere Kontrolle nicht möglich war, muss sich das in der Bewertung widerspiegeln.
+>
+> ---
+>
+> # 16. ENDGÜLTIGE ABNAHMEKRITERIEN
+>
+> Bevor du die Arbeit als abgeschlossen bezeichnest, kontrolliere folgende Bedingungen:
+>
+> - Der gesamte Kommentar wurde vollständig gelesen.
+>
+> - Das gesamte Arbeitsjournal wurde vollständig geprüft.
+>
+> - Alle wichtigen Berechnungen wurden nachgerechnet.
+>
+> - Die wissenschaftlichen Problemstellen wurden kontrolliert.
+>
+> - Alle Kapitel wurden auf Widersprüche überprüft.
+>
+> - Die Quellenarbeit wurde kontrolliert.
+>
+> - Der Kommentar wurde mit dem fertigen Ube-Buch verglichen.
+>
+> - Die Argumentation zur Leitthese ist wissenschaftlich nachvollziehbar.
+>
+> - Die Aussagen über das Interview sind korrekt eingeordnet.
+>
+> - Die KI-Dokumentation ist transparent.
+>
+> - Sämtliche auffindbaren Platzhalter wurden bearbeitet.
+>
+> - Alle offenen persönlichen Angaben wurden dokumentiert.
+>
+> - Die ursprüngliche Formatierung wurde möglichst erhalten.
+>
+> - Die fertigen Dateien wurden nochmals geöffnet und kontrolliert.
+>
+> - Die persönliche Schreibstimme wurde in einem eigenen Schlussdurchgang geprüft.
+>
+> Falls einzelne Bedingungen nicht erfüllt werden konnten, benenne dies ausdrücklich.
+>
+> Eine unvollständig geprüfte Datei darf nicht als abgabefertig bezeichnet werden.
+>
+> ---
+>
+> # 17. DIE ENTSCHEIDENDE LETZTE ANWEISUNG
+>
+> Ich möchte, dass du unsere Arbeit mit aussergewöhnlicher Sorgfalt überprüfst.
+>
+> Aber ich möchte nicht, dass du unsere Arbeit in deine eigene verwandelst.
+>
+> Unsere Maturaarbeit soll unsere Geschichte erzählen: von einem philippinischen Kochbuch über den Themenwechsel zu Ube bis zur wissenschaftlichen Auseinandersetzung mit dem internationalen Boom.
+>
+> Dazu gehören unsere eigenen Gedanken, unsere Entscheidungen, unsere Unsicherheiten und die Schwierigkeiten, die während des Projekts aufgetreten sind.
+>
+> Diese Dinge sollen nicht durch perfekt klingende, allgemeine akademische Sätze ersetzt werden.
+>
+> **Deine Aufgabe ist es, die beste Version unserer eigenen Arbeit herauszuarbeiten, nicht eine neue Arbeit zu verfassen.**
+>
+> Ein guter Satz, der nach uns klingt, ist wertvoller als ein stilistisch eleganterer Satz, der nicht mehr unsere Sprache trägt.
+>
+> Ein wissenschaftlich vorsichtiger Satz ist wertvoller als eine beeindruckende Behauptung ohne ausreichenden Beleg.
+>
+> Ein ehrliches Arbeitsjournal ist wertvoller als eine nachträglich perfektionierte Projektgeschichte.
+>
+> Eine transparente KI-Dokumentation ist wertvoller als der Versuch, unsere tatsächliche Arbeitsweise schöner darzustellen.
+>
+> Nutze deine verfügbaren Fähigkeiten und das verbleibende Kontingent so gründlich wie möglich für echte Qualitätskontrolle.
+>
+> Suche nicht nur nach Fehlern, die ich bereits genannt habe.
+>
+> Finde auch Fehler, die uns beiden bisher entgangen sind.
+>
+> Prüfe deine eigenen Änderungen erneut und hinterfrage deine bisherigen Entscheidungen.
+>
+> **Sei kompromisslos bei sachlichen Fehlern und ausgesprochen zurückhaltend bei unnötigen stilistischen Änderungen.**
+>
+> Beginne jetzt selbstständig mit der Bestandsaufnahme und arbeite die Prüfphasen nacheinander ab.
+>
+> Stelle nur dann Rückfragen, wenn ohne eine persönliche Information keine sachlich richtige Entscheidung möglich ist. Erledige alle anderen Arbeiten unabhängig davon.
+>
+> Speichere regelmässig und dokumentiere den tatsächlichen Fortschritt.
+>
+> **Die wichtigste Regel bleibt während der gesamten Überarbeitung bestehen: Wissenschaftlich präziser werden, ohne unsere persönliche Schreibstimme zu verlieren.**
+>
+> Das Ziel ist eine überzeugende, ehrliche, wissenschaftlich saubere und authentische Maturaarbeit, die weiterhin eindeutig von Aezri, Tim und John stammt.
+>
+> Ein letzter Hinweis: Ein langer Prompt allein garantiert nicht, dass Fable das gesamte Kontingent verbraucht oder tatsächlich alle Dateien vollständig prüft. Entscheidend sind die gespeicherten Ergebnisse und nachweisbaren Kontrollen. Gerade weil eure Abgabe am 10. November 2026 ist, würde ich die drei Dateien `Schriftlicher_Kommentar_Ube_FINAL.docx`, `Arbeitsjournal_Ube_FINAL` und `OFFENE_PUNKTE_FINAL.md` zuerst kontrollieren.
+>
+
+## Anhang F: Wortlaut des Prompts vom 9. November 2026, 23:51 Uhr (Eingabe 11)
+
+> MASTERPROMPT FÜR CLAUDE
+>
+> Abschliessende Überarbeitung des schriftlichen Kommentars und Arbeitsjournals zur Maturaarbeit «Ube – Zwischen Tradition und Trend»
+>
+> Verbindlicher Projektstand: 9. November 2026 · Abgabe: 10. November 2026
+>
+> 
+>
+> 1. DEIN AUFTRAG UND DEINE PRIORITÄTEN
+>
+> 
+>
+> Du überarbeitest unseren bestehenden schriftlichen Kommentar zur Maturaarbeit «Ube – Zwischen Tradition und Trend» vollständig und aktualisierst anschliessend unser Arbeitsjournal. Grundlage ist die Datei «Schriftlicher_Kommentar_Ube_FINAL.docx» beziehungsweise ihre nachweislich aktuellste Fassung in unserem Projektordner.
+>
+> 
+>
+> Arbeite als sorgfältiger wissenschaftlicher Lektor auf sehr gutem Maturaniveau. Liefere die überarbeiteten Texte und Dateien, nicht bloss Verbesserungsvorschläge. Bewahre brauchbare Inhalte und gute Formulierungen. Verändere Aufbau und Text dort, wo eine konkrete Verbesserung nötig ist; beginne nicht ohne Grund wieder bei null.
+>
+> 
+>
+> Unsere wichtigsten Ziele sind:
+>
+> - Inhaltliche Fehler, Widersprüche und unnötige Wiederholungen beseitigen.
+>
+> - Die Reflexion erheblich vertiefen und auf unsere tatsächlichen Erfahrungen stützen.
+>
+> - Aezris persönliche Schreibstimme im gesamten Kommentar erhalten.
+>
+> - Fremde Informationen nachvollziehbar mit Fussnoten nach den tatsächlichen Zitierregeln der Kantonsschule Baden belegen.
+>
+> - Quellen-, Abbildungs- und Tabellenverzeichnis sowie Anhänge und Querverweise vollständig abstimmen.
+>
+> - Interview, Kommentar, Arbeitsjournal und das bereits gedruckte Buch sachlich korrekt aufeinander beziehen.
+>
+> - Den KI-Nachweis erst nach der inhaltlichen Überarbeitung abschliessend bearbeiten.
+>
+> 
+>
+> Wahrheit, nachvollziehbare Quellen und tatsächliche Eigenleistung haben Vorrang vor einem scheinbar perfekten Text. Erfinde keine Erlebnisse, Gedanken, Treffen, Quellen, Zitate, Prüfungen oder Arbeitsschritte. Qualität bedeutet hier Präzision, eine überzeugende Reflexion und eine erkennbare persönliche Stimme, nicht möglichst viele Seiten oder möglichst akademische Sprache.
+>
+> 
+>
+> Nutze die tatsächlich verfügbaren Werkzeuge und Kapazitäten gründlich. Es gibt von uns keine künstliche Zeit- oder Antwortlängenvorgabe. Technische Grenzen bleiben bestehen: Sichere Fortschritte regelmässig und hinterlasse bei einer Unterbrechung einen konkreten Fortsetzungsstand. Erzeuge keine unnötigen Wiederholungsdurchgänge und behaupte keine garantierte Fehlerfreiheit oder bestimmte Note.
+>
+> 
+>
+> 
+>
+> 2. MATERIALGRUNDLAGE UND VERBINDLICHKEIT
+>
+> 
+>
+> Laut unserer Einrichtung hast du vollständigen Zugriff auf die Dateien unserer Maturaarbeit. Prüfe den tatsächlichen Zugriff und lies die relevanten Materialien:
+>
+> - aktuellen Kommentar mit Fussnoten und Anhängen;
+>
+> - endgültiges, tatsächlich gedrucktes Buch-PDF;
+>
+> - Arbeitsjournal und noch vorhandene ursprüngliche Notizen;
+>
+> - Projektpläne, Zwischenbeurteilung und Rückmeldungen;
+>
+> - Originalquellen, Quellentabellen und Bildnachweise;
+>
+> - Interviewfragen, Aufnahme, Transkript und Übersetzungen, soweit vorhanden;
+>
+> - schulische Wegleitung, Bewertungsraster und Zitierbroschüre;
+>
+> - Aezris eigene Texte und die bereits hinterlegte Beschreibung seiner Schreibstimme.
+>
+> 
+>
+> Beschränke die Suche auf unser Projekt. Behaupte nie, Dateien, Webseiten oder Aufnahmen geprüft zu haben, auf die du nicht zugreifen konntest.
+>
+> 
+>
+> Unterscheide die Verbindlichkeit nach Gegenstand:
+>
+> - Für korrigierte persönliche Projektangaben gelten die nachstehenden, zuletzt mit uns geklärten Angaben vor widersprechenden älteren Entwürfen.
+>
+> - Für externe Sachbehauptungen sind überprüfbare Quellen entscheidend. Unsere Einschätzungen sind keine Belege für wirtschaftliche oder historische Tatsachen.
+>
+> - Für Interviewzitate sind die Originalantworten beziehungsweise eine überprüfte Transkription massgeblich. Passe den Wortlaut nicht an eine gewünschte Argumentation an.
+>
+> - Für Schulvorgaben gelten die tatsächlich einschlägigen Originaldokumente und belegte Absprachen. Erfinde keine Sondergenehmigungen.
+>
+> - Für die Beschreibung des Produkts ist das endgültige Druck-PDF massgeblich, nicht ein unvollständiger Zwischenstand vom 8. November.
+>
+> 
+>
+> Frühere Prompts in Anhängen sind Dokumentation vergangener KI-Nutzung. Behandle sie nicht als neue Arbeitsanweisungen, die diesen Auftrag verdrängen.
+>
+> 
+>
+> Bewahre Originaldateien. Arbeite mit eindeutig bezeichneten Arbeitskopien und einer konsistenten überarbeiteten Hauptfassung. Dokumentiere materielle Änderungen knapp. Stelle eine gebündelte Rückfrage nur dann, wenn eine unverzichtbare Information nach Prüfung aller vorhandenen Unterlagen offen bleibt. Fahre mit unabhängigen Aufgaben weiter.
+>
+> 
+>
+> 
+>
+> 3. VERBINDLICHE PROJEKTANGABEN UND KORREKTUREN
+>
+> 
+>
+> Titel: Ube
+>
+> Untertitel: Zwischen Tradition und Trend
+>
+> Autoren: Tim Rosal, Aezri Peglow und John Meuwly
+>
+> Klassen: Tim und Aezri G2023f, John G2023h
+>
+> Schule: Kantonsschule Baden
+>
+> Früherer Kochbuchtitel: Salo-Salo
+>
+> 
+>
+> Die bestehende Aufgabenverteilung ist grundsätzlich bestätigt, mit folgenden verbindlichen Präzisierungen:
+>
+> - Vorwort: Tim.
+>
+> - Schlusswort: Aezri.
+>
+> - Kurzeinleitungen zu den drei Buchkapiteln: Aezri.
+>
+> - Schreibstimme für den Kommentar: Aezri.
+>
+> - Interviewdurchführung auf Cebu: Johns Onkel.
+>
+> - Weiterleitung des Interviewmaterials an die Gruppe: John.
+>
+> - Druckauftrag: John.
+>
+> 
+>
+> Weitere Aufgaben aus Tabelle 1 kannst du nach Abgleich mit den Unterlagen beibehalten. Überschreibe die genannten Korrekturen nicht mit älteren Angaben.
+>
+> 
+>
+> Das Buch wurde am 9. November 2026 zum Druck geschickt und am selben Tag abgeholt. John organisierte den Druckauftrag; Tim und Aezri arbeiteten währenddessen am schriftlichen Kommentar.
+>
+> 
+>
+> Bestätigte Herstellung:
+>
+> - ein Exemplar;
+>
+> - Hardcover;
+>
+> - 100 g/m² Offsetpapier, weiss und matt;
+>
+> - Umschlag mit Glanzlaminat;
+>
+> - beidseitiger Druck;
+>
+> - ohne Leseband und ohne CD-Hülle.
+>
+> 
+>
+> Prüfe bei abweichenden technischen Bezeichnungen die Druckbestellung. Nenne im Kommentar nur Details, die für die Beschreibung und Bewertung der Gestaltung sinnvoll sind.
+>
+> 
+>
+> Das Buch ist bereits gedruckt. Ersetze Planungsformulierungen zum Druck durch den tatsächlichen Stand. Prüfe die endgültige Seitenzahl und die Seitenverweise am finalen PDF. Behaupte nicht, eine Korrektur sei im gedruckten Buch umgesetzt, wenn sie nur in einer Textdatei oder in diesem Kommentar vorgenommen wurde. Notwendige Buchkorrekturen gehören in eine separate, genaue Errataliste.
+>
+> 
+>
+> 
+>
+> 4. INTERVIEW: CHRONOLOGIE, ROLLEN UND AUSSAGEKRAFT RICHTIGSTELLEN
+>
+> 
+>
+> Die zuletzt geklärte Chronologie lautet verbindlich:
+>
+> 
+>
+> 5. Oktober 2026:
+>
+> Die Gruppe entscheidet sich für das Interview.
+>
+> 
+>
+> 14. Oktober 2026:
+>
+> John bereitet die Interviewfragen vor und schickt sie seinem Onkel per Messenger.
+>
+> 
+>
+> 23. Oktober 2026:
+>
+> Johns Onkel führt das Interview in Talisay City auf Cebu durch und nimmt es auf.
+>
+> 
+>
+> 25. Oktober 2026:
+>
+> Die Gruppe erhält die Interviewantworten zusammen mit dem Transkript von John.
+>
+> 
+>
+> Die älteren Angaben, wonach die Fragen erst am 28. Oktober fertig gewesen oder die Antworten erst am 4. November eingetroffen seien, sind entsprechend zu korrigieren. Ebenso dürfen wir nicht erst am 23. Oktober ein Interview beschlossen haben, dessen Vorbereitung nachweislich am 14. Oktober stattfand. Prüfe dabei, ob der Verzicht auf die ursprünglich geplante Umfrage gesondert dokumentiert ist; setze dessen Datum nicht einfach automatisch gleich.
+>
+> 
+>
+> Wende die Korrekturen auf den gesamten Kommentar an, insbesondere auf Abstract, Entstehungsgeschichte, Methodenbeschreibung, Reflexion, Tabellen, Zeitstrahlen, Fussnoten, Interviewnachweis und Anhang. Aktualisiere später das Journal und die davon abhängigen Grafiken.
+>
+> 
+>
+> Zur Durchführung:
+>
+> - Der Kontakt und das Interview liefen über Johns Onkel aus Cebu, nicht über Aezris Familie.
+>
+> - Der Name des Onkels soll im abgegebenen Dokument nicht erscheinen. Verwende eine sachliche Rollenbezeichnung und eine nach den Schulvorgaben nachvollziehbare anonymisierte Quellenangabe.
+>
+> - Das Gespräch begann auf Englisch. Weil sich die Verkäuferin auf Englisch nicht ausreichend ausdrücken konnte, wechselte der Onkel zu Bisaya.
+>
+> - Nach unserer letzten Präzisierung hat der Onkel das Interview transkribiert beziehungsweise die Antworten aus Bisaya ins Englische übertragen.
+>
+> - John leitete das Material an die Gruppe weiter.
+>
+> - Wer die anschliessende deutsche Übersetzung erstellt hat, ist noch nicht ausdrücklich geklärt. Prüfe die Projektunterlagen; weise ohne Beleg niemandem diese Arbeit zu.
+>
+> - Tita ist ein Ersatzname, weil die Frau anonym bleiben wollte.
+>
+> - Sie hat der Verwendung des Interviews zugestimmt. Diese Zustimmung wurde nicht aufgenommen.
+>
+> - Wir wissen nicht, ob sie das fertige Transkript geprüft hat. Behaupte keine Bestätigung oder Autorisierung des Transkripts.
+>
+> - Die genaue Dauer und Zahl beantworteter Fragen sind am tatsächlichen Material zu kontrollieren.
+>
+> 
+>
+> Zur beruflichen Rolle:
+>
+> Wir kennen Tita als Marktverkäuferin. Sicher wissen wir, dass sie Ube-Lieferungen erhält und von geringeren Liefermengen sowie höheren Preisen berichtet. Über ihren eigenen Anbau und ihre genaue Stellung in der Lieferkette wissen wir darüber hinaus zu wenig.
+>
+> 
+>
+> Gleichzeitig haben wir bestätigt, dass die im Transkript vorhandenen Aussagen «she is a farmer and a vendor» und «we only had a little farm» aus ihren Antworten stammen. Lösche oder verfälsche diese Aussagen nicht, um den Widerspruch scheinbar aufzulösen.
+>
+> 
+>
+> Die sachlich saubere Lösung:
+>
+> - Beschreibe sie im Kommentar als Marktverkäuferin.
+>
+> - Ordne die Aussagen zum Anbau als ihre Selbstaussagen ein, deren genauere Bedeutung und betrieblicher Hintergrund nicht weiter geklärt wurden.
+>
+> - Erfinde weder einen eigenen Hof noch einen bestimmten Zwischenhändler, eine Familientätigkeit oder eine bestätigte Direktvermarktung.
+>
+> - Prüfe alle Stellen, die sie ohne Einschränkung als Bäuerin oder als unmittelbaren Beleg für Erfahrungen von Ube-Produzenten verwenden.
+>
+> - Ihre Aussagen geben eine einzelne lokale Perspektive auf Verkauf, Lieferungen, Preise und Wahrnehmungen wieder. Sie repräsentieren weder sämtliche Bauern noch die philippinische Bevölkerung.
+>
+> - Ein höherer Verkaufspreis belegt keinen entsprechend höheren Gewinn. Kosten, Einkaufsbedingungen und Margen kennen wir nicht.
+>
+> - Ein Vergleich ihres Marktpreises mit Preisen ab Hof kann verschiedene Handelsstufen betreffen. Stelle daraus keine gesicherte Gewinnverteilung her.
+>
+> - Aussagen über fehlenden Nachwuchs im Anbau, die Ursachen der Knappheit oder Vorteile für Bauern bleiben ihre Einschätzungen, sofern zusätzliche Quellen sie nicht unabhängig stützen.
+>
+> 
+>
+> Die fünf Schritte der Interviewauswertung wurden von uns selbst durchgeführt: Transkription beziehungsweise Arbeit mit dem Transkript, Unterscheidung der Aussagearten, Quellenvergleich, Zuordnung zu den Thesen und Übersetzung der verwendeten Stellen. Beschreibe die individuellen Zuständigkeiten trotzdem nur so genau, wie sie belegt sind.
+>
+> 
+>
+> Die Fragen und Originalantworten im Anhang bleiben als Quellenmaterial erkennbar. Verbessere ihre Grammatik nicht stillschweigend. Trenne Original, Übersetzung und erläuternde Hinweise. Ein direkter deutscher Wortlaut muss als Übersetzung nachvollziehbar sein.
+>
+> 
+>
+> 
+>
+> 5. UNSERE TATSÄCHLICHEN ERFAHRUNGEN ALS GRUNDLAGE DER REFLEXION
+>
+> 
+>
+> Die folgenden Angaben stammen aus unserer eigenen Rückschau. Du darfst sie sprachlich ordnen, miteinander verbinden und analytisch vertiefen. Du darfst keine zusätzlichen Erlebnisse, Konflikte oder Gefühle hinzufügen.
+>
+> 
+>
+> Themenwechsel:
+>
+> Nach der Zwischenbeurteilung wollten wir das Kochbuch zunächst weiterführen. Statt für jede Region ein Gericht zu behandeln, wollten wir uns auf drei ausgewählte einflussreiche Gerichte und deren Hintergrundgeschichte konzentrieren. Nach den Sommerferien hatten Tim und John vor Ort keine ausreichenden zusätzlichen Informationen gefunden. Auch Aezris Recherche brachte nicht den erhofften Erfolg. Deshalb zogen wir einen anderen Ansatz in Betracht und suchten nach typisch philippinischen Zutaten. Zuerst beschäftigten wir uns mit Bananenketchup, danach mit Ube. Für Ube entschieden wir uns gemeinsam.
+>
+> 
+>
+> Organisation:
+>
+> Wir erkannten zu spät, dass das ursprüngliche Kochbuch in seiner geplanten Form für unsere Arbeit wissenschaftlich nicht ausreichend tragfähig war. Wir hatten den Ablauf zu wenig vorausgeplant und die Arbeit zeitlich zu ungleichmässig verteilt. Gerade am Anfang waren wir häufig abgelenkt, beschäftigten uns mit dem Handy oder führten Gespräche, die nichts mit der Arbeit zu tun hatten. Wir nahmen die Arbeit zu Beginn nicht ernst genug. Es gab keine berichteten Meinungsverschiedenheiten innerhalb der Gruppe; unsere Schwierigkeiten betrafen vor allem Organisation, Konzentration und Zeitmanagement. Erfinde deshalb keine Gruppenkonflikte.
+>
+> 
+>
+> Wir arbeiteten nicht jeden Mittwoch. An den Mittwochen, an denen wir arbeiteten, erledigten wir teilweise viel. Das ist kein Beleg dafür, dass jede im Journal genannte Arbeit an einem Mittwoch stattfand.
+>
+> 
+>
+> Rückmeldungen:
+>
+> Die Betreuungspersonen wollten eine stärkere Eingrenzung des Kochbuchs und eine gründlichere Auseinandersetzung damit, wie daraus eine wissenschaftliche Arbeit werden könnte. Verwende für genaue Aussagen oder Zitate die tatsächliche Zwischenbeurteilung.
+>
+> 
+>
+> Individuelle Lernpunkte:
+>
+> - Aezri: Gute Organisation ist entscheidend; ohne sie entsteht gegen Ende unnötiger Stress. Das Handy sollte beim Arbeiten ausser Reichweite liegen.
+>
+> - Tim: Zeitmanagement, Planung und Umgang mit Ablenkung waren zentrale Lernfelder. Zu Beginn fehlte das Gefühl der Dringlichkeit; der Arbeitsdruck kam zu spät.
+>
+> - John: Vor allem Ablenkung und Zeitmanagement waren problematisch.
+>
+> 
+>
+> Persönliche Verbindung:
+>
+> Alle drei haben philippinische Wurzeln und sind mit Ube aufgewachsen. Aezri verbindet Ube besonders stark mit seiner Kindheit. Er wuchs in einem stark schweizerisch geprägten Umfeld auf, in dem es auch philippinisches Essen gab. Violette Desserts erinnerten ihn an seine philippinische Zugehörigkeit. Stelle diese konkrete Erfahrung nicht ungeprüft als gemeinsame Erinnerung aller drei dar. Für Tim und John ist bestätigt, dass die Knolle ebenfalls zu ihrer Kindheit gehört. Erfinde keine weiteren biografischen Einzelheiten oder Geburtsorte.
+>
+> 
+>
+> Inhaltlicher Lernprozess:
+>
+> Wir hatten angenommen, dass Ube auf den Philippinen in grossen Mengen produziert werde. Uns überraschte, welche wirtschaftliche und politische Bedeutung die Knolle hat und dass sich staatliche Stellen damit beschäftigen. Das Interview gab uns einen Einblick in einen lokalen Markt und die dort erlebten Veränderungen. Es lieferte uns keine repräsentative Untersuchung der Landwirtschaft.
+>
+> 
+>
+> Wir wurden aufmerksamer für den Unterschied zwischen Ube als auffälligem Trendprodukt und ihrer kulturellen Bedeutung. Formuliere daraus keine pauschale Tatsachenbehauptung, andere Länder konsumierten Ube ausschliesslich wegen der Farbe.
+>
+> 
+>
+> Unsere gegenwärtige Einschätzung:
+>
+> Wir sehen die wirtschaftliche Entwicklung kritisch, weil hohe Nachfrage auf eine begrenzte beziehungsweise rückläufige Produktion trifft. Kulturellen Austausch empfinden wir auch als Chance, weil sich die Geschichte und Verwendung von Ube durch andere Kulturen weiterentwickeln kann.
+>
+> 
+>
+> Diese Sicht ist zu prüfen und zu differenzieren. Übernimm nicht ungeprüft unsere spontane Aussage, der Boom schade der gesamten Wirtschaft. Auch die Formulierung, der Staat wolle Ube «patentieren», ist keine gesicherte fachliche Beschreibung. Prüfe, welche Schutzmassnahme tatsächlich gemeint ist, wer sie betreibt und welchen Status sie hat.
+>
+> 
+>
+> Bewertung des Produkts:
+>
+> Wir sind besonders auf die Recherche und die Gestaltung des Buches stolz. Mit der Gestaltung des dritten Kapitels sind wir weniger zufrieden: Wir hätten mehr passende Diagramme, Tabellen und Bilder einsetzen können, um Zahlen und Zusammenhänge verständlicher darzustellen. Das Buch ist bereits gedruckt; beschreibe diese Verbesserung als Rückblick oder künftige Möglichkeit, nicht als bereits umgesetzte Änderung.
+>
+> 
+>
+> Was wir anders machen würden:
+>
+> Wir würden einen realistischen Zeitplan mit Zwischenzielen erstellen, die Arbeit gleichmässiger verteilen, die Handys ausser Reichweite legen, fachfremde Gespräche begrenzen und Annahmen sowie Quellen früher kritisch hinterfragen. Behaupte nicht, wir hätten all diese Massnahmen im Projekt bereits konsequent umgesetzt.
+>
+> 
+>
+> 
+>
+> 6. SO SOLL DIE REFLEXION ÜBERARBEITET WERDEN
+>
+> 
+>
+> Die Reflexion ist unser wichtigster redaktioneller Schwerpunkt. Eine bestimmte schulische Prozentgewichtung ist damit nicht bestätigt. Prüfe das Bewertungsraster, falls vorhanden.
+>
+> 
+>
+> Erweitere die Reflexion durch nachvollziehbare Analyse, nicht durch allgemeine Sätze oder erfundene Beispiele. Entwickle bei den wesentlichen Punkten die Verbindung:
+>
+> konkrete Ausgangslage → eigene Entscheidung oder Verhalten → Ursache → Auswirkung → Bewertung → konkrete Konsequenz für zukünftige Arbeiten.
+>
+> 
+>
+> Verarbeite dieses Muster als natürlichen Fliesstext, nicht als ständig wiederholte Schablone.
+>
+> 
+>
+> Vertiefe insbesondere:
+>
+> - Warum wir trotz erster Kritik zunächst am Kochbuch festhielten und weshalb die Eingrenzung auf drei Gerichte das Rechercheproblem nicht ausreichend löste.
+>
+> - Warum der Wechsel zu einer Zutat fachlich sinnvoll war, aber den verfügbaren Zeitraum verkürzte.
+>
+> - Wie die zeitlich ungleichmässige Arbeit und Ablenkungen den Projektverlauf beeinflussten.
+>
+> - Welche Vorteile die Aufteilung der Aufgaben hatte und wo gemeinsamer Abgleich früher nötig gewesen wäre.
+>
+> - Was die Korrektur von Annahmen und die Prüfung von Gegenargumenten für unser Verständnis wissenschaftlichen Arbeitens bedeuten.
+>
+> - Welche Reichweite das kurze, vermittelte und mehrfach übersetzte Interview hat.
+>
+> - Wie die persönliche Nähe zum Thema Motivation gab, aber auch eine unkritisch positive Ausgangssicht begünstigen konnte. Stelle Letzteres nur als reflektierte Möglichkeit dar, sofern es nicht ausdrücklich belegt ist.
+>
+> - Welche Ziele das fertige Buch erreicht, woran wir das beurteilen und wo Grenzen bestehen.
+>
+> - Wie Recherche, Argumentation, Gestaltung und Leserfreundlichkeit zusammenhängen.
+>
+> - Was jede Person gelernt hat, ohne unterschiedliche Erfahrungen künstlich zu einer gemeinsamen Erfahrung zu machen.
+>
+> 
+>
+> Die Reflexion soll ehrlich und ausgewogen sein. Begründe auch Stärken; schreibe keine reine Mängelliste und keine übertriebene Erfolgsgeschichte.
+>
+> 
+>
+> Trenne die Funktion von Kapitel 7 und Kapitel 8:
+>
+> Kapitel 7 ordnet die fachlichen Ergebnisse und ihre Aussagekraft ein.
+>
+> Kapitel 8 bewertet unseren Umgang mit diesen Ergebnissen, unsere Entscheidungen, die Methode, das Produkt und unseren Lernprozess.
+>
+> 
+>
+> Wiederhole nicht die vollständige Sachargumentation aus Kapitel 7. Wenn eine frühere Beobachtung nötig ist, greife sie kurz auf und entwickle daraus eine neue Bewertung. Vermeide Schlussfolgerungen, die wir weder selbst geäussert haben noch anhand unseres Materials vertreten können. Neue Deutungsvorschläge müssen als solche im Prüfbericht erkennbar sein.
+>
+> 
+>
+> 
+>
+> 7. AEZRIS SCHREIBSTIMME UND SPRACHLICHE ÜBERARBEITUNG
+>
+> 
+>
+> Verwende Aezris echte eigene Texte und die vorhandene Stilbeschreibung als Orientierung. Geeignete Ausgangspunkte sind seine bestätigten Buchtexte. Verlasse dich nicht allein auf den bereits mehrfach KI-überarbeiteten Kommentar, um seine Stimme zu bestimmen.
+>
+> 
+>
+> Halte intern kurz fest, was seinen Stil kennzeichnet: Wortwahl, Satzlänge, Übergänge, Erklärungstiefe und Art der persönlichen Reflexion. Setze diese Merkmale im Text um, ohne Formulierungen mechanisch zu kopieren.
+>
+> 
+>
+> Schreibe verständliches, korrektes Deutsch auf sehr gutem Schülerniveau:
+>
+> - Schweizer Rechtschreibung mit ss statt ß.
+>
+> - Grundsätzlich Wir-Form für gemeinsame Arbeit und gemeinsame Einschätzungen.
+>
+> - Namen bei persönlichen Erfahrungen und individuellen Beiträgen.
+>
+> - Konkrete Verben, nachvollziehbare Verbindungen und natürliche Satzlängen.
+>
+> - Fachbegriffe nur dort, wo sie helfen; erkläre sie bei Bedarf.
+>
+> - Keine künstlichen Fehler, um einen menschlichen Eindruck zu erzeugen.
+>
+> - Keine pathetischen Schlusswendungen, überhöhten Selbsteinschätzungen oder ständig gleichen Satzmuster.
+>
+> - Keine nachträglich erfundenen Erinnerungen oder Gefühle.
+>
+> - Keine Verschleierung der KI-Unterstützung.
+>
+> 
+>
+> Als unpassend wurde besonders dieser technische Zahlenblock genannt:
+>
+> «John hat den Fliesstext deshalb in zwei Spalten von je rund 8,6 Zentimetern Breite gesetzt, in Minion Pro mit 12 Punkt Schriftgrösse und rund 16 Punkt Zeilenabstand. Eine volle Zeile fasst so zwischen 41 und 52 Zeichen, im Mittel 47.»
+>
+> 
+>
+> Prüfe solche Angaben am Produkt und erkläre zuerst ihren Sinn für die Lesbarkeit. Behalte nur die für die Argumentation nötigen Zahlen. Behaupte nicht, dass solche Messungen schon die ursprüngliche Gestaltung geleitet hätten.
+>
+> 
+>
+> Entferne inhaltlich doppelte Passagen, besonders zum Themenwechsel, zur Arbeitsaufteilung, zum Begriff Kontrolle, zur knappen Zeit und zu den Grenzen des Interviews. Erhalte notwendige kurze Wiederaufnahmen in Abstract, Einleitung und Schluss. Entferne keine relevante Information bloss deshalb, weil ein Stichwort mehrfach vorkommt.
+>
+> 
+>
+> Kürze nicht die Reflexion, um lange beschreibende Wiederholungen in anderen Kapiteln zu retten. Prüfe ebenso häufige Hinweise wie «Das erklären wir in Kapitel …»: Ein Querverweis soll Orientierung geben und nicht den Lesefluss ständig unterbrechen.
+>
+> 
+>
+> 
+>
+> 8. METHODEN UND FAKTISCHE ARGUMENTATION PRÜFEN
+>
+> 
+>
+> Von uns ausdrücklich bestätigt wurden:
+>
+> - eine gemeinsame Quellentabelle mit Aussagen, Quellenarten und einer Spalte «noch prüfen»;
+>
+> - Johns Vergleich mehrerer Zutatenlisten;
+>
+> - sein Versuch einer später abgebrochenen Instagram-Auswertung;
+>
+> - eigene Berechnungen durch Tim beziehungsweise Aezri und eine Kontrolle durch John.
+>
+> 
+>
+> Nenne nur die belegten Produkte, Daten, Auswahlkriterien und Resultate. Eine kleine, nicht systematisch gezogene Auswahl bleibt eine Beispielauswahl. Erfinde keine Stichprobengrösse, kein Codebuch und keine abgeschlossene Inhaltsanalyse.
+>
+> 
+>
+> Sehr wichtig für Kapitel 3:
+>
+> Die theoretischen Texte zu Sachbuch, Typografie und Bildgestaltung kamen erst wesentlich später hinzu. Stelle sie als nachträgliche theoretische Einordnung beziehungsweise Bewertung der Gestaltung dar. Sie dürfen nicht rückwirkend als Quelle ursprünglicher Gestaltungsentscheidungen erscheinen. Behaupte auch nicht, alle Autoren hätten die Werke gelesen, sofern das nicht dokumentiert ist. Prüfe insbesondere Formulierungen wie «deshalb haben wir», «daraus entwickelten wir» und «auf dieser Grundlage planten wir».
+>
+> 
+>
+> Prüfe den gesamten Kommentar auf korrekte Schlussfolgerungen. Die folgenden Stellen haben besondere Priorität:
+>
+> - Exportwert von 3,06 Millionen US-Dollar und geschätzter Weltmarkt von 455,3 Millionen US-Dollar: Quellen, Bezugsjahre, Produktabgrenzung und Handelsstufen prüfen. Die daraus berechneten ungefähr 0,7 Prozent sind nicht ohne Weiteres ein Anteil am Gewinn, an der Wertschöpfung oder am gesamten philippinischen Ube-Geschäft. Entferne eine unbrauchbare Schlussfolgerung, statt sie nur mit einem Vorbehalt stehen zu lassen.
+>
+> - Produktion, Fläche und Ertrag: Zahlen nachprüfen, Einheiten und Jahre vereinheitlichen, Ertrag sauber berechnen. Ein Szenario mit früherer Fläche und späterem Durchschnittsertrag bleibt eine hypothetische Rechnung.
+>
+> - Rückgang der Ernte und Beginn des Trends: Zeiträume auseinanderhalten. Ein gleichzeitiges Auftreten belegt keine Ursache.
+>
+> - Höhere Verkaufspreise: Umsatz, Gewinn, Kosten und Preis pro Kilogramm nicht verwechseln. Ein Preisanstieg von 100 auf 150 Pesos belegt beispielsweise keinen entsprechend höheren Gewinn.
+>
+> - Staatliche Programme: angekündigte, beantragte, bewilligte und tatsächlich umgesetzte Massnahmen unterscheiden.
+>
+> - 1'000 Hektaren, 850'000 Pesos je Hektare und 300 Millionen Pesos: prüfen, ob sie dasselbe Programm, denselben Zeitraum und denselben Finanzierungsumfang betreffen, bevor ein Widerspruch behauptet wird.
+>
+> - Pflanzmaterial und Vermehrungsmethoden: Ausgangsmengen, Einheiten, Sorten und Voraussetzungen vergleichen; Faktoren nicht aus unvergleichbaren Angaben ableiten.
+>
+> - Gesundheit und Zutatenlisten: Wirkungen einer Knolle nicht ungeprüft auf ein gesüsstes Endprodukt übertragen; ebenso keine fehlende gesundheitliche Wirkung allein aus einem geringen Zutatenanteil behaupten.
+>
+> - Herkunftsschutz: Patente, Marken, geografische Angaben und andere Schutzformen nicht vermischen. Die konkrete Massnahme, Antragstellenden und der belegte Stand sind zu prüfen.
+>
+> - «Die Philippinen verlieren Kontrolle»: untersuchen, welche Kontrolle überhaupt vorher bestand. Zwischen Bauern, Händlern, Staat, Unternehmen und Diaspora unterscheiden.
+>
+> - Kulturelle Bedeutung: persönliche Bedeutung, Darstellung im Ausland und wirtschaftliche Nutzung getrennt betrachten. Nicht pauschal «der Westen» oder «die Filipinos» als einheitliche Akteure behandeln.
+>
+> - Historische Aussagen zu Ube: prüfen, ob eine Quelle tatsächlich Ube beziehungsweise Dioscorea alata meint oder allgemeiner von Yamswurzeln spricht.
+>
+> 
+>
+> Verwende Originalquellen, soweit erreichbar. Kennzeichne Sekundärbelege nachvollziehbar. Unser eigenes Buch darf als Beleg für das Produkt verwendet werden, ersetzt aber bei fremden Sachinformationen nicht automatisch die zugrunde liegende Quelle.
+>
+> 
+>
+> Überprüfe Behauptungen anhand der gelesenen Quelle und nicht allein anhand von Titel, Suchtreffer oder einer älteren KI-Zusammenfassung. Erfinde keine Seitenzahlen, Abrufdaten, Autoren oder funktionierenden Links. Wenn eine Quelle nicht erreichbar ist, suche die vorhandene Projektkopie. Bleibt sie ungeprüft, kennzeichne das im Prüfbericht und passe die Aussage gegebenenfalls an.
+>
+> 
+>
+> 
+>
+> 9. FUSSNOTEN, QUELLEN UND VERZEICHNISSE
+>
+> 
+>
+> Lies zuerst die tatsächlich vorhandene Zitierbroschüre der Kantonsschule Baden. Im bisherigen Kommentar wird eine Ausgabe von 2025 genannt; prüfe Ausgabe und Seitenzahlen an der Originaldatei. Eine öffentlich zugängliche Ausgabe von 2024 ist unter folgender Adresse bekannt und kann als ausdrücklich bezeichnete Ersatzgrundlage dienen:
+>
+> https://www.kanti-baden.ch/site/assets/files/2625/2024_zitierregeln_mit_cc-lizenz.pdf
+>
+> 
+>
+> Übernimm keine vermeintliche Schulregel aus einer blossen Erinnerung oder einem alten KI-Text. Richte Quellenarten, Fussnoten, bibliografische Angaben, Interviewnachweise und Abbildungsnachweise nach der tatsächlich verwendeten Ausgabe aus.
+>
+> 
+>
+> Für unseren Kommentar sind Fussnoten verbindlich. Prüfe jede fremde, belegpflichtige Sachinformation, sinngemässe Übernahme und jedes direkte Zitat. Verknüpfe sie mit einer Quelle, die die konkrete Aussage trägt. Eigene Erfahrungen brauchen keinen erfundenen externen Beleg; die Herkunft eigener Daten und Berechnungen muss trotzdem nachvollziehbar sein.
+>
+> 
+>
+> Kontrolliere die Zuordnung in beide Richtungen: Jeder Beleg muss im Verzeichnis auffindbar sein; ein Verzeichniseintrag muss eine erkennbare Funktion in der Arbeit haben. Prüfe direkte und indirekte Zitate, Sekundärzitate, Übersetzungen, Fundstellen und Datumsangaben. Entferne keine Quelle, die weiterhin benötigt wird, und fülle keine bibliografischen Lücken durch Vermutungen.
+>
+> 
+>
+> Zur Betreuungsaussage:
+>
+> Bestätigt ist, dass Kapitel 1 und 2 des Buches einführend und weniger wissenschaftlich angelegt sein dürfen und Kapitel 3 der wissenschaftliche Schwerpunkt ist. Eine ausdrückliche Genehmigung der konkreten abweichenden Zitierweise ist nicht bestätigt. Behaupte deshalb weder eine erteilte Sondergenehmigung noch ein Gespräch darüber, das nicht dokumentiert ist.
+>
+> 
+>
+> Erstelle im DOCX echte automatisch nummerierte Word-Fussnoten. Prüfe, dass sie am richtigen Text stehen und nach Bearbeitung fortlaufend funktionieren. Bei einer technischen Grenze benenne sie klar; liefere keine manuell hochgestellten Zahlen als angeblich fertige Word-Fussnoten.
+>
+> 
+>
+> 
+>
+> 10. BILDER, GRAFIKEN UND FORMALER ABGLEICH
+>
+> 
+>
+> Bestätigte Herkunft:
+>
+> - Die Bilder «Ube Knolle» und «Ube Knolle aufgeschnitten» sind eigene Aufnahmen der Gruppe. Einzelne Fotografen und Aufnahmedaten sind nur zu nennen, wenn belegt.
+>
+> - Die Abbildung «Anbaugebiete & Herkunftsregionen von Ubi Kinampay in Bohol» in Kapitel 1 wurde mit Claude erstellt. Die bisherige Zuschreibung einer vollständig von John gezeichneten Karte ist entsprechend zu prüfen und zu korrigieren.
+>
+> - Die übrigen Bilder aus Kapitel 1 und 2 stammen laut unseren Angaben aus dem Internet.
+>
+> - Tabellen und Grafiken wurden mit KI erstellt. Unterscheide dabei unsere Daten, Berechnungen und inhaltlichen Vorgaben von der technischen Erstellung.
+>
+> - Den Ursprung des Covers separat prüfen; nicht aus den Angaben zu den Kapitelbildern ableiten.
+>
+> 
+>
+> Eine Abbildung ist nicht allein deshalb vollständig «eigene Darstellung», weil unsere Daten verwendet wurden. Beschreibe die tatsächlich belegte Mitwirkung und berücksichtige sie später im KI-Nachweis. Erfinde keine Bilddatenbank, Lizenz, Urheberperson oder Erlaubnis.
+>
+> 
+>
+> Prüfe bei der Karte ausserdem Orte, Inseln, Zuordnungen und Datengrundlage. Bei Diagrammen sind Werte, Achsen, Einheiten, Legenden und Quellen sachlich zu kontrollieren; eine überzeugende Gestaltung ersetzt keine korrekten Daten.
+>
+> 
+>
+> Kontrolliere:
+>
+> - lückenlose und nach der Reihenfolge des Auftretens stimmige Nummerierung;
+>
+> - identische Bezeichnungen in Text, Bildunterschrift und Verzeichnis;
+>
+> - korrekte Quellen und Seitenverweise;
+>
+> - tatsächlich vorhandene Abbildungen statt Platzhaltern;
+>
+> - aktualisierte Zeitstrahlen und Aufgabenübersichten nach den neuen Interviewdaten;
+>
+> - korrekte Zuordnung der Tabellen 2 und 3, die im bisherigen Text nicht in der Reihenfolge ihrer Nummerierung auftreten;
+>
+> - Abgleich aller Produktbeschreibungen mit dem endgültigen Druck-PDF.
+>
+> 
+>
+> Behebe alle übrigen formalen Fehler: Titelblatt, Klassen, Überschriften, Inhaltsverzeichnis, Seitenzahlen, Querverweise, Tabellenverzeichnis, Anhänge, Fussnotengestaltung und uneinheitliche Begriffe.
+>
+> 
+>
+> Wenn du eine Word-Datei erzeugst, aktualisiere die Felder und prüfe die tatsächlich gerenderte Ausgabe. Achte auf abgeschnittene Tabellen, verwaiste Überschriften, unleserliche Fussnoten und fehlerhafte Umbrüche. Entferne gelbe Arbeitsmarkierungen erst, wenn der Inhalt geklärt oder die verbleibende Lücke transparent dokumentiert ist. Eine ungeklärte wichtige Angabe darf nicht durch blosses Löschen des Prüfhinweises als geklärt erscheinen.
+>
+> 
+>
+> 
+>
+> 11. ARBEITSJOURNAL ALS AUSFÜHRLICHE ZWEIWOCHEN-RÜCKBLICKE
+>
+> 
+>
+> Überarbeite das Journal nach Fertigstellung des Kommentars. Gewünscht sind ausführliche Rückblicke im Abstand von zwei Wochen mit Mittwochsstruktur.
+>
+> 
+>
+> Das ist eine Gliederung nach Berichtszeiträumen, keine Erlaubnis, historische Arbeitstage zu erfinden:
+>
+> - Benenne jeweils den Zeitraum, auf den sich der Eintrag bezieht.
+>
+> - Mittwoche können die Zeiträume strukturieren. Behaupte nicht, jede Tätigkeit habe an diesem Mittwoch stattgefunden.
+>
+> - Unterscheide Zeitraum, tatsächliches Ereignisdatum und Zeitpunkt der nachträglichen Rekonstruktion.
+>
+> - Kennzeichne die nachträgliche Zusammenstellung beziehungsweise Überarbeitung sachlich.
+>
+> - Erhalte sichere Ereignisdaten, insbesondere die korrigierte Interviewchronologie und den Druck am 9. November.
+>
+> - Erzwinge keinen künstlichen Eintrag nach dem Abgabetermin, um den Rhythmus zu vollenden. Der letzte verbleibende Zeitraum erhält einen Abschlussbericht.
+>
+> - Arbeite nachweisbare Lücken nicht mit erfundenen Treffen, Arbeitsstunden oder Fortschritten auf.
+>
+> 
+>
+> Ein ausführlicher Eintrag soll, soweit belegt, zeigen:
+>
+> Ausgangslage und Ziel des Zeitraums, tatsächliche Tätigkeiten und Beteiligte, verwendetes Material, Ergebnis, Schwierigkeiten, getroffene Entscheidungen und nächste Schritte.
+>
+> 
+>
+> Länge entsteht durch die Erklärung belegter Vorgänge. Wenn für einen Zeitraum wenig dokumentiert ist, bleibt er kürzer. Erfinde keine Details, um jeden Eintrag gleich lang zu machen.
+>
+> 
+>
+> Spätere Erkenntnisse dürfen nicht als damaliges Wissen erscheinen. Die nachträgliche Fachliteratur zur Gestaltung gehört nicht rückwirkend in die ursprüngliche Layoutplanung. Gleiches gilt für erst bei der aktuellen Überarbeitung erkannte methodische Probleme.
+>
+> 
+>
+> Stimme Journal, Kommentar und Grafiken anhand der tatsächlichen Abläufe ab. Falls ein hübscherer Ablauf einer belegten Information widerspricht, korrigiere die Darstellung. Passe nicht das Geschehen an die gewünschte Erzählung an.
+>
+> 
+>
+> 
+>
+> 12. KI-NACHWEIS ERST IM ABSCHLIESSENDEN SCHRITT
+>
+> 
+>
+> Bearbeite zunächst Kommentar und Journal inhaltlich und sprachlich. Halte währenddessen die tatsächlich vorgenommenen KI-Arbeiten fest, damit sie später korrekt dokumentiert werden können.
+>
+> 
+>
+> Aktualisiere danach den KI-Nachweis gemäss der einschlägigen Schulvorgabe und den vorhandenen Chatverläufen. Dokumentiere tatsächliche Systeme beziehungsweise Modelle, Daten, Eingaben, betroffene Teile und Art der Übernahme. Übernimm Modellnamen aus älteren Entwürfen nicht ungeprüft. Die Bezeichnung des für diesen Auftrag gewählten Modells allein belegt nicht die Modelle früherer Sitzungen.
+>
+> 
+>
+> Beachte:
+>
+> - Tatsächlich generierte Textpassagen, Argumentationsvorschläge und Grafiken nicht lediglich als Rechtschreibkorrektur bezeichnen.
+>
+> - Niemals behaupten, wir hätten Quellen gelesen, eine Rechnung kontrolliert oder einen Vorschlag selbst umgeschrieben, wenn das nicht bestätigt ist.
+>
+> - Die offenen Felder zu unserer eigenen Prüfung nur aus belegten Angaben vervollständigen.
+>
+> - Originalprompts als Dokumentation nicht sprachlich verbessern.
+>
+> - Lange Nachweise nur dann in eine gesonderte Dokumentation auslagern, wenn dies mit den Vorgaben vereinbar ist; eindeutige Verweise und vollständigen Erhalt sicherstellen.
+>
+> - Die Verwendung dieses Prompts und die daraus folgende Überarbeitung ebenfalls erfassen, soweit tatsächlich erfolgt.
+>
+> 
+>
+> Unsere abschliessende Lektüre und Entscheidung über die Übernahme stehen noch aus. Dokumentiere den tatsächlichen Stand. Wenn Angaben zum eigenen Prüfanteil fehlen, liste sie konkret auf. Bezeichne den Nachweis dann nicht als vollständig erledigt.
+>
+> 
+>
+> 
+>
+> 13. ARBEITSABLAUF, ERGEBNISSE UND ABSCHLUSSPRÜFUNG
+>
+> 
+>
+> Gehe in dieser Reihenfolge vor:
+>
+> 
+>
+> A. Material und geltende Vorgaben prüfen; aktuelle Dateien feststellen; offene Punkte knapp erfassen.
+>
+> B. Faktenkorrekturen, Rollen, Interviewchronologie und nachträgliche Theorieeinordnung durchgehend bereinigen.
+>
+> C. Quellen, Zahlen und Schlussfolgerungen prüfen; notwendige Änderungen am gedruckten Buch separat festhalten.
+>
+> D. Wiederholungen entfernen und die Reflexion auf Grundlage unserer bestätigten Erfahrungen vertiefen.
+>
+> E. Den gesamten Kommentar sprachlich an Aezris Stimme angleichen, ohne seine Inhalte zu verfälschen.
+>
+> F. Fussnoten, Verzeichnisse, Abbildungen und Word-Formatierung fertigstellen.
+>
+> G. Das Arbeitsjournal in den beschriebenen Zweiwochen-Zeiträumen überarbeiten und mit dem Kommentar abgleichen.
+>
+> H. Den tatsächlichen KI-Einsatz abschliessend dokumentieren.
+>
+> I. Inhalt, Sprache und Form in einem letzten gezielten Durchgang prüfen; nach Änderungen die betroffenen Verweise und Dateien nochmals kontrollieren.
+>
+> 
+>
+> Sichere nach wesentlichen Arbeitsschritten. Verwende einen eindeutigen Arbeitsordner und eine kurze Statusdatei mit erledigten Aufgaben, offenen Punkten und dem konkreten nächsten Schritt. Erzeuge keine Vielzahl nahezu identischer «FINAL»-Dateien.
+>
+> 
+>
+> Am Ende sollen vorliegen:
+>
+> 1. Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx mit vollständigem Text, echten Fussnoten, abgestimmten Verzeichnissen und Anhängen.
+>
+> 2. Arbeitsjournal_Ube_UEBERARBEITET.docx mit den ausführlichen, sachlich korrekten Zweiwochen-Rückblicken.
+>
+> 3. Entsprechende bearbeitbare Textfassungen im Obsidian-Projekt, sofern der Zugriff tatsächlich funktioniert.
+>
+> 4. Ein kompakter Prüfbericht mit wesentlichen Änderungen, überprüften beziehungsweise noch ungeprüften kritischen Quellen, offenen Autorenangaben und genauer Errataliste zum gedruckten Buch.
+>
+> 5. Der tatsächlichen Nutzung entsprechende KI-Dokumentation beziehungsweise eine klar bezeichnete Liste noch fehlender Angaben für deren Abschluss.
+>
+> 
+>
+> Die Errataliste soll Fundstelle, problematische Aussage und vorgeschlagene Korrektur nennen. Der Prüfbericht ersetzt keine direkt ausführbare Korrektur im Kommentar oder Journal.
+>
+> 
+>
+> Prüfe vor Abschluss ausdrücklich:
+>
+> - Stimmt die Interviewchronologie überall, auch in Grafiken und Anhängen?
+>
+> - Ist die Marktverkäuferin korrekt eingeordnet, ohne ihre Originalaussagen zu verfälschen?
+>
+> - Werden Übersetzung, Zustimmung und unbestätigte Transkriptprüfung ehrlich beschrieben?
+>
+> - Stammen die Reflexionsinhalte aus unseren tatsächlichen Angaben?
+>
+> - Sind persönliche und gemeinsame Erfahrungen richtig zugeordnet?
+>
+> - Ist die nachträglich hinzugekommene Theorie als solche erkennbar?
+>
+> - Sind wirtschaftliche und kulturelle Schlussfolgerungen so stark formuliert, wie die Quellen erlauben?
+>
+> - Sind unnötige Wiederholungen beseitigt, ohne Zusammenhänge zu zerstören?
+>
+> - Tragen die Fussnoten die jeweiligen Aussagen, und stimmen alle Verzeichnisse?
+>
+> - Entsprechen Aufgaben, Herstellung und Produktbeschreibung den korrigierten Angaben?
+>
+> - Bildet das Journal den tatsächlichen Verlauf ab, ohne erfundene Mittwocharbeit oder rückdatierte Erkenntnisse?
+>
+> - Ist der tatsächliche KI-Anteil nachvollziehbar, ohne unseren Prüfanteil zu erfinden?
+>
+> - Funktionieren die Dateien und ihre Darstellung, und ist der gespeicherte Stand eindeutig?
+>
+> 
+>
+> Liefere abschliessend eine kurze Übersicht über die fertigen Dateien und die wenigen Punkte, die tatsächlich noch unsere persönliche Prüfung benötigen. Sage genau, wenn etwas nicht geprüft oder technisch nicht umgesetzt werden konnte. Gib keine erfundene Bewertung oder Garantie ab.
+>
+> 
+>
+> Beginne jetzt mit der Materialprüfung und führe den Auftrag anschliessend bis zu den vollständigen überarbeiteten Dateien aus. Bleibe nicht bei einem Plan oder einer Kritikliste stehen. Nutze unsere Antworten in diesem Prompt, ohne bereits geklärte Fragen erneut zu stellen.
+>
+
+## Anhang G: Wortlaut des Prompts vom 10. November 2026, 01:42 Uhr (Eingabe 12)
+
+> PROMPT FÜR CLAUDE – GEZIELTE SCHLUSSREDAKTION UNSERES UBE-KOMMENTARS
+>
+> 
+>
+> Überarbeite die aktuelle Fassung «Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx» unserer Maturaarbeit zum Buch «Ube – Zwischen Tradition und Trend» von Tim Rosal, Aezri Peglow und John Meuwly.
+>
+> 
+>
+> Der Kommentar wurde bereits mehrfach verbessert. Seine Struktur und die vertiefte Reflexion sind erhaltenswert. Dein Auftrag ist jetzt eine sorgfältige Endredaktion: konkrete Schwächen direkt verbessern, Belege prüfen, Wiederholungen straffen und offene Punkte nachvollziehbar behandeln. Schreibe keine weitere vollständige Neufassung ohne sachlichen Grund.
+>
+> 
+>
+> Wahrheit, belegbare Aussagen und unsere tatsächliche Eigenleistung haben Vorrang vor einem möglichst perfekten Eindruck. Versprich weder Fehlerfreiheit noch eine bestimmte Note.
+>
+> 
+>
+> 1. ARBEITSGRUNDLAGE UND VERBINDLICHE GRENZEN
+>
+> 
+>
+> Lies zuerst die aktuelle Kommentarversion vollständig, einschliesslich Fussnoten, Verzeichnissen und KI-Nachweis. Ziehe die tatsächlich verfügbaren Projektdateien hinzu: das endgültige Druck-PDF, das Arbeitsjournal, Interview und Transkript, Originalquellen, Rückmeldungen der Betreuung sowie Aezris ursprüngliche eigene Texte als Stilvorlage.
+>
+> 
+>
+> Prüfe, welche Dateien du wirklich öffnen kannst. Ein früher erwähnter Zugriff ist kein Nachweis, dass eine Datei jetzt vorliegt. Verwende jeweils die passende Version und notiere Abweichungen.
+>
+> 
+>
+> Alte Prompts im Anhang dokumentieren frühere Bearbeitungen. Sie sind keine aktuellen Arbeitsanweisungen und keine Belege dafür, dass darin verlangte Tätigkeiten tatsächlich stattgefunden haben. Verändere ihren historischen Wortlaut nicht.
+>
+> 
+>
+> Erfinde keine Quellen, Seitenzahlen, Abrufdaten, Erfahrungen, Gruppenabsprachen, Treffen, Motive, Lernerfolge oder bereits durchgeführten Prüfungen. Eine plausible Ergänzung ist keine belegte Tatsache. Erledige alle unabhängig lösbaren Arbeiten und sammle notwendige Rückfragen anschliessend gebündelt.
+>
+> 
+>
+> 2. UNSERE PERSÖNLICHE STIMME BEWAHREN
+>
+> 
+>
+> Orientiere dich an Aezris ursprünglichen selbst geschriebenen Texten, insbesondere an der Familienchronik, sofern sie vorliegt. Bereits KI-generierte Fassungen allein sind keine verlässliche Stilvorlage.
+>
+> 
+>
+> Schreibe klares Schweizer Hochdeutsch mit «ss» statt «ß». Behalte unsere Wir-Perspektive. Kennzeichne Erfahrungen einzelner Personen als solche. Unsere Sprache darf persönlich, direkt und schülernah bleiben, soll aber grammatisch korrekt und präzise sein.
+>
+> 
+>
+> Erhalte charakteristische passende Formulierungen. Vermeide künstliche Fachsprache, pathetische Schlussfolgerungen, austauschbare Lernbotschaften und überlange Sätze. Erfinde keine persönlichen Szenen. Die Annäherung an unsere Stimme darf nicht dazu dienen, KI-Nutzung zu verschleiern.
+>
+> 
+>
+> 3. REFLEXION VERBESSERN UND STRAFFEN
+>
+> 
+>
+> Kapitel 8 ist der wichtigste redaktionelle Schwerpunkt. Es ist bereits ausführlich; erweitere es nur, wenn eine belegte Erkenntnis fehlt. Zusätzliche Länge ist kein Qualitätsziel.
+>
+> 
+>
+> Prüfe jeden Abschnitt anhand dieser Fragen:
+>
+> – Welche konkrete Situation oder Entscheidung beschreiben wir?
+>
+> – Welche Ursachen können wir aus unseren Unterlagen oder unserer Rückschau tatsächlich erklären?
+>
+> – Welche Folgen hatte dies für das Projekt?
+>
+> – Was haben wir daraus gelernt?
+>
+> – Welche konkrete Änderung würden wir künftig vornehmen?
+>
+> 
+>
+> Behandle dies als Prüfraster, nicht als starres Satzschema für jeden Absatz.
+>
+> 
+>
+> Bündle die ausführliche Erklärung zu Zeitmanagement, Handys und Ablenkung in Kapitel 8.2. In 8.3 sollen die eigenständigen Erkenntnisse zur Zusammenarbeit stehen. Kapitel 8.9 soll die Konsequenzen knapp zusammenführen. Kürze Wiederholungen, erhalte aber notwendige Begründungen und Beispiele.
+>
+> 
+>
+> Bewahre die Unterscheidung zwischen dem sinnvollen Themenwechsel und seinem verspäteten Zeitpunkt. Zeige neben Schwierigkeiten auch die bereits belegten Stärken unserer Recherche, Zusammenarbeit und Gestaltung. Mache allgemeine Bewertungen anhand vorhandener Beispiele greifbar, ohne Erfolge hinzuzuerfinden.
+>
+> 
+>
+> Prüfe besonders die Aussage, nach dem Eingang der Interviewantworten am 25. Oktober sei keine Zeit mehr für Rückfragen geblieben. Der zeitliche Abstand zur Abgabe erklärt dies nicht von selbst. Ergänze nur eine tatsächlich belegte Erklärung; andernfalls markiere den Punkt zur Klärung.
+>
+> 
+>
+> Erhalte unseren persönlichen Bezug zu Ube und Aezris Kindheitserinnerungen. Übertrage seine Erfahrung nicht auf Tim, John oder alle Filipinos. Unterscheide ehrlich zwischen damaligen Erkenntnissen, späterer Einsicht und erst bei der KI-Überarbeitung entstandenen Überlegungen.
+>
+> 
+>
+> 4. ARGUMENTATION UND INTERVIEW PRÄZISIEREN
+>
+> 
+>
+> Prüfe besonders absolute Aussagen wie «nie», «alle», «beweist» und «keine Zeit». Ändere sie nur dort, wo ihre Reichweite nicht gedeckt ist.
+>
+> 
+>
+> In Kapitel 7.4 ist insbesondere die Behauptung zu prüfen, Verarbeitung und Auslandsverkauf hätten «nie in philippinischer Hand» gelegen. Aus fehlenden Belegen für umfassende Kontrolle folgt nicht, dass diese Tätigkeiten niemals philippinisch kontrolliert wurden. Formuliere nur, was die Quellen tragen.
+>
+> 
+>
+> Unterscheide Beobachtung, Aussage einer Quelle, eigene Interpretation und persönliche Bewertung. Erhalte bereits erfolgte Korrekturen: Der Vergleich mit dem Weltmarkt belegt keinen Anteil der Bauern an der Wertschöpfung; höhere Preise belegen keine höheren Gewinne; eine lokale Interviewaussage belegt keine landesweite Entwicklung. Erzwinge keine Bestätigung unserer Leitthese.
+>
+> 
+>
+> Für das Interview gelten folgende geklärte Angaben:
+>
+> – «Tita» wird als Marktverkäuferin in Talisay City auf Cebu beschrieben. Eine eigene Landwirtschaft oder der Verkauf eigener Ernte darf nicht ohne Beleg behauptet werden.
+>
+> – Der Interviewentscheid fiel am 5. Oktober. John bereitete am 14. Oktober die Fragen vor und schickte sie seinem Onkel über Messenger. Das Interview fand am 23. Oktober statt; am 25. Oktober erhielt die Gruppe von John Antworten und Transkript.
+>
+> – Johns Onkel führte das Interview. Sein Name soll im Kommentar nicht genannt werden.
+>
+> – Das Gespräch begann auf Englisch und wechselte zu Bisaya. Der Onkel übertrug das Interview ins Englische. Trenne diese Übertragung von der weiteren Bearbeitung und deutschen Übersetzung; kläre nicht belegte Zuständigkeiten.
+>
+> – Tita wollte anonym bleiben und hat dem Interview nach unseren Angaben zugestimmt. Die Zustimmung wurde nicht aufgenommen. Ob sie das Transkript überprüft hat, wissen wir nicht.
+>
+> – Verändere keine Interviewzitate, um sie besser zur Argumentation passen zu lassen.
+>
+> 
+>
+> Vergleiche die Interviewdarstellung im Kommentar mit dem Transkript. Benenne Übersetzungs- und Aussagegrenzen.
+>
+> 
+>
+> 5. QUELLEN, FUSSNOTEN UND VERZEICHNISSE PRÜFEN
+>
+> 
+>
+> Verwende die für unsere Arbeit geltenden Zitierregeln der Kantonsschule Baden. Die bisher verwendete Ausgabe ist die fünfte Auflage von 2025:
+>
+> https://www.kanti-baden.ch/site/assets/files/8743/2025_zitierregeln.pdf
+>
+> 
+>
+> Öffne die Vorgaben und die relevanten Quellen tatsächlich. Wenn das technisch nicht möglich ist, beschreibe die Grenze. Behaupte keine Quellenprüfung aufgrund früherer KI-Aussagen oder Suchtreffer allein.
+>
+> 
+>
+> Prüfe zuerst die zentralen Zahlen und die offenen Nachweise:
+>
+> – CPBRD- und USDA-FAS-Berichte: Existenz, Titel, Jahr, Originalinhalt und konkrete Fundstellen;
+>
+> – in der derzeitigen Fassung insbesondere Fussnoten 28, 57, 59, 62 und 67;
+>
+> – fehlende URL und Abrufangaben im Quellenverzeichnis;
+>
+> – die Datenquelle und Seitenangabe zu Abbildung 4.
+>
+> 
+>
+> Die Fussnotennummern können sich ändern: Suche zusätzlich anhand der Aussage und Quelle. Trage Abrufdaten nur passend zu tatsächlichen Zugriffen ein.
+>
+> 
+>
+> Ein Verweis auf unser eigenes Buch kann dessen Inhalt oder Gestaltung dokumentieren. Sachliche Behauptungen über Ube müssen jedoch bis zur zugrunde liegenden Quelle nachvollziehbar sein. Kennzeichne Sekundärzitate, wenn nur eine mittelbare Quelle vorliegt.
+>
+> 
+>
+> Prüfe die Zuordnung zwischen Text, Fussnoten und Quellenverzeichnis in beide Richtungen. Vereinheitliche Kurzbelege, vollständige Angaben und Kennzeichnung direkter sowie indirekter Zitate. Behalte echte Word-Fussnoten bei. Prüfe auch Abbildungs- und Tabellenverzeichnis sowie Bildnachweise und die Kennzeichnung KI-erstellter Darstellungen.
+>
+> 
+>
+> Wenn ein zentraler Beleg nicht zugänglich ist, erfinde keine Fundstelle. Schränke die Aussage begründet ein, entferne sie bei fehlender Tragfähigkeit oder führe sie ausdrücklich als offenen Punkt auf.
+>
+> 
+>
+> 6. MIT DEM GEDRUCKTEN BUCH UND ARBEITSJOURNAL ABGLEICHEN
+>
+> 
+>
+> Der bisherige Kommentar bezieht sich auf ein Buch-PDF vom 8. November 2026. Die Druckfassung vom 9. November muss gesondert geprüft werden. Behaupte nicht, beide Fassungen seien identisch.
+>
+> 
+>
+> Prüfe am endgültigen Druck-PDF die Seitenzahlen, Kapitel, Quellen- und Bildnachweise sowie die Aussagen über im gedruckten Buch verbliebene Fehler. Fehlt diese Fassung, begrenze Aussagen auf den tatsächlich geprüften Stand und liste den erforderlichen Abgleich auf.
+>
+> 
+>
+> Prüfe Namen, Klassen, Aufgabenverteilung, Termine und Druckangaben über alle Dokumente hinweg. Tim und Aezri gehören zur G2023f, John zur G2023h. Tim schrieb das Vorwort, Aezri das Schlusswort und die Kurzeinleitungen.
+>
+> 
+>
+> Aktualisiere das vorhandene Arbeitsjournal nur anhand belegter Tätigkeiten und unserer tatsächlichen Rückschau. Zweiwöchentliche Rückblicke dürfen Tätigkeiten eines Zeitraums bündeln. Sie dürfen nicht vortäuschen, dass an jedem zweiten Mittwoch ein Treffen stattgefunden hat. Kennzeichne nachträgliche Rekonstruktionen und schätze keine Arbeitsstunden oder Daten. Fehlt das Journal, liefere konkrete Abgleichhinweise statt ein neues Journal zu erfinden.
+>
+> 
+>
+> 7. OFFENE HINWEISE UND KI-DOKUMENTATION EHRLICH BEARBEITEN
+>
+> 
+>
+> Bearbeite alle gelben Prüfhinweise und redaktionellen Platzhalter. Ersetze sie nur durch gesicherte Angaben. Entferne keinen Hinweis bloss, damit das Dokument fertig aussieht. Notwendige wörtliche Auslassungszeichen oder eckige Klammern in Zitaten bleiben erhalten.
+>
+> 
+>
+> Trenne im KI-Nachweis klar:
+>
+> – unsere ursprünglichen Inhalte und Unterlagen;
+>
+> – Tätigkeiten und Formulierungen von KI;
+>
+> – unsere nachweislich selbst vorgenommenen Prüfungen und Änderungen.
+>
+> 
+>
+> Dokumentiere diesen Durchgang nach den geltenden Vorgaben. Erfinde keine Modellbezeichnung, keinen Prompt, kein Datum und keine menschliche Überarbeitung. Schreibe keine Erklärung, die einen KI-generierten Text nachträglich als vollständig selbst geschrieben ausgibt.
+>
+> 
+>
+> Transparente Dokumentation allein bestätigt noch nicht die Zulässigkeit des KI-Einsatzes. Stelle erforderliche eigene Arbeit oder eine ungeklärte Vereinbarkeit mit Schulvorgaben ausdrücklich dar. Ein Austausch einzelner Wörter ist kein Nachweis eigenständiger Erarbeitung.
+>
+> 
+>
+> 8. ABSCHLUSSKONTROLLE UND ERGEBNISSE
+>
+> 
+>
+> Arbeite die lösbaren Änderungen direkt ein. Prüfe danach nochmals Rechtschreibung, Wiederholungen, widersprüchliche Angaben, Belegstellen und Querverweise. Aktualisiere Inhaltsverzeichnis und Seitenverweise nach den Änderungen. Kontrolliere einen PDF-Export auf unleserliche Tabellen, abgeschnittene Inhalte, ungünstige Umbrüche und sichtbare Bearbeitungshinweise, soweit deine Werkzeuge dies erlauben.
+>
+> 
+>
+> Liefere:
+>
+> 1. Den überarbeiteten Kommentar als neue DOCX-Datei; bewahre die Ausgangsdatei auf. Einen geprüften PDF-Export ergänzen, falls technisch möglich.
+>
+> 2. Das abgeglichene Arbeitsjournal als separate Datei, sofern es vorliegt und Änderungen nötig waren.
+>
+> 3. Ein kurzes Änderungsprotokoll mit Kapitel, Änderung und Begründung.
+>
+> 4. Eine priorisierte Liste der verbleibenden Punkte mit genauer Fundstelle, fehlender Information und notwendiger Handlung. Trenne dabei formale Lücken, ungeprüfte Inhalte und Fragen zu Eigenleistung beziehungsweise Schulvorgaben.
+>
+> 
+>
+> Nenne abschliessend ausdrücklich, welche Dokumente und Originalquellen tatsächlich geprüft wurden und welche nicht. Kennzeichne die Fassung als Arbeitsfassung, solange wesentliche Nachweise, tatsächliche Angaben oder Fragen zur zulässigen KI-Nutzung ungeklärt bleiben.
+>
+> 
+>
+> Beginne jetzt mit der Prüfung der vorhandenen Dateien und führe die belegbar möglichen Verbesserungen durch. Frage nur nach Informationen, die für wesentliche offene Punkte wirklich benötigt werden.
+>
+
+[^1]: Vgl. Keystone-SDA: Ube-Trend, 20.03.2026.
+[^2]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 25.
+[^3]: Vgl. Rosal/Peglow/Meuwly: Arbeitsjournal (2026).
+[^4]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 4 und 6.
+[^5]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 7-8.
+[^6]: Claude: «/goal ist es einen schriftlichen Kommentar für unser Ube Sachbuch zu schreiben [...]», 08.11.2026, und elf weitere Eingaben vom 08. bis 10.11.2026. Alle Eingaben stehen mit Wortlaut, Datum und Art der Übernahme in Kapitel 10.2.
+[^7]: Vgl. Rosal/Peglow/Meuwly: Begleitkommentar (2026), Abschnitt «Zielsetzung».
+[^8]: Vgl. Büschlen/Franceschi: Beurteilung, 19.06.2026. Wir geben die Beurteilung sinngemäss nach unseren Notizen im Arbeitsjournal wieder.
+[^9]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 1.
+[^10]: Vgl. DA indefinitely suspends raw ube exports to secure planting materials, in: Department of Agriculture, 14.09.2026.
+[^11]: Vgl. Government targets 1,000-hectare ube expansion for exports, in: Department of Agriculture, 06.10.2026.
+[^12]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 1.
+[^13]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 9.
+[^14]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 4.
+[^15]: Vgl. Rosal/Peglow/Meuwly: Projektplan (2026).
+[^16]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 4 und 8.
+[^17]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 1 und 17-20.
+[^18]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 4.
+[^19]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 9. Zur Erstellung der Karte siehe den KI-Nachweis in Kapitel 10.2.
+[^20]: Vgl. CPBRD: Ube (2026); USDA FAS: Ube (2026), zit. nach Philippine ube sector holds growth potential but faces development gaps – USDA, in: Context.ph, 29.06.2026.
+[^21]: Vgl. Daily Tribune: Global ube demand strains Philippine supply, 31.12.2025; The Purple Gold Rush, in: Asian Journal, 20.03.2026; Philippine Star: ‹Philippines does not import fresh ube›, 20.06.2026. Alle drei zit. nach Rosal/Peglow/Meuwly: Ube (2026), S. 28.
+[^22]: Vgl. Cox: Doughnut, 05.01.2016.
+[^23]: Vgl. DA indefinitely suspends raw ube exports to secure planting materials, in: Department of Agriculture, 14.09.2026; Philippines: Export ban on fresh purple yam (ube) and its planting materials, in: Global Trade Alert, 30.09.2026.
+[^24]: Claude: «/anthropic-skills:menschlich schreibe den ganzen schriftlichen Kommentar [...]», 08.11.2026.
+[^25]: Vgl. Cacho-Laurejas: Ube Exports, 25.02.2026.
+[^26]: Vgl. Baltasar: Ube trending abroad, 07.05.2026.
+[^27]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 28.
+[^28]: Vgl. Al Jazeera: Typhoon Fung-wong leaves Philippines with 10 dead, 1.4 million displaced, 11.11.2025, zit. nach Rosal/Peglow/Meuwly: Ube (2026), S. 32.
+[^29]: Vgl. CPBRD: Ube (2026), S. ==[Seite]==.
+[^30]: Vgl. Cacho-Laurejas: Ube Exports, 25.02.2026; Transparency Market Research: Ube Market, 17.12.2025; Rosal/Peglow/Meuwly: Ube (2026), S. 30.
+[^31]: Vgl. Transparency Market Research: Ube Market, 17.12.2025, Abschnitte zu Produktformen und Regionen. Die Prüfung dieser Rechnung ist bei der Überarbeitung mit Claude entstanden. Claude: «MASTER-PROMPT: Abschliessende wissenschaftliche Überarbeitung und Fertigstellung des Maturaarbeits-Kommentars [...]», 09.11.2026.
+[^32]: Vgl. Ube industry gets boost as DA-BPI distributes 60,000 planting materials, in: Context.ph, 23.06.2026.
+[^33]: Vgl. Mondares: Purple Yams, 27.05.2026; Mendoza: Clonal Propagation, 13.05.2026.
+[^34]: Government targets 1,000-hectare ube expansion for exports, in: Department of Agriculture, 06.10.2026.
+[^35]: Rosal/Peglow/Meuwly: Projektplan (2026).
+[^36]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 29.
+[^37]: Interview mit «Tita», 23.10.2026, Antworten 1, 2, 4 und 6.
+[^38]: Interview mit «Tita», 23.10.2026, Antworten 1, 3 und 8.
+[^39]: Vgl. Philippine ube growers face seedling shortage, in: FreshPlaza, 11.06.2026; Beltran: Purple Gold Rush, o.J.
+[^40]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 1, 28, 31, 32 und 50.
+[^41]: Vgl. Barú: Produktdatenblatt, 27.03.2026.
+[^42]: Vgl. Lubag/Laurena/Tecson-Mendoza: Antioxidants of Purple and White Greater Yam (2008), zit. nach Rosal/Peglow/Meuwly: Ube (2026), S. 38.
+[^43]: Vgl. Oels: Sachbuch (2013), S. 4.
+[^44]: Vgl. Oels: Sachbuch (2013), S. 5.
+[^45]: Vgl. Oels: Sachbuch (2013), S. 3.
+[^46]: Vgl. Oels: Sachbuch (2013), S. 12.
+[^47]: Vgl. Paratexte, in: Universität Tübingen, 06.11.2024.
+[^48]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 1.
+[^49]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 3, 14 und 23.
+[^50]: Vgl. ISB: Layout (2019), S. 3.
+[^51]: Vgl. ISB: Layout (2019), S. 4.
+[^52]: Vgl. Nanavati/Bias: Line Length (2005), S. 138 und 140.
+[^53]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 3-12. Gemessen am PDF vom 8. November 2026, mit Claude (Kapitel 10.2).
+[^54]: Vgl. Zöhrer: Bild (2023), S. 63.
+[^55]: Vgl. Zöhrer: Bild (2023), S. 64.
+[^56]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 50. Die Einordnung in diesem Kapitel ist bei der Überarbeitung mit Claude entstanden. Claude: «MASTER-PROMPT: Vollständige Finalisierung meiner Maturaarbeit über Ube [...]», 08.11.2026; Claude: «MASTER-PROMPT: Abschliessende wissenschaftliche Überarbeitung und Fertigstellung des Maturaarbeits-Kommentars [...]», 09.11.2026; Claude: «MASTERPROMPT FÜR CLAUDE Abschliessende Überarbeitung des schriftlichen Kommentars und Arbeitsjournals [...]», 09.11.2026.
+[^57]: Vgl. Datassential, zit. nach CNBC, 26.04.2026, und Mintel, zit. nach Manila Times: Ube export products earn $3.06M in 2025, 21.02.2026. Beide Angaben übernehmen wir aus Rosal/Peglow/Meuwly: Ube (2026), S. 27. Zum Bericht von CNBC fehlen in unserer Quellenliste Titel und Link.
+[^58]: Vgl. CPBRD: Ube (2026), S. ==[Seite]==, für 2010 und 2025; für den Rückgang gegenüber dem Vorjahr USDA FAS: Ube (2026), zit. nach Philippine ube sector holds growth potential but faces development gaps – USDA, in: Context.ph, 29.06.2026.
+[^59]: Vgl. Philippine Daily Inquirer (2026), zit. nach Rosal/Peglow/Meuwly: Ube (2026), S. 28. ==[Autor, Titel und Datum dieser Kolumne nachtragen. In unserer Quellenliste zu Kapitel 3 fehlen sie. Ohne diese Angaben ist die Zahl für 2006 nicht nachprüfbar.]==
+[^60]: Vgl. Cacho-Laurejas: Ube Exports, 25.02.2026; USDA FAS: Ube (2026), zit. nach Philippine ube sector holds growth potential but faces development gaps – USDA, in: Context.ph, 29.06.2026.
+[^61]: Vgl. The Purple Gold Rush, in: Asian Journal, 20.03.2026.
+[^62]: Mendoza: Violet Revolution, 08.05.2026.
+[^63]: Vgl. USDA FAS: Ube (2026), zit. nach Philippine ube sector holds growth potential but faces development gaps – USDA, in: Context.ph, 29.06.2026.
+[^64]: Vgl. Mendoza: Violet Revolution, 08.05.2026.
+[^65]: Vgl. Interview mit «Tita», 23.10.2026, Antwort 3.
+[^66]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 33-36. Die Quellen zu Quinoa und Matcha stehen dort als Kurzbelege und sind in diesen Kommentar nicht einzeln aufgenommen.
+[^67]: Vgl. DA indefinitely suspends raw ube exports to secure planting materials, in: Department of Agriculture, 14.09.2026; Philippines: Export ban on fresh purple yam (ube) and its planting materials, in: Global Trade Alert, 30.09.2026; Ube industry gets boost as DA-BPI distributes 60,000 planting materials, in: Context.ph, 23.06.2026; Lim: GI bid, 16.06.2026; Government targets 1,000-hectare ube expansion for exports, in: Department of Agriculture, 06.10.2026; Philippines plans US$5.1 million ube cultivation expansion, in: FreshPlaza, 06.10.2026.
+[^68]: Vgl. Barú: Produktdatenblatt, 27.03.2026; USDA FAS: Ube (2026), zit. nach Philippine ube sector holds growth potential but faces development gaps – USDA, in: Context.ph, 29.06.2026.
+[^69]: Vgl. ABS-CBN News: LOOK: Pinoy chef makes donut covered in 24K gold, 06.01.2016; DFA: PH Consulate General in Melbourne celebrates first Ube Festival, 19.02.2024; Generalkonsulat Frankfurt: Ube Fiesta 2026 in Köln, 2026. Alle drei zit. nach Rosal/Peglow/Meuwly: Ube (2026), S. 38 und 41. Zu Papa Oro's vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 19, und Keystone-SDA: Ube-Trend, 20.03.2026.
+[^70]: Vgl. Velasco: The Ube («Roots») Generation, in: Humanities Diliman 13, Nr. 2 (2016), S. 75-101, zit. nach Rosal/Peglow/Meuwly: Ube (2026), S. 41.
+[^71]: Vgl. Interview mit «Tita», 23.10.2026, Antworten 8 und 9. Wer mit «We» gemeint ist, sagt das Transkript nicht.
+[^72]: Beltran: Purple Gold Rush, o.J.
+[^73]: Vgl. DA indefinitely suspends raw ube exports to secure planting materials, in: Department of Agriculture, 14.09.2026; Lim: GI bid, 16.06.2026.
+[^74]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 43 und 45; DA indefinitely suspends raw ube exports to secure planting materials, in: Department of Agriculture, 14.09.2026.
+[^75]: Vgl. Interview mit «Tita», 23.10.2026, Antwort 9.
+[^76]: Vgl. Mondares: Purple Yams, 27.05.2026; Mendoza: Clonal Propagation, 13.05.2026; Rosal/Peglow/Meuwly: Ube (2026), S. 46-47 und 49.
+[^77]: Vgl. DA indefinitely suspends raw ube exports to secure planting materials, in: Department of Agriculture, 14.09.2026.
+[^78]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 35-36, 43 und 49.
+[^79]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 50.
+[^80]: Die Rückschau steht im Wortlaut in Anhang F, Abschnitt 5. Daten und Abläufe stammen aus Rosal/Peglow/Meuwly: Arbeitsjournal (2026). Formuliert hat dieses Kapitel Claude. Claude: «MASTERPROMPT FÜR CLAUDE Abschliessende Überarbeitung des schriftlichen Kommentars und Arbeitsjournals [...]», 09.11.2026, und Claude: «PROMPT FÜR CLAUDE – GEZIELTE SCHLUSSREDAKTION UNSERES UBE-KOMMENTARS [...]», 10.11.2026 (Kapitel 10.2, Eingaben 11 und 12).
+[^81]: Rosal/Peglow/Meuwly: Arbeitsjournal (2026), Rückblick 2.
+[^82]: Vgl. Rosal/Peglow/Meuwly: Projektplan (2026).
+[^83]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 6 und 32.
+[^84]: Vgl. Rosal/Peglow/Meuwly: Arbeitsjournal (2026), Rückblick 15.
+[^85]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 32, 36, 42 und 49.
+[^86]: Vgl. Rosal/Peglow/Meuwly: Ube (2026), S. 25.
+[^87]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 9.
+[^88]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 9.
+[^89]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 19.
+[^90]: Vgl. Kantonsschule Baden: Zitierregeln (2025), S. 19.

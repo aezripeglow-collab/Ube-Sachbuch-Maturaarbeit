@@ -15,9 +15,13 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 
+import sys
+
 HERE = Path(__file__).resolve().parent.parent
-SRC = HERE / "Arbeitsjournal (überarbeitet).md"
-OUT = HERE / "Arbeitsjournal_Ube_UEBERARBEITET.docx"
+# Ohne Argumente: Fassung «UEBERARBEITET». Für die Schlussredaktion:
+#   python3 Werkzeuge/journal_docx.py "Arbeitsjournal (Schlussredaktion).md" Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx
+SRC = HERE / (sys.argv[1] if len(sys.argv) > 1 else "Arbeitsjournal (überarbeitet).md")
+OUT = HERE / (sys.argv[2] if len(sys.argv) > 2 else "Arbeitsjournal_Ube_UEBERARBEITET.docx")
 
 VIOLET = RGBColor(0x5B, 0x2A, 0x86)
 INK2 = RGBColor(0x52, 0x51, 0x4E)

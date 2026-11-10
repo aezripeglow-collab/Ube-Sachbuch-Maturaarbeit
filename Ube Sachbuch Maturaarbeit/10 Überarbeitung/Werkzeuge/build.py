@@ -1,7 +1,12 @@
-"""Baut die überarbeitete Word-Datei des Kommentars (Fassung vom 10.11.2026).
+"""Baut die Word-Datei des Kommentars aus einer Quelldatei in diesem Ordner.
 
-Text ändern: kommentar_quelle.txt in diesem Ordner bearbeiten, dann `python3 Werkzeuge/build.py`.
-Das eigentliche Word-Skript ist `08 Schriftlicher Kommentar/Quelldateien/build.js` (unverändert weiterverwendet).
+Fassung «UEBERARBEITET» (Masterprompt vom 9.11., 23:51):
+    python3 Werkzeuge/build.py
+Fassung «SCHLUSSREDAKTION» (Prompt vom 10.11., 01:42), mit PDF im Ordner:
+    python3 Werkzeuge/build.py Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.docx kommentar_quelle_schlussredaktion.txt "Kommentar (Schlussredaktion).md" OFFENE_PUNKTE_SCHLUSSREDAKTION --pdf
+
+Argumente (alle freiwillig): Name der Word-Datei, Quelldatei, Name der Lesekopie, Notiz für den Verweis im Kopf der Lesekopie, --pdf.
+Das eigentliche Word-Skript ist `08 Schriftlicher Kommentar/Quelldateien/build.js`.
 
 Zwei Durchgänge: zuerst die Seitenzahlen für das Inhaltsverzeichnis ermitteln, dann final bauen.
 Danach wird die Word-Datei in den Ordner «08 Schriftlicher Kommentar» kopiert und die Notiz
@@ -18,8 +23,13 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent.parent
 TOOLS = HERE.parent / "08 Schriftlicher Kommentar" / "Quelldateien"
-BUILD = Path(tempfile.gettempdir()) / "kommentar-build-ueberarbeitet"
-SRC = HERE / "kommentar_quelle.txt"
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+WITH_PDF = "--pdf" in sys.argv
+FINAL = ARGS[0] if len(ARGS) > 0 else "Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx"
+SRC = HERE / (ARGS[1] if len(ARGS) > 1 else "kommentar_quelle.txt")
+MD_NAME = ARGS[2] if len(ARGS) > 2 else "Kommentar (überarbeitet).md"
+NOTIZ = ARGS[3] if len(ARGS) > 3 else "PRUEFBERICHT"
+BUILD = Path(tempfile.gettempdir()) / ("kommentar-build-" + Path(FINAL).stem.split("_")[-1].lower())
 
 
 def find_soffice():
@@ -32,7 +42,6 @@ def find_soffice():
 
 
 SOFFICE = find_soffice()
-FINAL = sys.argv[1] if len(sys.argv) > 1 else "Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx"
 
 
 def run(cmd, **kw):
@@ -114,13 +123,15 @@ print(json.dumps(pages, ensure_ascii=False, indent=0))
 ziel = HERE / FINAL
 shutil.copy(final, ziel)
 subprocess.run(["zip", "-d", str(ziel), "*/"], capture_output=True)
-MD = HERE / "Kommentar (überarbeitet).md"
+if WITH_PDF:
+    shutil.copy(BUILD / (Path(FINAL).stem + ".pdf"), HERE / (Path(FINAL).stem + ".pdf"))
+MD = HERE / MD_NAME
 run(["python3", str(TOOLS / "to_obsidian.py"), str(SRC), str(MD)])
 md = MD.read_text(encoding="utf8")
 md = md.replace("tags: [maturaarbeit, kommentar]", "tags: [ueberarbeitung, kommentar]\nstand: 2026-11-10")
 i0 = md.index("> [!info] Lesekopie"); i1 = md.index("\n\n", i0)
-md = md[:i0] + ("> [!info] Überarbeitete Fassung vom 10.11.2026\n> Lesekopie der Word-Datei [[Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx]]. "
-  "Quelle: `kommentar_quelle.txt` in diesem Ordner (Text dort ändern, dann `python3 Werkzeuge/build.py`, oder direkt in Word weiterarbeiten). "
-  "Gelb markierte Stellen ==[so]== können nur wir selbst ausfüllen. Was geändert wurde und was offen ist: [[PRUEFBERICHT]].") + md[i1:]
+md = md[:i0] + (f"> [!info] Fassung vom 10.11.2026\n> Lesekopie der Word-Datei [[{FINAL}]]. "
+  f"Quelle: `{SRC.name}` in diesem Ordner (Text dort ändern und mit `Werkzeuge/build.py` neu bauen, oder direkt in Word weiterarbeiten). "
+  f"Gelb markierte Stellen ==[so]== können nur wir selbst ausfüllen. Was geändert wurde und was offen ist: [[{NOTIZ}]].") + md[i1:]
 MD.write_text(md, encoding="utf8")
 print("fertig:", ziel)

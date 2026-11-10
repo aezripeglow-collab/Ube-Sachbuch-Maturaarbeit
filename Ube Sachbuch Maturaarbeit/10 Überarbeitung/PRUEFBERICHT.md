@@ -4,6 +4,9 @@ stand: 2026-11-10
 ---
 # Prüfbericht zur Überarbeitung vom 10.11.2026
 
+> [!warning] Zum Teil abgelöst durch die Schlussredaktion (10.11.2026, Prompt von 01:42 Uhr)
+> Dieser Bericht beschreibt die Fassung «UEBERARBEITET». Für die neue Arbeitsfassung gelten [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]] und [[OFFENE_PUNKTE_SCHLUSSREDAKTION]]. Überholt sind hier die Abschnitte 1, 2, 7 und 8. Weiter gültig sind die Abschnitte 3 bis 6, die Errataliste in Abschnitt 9 und Abschnitt 10.
+
 Grundlage: unser Masterprompt vom 9.11.2026, 23:51 (Wortlaut in Anhang F des Kommentars) und Johns Liste der Bildquellen. Bearbeitet von Claude (Fable 5.2 laut Sitzungseinstellung) in der Nacht auf den 10.11. Dieser Bericht sagt, was geändert wurde, was geprüft ist und was nicht, was nur wir selbst noch eintragen können und was am gedruckten Buch nicht stimmt.
 
 ## 1. Was jetzt vorliegt
