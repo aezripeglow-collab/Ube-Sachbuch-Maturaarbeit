@@ -11,7 +11,35 @@ Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDe
 
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
-> [!important] Schlussredaktion vom 10.11.2026 (gilt)
+> [!important] Ausführliche Fassung vom 10.11.2026, 07:10 Uhr (gilt)
+> Word-Datei: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_ausfuehrlich.docx]] (23 Seiten, Arial, gleiche Tabelle wie um 06:20 Uhr), Lesekopie [[Arbeitsjournal (ausführliche Fassung 10.11.2026)]]. Auftrag von Aezri um 06:34 Uhr: das Journal viel ausführlicher schreiben und Einträge ergänzen, die wir vergessen haben. Der Text ist von rund 4'700 auf rund 10'200 Wörter gewachsen. Der bisherige Text steht unverändert darin, dazugekommen sind Absätze.
+>
+> **Woher der zusätzliche Text stammt**
+> - Rückblick 1 bis 4: aus unseren eigenen Einträgen vom 22.04. bis 03.06. (Farben in OneNote, Wikipedia, Tims Vorgehen bei den Regionen, spanischer, chinesischer und amerikanischer Einfluss, Projektplan, Kriterien für ein Kochbuch, Interviewfragen, Begleitkommentar)
+> - Rückblick 5: was aus den Punkten der Beurteilung geworden ist (Tabelle 2 im Kommentar)
+> - Rückblick 9: Inhalt des [[Projektplan]]s, ein Satz aus Tims [[Vorwort]]
+> - Rückblick 10 bis 15: was in den Abschnitten des Buches steht (`02 Buch`), also Grundlagen zu Ube, die Abschnitte von Teil 1 und Teil 2, Leitfragen, Thesen, Behauptungen, Rechnungen, Einwände und Fazits, dazu die Quellenregeln und die fünf Schritte der Interviewauswertung aus dem Kommentar und die Fragen und Antworten aus [[Interview mit Tita]]
+> - Rückblick 15: Angaben zum Buch aus dem Kommentar (Satz, Farben, Bilder, Seiten), unsere Rückschau vom 9.11., 23:51 Uhr, und der Ablauf vom 8. bis 10.11. nach [[KI_DOKUMENTATION_FINAL]]
+>
+> **Neue Einträge (vorher nicht im Journal)**
+> - Grammatikkorrektur des Buchtextes mit KI (Angabe von Aezri vom 10.11., ohne Datum)
+> - wie der Kommentar vom 8. bis 10.11. mit Claude entstanden ist: erster Entwurf, Abbildungen, Texte zur Sachbuch-Theorie, Durchgänge vom 9.11., Transkript, Stilvorlage, Zitierregeln, Berichtigung «Verkäuferin»
+> - Johns Liste der Bildquellen vom 9.11., die Karte von Bohol, die Stellen im gedruckten Buch, die der Kommentar berichtigt (S. 28 und 31)
+> - Grenzen des Interviews: Fragen zu Bohol, Markt auf Cebu, erste Antwort in der dritten Person, zweimal übertragen
+>
+> **Was Claude nicht gemacht hat**
+> - keine neuen Arbeitstage, Treffen, Orte, Gespräche oder Gefühle. Für Juni bis August gibt es keine weiteren Unterlagen, deshalb sind die Rückblicke 6 bis 8 gleich kurz geblieben.
+> - Einzelheiten, die nur in den am 8.11. ausformulierten Tageseinträgen stehen (zum Beispiel Teams-Calls, wer wann was gelesen hat), sind nicht zurückgeholt worden.
+> - Wo beschrieben ist, was in einem Abschnitt des Buches steht, stammt das aus dem fertigen Buchtext. Das steht so auch in der Einleitung des Journals.
+>
+> **Vor der Abgabe**
+> - Wenn ihr euch an echte Einzelheiten erinnert (Treffen, Reisedaten, wer was wann gemacht hat), tragt sie selbst ein oder sagt sie Claude. Nur ihr wisst das.
+> - Die Einleitung und der Abschlussbericht sagen, wie das Journal und der Kommentar mit Claude entstanden sind. Das muss zu eurem KI-Nachweis passen (Kapitel 10.6). Beim Umformulieren in eigene Worte diese Angaben nicht weglassen.
+> - Der CPBRD-Brief steht in Rückblick 12 unter den Unterlagen für die erste Oktoberwoche. Punkt 1 der Prüfliste in [[Ergänzte Fassung vom 10.11.2026]] gilt auch hier.
+>
+> **Reparatur an den älteren Word-Dateien des Journals (07:06 Uhr):** In den Dateien von 06:20 Uhr, «SCHLUSSREDAKTION», «UEBERARBEITET» und «FINAL» standen die Tabelleneinstellungen in einer Reihenfolge, die nicht dem Word-Format entspricht. Claude hat die Reihenfolge berichtigt. Text und Aussehen sind gleich geblieben (als PDF verglichen). Falls Word eine dieser Dateien vorher nicht sauber geöffnet hat, die Datei neu aus dem Vault holen.
+
+> [!info] Fassung von 06:20 Uhr (kürzer, gleicher Grundtext)
 > **Fassung zum ergänzten Kommentar (10.11.2026, 06:20 Uhr):** [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly.docx]] in diesem Ordner, Lesekopie [[Arbeitsjournal (Fassung vom 10.11.2026)]]. Gleicher Text wie die Schlussredaktion, in Arial mit 1,5 Zeilen, mit «Salu-Salo», Verweis auf Kapitel 10.6 und einem Satz zur Ergänzung des Kommentars am Morgen des 10.11.
 > Fassung davor: `10 Überarbeitung/Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx`, Lesekopie [[Arbeitsjournal (Schlussredaktion)]]. Gegenüber der Fassung «UEBERARBEITET» sind neun Stellen berichtigt (Interview, Rückschau, Zusammenführen am 6.11.), siehe [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]].
 
