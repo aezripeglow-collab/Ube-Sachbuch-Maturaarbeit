@@ -28,9 +28,10 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
     - [[3.5 Was bleibt von unserer Leitthese]]
 5. [[Schlusswort]]
 
-## Kommentar: Fassung der Gruppe vom 10.11.2026 (gilt)
-- Word-Datei: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly.docx]] (von Aezri am 10.11. um 04:15 Uhr hochgeladen, unverändert abgelegt)
-- Was diese Fassung ist, was darin fehlt und welche gelben Stellen offen sind: [[Fassung der Gruppe vom 10.11.2026]]
+## Kommentar: ergänzte Fassung vom 10.11.2026 (gilt)
+- Word-Datei: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly_ergaenzt.docx]] (eure Fassung von 04:15 Uhr, von Claude nach Aezris Auftrag von 04:35 Uhr ergänzt)
+- Was Claude eingesetzt hat, was noch gelb ist und was ihr vor der Abgabe prüfen müsst: [[Ergänzte Fassung vom 10.11.2026]]
+- Eure hochgeladene Datei, unverändert: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly.docx]], dazu [[Fassung der Gruppe vom 10.11.2026]]
 
 ## Schlussredaktion vom 10.11.2026 (Arbeitsfassung von Claude, beim Kommentar abgelöst)
 - Zuerst lesen: [[OFFENE_PUNKTE_SCHLUSSREDAKTION]] · [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]]

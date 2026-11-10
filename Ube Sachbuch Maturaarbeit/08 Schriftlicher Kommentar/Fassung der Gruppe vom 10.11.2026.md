@@ -2,7 +2,10 @@
 tags: [maturaarbeit, kommentar, abgabe]
 stand: 2026-11-10
 ---
-# Fassung der Gruppe vom 10.11.2026 (gilt)
+# Fassung der Gruppe vom 10.11.2026 (unverändert abgelegt)
+
+> [!important] Stand 10.11.2026, nach 04:35 Uhr
+> Es gilt jetzt die ergänzte Fassung: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly_ergaenzt.docx]], siehe [[Ergänzte Fassung vom 10.11.2026]]. Diese Notiz beschreibt die Datei, wie sie um 04:15 Uhr hochgeladen wurde. Die Listen unten sind dort abgearbeitet, soweit es ohne den KI-Nachweis ging.
 
 - **Datei:** [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly.docx]]
 - Von Aezri am 10.11.2026 um 04:15 Uhr in den Chat geladen, in Word zuletzt um 04:14 Uhr gespeichert. Claude hat die Datei unverändert abgelegt (gleiche Prüfsumme) und nichts daran bearbeitet.
