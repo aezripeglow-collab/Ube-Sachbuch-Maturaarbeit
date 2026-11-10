@@ -4,6 +4,9 @@ stand: 2026-11-10
 ---
 # Status der Überarbeitung
 
+> [!warning] Kommentar abgelöst (10.11.2026, 04:15 Uhr)
+> Als gültiger Kommentar gilt jetzt die Fassung der Gruppe: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly.docx]] in `08 Schriftlicher Kommentar`, siehe [[Fassung der Gruppe vom 10.11.2026]]. Die Kommentar-Dateien in diesem Ordner bleiben als ältere Fassungen liegen. Für das Arbeitsjournal gilt weiterhin [[Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx]].
+
 > [!important] Stand 10.11.2026, nach der Schlussredaktion (Prompt von 01:42 Uhr)
 > Es gilt jetzt die **Arbeitsfassung «SCHLUSSREDAKTION»**: [[Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.docx]] mit PDF, Lesekopie [[Kommentar (Schlussredaktion)]], und [[Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx]], Lesekopie [[Arbeitsjournal (Schlussredaktion)]].
 > Was geändert wurde: [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]]. Was offen ist und was vor der Abgabe geklärt werden muss: [[OFFENE_PUNKTE_SCHLUSSREDAKTION]].
