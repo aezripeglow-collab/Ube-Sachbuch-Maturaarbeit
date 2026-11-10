@@ -11,7 +11,51 @@ Die Arbeit am Buch selbst, also Bilder, die Karte von Bohol und der Satz in InDe
 
 Word-Version zum Abgeben (Tabelle wie im bisherigen Journal): [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
 
-> [!important] Ausführliche Fassung vom 10.11.2026, 07:10 Uhr (gilt)
+> [!important] Fassung nach Tagen und Zeiträumen vom 10.11.2026, 11:15 Uhr (gilt)
+> Word-Datei: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (47 Seiten), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Auftrag von Aezri um 10:45 Uhr: das Journal systematisch ordnen, die Tabelle übersichtlicher gestalten und statt zusammengefasster Rückblicke zu jedem Tag einen ausführlichen Eintrag machen, mit Quellen, Vorgehen, Methoden, Reflexion und Erkenntnissen.
+>
+> **Aufbau**
+> - Übersicht aller 51 Einträge, sechs Phasen, Schlussreflexion, Quellenprotokoll zu Kapitel 3 (60 Quellen mit Art, Erscheinungsdatum und Verwendung im Buch)
+> - 10 eigene Einträge vom 22.04. bis 03.06., wieder vollständig und im Originalwortlaut (pro Tag und Person, mit Reflexion und Erkenntnissen)
+> - 20 Tageseinträge für Daten, die gesichert sind (Termine, Entscheide, Dateidaten), nachträglich geschrieben
+> - 21 Einträge über Zeiträume, bei denen nur die Wochen gesichert sind
+> - Jeder Eintrag hat die gleiche Tabelle: Was, Vorgehen und Methode, Quellen und Material, Ergebnis, Wichtige Erkenntnisse, Schwierigkeiten, Entscheide, Nächste Schritte, Reflexion, Grundlage. Zeilen ohne Unterlagen fehlen.
+>
+> **Was Claude nicht gemacht hat, und warum**
+> - Keine Einträge für Tage ohne Unterlagen, keine Fundtage von Quellen, keine Reflexionen, die ihr nicht geäussert habt. Ihr habt selbst festgehalten, dass ihr nicht jeden Mittwoch gearbeitet habt, und in euren Regeln vom 9.11. steht, dass keine Arbeitstage erfunden werden dürfen.
+> - Wann eine Quelle zum ersten Mal geöffnet wurde, ist nirgends notiert. Die Abrufdaten im Kommentar stammen fast alle vom 8. und 9.11. Im Journal steht deshalb, wann die Quelle erschienen ist und wo sie im Buch zitiert wird.
+> - Die Reflexion ab Juni heisst «Reflexion (rückblickend)» und stammt aus eurer Rückschau vom 9.11., aus dem Schlusswort und aus dem Kommentar.
+>
+> **Neu aus den Eigenschaften der Dateien (bitte mit dem KI-Nachweis abgleichen)**
+> - Buchtext in einem Word-Dokument: erstellt am 6.11.2026, 16:55 Uhr, 24 Seiten, rund 9'600 Wörter
+> - Erste Word-Datei des Journals mit den ausformulierten Einträgen: erstellt am **7.11.2026, 01:10 Uhr**. Bisher stand überall der 8.11. Im Journal steht jetzt «am 7. und 8. November». Im KI-Nachweis des Kommentars (Kapitel 10.6) steht bei dieser Eingabe noch der 8.11.
+> - Erste Word-Datei des Kommentars: erstellt am 8.11.2026, 10:15 Uhr
+> - Buch-PDF: am 8.11.2026 um 17:27 Uhr aus InDesign exportiert
+>
+> **Noch offen bei euch**
+> - Das Quellenverzeichnis zu Kapitel 3 vom 6.11. ist in der Ich-Form eines Assistenten geschrieben («die ich bei der Recherche geöffnet oder empfohlen habe»). Wenn dabei eine KI geholfen hat, gehört das in Eintrag 47 und in den KI-Nachweis.
+> - Punkt 1 der Prüfliste in [[Ergänzte Fassung vom 10.11.2026]] (CPBRD-Brief) gilt auch für Eintrag 32.
+> - Die Einleitung und die Einträge 48 bis 51 sagen, wie Journal und Kommentar mit Claude entstanden sind. Beim Umformulieren nicht weglassen.
+>
+> **Eigene Reflexion ergänzen (nur ihr könnt das)**
+> Bei 25 Einträgen gibt es keine Reflexion, weil dazu nichts festgehalten ist. Wenn ihr euch erinnert, schreibt pro Eintrag ein bis zwei Sätze in die Tabelle (neue Zeile «Reflexion») oder schickt sie Claude mit der Nummer des Eintrags.
+> - 11 (4.–18.6.): Wie lief das Zusammenfügen der zwei Teile, und was war beim Üben der Präsentation schwierig?
+> - 13 (20.–30.6.): Was habt ihr gedacht, als ihr gemerkt habt, dass das Buch über 40 Seiten hätte?
+> - 15 (3.7.): Wie sicher wart ihr, dass die Befragung in den Ferien etwas bringt?
+> - 16 (Sommerferien): Wie war es, wenn die Leute keine Antwort wussten? Ab wann war klar, dass es so nicht reicht?
+> - 17 und 18 (12.–20.8.): Wie war die Stimmung beim ersten Treffen? Warum habt ihr den Bananenketchup wieder fallen gelassen?
+> - 20 (26.8.): War die Aufteilung der Teile für alle in Ordnung?
+> - 21, 25, 29 (Aezri, Teil 1): Was war bei der Recherche am schwierigsten, was hat überrascht?
+> - 26 (Tim, Teil 2): Was war beim Schreiben über Matcha und die Unternehmen schwierig?
+> - 27, 33, 37, 42 (John): Was hat beim Ordnen der Fragen, bei den Zutatenlisten und beim Versuch mit Instagram nicht geklappt, und was hast du daraus mitgenommen?
+> - 31 (30.9.): Wie seid ihr auf die Aufteilung der Thesen gekommen, gab es andere Vorschläge?
+> - 34 (5.10.): Warum ein Interview statt der Umfrage?
+> - 36 (Tim, These 4): Was hat dich an den Zahlen des Ministeriums gestört?
+> - 39 (21.10.): Wie fand John es, zwei Thesen zusammenzulegen?
+> - 43 und 45 (Interview): Was habt ihr gedacht, als die Antworten kamen? Was hättet ihr gern nachgefragt?
+> - 46, 47, 48, 50 (4.–9.11.): Wie habt ihr die letzten Tage erlebt, was würdet ihr beim nächsten Mal früher machen?
+
+> [!info] Ausführliche Fassung vom 10.11.2026, 07:10 Uhr (Rückblicke über je zwei Wochen)
 > Word-Datei: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_ausfuehrlich.docx]] (23 Seiten, Arial, gleiche Tabelle wie um 06:20 Uhr), Lesekopie [[Arbeitsjournal (ausführliche Fassung 10.11.2026)]]. Auftrag von Aezri um 06:34 Uhr: das Journal viel ausführlicher schreiben und Einträge ergänzen, die wir vergessen haben. Der Text ist von rund 4'700 auf rund 10'200 Wörter gewachsen. Der bisherige Text steht unverändert darin, dazugekommen sind Absätze.
 >
 > **Woher der zusätzliche Text stammt**
