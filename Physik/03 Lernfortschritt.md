@@ -8,7 +8,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | Level | Thema | Stand | Letzte Prüfung |
 | --- | --- | --- | --- |
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
-| 1 | Ladung und elektrisches Feld | mit Hilfe gelöst (G20) | 11.11.2026 |
+| 1 | Ladung und elektrisches Feld | E = F/q ohne Hilfe gelöst (G19); Teil 2 (E = kQ/r²) erklärt | 11.11.2026 |
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | noch nicht begonnen | – |
 | 3 | Geladenes Teilchen im elektrischen Feld | noch nicht begonnen | – |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
@@ -37,3 +37,5 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | G20 erster Versuch | Formel falsch (E/e verwechselt), «positiv» richtig. Erklärt, zweiter Versuch läuft |
 | 11.11.2026 | G20 zweiter Versuch | Zahl richtig (1.16·10⁵ N/C), Richtung wieder unklar → erklärt: Süden. Nächste Aufgabe ohne Hilfe: G22 (negative Ladung) |
 | 11.11.2026 | G22 ohne Hilfe | Grösse ungefähr richtig (0.9·10⁶ statt 8.8·10⁵), Richtung falsch (down statt up). Erklärt. Nächste Aufgabe: G19 (Elektron, Kraft gesucht) |
+| 11.11.2026 | G19 ohne Hilfe | richtig: 3.94·10⁻¹⁶ N, west (Richtungsregel für negative Ladung richtig angewendet) |
+| 11.11.2026 | Lektion 3 (Level 1, Teil 2): E = kQ/r², weg/hin, 1/r², Exam B 1a(iii) | Aufgabe G21 gestellt |
