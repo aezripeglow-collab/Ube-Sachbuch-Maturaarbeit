@@ -18,7 +18,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 ## Typische Fehler (wird laufend ergänzt)
 - Umrechnen mit Zehnerpotenzen (z. B. 3.2·10⁵ N/C in kN/C) war am Anfang unklar, wurde mit «Päckchen zu 1000» erklärt
-- Einheit beim Resultat vergessen (320 statt 320 kN/C). An der Prüfung gibt es ohne Einheit keinen Punkt
+- **Einheit beim Resultat vergessen** (320 statt 320 kN/C; Exam B Q4: 8.01·10⁻¹⁷ ohne N). An der Prüfung gibt es ohne Einheit keinen Punkt. Kostete in Q4 die Punkte trotz richtiger Rechnung
 
 - Verwechslung von **E** (Feld) und **e** (Elementarladung); Formel als «q = e · F» statt **E = F/q** geschrieben
 - Richtung zu ungenau («toward the electric field», 2× passiert). Immer eine konkrete Richtung nennen (z. B. «south»)
@@ -42,7 +42,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - Abstand zur zweiten Ladung falsch (0.3 statt 0.1 m): Abstand = Differenz der Positionen
 - Pfeilrichtungen bei zwei positiven Ladungen vertauscht («weg von der eigenen Ladung»)
 
-- **Richtung beim Resultat vergessen** (3. Mal, Exam B 3a: 7.2·10⁶ ohne «to the right»). Gewohnheit üben: nach jedem Resultat «which way?»
+- **Richtung beim Resultat vergessen** (4. Mal, auch Exam B Q4; Exam B 3a: 7.2·10⁶ ohne «to the right»). Gewohnheit üben: nach jedem Resultat «which way?»
 
 - **Verhältnis in Abstände umrechnen** (x/y = 3, x + y = 20 cm) war schwer: rechnete 20 − 3, 3 · 20, 20/3. Mit «Blöcken» erklärt (3 + 1 = 4 Blöcke à 5 cm). Nächstes Mal wiederholen!
 - Komma nach **rechts** verschieben → Exponent −1 (0.133·10¹⁵ → 1.33·10¹⁴); schrieb 1.33·10¹⁵
@@ -77,6 +77,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Prüfung ist am Freitag 13.11. → Plan angepasst | Lektion 6 (Level 3): 5 Schritte von Exam B Q4. Aufgabe G23 gestellt |
 | 11.11.2026 | G23 Schritte 1–2 | Schritt 1 erklärt, dann F = 1.21·10⁻¹⁶ N richtig. a: Ziffern richtig, Exponent falsch (10¹⁵ statt 10¹⁴) → erklärt |
 | 11.11.2026 | G23 Schritt 3 | Richtung falsch («same direction» statt entgegengesetzt). Erklärt, Kontrollfrage Exam B Q4 (E nach oben) gestellt |
+| 11.11.2026 | Kontrollfrage Richtung | ohne Hilfe richtig: Kraft und Beschleunigung nach unten |
+| 11.11.2026 | **Exam B Q4 allein (Prüfungsbedingungen)** | **0/5**: F = 8.01·10⁻¹⁷ richtig, aber ohne Einheit und ohne Richtung; Gewicht fehlte; Vergleich «0.9·10⁻¹³» und a «9.9·10⁻²⁰ up» falsch. Wird Schritt für Schritt nachgearbeitet |
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
 | Wann | Was |
