@@ -36,6 +36,9 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - Richtung als Minuszeichen geschrieben (−3·10⁵ N/C) statt in Worten. Feldstärke immer positiv, Richtung in Worten (toward/away, left/right)
 
+- **Probeladung entfernt → Feld bleibt gleich** (Exam B 1a iii): dachte, das Feld verschwindet. Vergleich mit Thermometer erklärt, nochmals prüfen!
+- Feldlinien +/−: «stärkstes Feld zwischen den Ladungen» vergessen
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -54,3 +57,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Example 16-7 ohne Hilfe | Grösse richtig (3·10⁵ N/C), Richtung nur als «−». Nachfrage nach Richtung in Worten läuft |
 | 11.11.2026 | Example 16-7 Richtung | «left» richtig → 3.0·10⁵ N/C nach links (zur negativen Ladung) |
 | 11.11.2026 | Lektion 4 (Level 1, Teil 3): Feldlinien | 4 Verständnisfragen gestellt (Exam B 2a i/ii, G25, Exam B 1a iii) |
+| 11.11.2026 | Feldlinien-Fragen | 1 richtig, 2 teilweise (stärkste Stelle fehlte), 3 richtig (G25), 4 falsch (Feld verschwindet). Erklärt, 2 und 4 nochmals gestellt |
