@@ -34,6 +34,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - Taschenrechner-Resultat nicht überprüft (1.4·10⁸ statt 6.3·10⁶). Schätztrick gelernt: ÷ 0.05 = · 20
 
+- Richtung als Minuszeichen geschrieben (−3·10⁵ N/C) statt in Worten. Feldstärke immer positiv, Richtung in Worten (toward/away, left/right)
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -49,3 +51,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | G21 erster Versuch | falsch (1.52·10⁻⁴, = Q/r). Wird jetzt in 4 Schritten gemeinsam gerechnet |
 | 11.11.2026 | G21 Schritte 1–2 | r² = 0.047 richtig; k·Q mit Exponentenfehler (10⁶ statt 10⁵). Erklärt, Schritte 3–4 laufen |
 | 11.11.2026 | G21 Schritte 3–4 | Richtung richtig (up, away). Zahl erst falsch (1.4·10⁸), mit Schätzung korrigiert auf ≈ 6·10⁶ N/C. G21 mit Hilfe gelöst. Nächste Aufgabe ohne Hilfe: Example 16-7 (negative Ladung) |
+| 11.11.2026 | Example 16-7 ohne Hilfe | Grösse richtig (3·10⁵ N/C), Richtung nur als «−». Nachfrage nach Richtung in Worten läuft |
