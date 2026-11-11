@@ -7,8 +7,8 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 ## Stand nach Level
 | Level | Thema | Stand | Letzte Prüfung |
 | --- | --- | --- | --- |
-| 0 | Vorsilben, Richtungen, F = ma | mit Hilfe gelöst | 11.11.2026 |
-| 1 | Ladung und elektrisches Feld | noch nicht begonnen | – |
+| 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
+| 1 | Ladung und elektrisches Feld | erklärt (Teil 1: E = F/q, Richtung) | – |
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | noch nicht begonnen | – |
 | 3 | Geladenes Teilchen im elektrischen Feld | noch nicht begonnen | – |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
@@ -25,3 +25,5 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | --- | --- | --- |
 | 11.11.2026 | Zusammenfassung (Level 0–5, Englisch) und Glossar erstellt, Unterlagen im Vault abgelegt | Start der Lerneinheiten |
 | 11.11.2026 | Lektion 1 (Level 0): Vorsilben, Richtungen, F = ma. Aufgabe 1 (Exam B 1b) nochmals Schritt für Schritt erklärt | Aufgabe 1 mit Hilfe richtig (320 kN/C, Einheit fehlte). Aufgabe 2: Schritt nC → C richtig (1.2·10⁻⁵, Einheit C fehlte), Schritt C → mC richtig, mit Einheit (1.2·10⁻² mC). Danach Prüfung ohne Hilfe gestellt: ⊗, 8.0 µC in C, 6.0 cm in m (aus G24) |
+| 11.11.2026 | Prüfung Level 0 ohne Hilfe: ⊗, 8.0 µC → 8.0·10⁻⁶ C, 6.0 cm → 6.0·10⁻² m | alle 3 richtig, mit Einheiten. Level 0 geschafft |
+| 11.11.2026 | Lektion 2 (Level 1, Teil 1): Ladung, Feldbegriff, E = F/q, Richtungsregel, Beispiel Exam B 1a | Aufgabe G20 (Proton, Kraft nach Süden) gestellt |
