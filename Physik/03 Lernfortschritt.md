@@ -24,7 +24,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - Richtung zu ungenau («toward the electric field», 2× passiert). Immer eine konkrete Richtung nennen (z. B. «south»)
 - Zu viele Stellen (1.161 statt 1.16): so viele Stellen wie die gegebenen Werte
 
-- **Richtungsregel bei negativer Ladung noch nicht sicher** (G22: «down» statt «up»). Negative Ladung → Feld entgegengesetzt zur Kraft. Weiter üben!
+- **Richtungsregel bei negativer Ladung noch nicht sicher** (G22: «down» statt «up»; G23: «same direction» statt «opposite»). Merksatz: «Negative charges go against the field.» Negative Ladung → Feld entgegengesetzt zur Kraft. Weiter üben!
 - Wissenschaftliche Schreibweise: erste Zahl zwischen 1 und 10 (8.8·10⁵ statt 0.9·10⁶)
 
 - G21: nur **Q ÷ r** gerechnet → **k vergessen und r nicht quadriert**; Einheit von k statt N/C geschrieben; Richtung fehlte
@@ -76,6 +76,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Kontrollfrage: Verhältnis 2 → wie viele Blöcke? | **ohne Hilfe richtig: 3** |
 | 11.11.2026 | Prüfung ist am Freitag 13.11. → Plan angepasst | Lektion 6 (Level 3): 5 Schritte von Exam B Q4. Aufgabe G23 gestellt |
 | 11.11.2026 | G23 Schritte 1–2 | Schritt 1 erklärt, dann F = 1.21·10⁻¹⁶ N richtig. a: Ziffern richtig, Exponent falsch (10¹⁵ statt 10¹⁴) → erklärt |
+| 11.11.2026 | G23 Schritt 3 | Richtung falsch («same direction» statt entgegengesetzt). Erklärt, Kontrollfrage Exam B Q4 (E nach oben) gestellt |
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
 | Wann | Was |
