@@ -95,6 +95,25 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
 
 ## Hier geht es weiter (Do 12.11.)
+
+**Zeitplan Donnerstag** (Schule bis 15:00, zu Hause ab 16:00, schlafen um 23:00, ca. 3½ h echtes Lernen):
+
+| Zeit | Was |
+| --- | --- |
+| 16:00–16:30 | Ankommen, essen, ausruhen |
+| 16:30–17:30 | Block 1: Exam B Q6 (Stromleitung) und Q7 (zwei Leiter) |
+| 17:30–17:45 | Pause |
+| 17:45–18:30 | Block 2: Q1c (Elektromagnet), Q2b (Stabmagnete), kurz Q3b (Blöcke) und Q4 (Exponenten) wiederholen |
+| 18:30–19:15 | Abendessen |
+| 19:15–20:00 | **Ganze Exam B in 45 Minuten**, mit Zeitmessung |
+| 20:00–20:15 | Pause |
+| 20:15–21:15 | Mit dem Lösungsschlüssel korrigieren, jeden Fehler nochmals rechnen |
+| 21:15–21:45 | Exam-Checkliste und typische Fehler durchgehen |
+| ab 22:00 | Nicht mehr lernen, entspannen, Sachen bereitmachen, 23:00 schlafen |
+
+- In der Schule: Lehrer fragen, ob Level 5 (Lorentzkraft, Kreisbahn, Spule) an der Prüfung kommt.
+- In einer Schulpause: «Check yourself» von Level 0–2 in [[01 Electric and Magnetic Fields – Summary]] durchgehen.
+
 1. **Exam B Q6** (Stromleitung, 200 A): a) r = 2·10⁻⁷·I/B mit 50 µT = 5.0·10⁻⁵ T → 0.80 m; b) unter der Leitung **in die Ebene**. Aufgabe ist gestellt, aber noch nicht beantwortet
 2. **Exam B Q7** (zwei Leiter): Feld im Mittelpunkt und Nullstelle mit Blockregel (ohne Wurzel!)
 3. **Exam B Q1c** (Elektromagnet) und **Q2b** (zwei Stabmagnete, Feldlinien)
