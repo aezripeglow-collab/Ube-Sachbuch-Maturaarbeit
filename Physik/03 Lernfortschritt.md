@@ -39,6 +39,9 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - **Probeladung entfernt → Feld bleibt gleich** (Exam B 1a iii): dachte, das Feld verschwindet. Vergleich mit Thermometer erklärt, nochmals prüfen!
 - Feldlinien +/−: «stärkstes Feld zwischen den Ladungen» vergessen
 
+- Abstand zur zweiten Ladung falsch (0.3 statt 0.1 m): Abstand = Differenz der Positionen
+- Pfeilrichtungen bei zwei positiven Ladungen vertauscht («weg von der eigenen Ladung»)
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -60,3 +63,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Feldlinien-Fragen | 1 richtig, 2 teilweise (stärkste Stelle fehlte), 3 richtig (G25), 4 falsch (Feld verschwindet). Erklärt, 2 und 4 nochmals gestellt |
 | 11.11.2026 | Feldlinien 2. Versuch | 4 richtig (Feld bleibt, Quellladung erzeugt es), 2 richtig (zwischen den Ladungen). **Level 1 geschafft** |
 | 11.11.2026 | Lektion 5 (Level 2): Überlagerung, 4-Schritte-Methode | Aufgabe Exam B 3a (Feld im Mittelpunkt) gestellt |
+| 11.11.2026 | Exam B 3a Schritte 1–3 | r₁ richtig, r₂ falsch (0.3), Richtungen vertauscht, E₁ = 8.1·10⁶ richtig, E₂ falsch. Erklärt mit Skizze, E₂ und Schritt 4 laufen |
