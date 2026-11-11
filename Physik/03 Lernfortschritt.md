@@ -20,6 +20,9 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - Umrechnen mit Zehnerpotenzen (z. B. 3.2·10⁵ N/C in kN/C) war am Anfang unklar, wurde mit «Päckchen zu 1000» erklärt
 - Einheit beim Resultat vergessen (320 statt 320 kN/C). An der Prüfung gibt es ohne Einheit keinen Punkt
 
+- Verwechslung von **E** (Feld) und **e** (Elementarladung); Formel als «q = e · F» statt **E = F/q** geschrieben
+- Richtung zu ungenau («towards the electric field»). Immer eine konkrete Richtung nennen (z. B. «south»)
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -27,3 +30,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Lektion 1 (Level 0): Vorsilben, Richtungen, F = ma. Aufgabe 1 (Exam B 1b) nochmals Schritt für Schritt erklärt | Aufgabe 1 mit Hilfe richtig (320 kN/C, Einheit fehlte). Aufgabe 2: Schritt nC → C richtig (1.2·10⁻⁵, Einheit C fehlte), Schritt C → mC richtig, mit Einheit (1.2·10⁻² mC). Danach Prüfung ohne Hilfe gestellt: ⊗, 8.0 µC in C, 6.0 cm in m (aus G24) |
 | 11.11.2026 | Prüfung Level 0 ohne Hilfe: ⊗, 8.0 µC → 8.0·10⁻⁶ C, 6.0 cm → 6.0·10⁻² m | alle 3 richtig, mit Einheiten. Level 0 geschafft |
 | 11.11.2026 | Lektion 2 (Level 1, Teil 1): Ladung, Feldbegriff, E = F/q, Richtungsregel, Beispiel Exam B 1a | Aufgabe G20 (Proton, Kraft nach Süden) gestellt |
+| 11.11.2026 | G20 erster Versuch | Formel falsch (E/e verwechselt), «positiv» richtig. Erklärt, zweiter Versuch läuft |
