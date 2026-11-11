@@ -91,7 +91,14 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Exam B Q5 | b) richtig (Umkehr → im Uhrzeigersinn). a) erst leer, dann mit Skizze: 3 down und 4 up richtig, 1 und 2 vertauscht (right/left statt left/right). Kontrolle mit Strom in die Ebene ⊗ gestellt |
 | 11.11.2026 | Kompasse bei Strom in die Ebene ⊗ | **ohne Hilfe alle 4 richtig** (right, left, up, down) |
 | 11.11.2026 | Lektion 8 (Level 4, Teil 2): B = μ₀I/2πr = 2·10⁻⁷·I/r, Leiter in der Ebene | Aufgabe Exam B Q6 gestellt |
+| 11.11.2026 | Übersicht der Fortschritte gezeigt, Ende der Lerneinheit (ca. 2 h 15 min) | Exam B: 14 Punkte allein, 11 mit Hilfe, 18 noch offen. Q6 noch nicht beantwortet |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
+
+## Hier geht es weiter (Do 12.11.)
+1. **Exam B Q6** (Stromleitung, 200 A): a) r = 2·10⁻⁷·I/B mit 50 µT = 5.0·10⁻⁵ T → 0.80 m; b) unter der Leitung **in die Ebene**. Aufgabe ist gestellt, aber noch nicht beantwortet
+2. **Exam B Q7** (zwei Leiter): Feld im Mittelpunkt und Nullstelle mit Blockregel (ohne Wurzel!)
+3. **Exam B Q1c** (Elektromagnet) und **Q2b** (zwei Stabmagnete, Feldlinien)
+4. **Ganze Exam B in 45 Minuten**, mit Lösungsschlüssel korrigieren, Schwächen wiederholen (besonders Q3 und Q4)
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
 | Wann | Was |
