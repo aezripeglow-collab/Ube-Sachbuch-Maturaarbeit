@@ -11,7 +11,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | 1 | Ladung und elektrisches Feld | **ohne Hilfe gelöst** ✅ (G19, Ex. 16-7, Feldlinien, Exam B 1a iii) | 11.11.2026 |
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst, Blockregel ohne Hilfe | 11.11.2026 |
 | 3 | Geladenes Teilchen im elektrischen Feld | mit Hilfe gelöst (G23, Exam B Q4). Am Do in der Probeprüfung nochmals | 11.11.2026 |
-| 4 | Magnete, Leiter, Rechte-Hand-Regel | erklärt (Teil 1: Rechte-Hand-Regel, ⊙/⊗) | – |
+| 4 | Magnete, Leiter, Rechte-Hand-Regel | Kompasse um Leiter ohne Hilfe gelöst; Teil 2 (B = μ₀I/2πr) erklärt | 11.11.2026 |
 | 5 | Magnetische Kräfte, Kreisbahn, Spule | noch nicht begonnen | – |
 
 Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne Hilfe gelöst**. Ein Level gilt als geschafft, wenn Aezri zwei Aufgaben hintereinander ohne Hilfe richtig löst.
@@ -89,6 +89,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Kontrollfrage Exponent | ohne Hilfe richtig: 12 |
 | 11.11.2026 | Lektion 7 (Level 4, Teil 1): Magnete, Kompass, Rechte-Hand-Regel, ⊙ ↺ / ⊗ ↻ | Aufgabe Exam B Q5 (Kompasse) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (Umkehr → im Uhrzeigersinn). a) erst leer, dann mit Skizze: 3 down und 4 up richtig, 1 und 2 vertauscht (right/left statt left/right). Kontrolle mit Strom in die Ebene ⊗ gestellt |
+| 11.11.2026 | Kompasse bei Strom in die Ebene ⊗ | **ohne Hilfe alle 4 richtig** (right, left, up, down) |
+| 11.11.2026 | Lektion 8 (Level 4, Teil 2): B = μ₀I/2πr = 2·10⁻⁷·I/r, Leiter in der Ebene | Aufgabe Exam B Q6 gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
