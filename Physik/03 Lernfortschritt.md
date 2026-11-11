@@ -27,6 +27,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - **Richtungsregel bei negativer Ladung noch nicht sicher** (G22: «down» statt «up»). Negative Ladung → Feld entgegengesetzt zur Kraft. Weiter üben!
 - Wissenschaftliche Schreibweise: erste Zahl zwischen 1 und 10 (8.8·10⁵ statt 0.9·10⁶)
 
+- G21: nur **Q ÷ r** gerechnet → **k vergessen und r nicht quadriert**; Einheit von k statt N/C geschrieben; Richtung fehlte
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -39,3 +41,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | G22 ohne Hilfe | Grösse ungefähr richtig (0.9·10⁶ statt 8.8·10⁵), Richtung falsch (down statt up). Erklärt. Nächste Aufgabe: G19 (Elektron, Kraft gesucht) |
 | 11.11.2026 | G19 ohne Hilfe | richtig: 3.94·10⁻¹⁶ N, west (Richtungsregel für negative Ladung richtig angewendet) |
 | 11.11.2026 | Lektion 3 (Level 1, Teil 2): E = kQ/r², weg/hin, 1/r², Exam B 1a(iii) | Aufgabe G21 gestellt |
+| 11.11.2026 | G21 erster Versuch | falsch (1.52·10⁻⁴, = Q/r). Wird jetzt in 4 Schritten gemeinsam gerechnet |
