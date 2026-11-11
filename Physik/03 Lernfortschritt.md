@@ -8,7 +8,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | Level | Thema | Stand | Letzte Prüfung |
 | --- | --- | --- | --- |
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
-| 1 | Ladung und elektrisches Feld | erklärt (Teil 1: E = F/q, Richtung) | – |
+| 1 | Ladung und elektrisches Feld | mit Hilfe gelöst (G20) | 11.11.2026 |
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | noch nicht begonnen | – |
 | 3 | Geladenes Teilchen im elektrischen Feld | noch nicht begonnen | – |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
@@ -21,7 +21,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - Einheit beim Resultat vergessen (320 statt 320 kN/C). An der Prüfung gibt es ohne Einheit keinen Punkt
 
 - Verwechslung von **E** (Feld) und **e** (Elementarladung); Formel als «q = e · F» statt **E = F/q** geschrieben
-- Richtung zu ungenau («towards the electric field»). Immer eine konkrete Richtung nennen (z. B. «south»)
+- Richtung zu ungenau («toward the electric field», 2× passiert). Immer eine konkrete Richtung nennen (z. B. «south»)
+- Zu viele Stellen (1.161 statt 1.16): so viele Stellen wie die gegebenen Werte
 
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
@@ -31,3 +32,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Prüfung Level 0 ohne Hilfe: ⊗, 8.0 µC → 8.0·10⁻⁶ C, 6.0 cm → 6.0·10⁻² m | alle 3 richtig, mit Einheiten. Level 0 geschafft |
 | 11.11.2026 | Lektion 2 (Level 1, Teil 1): Ladung, Feldbegriff, E = F/q, Richtungsregel, Beispiel Exam B 1a | Aufgabe G20 (Proton, Kraft nach Süden) gestellt |
 | 11.11.2026 | G20 erster Versuch | Formel falsch (E/e verwechselt), «positiv» richtig. Erklärt, zweiter Versuch läuft |
+| 11.11.2026 | G20 zweiter Versuch | Zahl richtig (1.16·10⁵ N/C), Richtung wieder unklar → erklärt: Süden. Nächste Aufgabe ohne Hilfe: G22 (negative Ladung) |
