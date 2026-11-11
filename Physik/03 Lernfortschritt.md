@@ -9,7 +9,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | --- | --- | --- | --- |
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
 | 1 | Ladung und elektrisches Feld | **ohne Hilfe gelöst** ✅ (G19, Ex. 16-7, Feldlinien, Exam B 1a iii) | 11.11.2026 |
-| 2 | Zwei Ladungen, Überlagerung, Nullstelle | erklärt | – |
+| 2 | Zwei Ladungen, Überlagerung, Nullstelle | Feld im Mittelpunkt mit Hilfe gelöst (Exam B 3a) | 11.11.2026 |
 | 3 | Geladenes Teilchen im elektrischen Feld | noch nicht begonnen | – |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
 | 5 | Magnetische Kräfte, Kreisbahn, Spule | noch nicht begonnen | – |
@@ -42,6 +42,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - Abstand zur zweiten Ladung falsch (0.3 statt 0.1 m): Abstand = Differenz der Positionen
 - Pfeilrichtungen bei zwei positiven Ladungen vertauscht («weg von der eigenen Ladung»)
 
+- **Richtung beim Resultat vergessen** (3. Mal, Exam B 3a: 7.2·10⁶ ohne «to the right»). Gewohnheit üben: nach jedem Resultat «which way?»
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -64,3 +66,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Feldlinien 2. Versuch | 4 richtig (Feld bleibt, Quellladung erzeugt es), 2 richtig (zwischen den Ladungen). **Level 1 geschafft** |
 | 11.11.2026 | Lektion 5 (Level 2): Überlagerung, 4-Schritte-Methode | Aufgabe Exam B 3a (Feld im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B 3a Schritte 1–3 | r₁ richtig, r₂ falsch (0.3), Richtungen vertauscht, E₁ = 8.1·10⁶ richtig, E₂ falsch. Erklärt mit Skizze, E₂ und Schritt 4 laufen |
+| 11.11.2026 | Exam B 3a fertig | E₂ = 8.99·10⁵ und E = 7.2·10⁶ N/C richtig, Richtung fehlte (2/3 Punkte). Exam B 3b (Nullstelle) begonnen |
