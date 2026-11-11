@@ -134,6 +134,15 @@ $$k\frac{Q_1}{x^2} = k\frac{Q_2}{y^2} \quad\Rightarrow\quad \boxed{\frac{x}{y} =
 **Example (Exam B, Q3b):** $Q_1 = +9.0\ \mu\text{C}$, $Q_2 = +1.0\ \mu\text{C}$, 20 cm apart.
 $x/y = \sqrt{9} = 3$ and $x + y = 20$ cm → $y = 5$ cm, **$x = 15$ cm from $Q_1$**.
 
+> [!tip] The blocks method
+> Turn the ratio into equal blocks: **y gets 1 block, x gets as many blocks as the ratio.** Total = ratio + 1.
+> Exam B Q3b: ratio 3 → 3 + 1 = **4 blocks** → one block = 20 cm ÷ 4 = 5 cm → **x = 3 · 5 cm = 15 cm**, y = 5 cm.
+> ```
+> Q₁ ●──5──┬──5──┬──5──✕──5──● Q₂
+>    |←──── x = 15 cm ──→|← y →|
+> ```
+> The same works for two wires (Level 4), but there the ratio has **no square root**.
+
 > [!question]- Check yourself (Level 2) – Answer
 > *From your Giancoli problems 24, 32 and 34.*
 > 1. **(G24)** Field midway between −8.0 µC and +5.8 µC, 6.0 cm apart? → opposite signs → both arrows point towards the negative charge → add: $E = \frac{k}{(0.030)^2}(8.0 + 5.8)\cdot10^{-6} =$ **1.4·10⁸ N/C, towards the negative charge**
