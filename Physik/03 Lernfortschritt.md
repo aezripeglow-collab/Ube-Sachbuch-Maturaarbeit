@@ -29,6 +29,9 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - G21: nur **Q ÷ r** gerechnet → **k vergessen und r nicht quadriert**; Einheit von k statt N/C geschrieben; Richtung fehlte
 
+- Exponent beim Verschieben des Kommas falsch angepasst (296.67·10³ → 2.97·10⁶ statt 10⁵). Regel: Komma 1 Stelle nach links = Exponent +1
+- Fragte, woher 8.99 kommt: k = 8.99·10⁹ (vom Formelblatt) erklärt, das ·10⁹ gehört dazu
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -42,3 +45,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | G19 ohne Hilfe | richtig: 3.94·10⁻¹⁶ N, west (Richtungsregel für negative Ladung richtig angewendet) |
 | 11.11.2026 | Lektion 3 (Level 1, Teil 2): E = kQ/r², weg/hin, 1/r², Exam B 1a(iii) | Aufgabe G21 gestellt |
 | 11.11.2026 | G21 erster Versuch | falsch (1.52·10⁻⁴, = Q/r). Wird jetzt in 4 Schritten gemeinsam gerechnet |
+| 11.11.2026 | G21 Schritte 1–2 | r² = 0.047 richtig; k·Q mit Exponentenfehler (10⁶ statt 10⁵). Erklärt, Schritte 3–4 laufen |
