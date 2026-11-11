@@ -47,6 +47,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - **Verhältnis in Abstände umrechnen** (x/y = 3, x + y = 20 cm) war schwer: rechnete 20 − 3, 3 · 20, 20/3. Mit «Blöcken» erklärt (3 + 1 = 4 Blöcke à 5 cm). Nächstes Mal wiederholen!
 - Komma nach **rechts** verschieben → Exponent −1 (0.133·10¹⁵ → 1.33·10¹⁴); schrieb 1.33·10¹⁵
 
+- **Minus minus beim Exponenten:** −17 − (−30) = +13, nicht −13 (Exam B Q4: 10⁻¹³ statt 10¹³)
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -79,6 +81,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | G23 Schritt 3 | Richtung falsch («same direction» statt entgegengesetzt). Erklärt, Kontrollfrage Exam B Q4 (E nach oben) gestellt |
 | 11.11.2026 | Kontrollfrage Richtung | ohne Hilfe richtig: Kraft und Beschleunigung nach unten |
 | 11.11.2026 | **Exam B Q4 allein (Prüfungsbedingungen)** | **0/5**: F = 8.01·10⁻¹⁷ richtig, aber ohne Einheit und ohne Richtung; Gewicht fehlte; Vergleich «0.9·10⁻¹³» und a «9.9·10⁻²⁰ up» falsch. Wird Schritt für Schritt nachgearbeitet |
+| 11.11.2026 | Exam B Q4 Lösungsweg erklärt | Gewicht 8.9·10⁻³⁰ N, Vergleich 0.9·10¹³ (ihre 0.9 war richtig, nur Vorzeichen des Exponenten falsch), a = 8.8·10¹³ m/s² nach unten. Kontrollfrage: −19 − (−31) |
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
 | Wann | Was |
