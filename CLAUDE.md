@@ -13,8 +13,8 @@ Dieses Repository ist mein **Obsidian-Vault für alles, was mich im Alltag besch
 ## Bereiche
 Jeder Lebensbereich hat einen eigenen Ordner im Hauptverzeichnis.
 
-| Ordner | Inhalt |
-| --- | --- |
+| Ordner                       | Inhalt                                                                                                 |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
 | `Ube Sachbuch Maturaarbeit/` | Maturaarbeit im Team mit Tim und John: Sachbuch über Ube, Abgabe 10.11.2026. Startpunkt: `00 Start.md` |
 
 Neue Bereiche bitte hier in der Tabelle ergänzen.
