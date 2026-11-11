@@ -9,7 +9,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | --- | --- | --- | --- |
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
 | 1 | Ladung und elektrisches Feld | **ohne Hilfe gelöst** ✅ (G19, Ex. 16-7, Feldlinien, Exam B 1a iii) | 11.11.2026 |
-| 2 | Zwei Ladungen, Überlagerung, Nullstelle | Feld im Mittelpunkt mit Hilfe gelöst (Exam B 3a) | 11.11.2026 |
+| 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst | 11.11.2026 |
 | 3 | Geladenes Teilchen im elektrischen Feld | noch nicht begonnen | – |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
 | 5 | Magnetische Kräfte, Kreisbahn, Spule | noch nicht begonnen | – |
@@ -44,6 +44,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - **Richtung beim Resultat vergessen** (3. Mal, Exam B 3a: 7.2·10⁶ ohne «to the right»). Gewohnheit üben: nach jedem Resultat «which way?»
 
+- **Verhältnis in Abstände umrechnen** (x/y = 3, x + y = 20 cm) war schwer: rechnete 20 − 3, 3 · 20, 20/3. Mit «Blöcken» erklärt (3 + 1 = 4 Blöcke à 5 cm). Nächstes Mal wiederholen!
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -68,3 +70,10 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Exam B 3a Schritte 1–3 | r₁ richtig, r₂ falsch (0.3), Richtungen vertauscht, E₁ = 8.1·10⁶ richtig, E₂ falsch. Erklärt mit Skizze, E₂ und Schritt 4 laufen |
 | 11.11.2026 | Exam B 3a fertig | E₂ = 8.99·10⁵ und E = 7.2·10⁶ N/C richtig, Richtung fehlte (2/3 Punkte). Exam B 3b (Nullstelle) begonnen |
 | 11.11.2026 | Exam B 3b Überlegung | Frage A («nur zwischen den Ladungen») wusste sie nicht → mit Skizze erklärt. Frage B richtig: Nullstelle näher bei der kleineren Ladung. Abkürzung x/y = √(Q₁/Q₂) eingeführt |
+| 11.11.2026 | Exam B 3b Rechnung | √9 = 3 richtig. Aufteilen in Blöcke nur mit viel Hilfe: 1 Block = 5 cm richtig, x = 15 cm gezeigt. Ende der Lerneinheit |
+
+## Nächste Lerneinheit
+1. Kurze Wiederholung: Nullstellen-Methode mit Blöcken (Exam B 3b nochmals selbst rechnen)
+2. Dann Giancoli 34 (Verhältnis Q₁/Q₂, wenn die Nullstelle bei einem Drittel liegt) ohne Hilfe
+3. Danach Giancoli 24 (entgegengesetzte Ladungen, Felder addieren) und Giancoli 32 (Nullstelle ausserhalb)
+4. Gewohnheit prüfen: Richtung und Einheit bei jedem Resultat
