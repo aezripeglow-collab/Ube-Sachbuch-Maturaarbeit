@@ -5,7 +5,18 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 ## Aktuelles Thema: Elektrische und magnetische Felder
 - Prüfung: 45 Minuten, 43 Punkte, Taschenrechner und Formelblatt erlaubt (Stand: Übungsprüfung «Exam B»).
 - Prüfungsdatum: noch offen, hier eintragen.
-- Lernsystem von Claude (Lektionen, Diagnose, Training, Probeprüfung): https://claude.ai/artifact/PMHLVrWMvG81uikvKMBwxb
+- Lernsystem von Claude (Lektionen, Diagnose, Training, Probeprüfung): https://claude.ai/artifact/PMHLVrWMvG81uikvKMBwxb (Achtung: enthält auch Übungen mit eigenen Zahlen von Claude, nicht nur Aufgaben aus den Unterlagen)
+
+## Notizen
+- [[01 Electric and Magnetic Fields – Summary]]: Zusammenfassung auf Englisch, von Grund auf in Level 0 bis 5 aufgebaut
+- [[02 Glossary English–German]]: Fachwörter Englisch–Deutsch
+- [[03 Lernfortschritt]]: was sitzt, was noch nicht, Protokoll aller Lerneinheiten
+- `Unterlagen/`: Aezris Originaldateien (Formelblatt, Exam B mit Lösungen, Lösung des Lehrers, Study-Problems-Regeln, Klassenaufgaben, Buchkapitel)
+
+## Regeln für Claude in diesem Bereich
+- **Nur Aezris eigene Unterlagen** aus `Unterlagen/` verwenden, keine fremden Quellen und keine selbst erfundenen Aufgaben.
+- Auf Englisch unterrichten, von Grund auf, und Schritt für Schritt steigern.
+- Jeden Lernfortschritt in [[03 Lernfortschritt]] eintragen und im Vault (Branch main) speichern.
 
 ## Themenübersicht
 | Thema | In Exam B? |
