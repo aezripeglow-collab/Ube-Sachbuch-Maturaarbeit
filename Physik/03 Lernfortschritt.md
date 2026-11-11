@@ -10,8 +10,8 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
 | 1 | Ladung und elektrisches Feld | **ohne Hilfe gelöst** ✅ (G19, Ex. 16-7, Feldlinien, Exam B 1a iii) | 11.11.2026 |
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst, Blockregel ohne Hilfe | 11.11.2026 |
-| 3 | Geladenes Teilchen im elektrischen Feld | erklärt | – |
-| 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
+| 3 | Geladenes Teilchen im elektrischen Feld | mit Hilfe gelöst (G23, Exam B Q4). Am Do in der Probeprüfung nochmals | 11.11.2026 |
+| 4 | Magnete, Leiter, Rechte-Hand-Regel | erklärt (Teil 1: Rechte-Hand-Regel, ⊙/⊗) | – |
 | 5 | Magnetische Kräfte, Kreisbahn, Spule | noch nicht begonnen | – |
 
 Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne Hilfe gelöst**. Ein Level gilt als geschafft, wenn Aezri zwei Aufgaben hintereinander ohne Hilfe richtig löst.
@@ -82,6 +82,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Kontrollfrage Richtung | ohne Hilfe richtig: Kraft und Beschleunigung nach unten |
 | 11.11.2026 | **Exam B Q4 allein (Prüfungsbedingungen)** | **0/5**: F = 8.01·10⁻¹⁷ richtig, aber ohne Einheit und ohne Richtung; Gewicht fehlte; Vergleich «0.9·10⁻¹³» und a «9.9·10⁻²⁰ up» falsch. Wird Schritt für Schritt nachgearbeitet |
 | 11.11.2026 | Exam B Q4 Lösungsweg erklärt | Gewicht 8.9·10⁻³⁰ N, Vergleich 0.9·10¹³ (ihre 0.9 war richtig, nur Vorzeichen des Exponenten falsch), a = 8.8·10¹³ m/s² nach unten. Kontrollfrage: −19 − (−31) |
+| 11.11.2026 | Kontrollfrage Exponent | ohne Hilfe richtig: 12 |
+| 11.11.2026 | Lektion 7 (Level 4, Teil 1): Magnete, Kompass, Rechte-Hand-Regel, ⊙ ↺ / ⊗ ↻ | Aufgabe Exam B Q5 (Kompasse) gestellt |
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
 | Wann | Was |
