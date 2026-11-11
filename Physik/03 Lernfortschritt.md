@@ -8,7 +8,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | Level | Thema | Stand | Letzte Prüfung |
 | --- | --- | --- | --- |
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
-| 1 | Ladung und elektrisches Feld | E = F/q ohne Hilfe gelöst (G19); Teil 2 (E = kQ/r²) erklärt | 11.11.2026 |
+| 1 | Ladung und elektrisches Feld | E = F/q und E = kQ/r² ohne Hilfe gelöst (G19, Ex. 16-7); Teil 3 Feldlinien erklärt | 11.11.2026 |
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | noch nicht begonnen | – |
 | 3 | Geladenes Teilchen im elektrischen Feld | noch nicht begonnen | – |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
@@ -52,3 +52,5 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | G21 Schritte 1–2 | r² = 0.047 richtig; k·Q mit Exponentenfehler (10⁶ statt 10⁵). Erklärt, Schritte 3–4 laufen |
 | 11.11.2026 | G21 Schritte 3–4 | Richtung richtig (up, away). Zahl erst falsch (1.4·10⁸), mit Schätzung korrigiert auf ≈ 6·10⁶ N/C. G21 mit Hilfe gelöst. Nächste Aufgabe ohne Hilfe: Example 16-7 (negative Ladung) |
 | 11.11.2026 | Example 16-7 ohne Hilfe | Grösse richtig (3·10⁵ N/C), Richtung nur als «−». Nachfrage nach Richtung in Worten läuft |
+| 11.11.2026 | Example 16-7 Richtung | «left» richtig → 3.0·10⁵ N/C nach links (zur negativen Ladung) |
+| 11.11.2026 | Lektion 4 (Level 1, Teil 3): Feldlinien | 4 Verständnisfragen gestellt (Exam B 2a i/ii, G25, Exam B 1a iii) |
