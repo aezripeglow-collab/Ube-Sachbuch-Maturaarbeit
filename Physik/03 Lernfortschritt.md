@@ -24,6 +24,9 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - Richtung zu ungenau («toward the electric field», 2× passiert). Immer eine konkrete Richtung nennen (z. B. «south»)
 - Zu viele Stellen (1.161 statt 1.16): so viele Stellen wie die gegebenen Werte
 
+- **Richtungsregel bei negativer Ladung noch nicht sicher** (G22: «down» statt «up»). Negative Ladung → Feld entgegengesetzt zur Kraft. Weiter üben!
+- Wissenschaftliche Schreibweise: erste Zahl zwischen 1 und 10 (8.8·10⁵ statt 0.9·10⁶)
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -33,3 +36,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Lektion 2 (Level 1, Teil 1): Ladung, Feldbegriff, E = F/q, Richtungsregel, Beispiel Exam B 1a | Aufgabe G20 (Proton, Kraft nach Süden) gestellt |
 | 11.11.2026 | G20 erster Versuch | Formel falsch (E/e verwechselt), «positiv» richtig. Erklärt, zweiter Versuch läuft |
 | 11.11.2026 | G20 zweiter Versuch | Zahl richtig (1.16·10⁵ N/C), Richtung wieder unklar → erklärt: Süden. Nächste Aufgabe ohne Hilfe: G22 (negative Ladung) |
+| 11.11.2026 | G22 ohne Hilfe | Grösse ungefähr richtig (0.9·10⁶ statt 8.8·10⁵), Richtung falsch (down statt up). Erklärt. Nächste Aufgabe: G19 (Elektron, Kraft gesucht) |
