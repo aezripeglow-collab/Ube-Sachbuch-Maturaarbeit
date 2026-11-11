@@ -24,4 +24,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
 | 11.11.2026 | Zusammenfassung (Level 0–5, Englisch) und Glossar erstellt, Unterlagen im Vault abgelegt | Start der Lerneinheiten |
-| 11.11.2026 | Lektion 1 (Level 0): Vorsilben, Richtungen, F = ma. Aufgabe 1 (Exam B 1b) nochmals Schritt für Schritt erklärt | Aufgabe 1 mit Hilfe richtig (320 kN/C, Einheit fehlte). Aufgabe 2: Schritt nC → C richtig (1.2·10⁻⁵, Einheit C fehlte), Schritt C → mC in Arbeit. Aufgabe 3 offen |
+| 11.11.2026 | Lektion 1 (Level 0): Vorsilben, Richtungen, F = ma. Aufgabe 1 (Exam B 1b) nochmals Schritt für Schritt erklärt | Aufgabe 1 mit Hilfe richtig (320 kN/C, Einheit fehlte). Aufgabe 2: Schritt nC → C richtig (1.2·10⁻⁵, Einheit C fehlte), Schritt C → mC richtig, mit Einheit (1.2·10⁻² mC). Danach Prüfung ohne Hilfe gestellt: ⊗, 8.0 µC in C, 6.0 cm in m (aus G24) |
