@@ -67,3 +67,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Lektion 5 (Level 2): Überlagerung, 4-Schritte-Methode | Aufgabe Exam B 3a (Feld im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B 3a Schritte 1–3 | r₁ richtig, r₂ falsch (0.3), Richtungen vertauscht, E₁ = 8.1·10⁶ richtig, E₂ falsch. Erklärt mit Skizze, E₂ und Schritt 4 laufen |
 | 11.11.2026 | Exam B 3a fertig | E₂ = 8.99·10⁵ und E = 7.2·10⁶ N/C richtig, Richtung fehlte (2/3 Punkte). Exam B 3b (Nullstelle) begonnen |
+| 11.11.2026 | Exam B 3b Überlegung | Frage A («nur zwischen den Ladungen») wusste sie nicht → mit Skizze erklärt. Frage B richtig: Nullstelle näher bei der kleineren Ladung. Abkürzung x/y = √(Q₁/Q₂) eingeführt |
