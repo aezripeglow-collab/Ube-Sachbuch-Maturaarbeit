@@ -45,6 +45,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - **Richtung beim Resultat vergessen** (3. Mal, Exam B 3a: 7.2·10⁶ ohne «to the right»). Gewohnheit üben: nach jedem Resultat «which way?»
 
 - **Verhältnis in Abstände umrechnen** (x/y = 3, x + y = 20 cm) war schwer: rechnete 20 − 3, 3 · 20, 20/3. Mit «Blöcken» erklärt (3 + 1 = 4 Blöcke à 5 cm). Nächstes Mal wiederholen!
+- Komma nach **rechts** verschieben → Exponent −1 (0.133·10¹⁵ → 1.33·10¹⁴); schrieb 1.33·10¹⁵
 
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
@@ -75,8 +76,6 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Kontrollfrage: Verhältnis 2 → wie viele Blöcke? | **ohne Hilfe richtig: 3** |
 | 11.11.2026 | Prüfung ist am Freitag 13.11. → Plan angepasst | Lektion 6 (Level 3): 5 Schritte von Exam B Q4. Aufgabe G23 gestellt |
 | 11.11.2026 | G23 Schritte 1–2 | Schritt 1 erklärt, dann F = 1.21·10⁻¹⁶ N richtig. a: Ziffern richtig, Exponent falsch (10¹⁵ statt 10¹⁴) → erklärt |
-
-- Komma nach **rechts** verschieben → Exponent −1 (0.133·10¹⁵ → 1.33·10¹⁴); schrieb 1.33·10¹⁵
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
 | Wann | Was |
