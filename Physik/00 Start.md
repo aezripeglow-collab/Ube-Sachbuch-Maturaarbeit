@@ -4,7 +4,7 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 
 ## Aktuelles Thema: Elektrische und magnetische Felder
 - Prüfung: 45 Minuten, 43 Punkte, Taschenrechner und Formelblatt erlaubt (Stand: Übungsprüfung «Exam B»).
-- Prüfungsdatum: noch offen, hier eintragen.
+- **Prüfungsdatum: Freitag, 13.11.2026**
 - Lernsystem von Claude (Lektionen, Diagnose, Training, Probeprüfung): https://claude.ai/artifact/PMHLVrWMvG81uikvKMBwxb (Achtung: enthält auch Übungen mit eigenen Zahlen von Claude, nicht nur Aufgaben aus den Unterlagen)
 
 ## Notizen
@@ -35,7 +35,7 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 - Mindestens 3 Aufgaben pro Level. Noch klären: Was genau sind die Levels?
 
 ## Offene Punkte
-- [ ] Prüfungsdatum eintragen
+- [x] Prüfungsdatum eintragen (Freitag, 13.11.2026)
 - [ ] Lehrer fragen, was mit «Level» gemeint ist
 - [ ] Klären, ob Lorentzkraft, Kreisbahn und Spule an der Prüfung kommen
 - [ ] Diagnose im Lernsystem machen und Ergebnis hier notieren

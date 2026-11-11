@@ -9,8 +9,8 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | --- | --- | --- | --- |
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
 | 1 | Ladung und elektrisches Feld | **ohne Hilfe gelöst** ✅ (G19, Ex. 16-7, Feldlinien, Exam B 1a iii) | 11.11.2026 |
-| 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst | 11.11.2026 |
-| 3 | Geladenes Teilchen im elektrischen Feld | noch nicht begonnen | – |
+| 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst, Blockregel ohne Hilfe | 11.11.2026 |
+| 3 | Geladenes Teilchen im elektrischen Feld | erklärt | – |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | noch nicht begonnen | – |
 | 5 | Magnetische Kräfte, Kreisbahn, Spule | noch nicht begonnen | – |
 
@@ -73,8 +73,18 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Exam B 3b Rechnung | √9 = 3 richtig. Aufteilen in Blöcke nur mit viel Hilfe: 1 Block = 5 cm richtig, x = 15 cm gezeigt. Ende der Lerneinheit |
 | 11.11.2026 | Frage: «Wie weiss ich, wie viele Blöcke?» | Regel erklärt: Blöcke = Verhältnis + 1; auch für Exam B 7b gezeigt. Blockmethode in [[01 Electric and Magnetic Fields – Summary]] ergänzt |
 | 11.11.2026 | Kontrollfrage: Verhältnis 2 → wie viele Blöcke? | **ohne Hilfe richtig: 3** |
+| 11.11.2026 | Prüfung ist am Freitag 13.11. → Plan angepasst | Lektion 6 (Level 3): 5 Schritte von Exam B Q4. Aufgabe G23 gestellt |
 
-## Nächste Lerneinheit
+## Plan bis zur Prüfung (Freitag, 13.11.2026)
+| Wann | Was |
+| --- | --- |
+| Mi 11.11. | Level 3 (Exam B Q4, G23), dann Level 4 beginnen: Feld eines Leiters, Rechte-Hand-Regel |
+| Do 12.11. | Level 4 fertig (zwei Leiter, Magnete, Elektromagnet). Dann ganze Exam B in 45 Minuten, mit Lösungsschlüssel des Lehrers korrigieren, Schwächen wiederholen |
+| Fr 13.11. | Morgens 10 Minuten: Exam-Checkliste (Einheiten, Richtungen) |
+
+Priorität nach Punkten in Exam B: Level 4 ≈ 23 Punkte, Level 3 = 5 Punkte. Level 2 Zusatzaufgaben (G34, G24, G32) nur bei Zeit. Level 5 nur, falls der Lehrer es für die Prüfung bestätigt.
+
+## Später, falls Zeit bleibt
 1. Kurze Wiederholung: Nullstellen-Methode mit Blöcken (Exam B 3b nochmals selbst rechnen)
 2. Dann Giancoli 34 (Verhältnis Q₁/Q₂, wenn die Nullstelle bei einem Drittel liegt) ohne Hilfe
 3. Danach Giancoli 24 (entgegengesetzte Ladungen, Felder addieren) und Giancoli 32 (Nullstelle ausserhalb)
