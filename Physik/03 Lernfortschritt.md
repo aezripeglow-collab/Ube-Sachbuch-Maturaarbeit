@@ -72,6 +72,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Exam B 3b Überlegung | Frage A («nur zwischen den Ladungen») wusste sie nicht → mit Skizze erklärt. Frage B richtig: Nullstelle näher bei der kleineren Ladung. Abkürzung x/y = √(Q₁/Q₂) eingeführt |
 | 11.11.2026 | Exam B 3b Rechnung | √9 = 3 richtig. Aufteilen in Blöcke nur mit viel Hilfe: 1 Block = 5 cm richtig, x = 15 cm gezeigt. Ende der Lerneinheit |
 | 11.11.2026 | Frage: «Wie weiss ich, wie viele Blöcke?» | Regel erklärt: Blöcke = Verhältnis + 1; auch für Exam B 7b gezeigt. Blockmethode in [[01 Electric and Magnetic Fields – Summary]] ergänzt |
+| 11.11.2026 | Kontrollfrage: Verhältnis 2 → wie viele Blöcke? | **ohne Hilfe richtig: 3** |
 
 ## Nächste Lerneinheit
 1. Kurze Wiederholung: Nullstellen-Methode mit Blöcken (Exam B 3b nochmals selbst rechnen)
