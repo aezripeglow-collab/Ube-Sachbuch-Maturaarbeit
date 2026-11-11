@@ -32,6 +32,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - Exponent beim Verschieben des Kommas falsch angepasst (296.67·10³ → 2.97·10⁶ statt 10⁵). Regel: Komma 1 Stelle nach links = Exponent +1
 - Fragte, woher 8.99 kommt: k = 8.99·10⁹ (vom Formelblatt) erklärt, das ·10⁹ gehört dazu
 
+- Taschenrechner-Resultat nicht überprüft (1.4·10⁸ statt 6.3·10⁶). Schätztrick gelernt: ÷ 0.05 = · 20
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -46,3 +48,4 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Lektion 3 (Level 1, Teil 2): E = kQ/r², weg/hin, 1/r², Exam B 1a(iii) | Aufgabe G21 gestellt |
 | 11.11.2026 | G21 erster Versuch | falsch (1.52·10⁻⁴, = Q/r). Wird jetzt in 4 Schritten gemeinsam gerechnet |
 | 11.11.2026 | G21 Schritte 1–2 | r² = 0.047 richtig; k·Q mit Exponentenfehler (10⁶ statt 10⁵). Erklärt, Schritte 3–4 laufen |
+| 11.11.2026 | G21 Schritte 3–4 | Richtung richtig (up, away). Zahl erst falsch (1.4·10⁸), mit Schätzung korrigiert auf ≈ 6·10⁶ N/C. G21 mit Hilfe gelöst. Nächste Aufgabe ohne Hilfe: Example 16-7 (negative Ladung) |
