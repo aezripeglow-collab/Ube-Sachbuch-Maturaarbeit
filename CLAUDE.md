@@ -16,17 +16,18 @@ Jeder Lebensbereich hat einen eigenen Ordner im Hauptverzeichnis.
 | Ordner | Inhalt |
 | --- | --- |
 | `Ube Sachbuch Maturaarbeit/` | Maturaarbeit im Team mit Tim und John: Sachbuch über Ube, Abgabe 10.11.2026. Startpunkt: `00 Start.md` |
+| `Physik/` | Physik im 4. Jahr, aktuell elektrische und magnetische Felder (Prüfungsvorbereitung). Startpunkt: `00 Start.md` |
 
 Neue Bereiche bitte hier in der Tabelle ergänzen.
 
 ## Wie ich arbeite
 - Ich schreibe in **Obsidian auf dem iPad**.
-- Der Vault wird mit **Obsidian Git** synchronisiert, und zwar über den Branch **master**, nicht main.
+- Der Vault wird mit **Obsidian Git** synchronisiert, und zwar über den Branch **main**, nicht master.
 - Bevor ich einen Chat mit Claude starte, führe ich „Git: Commit-and-sync“ aus.
 - Wenn Claude etwas geändert hat, hole ich es mit „Git: Pull“.
 
 ## Regeln für Claude
-- Immer auf **master** arbeiten und vor Änderungen den neusten Stand holen.
+- Immer auf **main** arbeiten und dort speichern und vor Änderungen den neusten Stand holen.
 - Neue Notizen als Markdown (`.md`) im passenden Bereichsordner ablegen. Für ein neues Thema einen neuen Ordner anlegen und ihn oben in der Tabelle eintragen.
 - Obsidian-Links `[[Notizname]]` verwenden, damit alles verknüpft bleibt.
 - Nichts löschen oder grösser umbauen, ohne mich vorher zu fragen.
