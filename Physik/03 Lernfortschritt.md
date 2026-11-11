@@ -51,6 +51,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - Kompassrichtungen am Kreis ablesen (Exam B Q5) noch unsicher. Hilfe: Uhr rückwärts (⊙) bzw. vorwärts (⊗)
 
+- Kompass oben/unten beim Kreis vertauscht (Exam B Q5). Trick: Reihenfolge 1 → 3 → 2 → 4 muss einen sauberen Kreis ergeben
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -86,6 +88,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Exam B Q4 Lösungsweg erklärt | Gewicht 8.9·10⁻³⁰ N, Vergleich 0.9·10¹³ (ihre 0.9 war richtig, nur Vorzeichen des Exponenten falsch), a = 8.8·10¹³ m/s² nach unten. Kontrollfrage: −19 − (−31) |
 | 11.11.2026 | Kontrollfrage Exponent | ohne Hilfe richtig: 12 |
 | 11.11.2026 | Lektion 7 (Level 4, Teil 1): Magnete, Kompass, Rechte-Hand-Regel, ⊙ ↺ / ⊗ ↻ | Aufgabe Exam B Q5 (Kompasse) gestellt |
+| 11.11.2026 | Exam B Q5 | b) richtig (Umkehr → im Uhrzeigersinn). a) erst leer, dann mit Skizze: 3 down und 4 up richtig, 1 und 2 vertauscht (right/left statt left/right). Kontrolle mit Strom in die Ebene ⊗ gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
 
 ## Plan bis zur Prüfung (Freitag, 13.11.2026)
