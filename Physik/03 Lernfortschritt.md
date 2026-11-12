@@ -57,6 +57,9 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - Vorzeichen im Exponenten verloren (4.8·10⁵ statt 4.8·10⁻⁵ T). Kontrolle am Schluss: **Minus, Einheit, Richtung**
 
+- **cm → m: durch 100 teilen** (A3: 5 cm als 0.5 m gerechnet)
+- ⊙/⊗ in einem Bild können auch das **Magnetfeld B** zeigen, nicht nur einen Strom (A3)
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -112,6 +115,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Plan A gewählt | Lektion 11 (Level 5, Teil 1): F = BIL sin θ, Gradmodus, Rechte-Hand-Regel für die Kraft. Aufgabe A1 gestellt |
 | 12.11.2026 | A1 ohne Hilfe | **richtig**: sin 65° = 0.9, F = 1.09 N mit Einheit |
 | 12.11.2026 | A3 (Railgun) gestellt | a) Richtung (Strom nach Norden, B aus der Ebene), b) F = BIL mit L = 5 cm |
+| 12.11.2026 | A3 a) und b) (mit Bild der Aufgabe) | a) **east richtig**, aber Begründung falsch (⊙ als Drähte/Strom gedeutet statt als Magnetfeld). b) 8.94·10³ N statt 893.75 N: **5 cm = 0.5 m** gerechnet statt 0.05 m |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
