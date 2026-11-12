@@ -53,6 +53,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - Kompass oben/unten beim Kreis vertauscht (Exam B Q5). Trick: Reihenfolge 1 → 3 → 2 → 4 muss einen sauberen Kreis ergeben
 
+- Stromrichtung (Daumen) mit Feldrichtung (Finger) verwechselt (Q6b). Leiter in der Ebene → Feld immer **in/aus der Ebene**
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -93,6 +95,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Lektion 8 (Level 4, Teil 2): B = μ₀I/2πr = 2·10⁻⁷·I/r, Leiter in der Ebene | Aufgabe Exam B Q6 gestellt |
 | 11.11.2026 | Übersicht der Fortschritte gezeigt, Ende der Lerneinheit (ca. 2 h 15 min) | Exam B: 14 Punkte allein, 11 mit Hilfe, 18 noch offen. Q6 noch nicht beantwortet |
 | 12.11.2026 | Exam B Q6 a) (Schulpause) | **ohne Hilfe richtig**, mit Einheiten: 50 µT = 0.00005 T, r = 0.8 m (3/3 Punkte). b) läuft |
+| 12.11.2026 | Exam B Q6 b) | falsch: «to the right» (Richtung des Stroms statt des Feldes). Mit Stift-Trick erklärt: unter dem Leiter **in die Ebene**. Kontrollfrage mit Strom nach links gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
 
 ## Hier geht es weiter (Do 12.11.)
