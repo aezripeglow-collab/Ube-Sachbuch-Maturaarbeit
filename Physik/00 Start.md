@@ -31,6 +31,9 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 | Bewegte Ladungen, Kreisbahn, Zyklotron (F = qvB, r = mv/qB) | nur Study Problems |
 | Spule und Elektromagnet (B = μ₀NI/L) | teilweise |
 
+> [!warning] Prüfungsstoff
+> Die Study-Problems-Regeln sagen: «If you understand them, then you are prepared for the exam.» Darum gehören auch die Themen «nur Study Problems» wahrscheinlich zur Prüfung.
+
 ## Study Problems (Bonus 0.2)
 - Mindestens 10 gelöste oder vollständig versuchte Aufgaben, von Hand, vor der Prüfung abgeben.
 - Mindestens 3 Aufgaben pro Level. Noch klären: Was genau sind die Levels?
