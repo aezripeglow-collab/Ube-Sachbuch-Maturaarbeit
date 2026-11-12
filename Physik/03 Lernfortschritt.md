@@ -133,6 +133,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Lektion 15: entgegengesetzte Ladungen (zwischen + und − addieren, Richtung zur negativen Ladung) | Giancoli 24 als Bild geschickt und gestellt |
 | 12.11.2026 | Giancoli 24 | r = 0.03 m, E₁ = 7.99·10⁷, E₂ = 5.79·10⁷, Summe 1.38·10⁸ **richtig**. Richtung nur «pulls» (statt «toward the negative charge»), Einheit N/C fehlte. **Alle Themen einmal gelernt** |
 | 12.11.2026 | Pause, dann gemischter Test geplant | Aufgaben aus den Study Problems, die noch nicht gelöst wurden, ohne Hilfe |
+| 12.11.2026 | Gemischter Test gestartet (20:46) | 5 Aufgaben ohne Hilfe. Aufgabe 1: Giancoli 27 (Elektron beschleunigt nach Norden) |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
