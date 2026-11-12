@@ -7,12 +7,12 @@ Dieses Repository ist ein Obsidian-Vault. Alle Dateien liegen im Ordner **Ube Sa
 | Ordner | Inhalt |
 | --- | --- |
 | `00 Start.md` | Übersicht mit Leitfrage, Leitthese und Links zu allem |
+| `00 Abgabe` | Gültige Fassungen: Kommentar und Arbeitsjournal (Word) und Buch-PDF |
 | `01 Planung` | Projektplan, Aufteilung der Gruppe, Claude-Notizen |
 | `02 Buch` | Vorwort, Kapitel 1–3 (Kapitel 3 aufgeteilt in Einleitung, These 1–4 und Fazit), Schlusswort |
-| `03 Arbeitsjournal` | Arbeitsjournal von April bis November 2026 in vier Phasen (Kochbuch, Sommerferien, Wechsel zu Ube, Sachbuch über Ube), eine Übersicht und die Word-Version |
+| `03 Arbeitsjournal` | Arbeitsjournal von April bis November 2026 in vier Phasen (Kochbuch, Sommerferien, Wechsel zu Ube, Sachbuch über Ube) und eine Übersicht |
 | `04 Quellen und Interview` | Quellenverzeichnis Kapitel 3, Interview mit Tita |
 | `05 Gruppe` | je eine Notiz für Aezri, Tim und John mit ihren Teilen |
 | `06 Offene Punkte` | Checkliste bis zur Abgabe |
 | `07 Originaldateien` | Word-Originaldatei des Buchtextes |
-| `08 Schriftlicher Kommentar` | Schriftlicher Kommentar zum Buch: Word-Datei, ganzer Text als Notiz, Abbildungen und Quelldateien |
-| `09 Finalisierung` | Arbeitsdateien der Finalisierung (ab 9.11.2026): Projektstatus, Materialanalyse mit Stilprofil, Argumentationsstruktur, Entwürfe für Kommentar und Arbeitsjournal, Konsistenzprüfung, offene Aufgaben |
+| `99 Archiv` | Ältere Fassungen von Kommentar und Journal, Arbeitsdateien der Finalisierung und Überarbeitung, Skripte |

@@ -28,54 +28,30 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
     - [[3.5 Was bleibt von unserer Leitthese]]
 5. [[Schlusswort]]
 
-## Kommentar: ergänzte Fassung vom 10.11.2026 (gilt)
-- Word-Datei: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly_ergaenzt.docx]] (eure Fassung von 04:15 Uhr, von Claude nach Aezris Auftrag von 04:35 Uhr ergänzt)
-- Was Claude eingesetzt hat, was noch gelb ist und was ihr vor der Abgabe prüfen müsst: [[Ergänzte Fassung vom 10.11.2026]]
-- **Arbeitsjournal nach Tagen und Zeiträumen (Stand 12:35 Uhr, gilt):** [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] (67 Seiten, Arial 11 mit Zeilenabstand 1.5, Angaben zur Arbeit und Inhaltsverzeichnis, 51 Einträge, Übersicht, Schlussreflexion, Übersicht zum Kommentar, Quellenprotokoll mit Verwendung in Buch und Kommentar und den notierten Abrufdaten, alle Daten im Format TT.MM.JJJJ), Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]]. Was belegt ist, was fehlt und welche Reflexionen nur ihr ergänzen könnt: [[Arbeitsjournal – Übersicht]]
-- Fassungen davor als Rückblicke über je zwei Wochen: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_ausfuehrlich.docx]] (07:10 Uhr, 23 Seiten) und [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly.docx]] (06:20 Uhr)
-- Eure hochgeladene Datei, unverändert: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly.docx]], dazu [[Fassung der Gruppe vom 10.11.2026]]
+## Abgabe (gültige Fassungen, Ordner `00 Abgabe`)
+- Schriftlicher Kommentar: [[Schriftlicher_Kommentar_Ube_Sachbuch_Peglow_Rosal_Meuwly_ergaenzt.docx]] · was ergänzt wurde: [[Ergänzte Fassung vom 10.11.2026]]
+- Arbeitsjournal: [[Arbeitsjournal_Ube_Peglow_Rosal_Meuwly_nach_Tagen.docx]] · Lesekopie [[Arbeitsjournal nach Tagen (10.11.2026)]] · [[Arbeitsjournal – Übersicht]]
+- Buch: [[Buch Ube – Zwischen Tradition und Trend (Stand 08.11.2026).pdf]]
 
-## Schlussredaktion vom 10.11.2026 (Arbeitsfassung von Claude, beim Kommentar abgelöst)
-- Zuerst lesen: [[OFFENE_PUNKTE_SCHLUSSREDAKTION]] · [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]]
-- Kommentar: [[Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.docx]] · PDF [[Schriftlicher_Kommentar_Ube_SCHLUSSREDAKTION.pdf]] · Lesekopie [[Kommentar (Schlussredaktion)]]
-- Arbeitsjournal: [[Arbeitsjournal_Ube_SCHLUSSREDAKTION.docx]] · Lesekopie [[Arbeitsjournal (Schlussredaktion)]]
-
-## Überarbeitete Fassung vom 10.11.2026 (Ausgangsfassung der Schlussredaktion)
-- Ordner `10 Überarbeitung`: [[00_STATUS]] · [[PRUEFBERICHT]]
-- Kommentar: [[Schriftlicher_Kommentar_Ube_UEBERARBEITET.docx]] · Lesekopie [[Kommentar (überarbeitet)]]
-- Arbeitsjournal: [[Arbeitsjournal_Ube_UEBERARBEITET.docx]] · Lesekopie [[Arbeitsjournal (überarbeitet)]]
-
-## Schriftlicher Kommentar (ältere Fassungen)
-- [[Schriftlicher Kommentar]] (Übersicht und Stand)
-- [[Kommentar Volltext]] (ganzer Text in Obsidian)
-- Word-Version zum Abgeben: [[Schriftlicher_Kommentar_Ube.docx]]
-
-## Arbeitsjournal
-- [[Arbeitsjournal – Übersicht]] (April bis November 2026, ab Juni mittwochs und freitags)
-- Word-Version zum Abgeben: [[Arbeitsjournal_Maturaarbeit_Ube.docx]]
+## Arbeitsjournal (Einträge)
+- Ordner `03 Arbeitsjournal`: Einträge von April bis November 2026 in vier Phasen, dazu [[Arbeitsjournal – Übersicht]]
 
 ## Quellen und Interview
 - [[Quellenverzeichnis Kapitel 3]]
 - [[Interview mit Tita]] (Tita ist Verkäuferin auf dem Markt von Talisay City)
 - [[Zitierregeln KSB – Kurzfassung]] (Original als PDF in `07 Originaldateien`)
+- [[Bildquellen (Liste von John)]]
 
 ## Offene Punkte
 - [[Offene Punkte bis zur Abgabe]]
 
 ## Originaldateien
 - [[Ube_auf_den_Philippinen_neu.docx]] (Word-Originaldatei des Buchtextes)
-- [[Buch Ube – Zwischen Tradition und Trend (Stand 08.11.2026).pdf]] (Buch-PDF aus InDesign, etwa halb fertig)
 
-## Finalisierung (ab 9.11.2026, Arbeitsdateien von Claude)
-- [[00_PROJEKTSTATUS]] (Stand und nächster Schritt, zuerst lesen)
-- [[OFFENE_PUNKTE_FINAL]] (was wir vor der Abgabe noch selbst erledigen müssen, nach Priorität, mit Textstelle und Grund)
-- [[QUALITAETSBEWERTUNG_FINAL]] (ehrliche Bewertung von Kommentar und Journal nach zwölf Kriterien)
-- [[Schreibstimme Aezri]] (authentisches Stilprofil aus der Familienchronik und den frühen Journaleinträgen; gilt für alle Texte, die Claude für uns schreibt)
-- [[03_KOMMENTAR_ENTWURF]] (finale Arbeitsfassung des Kommentars, Lesekopie; Word: `09 Finalisierung/Schriftlicher_Kommentar_Ube_FINAL.docx`)
-- [[ARBEITSJOURNAL_FINAL]] (Endfassung des Arbeitsjournals, Lesekopie; Word im Originalformat: `09 Finalisierung/Arbeitsjournal_Ube_FINAL.docx`; die Original-Word-Datei ist unverändert)
-- [[BUCH_KORREKTURLISTE_FINAL]] (alle Korrekturen am Buch für John, nach Dringlichkeit)
-- [[KI_DOKUMENTATION_FINAL]] (alle zehn Eingaben an Claude und der Wortlaut der vier Master-Prompts; was die Zitierregeln zur KI verlangen)
-- [[AENDERUNGSPROTOKOLL_FINAL]] (Runden 3 bis 5: jede Änderung an Kommentar und Journal; zuoberst die fünfte Runde vom 9.11. abends)
-- [[FORTSCHRITT_FINALKORREKTUR]], [[FORTSCHRITT_KOMMENTAR]], [[07_AENDERUNGSPROTOKOLL_UND_BEWERTUNG]] (Protokolle der Runden 2 bis 4)
-- [[06_OFFENE_AUFGABEN]] (ältere Liste, Abschnitt C jetzt in der Buch-Korrekturliste)
-- [[01_MATERIALANALYSE]] (Bestandsaufnahme, Widersprüche, Stilprofil), [[02_ARGUMENTATIONSSTRUKTUR]], [[04_ARBEITSJOURNAL_ENTWURF]], [[05_KONSISTENZPRUEFUNG]]
+## Archiv (Ordner `99 Archiv`, ältere Fassungen)
+Alles, was vor der Abgabe als Zwischenstand entstanden ist. Nichts davon gilt mehr, es bleibt nur zum Nachschauen liegen.
+- `03 Arbeitsjournal (alte Fassungen)`: frühere Word- und Lesefassungen des Journals
+- `08 Schriftlicher Kommentar`: ältere Kommentarfassungen, eure hochgeladene Datei vom 10.11. ([[Fassung der Gruppe vom 10.11.2026]]), Abbildungen und Skripte
+- `09 Finalisierung`: Arbeitsdateien vom 9.11. ([[00_PROJEKTSTATUS]], [[KI_DOKUMENTATION_FINAL]], [[BUCH_KORREKTURLISTE_FINAL]] u. a.)
+- `10 Überarbeitung`: Überarbeitung und Schlussredaktion vom 10.11. ([[00_STATUS]], [[PRUEFBERICHT]], [[AENDERUNGSPROTOKOLL_SCHLUSSREDAKTION]])
+- Stilprofil: [[Schreibstimme Aezri]] (liegt in `Persönliches`)
