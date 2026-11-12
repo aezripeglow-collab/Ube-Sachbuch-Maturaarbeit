@@ -17,6 +17,7 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 ## Regeln für Claude in diesem Bereich
 - **Nur Aezris eigene Unterlagen** aus `Unterlagen/` verwenden, keine fremden Quellen und keine selbst erfundenen Aufgaben.
 - Auf Englisch unterrichten, von Grund auf, und Schritt für Schritt steigern.
+- **Jede Aufgabe immer zeigen:** den Originalausschnitt aus Aezris Unterlagen als Bild schicken (ohne die Lösung), nicht nur abgetippt.
 - Jeden Lernfortschritt in [[03 Lernfortschritt]] eintragen und im Vault (Branch main) speichern.
 
 ## Themenübersicht
