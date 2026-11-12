@@ -124,6 +124,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | B1 (b) und (f) | als «counterclockwise/clockwise» beantwortet → Regel für Leiterfeld (Kreise) mit Kraftregel (gerade Richtung) verwechselt. Unterschied erklärt, (b) gemeinsam gelöst (left), (c) gestellt |
 | 12.11.2026 | B1 (c) und (d) | (c): wiederholte v und B statt der Kraft → Trick «Kraft steht senkrecht auf v und B» erklärt, (c) = up gezeigt. (d): Antwort «down/left» → Kreistrick right → up → out eingeführt, (d) = into gezeigt. (e) gestellt |
 | 12.11.2026 | B1 (e) und (f) | (e) **ohne Hilfe richtig** (sin 180° = 0 → keine Kraft). (f): Hand richtig (up für positiv), aber **Umkehren für negative Ladung vergessen** → down. Checkliste: Ausschliessen → Hand/Kreis → negativ? umkehren |
+| 12.11.2026 | Lektion 13 (Level 5, Teil 3): Kreisbahn r = mv/(qB), Beispiel 20-6 | C1 (Zyklotron) als Bild geschickt und gestellt |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
