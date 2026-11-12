@@ -91,3 +91,22 @@ Backwards (acceleration given): **F = m·a first**, then E = F/q.
 
 > [!tip] In the exam
 > About **1 minute per point**. Stuck for more than 2 minutes? Write the formula, move on, come back later.
+
+---
+
+## Part 7: Every formula with an example from the tests
+
+| # | Formula | In words | Unit | Example (source) |
+| --- | --- | --- | --- | --- |
+| 1 | $E = F/q$ | force per coulomb at a point | **N/C** | q = +2.0 nC, F = 6.0·10⁻⁵ N right → **3.0·10⁴ N/C, right** (Exam B 1a i) |
+| 2 | $F = q\cdot E$ | force on a charge in a field | **N** | −5.0 nC in 3.0·10⁴ N/C → **1.5·10⁻⁴ N, left** (Exam B 1a ii) |
+| 3 | $E = kQ/r^2$ | field of one point charge; 2× distance → ¼ | **N/C** | 33.0 µC, 0.217 m above → **6.30·10⁶ N/C, up** (G21) |
+| 4 | $F = m\cdot a$, $a = F/m$ | force ↔ acceleration | N, **m/s²** | 8.0·10⁻¹⁷ N ÷ 9.109·10⁻³¹ kg → **8.8·10¹³ m/s², down** (Exam B Q4) |
+| 5 | $F_G = m\cdot g$ | weight | **N** | electron: **8.9·10⁻³⁰ N**, ≈ 10¹³ × smaller (Exam B Q4) |
+| 6 | $B = 2\cdot10^{-7}\cdot I/r$ | field of a long wire; 2× distance → ½; **divide by r** | **T** | 95 A, 8.5 m → **2.24 µT** (D1); 200 A, 50 µT → **r = 0.80 m** (Exam B Q6) |
+| 7 | $F = BIL\sin\theta$ | force on a wire in B | **N** | 5.0·10⁻⁵ T, 150 A, 160 m, 65° → **1.09 N** (A1) |
+| 8 | $F = qvB\sin\theta$ | force on a moving charge | **N** | proton, 5.0·10⁶ m/s, 0.10 T → **8.0·10⁻¹⁴ N** (Ex. 20-4) |
+| 9 | $r = \dfrac{mv}{qB}$, $B = \dfrac{mv}{qr}$ | circle of a charge in B | **m**, **T** | proton 3.93·10⁶ m/s, r = 0.055 m → **0.745 T** (C1) |
+| 10 | $B = \mu_0 NI/L = \mu_0 nI$ | field inside a solenoid; area doesn't matter | **T** | 300 loops/m, 10 A → **3.8 mT** (E2) |
+
+**Memory trick:** **E**lectric → **N/C**, **B** (magnetic) → **T**esla, every **force** → **N**.
