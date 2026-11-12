@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "bb478a75facc88f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cc75d443b57fbb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32646e92735f6687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/01 Electric and Magnetic Fields – Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Electric and Magnetic Fields – Summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "620fe21eccdf9849",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f0bcbf4f8083763c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Dateiexplorer"
+        }
+      },
+      {
+        "id": "7765d2fbffecd49c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Suchen"
+        }
+      },
+      {
+        "id": "b27c0a046cf756e3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "64ef520be016f203",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Alle Eigenschaften"
+        }
+      },
+      {
+        "id": "2ccf976534bbc7ac",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Lesezeichen"
+        }
+      },
+      {
+        "id": "6001bbeacc6820ce",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {},
+          "icon": "longform",
+          "title": "Longform"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "722ed1aebd6a14e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "abe3eb50a991fe89",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Rückverweise"
+        }
+      },
+      {
+        "id": "78b7d0b6883939b7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Ausgehende Links"
+        }
+      },
+      {
+        "id": "e8b50d36f16caca5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": true,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Gliederung"
+        }
+      },
+      {
+        "id": "12a92e2b3d72a546",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "32646e92735f6687",
+  "lastOpenFiles": [
+    "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 3 – Ube zwischen Tradition und Trend/3.3 These 3 – Vom Lebensmittel zum Bild.md",
+    "Ube Sachbuch Maturaarbeit/05 Gruppe/John.md",
+    "Ube Sachbuch Maturaarbeit/00 Start.md",
+    "Physik/01 Electric and Magnetic Fields – Summary.md",
+    "Physik/03 Lernfortschritt.md",
+    "Physik/02 Glossary English–German.md",
+    "Physik/Unterlagen/Klassenaufgaben/Magnetism_CP_Solutions_D1-D3.pdf",
+    "Physik/Unterlagen/Klassenaufgaben/Magnetism Class Problems.pdf",
+    "Physik/Unterlagen/Klassenaufgaben/Electric_Field_CP_Solutions.pdf",
+    "Physik/Unterlagen/Klassenaufgaben/Electric field class problems.pdf",
+    "Physik/Unterlagen/Buchkapitel/Johnson_Advanced_Physics_For_You_Magnetic_Fields.pdf",
+    "Physik/Unterlagen/Buchkapitel/Johnson_Advanced_Physics_For_You_Electric_Fields.pdf",
+    "Physik/Unterlagen/Buchkapitel/Giancoli_Physics_7th-ed_Magnetism.pdf",
+    "Physik/Unterlagen/Buchkapitel/Giancoli_Physics_7th-ed_Electrostatics.pdf",
+    "Physik/Unterlagen/Study Problems Regeln.pdf",
+    "Physik/Unterlagen/Formelblatt.pdf",
+    "Physik/00 Start.md",
+    "Unbenannt.md",
+    "Ube Sachbuch Maturaarbeit/README.md",
+    "CLAUDE.md",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-11-06 Arbeitsjournal.md",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/Arbeitsjournal – Übersicht.md",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-11-04 Arbeitsjournal.md",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-08-28 Arbeitsjournal.md",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-08-26 Arbeitsjournal.md",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Kommentar Volltext.md",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Schriftlicher Kommentar.md",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/zeitstrahl.png",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/thesenschema.png",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/flaeche_ernte.png",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/arbeitsplan.png",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/3 Wechsel zu Ube (August)/2026-08-14 Arbeitsjournal.md",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/3 Wechsel zu Ube (August)/2026-08-12 Arbeitsjournal.md",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/abb3_flaeche_ernte.png",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/abb2_thesenschema.png",
+    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/abb1_zeitstrahl.png",
+    "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 3 – Ube zwischen Tradition und Trend/3.0 Einleitung und Leitthese.md",
+    "Ube Sachbuch Maturaarbeit/02 Buch/Vorwort.md",
+    "Ube Sachbuch Maturaarbeit/06 Offene Punkte/Offene Punkte bis zur Abgabe.md",
+    "Ube Sachbuch Maturaarbeit/04 Quellen und Interview/Quellenverzeichnis Kapitel 3.md",
+    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/1 Kochbuch Salu-Salo (April bis Juli)/2026-04-22 Arbeitsjournal.md",
+    "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 1 – Ube auf den Philippinen/Teil 1 – Ube auf den Philippinen.md",
+    "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 1 – Ube auf den Philippinen/Kapitel 1 – Kurzeinleitung.md"
+  ]
+}
