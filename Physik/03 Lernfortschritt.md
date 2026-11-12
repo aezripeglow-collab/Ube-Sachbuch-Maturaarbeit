@@ -142,6 +142,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Test 2: D1 a) | **0/2**: 1.62·10⁻⁵ N/C, wohl mit r **multipliziert** statt dividiert, Einheit N/C statt **T**, Prozent fehlte. Lösung 2.24 µT ≈ 4.5 %. Test 3: B2 gestellt |
 | 12.11.2026 | Test 3: B2 (B gesucht) | **1/3**: (c) right richtig; (a) «out/up» statt down, (b) out statt into. Ausschlusstrick + Kreistrick gezeigt. Tipp: bei «find B» max. 2 Minuten. Test 4: E2 gestellt |
 | 12.11.2026 | Test 4: E2 | **0/2**: «6.0·10⁻¹ N/ms²», Formeln und Einheit vermischt. Lösung: Spule 3.8 mT (n = 300/m), Leiter 0.1 mT. Zwischenstand Test 1/9 Punkte, Müdigkeit (4½ h gelernt). Vorschlag: Spickzettel statt Aufgabe 5 |
+| 12.11.2026 | Rückmeldung: «Du hast mir nie die wichtigen Formeln gegeben» | Berechtigt: Formeln waren nur verteilt in den Lektionen. [[05 Formelkarte für die Prüfung]] erstellt (gegebene Formeln, auswendig zu lernende, Einheiten, Richtungen, Rezepte, Fehler-Checkliste) |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |

@@ -12,6 +12,7 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 - [[02 Glossary English–German]]: Fachwörter Englisch–Deutsch
 - [[03 Lernfortschritt]]: was sitzt, was noch nicht, Protokoll aller Lerneinheiten
 - [[04 Exam B – Probeprüfung]]: Exam B nur mit Aufgaben, für die Probeprüfung in 45 Minuten
+- [[05 Formelkarte für die Prüfung]]: alle Formeln mit Einheiten, wann man welche braucht, Richtungsregeln, Rezepte, typische Fehler
 - `Unterlagen/`: Aezris Originaldateien (Formelblatt, Exam B mit Lösungen, Lösung des Lehrers, Study-Problems-Regeln, Klassenaufgaben, Buchkapitel)
 
 ## Regeln für Claude in diesem Bereich
