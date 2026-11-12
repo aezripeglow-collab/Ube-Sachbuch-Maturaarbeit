@@ -11,6 +11,7 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 - [[01 Electric and Magnetic Fields – Summary]]: Zusammenfassung auf Englisch, von Grund auf in Level 0 bis 5 aufgebaut
 - [[02 Glossary English–German]]: Fachwörter Englisch–Deutsch
 - [[03 Lernfortschritt]]: was sitzt, was noch nicht, Protokoll aller Lerneinheiten
+- [[04 Exam B – Probeprüfung]]: Exam B nur mit Aufgaben, für die Probeprüfung in 45 Minuten
 - `Unterlagen/`: Aezris Originaldateien (Formelblatt, Exam B mit Lösungen, Lösung des Lehrers, Study-Problems-Regeln, Klassenaufgaben, Buchkapitel)
 
 ## Regeln für Claude in diesem Bereich

@@ -106,6 +106,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Lektion 9: Elektromagnet (Exam B Q1c) | 3 Fakten erklärt, Q1c gestellt |
 | 12.11.2026 | Exam B Q1c | **ohne Hilfe alle 3 richtig** (stärker/doppelt, Pole tauschen, ein- und ausschaltbar) |
 | 12.11.2026 | Lektion 10: zwei Stabmagnete (Exam B Q2b) | erklärt mit Skizze, 3 Fragen gestellt |
+| 12.11.2026 | Exam B Q2b | **ohne Hilfe alle 3 richtig** (Schleife N→S, im Uhrzeigersinn, stärkstes Feld zwischen den Magneten). **Level 4 geschafft, alle Aufgaben von Exam B einmal bearbeitet** |
+| 12.11.2026 | Probeprüfung vorbereitet | [[04 Exam B – Probeprüfung]] (nur Aufgaben) erstellt. Start nach dem Abendessen, 45 Minuten |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
