@@ -92,6 +92,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Kompasse bei Strom in die Ebene ⊗ | **ohne Hilfe alle 4 richtig** (right, left, up, down) |
 | 11.11.2026 | Lektion 8 (Level 4, Teil 2): B = μ₀I/2πr = 2·10⁻⁷·I/r, Leiter in der Ebene | Aufgabe Exam B Q6 gestellt |
 | 11.11.2026 | Übersicht der Fortschritte gezeigt, Ende der Lerneinheit (ca. 2 h 15 min) | Exam B: 14 Punkte allein, 11 mit Hilfe, 18 noch offen. Q6 noch nicht beantwortet |
+| 12.11.2026 | Exam B Q6 a) (Schulpause) | **ohne Hilfe richtig**, mit Einheiten: 50 µT = 0.00005 T, r = 0.8 m (3/3 Punkte). b) läuft |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
 
 ## Hier geht es weiter (Do 12.11.)
