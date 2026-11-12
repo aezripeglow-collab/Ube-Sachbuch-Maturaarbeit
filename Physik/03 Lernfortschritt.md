@@ -96,6 +96,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Übersicht der Fortschritte gezeigt, Ende der Lerneinheit (ca. 2 h 15 min) | Exam B: 14 Punkte allein, 11 mit Hilfe, 18 noch offen. Q6 noch nicht beantwortet |
 | 12.11.2026 | Exam B Q6 a) (Schulpause) | **ohne Hilfe richtig**, mit Einheiten: 50 µT = 0.00005 T, r = 0.8 m (3/3 Punkte). b) läuft |
 | 12.11.2026 | Exam B Q6 b) | falsch: «to the right» (Richtung des Stroms statt des Feldes). Mit Stift-Trick erklärt: unter dem Leiter **in die Ebene**. Kontrollfrage mit Strom nach links gestellt |
+| 12.11.2026 | Kontrollfrage Strom nach links, unter dem Leiter | **ohne Hilfe richtig: out of the page**. Wollte es genauer verstehen → Umkehrregel und Bild «Ringe durch das Papier» erklärt |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
