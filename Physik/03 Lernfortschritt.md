@@ -98,6 +98,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Exam B Q6 b) | falsch: «to the right» (Richtung des Stroms statt des Feldes). Mit Stift-Trick erklärt: unter dem Leiter **in die Ebene**. Kontrollfrage mit Strom nach links gestellt |
 | 12.11.2026 | Kontrollfrage Strom nach links, unter dem Leiter | **ohne Hilfe richtig: out of the page**. Wollte es genauer verstehen → Umkehrregel und Bild «Ringe durch das Papier» erklärt |
 | 12.11.2026 | Exam B Q7 (zwei Leiter) begonnen | Teil a) in 4 Schritten gestellt |
+| 12.11.2026 | Exam B Q7 vorgezeigt (auf Wunsch) | ganze Lösung a) 8.0·10⁻⁵ T nach oben und b) 7.5 cm mit Blockregel gezeigt. Übungsaufgabe ohne Hilfe: Example 20-10 (5.0 A ⊙, 7.0 A ⊗) |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
