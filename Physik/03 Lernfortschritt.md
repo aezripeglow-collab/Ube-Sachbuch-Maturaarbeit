@@ -12,7 +12,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst, Blockregel ohne Hilfe | 11.11.2026 |
 | 3 | Geladenes Teilchen im elektrischen Feld | mit Hilfe gelöst (G23, Exam B Q4). Am Do in der Probeprüfung nochmals | 11.11.2026 |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | Kompasse (Q5) und Stromleitung (Q6) gelöst; Teil 3 zwei Leiter (Q7) begonnen | 12.11.2026 |
-| 5 | Magnetische Kräfte, Kreisbahn, Spule | **wahrscheinlich prüfungsrelevant**, noch nicht begonnen | – |
+| 5 | Magnetische Kräfte, Kreisbahn, Spule | **wahrscheinlich prüfungsrelevant**; Teil 1 (Kraft auf Leiter) erklärt | – |
 
 Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne Hilfe gelöst**. Ein Level gilt als geschafft, wenn Aezri zwei Aufgaben hintereinander ohne Hilfe richtig löst.
 
@@ -109,6 +109,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Exam B Q2b | **ohne Hilfe alle 3 richtig** (Schleife N→S, im Uhrzeigersinn, stärkstes Feld zwischen den Magneten). **Level 4 geschafft, alle Aufgaben von Exam B einmal bearbeitet** |
 | 12.11.2026 | Probeprüfung vorbereitet | [[04 Exam B – Probeprüfung]] (nur Aufgaben) erstellt. Start nach dem Abendessen, 45 Minuten |
 | 12.11.2026 | Frage: «Ist das wirklich alles?» | **Korrektur:** Laut Study-Problems-Regeln («If you understand them, then you are prepared for the exam») gehören die Study Problems zum Prüfungsstoff → **Level 5 ist wahrscheinlich prüfungsrelevant** (A1–A3, B1–B5, C1–C4, E1–E3), dazu Giancoli 24, 32, 34. Plan A oder B vorgeschlagen |
+| 12.11.2026 | Plan A gewählt | Lektion 11 (Level 5, Teil 1): F = BIL sin θ, Gradmodus, Rechte-Hand-Regel für die Kraft. Aufgabe A1 gestellt |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
