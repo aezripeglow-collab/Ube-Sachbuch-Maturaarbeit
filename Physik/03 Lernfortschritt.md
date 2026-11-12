@@ -12,7 +12,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst, Blockregel ohne Hilfe | 11.11.2026 |
 | 3 | Geladenes Teilchen im elektrischen Feld | mit Hilfe gelöst (G23, Exam B Q4). Am Do in der Probeprüfung nochmals | 11.11.2026 |
 | 4 | Magnete, Leiter, Rechte-Hand-Regel | Kompasse (Q5) und Stromleitung (Q6) gelöst; Teil 3 zwei Leiter (Q7) begonnen | 12.11.2026 |
-| 5 | Magnetische Kräfte, Kreisbahn, Spule | **wahrscheinlich prüfungsrelevant**; A1 ohne Hilfe, A3 und B1 mit Hilfe | 12.11.2026 |
+| 5 | Magnetische Kräfte, Kreisbahn, Spule | **wahrscheinlich prüfungsrelevant**; alle 4 Teile einmal gelöst: A1 ✅, A3 🟡, B1 🟡 (Umkehren bei negativ), C1 ✅, E1 ✅ mit kleinen Schritten | 12.11.2026 |
 
 Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne Hilfe gelöst**. Ein Level gilt als geschafft, wenn Aezri zwei Aufgaben hintereinander ohne Hilfe richtig löst.
 
@@ -63,6 +63,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - **Kraft auf bewegte Ladung mit Kreisrichtung beantwortet** (B1). Kraft = immer eine der 6 Richtungen; ⊗/⊙ sind dort Pfeile, keine Drähte
 
 - Rechte-Hand-Regel für die Kraft im Chat schwer: lieber **Ausschlusstrick** (Kraft ⟂ v und ⟂ B) + **Kreistrick right → up → out** verwenden
+
+- Spule: glaubte, die **Fläche A** sei in B = μ₀NI/L. Sie ist es nicht → Fläche ändert nichts
 
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
@@ -127,6 +129,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Lektion 13 (Level 5, Teil 3): Kreisbahn r = mv/(qB), Beispiel 20-6 | C1 (Zyklotron) als Bild geschickt und gestellt |
 | 12.11.2026 | C1 | **richtig**: r = 0.055 m (Durchmesser halbiert, cm → m richtig), B = 7.45·10⁻¹ T = 0.745 T |
 | 12.11.2026 | Lektion 14 (Level 5, Teil 4): Spule B = μ₀NI/L, Fläche egal | E1 als Bild geschickt, (a) gezeigt, (b) und (c) gestellt |
+| 12.11.2026 | E1 (b) und (c) | dachte zuerst, die Fläche stehe in der Formel → Buchstaben einzeln durchgegangen. Dann (b) 2B und (c) (4·½)/2 = 1 → B **richtig** |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
