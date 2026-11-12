@@ -11,7 +11,7 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | 1 | Ladung und elektrisches Feld | **ohne Hilfe gelöst** ✅ (G19, Ex. 16-7, Feldlinien, Exam B 1a iii) | 11.11.2026 |
 | 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst, Blockregel ohne Hilfe | 11.11.2026 |
 | 3 | Geladenes Teilchen im elektrischen Feld | mit Hilfe gelöst (G23, Exam B Q4). Am Do in der Probeprüfung nochmals | 11.11.2026 |
-| 4 | Magnete, Leiter, Rechte-Hand-Regel | Kompasse um Leiter ohne Hilfe gelöst; Teil 2 (B = μ₀I/2πr) erklärt | 11.11.2026 |
+| 4 | Magnete, Leiter, Rechte-Hand-Regel | Kompasse (Q5) und Stromleitung (Q6) gelöst; Teil 3 zwei Leiter (Q7) begonnen | 12.11.2026 |
 | 5 | Magnetische Kräfte, Kreisbahn, Spule | noch nicht begonnen | – |
 
 Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne Hilfe gelöst**. Ein Level gilt als geschafft, wenn Aezri zwei Aufgaben hintereinander ohne Hilfe richtig löst.
@@ -96,6 +96,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Übersicht der Fortschritte gezeigt, Ende der Lerneinheit (ca. 2 h 15 min) | Exam B: 14 Punkte allein, 11 mit Hilfe, 18 noch offen. Q6 noch nicht beantwortet |
 | 12.11.2026 | Exam B Q6 a) (Schulpause) | **ohne Hilfe richtig**, mit Einheiten: 50 µT = 0.00005 T, r = 0.8 m (3/3 Punkte). b) läuft |
 | 12.11.2026 | Exam B Q6 b) | falsch: «to the right» (Richtung des Stroms statt des Feldes). Mit Stift-Trick erklärt: unter dem Leiter **in die Ebene**. Kontrollfrage mit Strom nach links gestellt |
+| 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
+| 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
 
 ## Hier geht es weiter (Do 12.11.)
@@ -118,7 +120,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - In der Schule: Lehrer fragen, ob Level 5 (Lorentzkraft, Kreisbahn, Spule) an der Prüfung kommt.
 - In einer Schulpause: «Check yourself» von Level 0–2 in [[01 Electric and Magnetic Fields – Summary]] durchgehen.
 
-1. **Exam B Q6** (Stromleitung, 200 A): a) r = 2·10⁻⁷·I/B mit 50 µT = 5.0·10⁻⁵ T → 0.80 m; b) unter der Leitung **in die Ebene**. Aufgabe ist gestellt, aber noch nicht beantwortet
+1. ~~Exam B Q6~~ ✅ erledigt am 12.11. in der Schulpause
 2. **Exam B Q7** (zwei Leiter): Feld im Mittelpunkt und Nullstelle mit Blockregel (ohne Wurzel!)
 3. **Exam B Q1c** (Elektromagnet) und **Q2b** (zwei Stabmagnete, Feldlinien)
 4. **Ganze Exam B in 45 Minuten**, mit Lösungsschlüssel korrigieren, Schwächen wiederholen (besonders Q3 und Q4)
