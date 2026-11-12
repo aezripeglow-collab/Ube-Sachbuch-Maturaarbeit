@@ -11,10 +11,14 @@
             "id": "32646e92735f6687",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Physik/01 Electric and Magnetic Fields – Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Electric and Magnetic Fields – Summary"
             }
           }
         ]
@@ -187,8 +191,25 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "f0bcbf4f8083763c",
+  "active": "32646e92735f6687",
   "lastOpenFiles": [
+    "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 3 – Ube zwischen Tradition und Trend/3.3 These 3 – Vom Lebensmittel zum Bild.md",
+    "Ube Sachbuch Maturaarbeit/05 Gruppe/John.md",
+    "Ube Sachbuch Maturaarbeit/00 Start.md",
+    "Physik/01 Electric and Magnetic Fields – Summary.md",
+    "Physik/03 Lernfortschritt.md",
+    "Physik/02 Glossary English–German.md",
+    "Physik/Unterlagen/Klassenaufgaben/Magnetism_CP_Solutions_D1-D3.pdf",
+    "Physik/Unterlagen/Klassenaufgaben/Magnetism Class Problems.pdf",
+    "Physik/Unterlagen/Klassenaufgaben/Electric_Field_CP_Solutions.pdf",
+    "Physik/Unterlagen/Klassenaufgaben/Electric field class problems.pdf",
+    "Physik/Unterlagen/Buchkapitel/Johnson_Advanced_Physics_For_You_Magnetic_Fields.pdf",
+    "Physik/Unterlagen/Buchkapitel/Johnson_Advanced_Physics_For_You_Electric_Fields.pdf",
+    "Physik/Unterlagen/Buchkapitel/Giancoli_Physics_7th-ed_Magnetism.pdf",
+    "Physik/Unterlagen/Buchkapitel/Giancoli_Physics_7th-ed_Electrostatics.pdf",
+    "Physik/Unterlagen/Study Problems Regeln.pdf",
+    "Physik/Unterlagen/Formelblatt.pdf",
+    "Physik/00 Start.md",
     "Unbenannt.md",
     "Ube Sachbuch Maturaarbeit/README.md",
     "CLAUDE.md",
@@ -203,34 +224,17 @@
     "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/thesenschema.png",
     "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/flaeche_ernte.png",
     "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/arbeitsplan.png",
-    "Ube Sachbuch Maturaarbeit/07 Originaldateien/Buch Ube – Zwischen Tradition und Trend (Stand 08.11.2026).pdf",
     "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/3 Wechsel zu Ube (August)/2026-08-14 Arbeitsjournal.md",
     "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/3 Wechsel zu Ube (August)/2026-08-12 Arbeitsjournal.md",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Quelldateien/to_obsidian.py",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Quelldateien/make_figures.py",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Quelldateien/kommentar_quelle.txt",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Quelldateien/build_all.py",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Quelldateien/build.js",
     "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/abb3_flaeche_ernte.png",
     "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/abb2_thesenschema.png",
     "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen/abb1_zeitstrahl.png",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Schriftlicher_Kommentar_Ube.docx",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Quelldateien",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar/Abbildungen",
-    "Ube Sachbuch Maturaarbeit/08 Schriftlicher Kommentar",
     "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 3 – Ube zwischen Tradition und Trend/3.0 Einleitung und Leitthese.md",
     "Ube Sachbuch Maturaarbeit/02 Buch/Vorwort.md",
     "Ube Sachbuch Maturaarbeit/06 Offene Punkte/Offene Punkte bis zur Abgabe.md",
     "Ube Sachbuch Maturaarbeit/04 Quellen und Interview/Quellenverzeichnis Kapitel 3.md",
     "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/1 Kochbuch Salu-Salo (April bis Juli)/2026-04-22 Arbeitsjournal.md",
     "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 1 – Ube auf den Philippinen/Teil 1 – Ube auf den Philippinen.md",
-    "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 1 – Ube auf den Philippinen/Kapitel 1 – Kurzeinleitung.md",
-    "Ube Sachbuch Maturaarbeit/01 Planung/Aufteilung der Gruppe.md",
-    "Ube Sachbuch Maturaarbeit/00 Start.md",
-    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-10-30 Arbeitsjournal.md",
-    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-10-28 Arbeitsjournal.md",
-    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-10-23 Arbeitsjournal.md",
-    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-10-21 Arbeitsjournal.md",
-    "Ube Sachbuch Maturaarbeit/03 Arbeitsjournal/4 Sachbuch über Ube (August bis November)/2026-10-16 Arbeitsjournal.md"
+    "Ube Sachbuch Maturaarbeit/02 Buch/Kapitel 1 – Ube auf den Philippinen/Kapitel 1 – Kurzeinleitung.md"
   ]
 }
