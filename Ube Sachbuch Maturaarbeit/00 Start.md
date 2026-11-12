@@ -15,6 +15,7 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 - [[Projektplan]]
 - [[Aufteilung der Gruppe]]
 - [[Claude-Notizen Maturaarbeit]]
+- [[Plakate für die Ausstellung (18.11.2026)]] (Vorgaben der Schule und Prompt für ChatGPT)
 
 ## Buch
 1. [[Vorwort]]
