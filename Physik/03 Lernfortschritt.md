@@ -55,6 +55,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - Stromrichtung (Daumen) mit Feldrichtung (Finger) verwechselt (Q6b). Leiter in der Ebene → Feld immer **in/aus der Ebene**
 
+- Vorzeichen im Exponenten verloren (4.8·10⁵ statt 4.8·10⁻⁵ T). Kontrolle am Schluss: **Minus, Einheit, Richtung**
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -100,6 +102,8 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 12.11.2026 | Exam B Q7 (zwei Leiter) begonnen | Teil a) in 4 Schritten gestellt |
 | 12.11.2026 | Exam B Q7 vorgezeigt (auf Wunsch) | ganze Lösung a) 8.0·10⁻⁵ T nach oben und b) 7.5 cm mit Blockregel gezeigt. Übungsaufgabe ohne Hilfe: Example 20-10 (5.0 A ⊙, 7.0 A ⊗) |
 | 12.11.2026 | Example 20-10 ohne Hilfe (zu Hause, 16:56) | Schritte 1–3 **richtig** (r, B₁ = 2.0·10⁻⁵, B₂ = 2.8·10⁻⁵, beide nach oben, auch beim Leiter ⊗). Einheit T fehlte. Schritt 4 falsch («Left» statt addieren) |
+| 12.11.2026 | Example 20-10 Schritt 4 | 4.8 und Einheit T richtig, aber 10⁵ statt 10⁻⁵ und Richtung fehlte → 4.8·10⁻⁵ T nach oben. Zwei Leiter physikalisch verstanden |
+| 12.11.2026 | Lektion 9: Elektromagnet (Exam B Q1c) | 3 Fakten erklärt, Q1c gestellt |
 | 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
 | 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
