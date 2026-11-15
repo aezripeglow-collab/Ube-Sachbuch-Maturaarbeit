@@ -10,3 +10,4 @@ Startpunkt für alles rund um Mathematik (Klasse G4 / MAT_G23f, Lehrer: T. Turin
 
 ## Notizen
 - [[01 Differential Calculus 2 – Short Test Summary]]: Zusammenfassung auf Englisch mit allen Regeln, Beweisen, Rezepten und Lösungen der Übungen aus dem Skript
+- [[02 Lernfortschritt]]: was sitzt, was noch nicht, und wie Erklärungen am besten funktionieren
