@@ -205,6 +205,14 @@ Compasses around a wire with current **out of the page** (Exam B, Q5): above →
 
 Horizontal wire, current to the right (Exam B, Q6): **above** the wire the field points **out of the page**, **below** it **into the page**.
 
+| Current | Above the wire | Below the wire |
+| --- | --- | --- |
+| to the **right** → | out of the page ⊙ | **into** the page ⊗ |
+| to the **left** ← | into the page ⊗ | **out of** the page ⊙ |
+
+> [!tip] Pen trick
+> Lay a pen on the table (the wire), grip it with your right hand, thumb along the current. On the far side (= above the wire) and the near side (= below) your fingers show whether the field comes out of the table or goes into it. A wire in the page always gives **into / out of the page**, never left or right.
+
 ### 4.4 Two wires
 Same method as for two charges: field of each wire at the point, then add with signs.
 - Currents in the **same** direction: between the wires the fields are **opposite** → **subtract**.

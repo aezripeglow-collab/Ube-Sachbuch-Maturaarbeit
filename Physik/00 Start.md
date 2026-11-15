@@ -11,11 +11,15 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 - [[01 Electric and Magnetic Fields – Summary]]: Zusammenfassung auf Englisch, von Grund auf in Level 0 bis 5 aufgebaut
 - [[02 Glossary English–German]]: Fachwörter Englisch–Deutsch
 - [[03 Lernfortschritt]]: was sitzt, was noch nicht, Protokoll aller Lerneinheiten
+- [[04 Exam B – Probeprüfung]]: Exam B nur mit Aufgaben, für die Probeprüfung in 45 Minuten
+- [[05 Formelkarte für die Prüfung]]: alle Formeln mit Einheiten, wann man welche braucht, Richtungsregeln, Rezepte, typische Fehler
+- [[06 Cheat Sheet – welche Formel wann]]: Signalwörter in der Frage → welche Formel
 - `Unterlagen/`: Aezris Originaldateien (Formelblatt, Exam B mit Lösungen, Lösung des Lehrers, Study-Problems-Regeln, Klassenaufgaben, Buchkapitel)
 
 ## Regeln für Claude in diesem Bereich
 - **Nur Aezris eigene Unterlagen** aus `Unterlagen/` verwenden, keine fremden Quellen und keine selbst erfundenen Aufgaben.
 - Auf Englisch unterrichten, von Grund auf, und Schritt für Schritt steigern.
+- **Jede Aufgabe immer zeigen:** den Originalausschnitt aus Aezris Unterlagen als Bild schicken (ohne die Lösung), nicht nur abgetippt.
 - Jeden Lernfortschritt in [[03 Lernfortschritt]] eintragen und im Vault (Branch main) speichern.
 
 ## Themenübersicht
@@ -29,6 +33,9 @@ Startpunkt für alles rund um Physik (4. Jahr, Kantonsschule Baden).
 | Kraft auf stromdurchflossenen Leiter (F = BIL sin θ) | nur Study Problems |
 | Bewegte Ladungen, Kreisbahn, Zyklotron (F = qvB, r = mv/qB) | nur Study Problems |
 | Spule und Elektromagnet (B = μ₀NI/L) | teilweise |
+
+> [!warning] Prüfungsstoff
+> Die Study-Problems-Regeln sagen: «If you understand them, then you are prepared for the exam.» Darum gehören auch die Themen «nur Study Problems» wahrscheinlich zur Prüfung.
 
 ## Study Problems (Bonus 0.2)
 - Mindestens 10 gelöste oder vollständig versuchte Aufgaben, von Hand, vor der Prüfung abgeben.

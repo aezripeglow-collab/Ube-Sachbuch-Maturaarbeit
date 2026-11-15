@@ -9,10 +9,10 @@ Claude trägt hier nach jeder Lerneinheit ein, was gemacht wurde, was sitzt und 
 | --- | --- | --- | --- |
 | 0 | Vorsilben, Richtungen, F = ma | **ohne Hilfe gelöst** ✅ | 11.11.2026 |
 | 1 | Ladung und elektrisches Feld | **ohne Hilfe gelöst** ✅ (G19, Ex. 16-7, Feldlinien, Exam B 1a iii) | 11.11.2026 |
-| 2 | Zwei Ladungen, Überlagerung, Nullstelle | Mittelpunkt (3a) und Nullstelle (3b) mit Hilfe gelöst, Blockregel ohne Hilfe | 11.11.2026 |
+| 2 | Zwei Ladungen, Überlagerung, Nullstelle | Exam B 3a/3b mit Hilfe, Blockregel ohne Hilfe, entgegengesetzte Ladungen G24 fast allein | 12.11.2026 |
 | 3 | Geladenes Teilchen im elektrischen Feld | mit Hilfe gelöst (G23, Exam B Q4). Am Do in der Probeprüfung nochmals | 11.11.2026 |
-| 4 | Magnete, Leiter, Rechte-Hand-Regel | Kompasse um Leiter ohne Hilfe gelöst; Teil 2 (B = μ₀I/2πr) erklärt | 11.11.2026 |
-| 5 | Magnetische Kräfte, Kreisbahn, Spule | noch nicht begonnen | – |
+| 4 | Magnete, Leiter, Rechte-Hand-Regel | Kompasse (Q5) und Stromleitung (Q6) gelöst; Teil 3 zwei Leiter (Q7) begonnen | 12.11.2026 |
+| 5 | Magnetische Kräfte, Kreisbahn, Spule | **wahrscheinlich prüfungsrelevant**; alle 4 Teile einmal gelöst: A1 ✅, A3 🟡, B1 🟡 (Umkehren bei negativ), C1 ✅, E1 ✅ mit kleinen Schritten | 12.11.2026 |
 
 Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne Hilfe gelöst**. Ein Level gilt als geschafft, wenn Aezri zwei Aufgaben hintereinander ohne Hilfe richtig löst.
 
@@ -53,6 +53,23 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 
 - Kompass oben/unten beim Kreis vertauscht (Exam B Q5). Trick: Reihenfolge 1 → 3 → 2 → 4 muss einen sauberen Kreis ergeben
 
+- Stromrichtung (Daumen) mit Feldrichtung (Finger) verwechselt (Q6b). Leiter in der Ebene → Feld immer **in/aus der Ebene**
+
+- Vorzeichen im Exponenten verloren (4.8·10⁵ statt 4.8·10⁻⁵ T). Kontrolle am Schluss: **Minus, Einheit, Richtung**
+
+- **cm → m: durch 100 teilen** (A3: 5 cm als 0.5 m gerechnet)
+- ⊙/⊗ in einem Bild können auch das **Magnetfeld B** zeigen, nicht nur einen Strom (A3)
+
+- **Kraft auf bewegte Ladung mit Kreisrichtung beantwortet** (B1). Kraft = immer eine der 6 Richtungen; ⊗/⊙ sind dort Pfeile, keine Drähte
+
+- Rechte-Hand-Regel für die Kraft im Chat schwer: lieber **Ausschlusstrick** (Kraft ⟂ v und ⟂ B) + **Kreistrick right → up → out** verwenden
+
+- Spule: glaubte, die **Fläche A** sei in B = μ₀NI/L. Sie ist es nicht → Fläche ändert nichts
+
+- Bei gegebener **Beschleunigung** zuerst **F = m·a**, dann E = F/q (Giancoli 27)
+
+- Magnetfeld B in **T**, elektrisches Feld E in **N/C** (D1: B mit N/C angegeben); bei B = 2·10⁻⁷·I/r durch r **teilen**
+
 ## Protokoll
 | Datum | Was gemacht | Ergebnis |
 | --- | --- | --- |
@@ -92,6 +109,44 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | 11.11.2026 | Kompasse bei Strom in die Ebene ⊗ | **ohne Hilfe alle 4 richtig** (right, left, up, down) |
 | 11.11.2026 | Lektion 8 (Level 4, Teil 2): B = μ₀I/2πr = 2·10⁻⁷·I/r, Leiter in der Ebene | Aufgabe Exam B Q6 gestellt |
 | 11.11.2026 | Übersicht der Fortschritte gezeigt, Ende der Lerneinheit (ca. 2 h 15 min) | Exam B: 14 Punkte allein, 11 mit Hilfe, 18 noch offen. Q6 noch nicht beantwortet |
+| 12.11.2026 | Exam B Q6 a) (Schulpause) | **ohne Hilfe richtig**, mit Einheiten: 50 µT = 0.00005 T, r = 0.8 m (3/3 Punkte). b) läuft |
+| 12.11.2026 | Exam B Q6 b) | falsch: «to the right» (Richtung des Stroms statt des Feldes). Mit Stift-Trick erklärt: unter dem Leiter **in die Ebene**. Kontrollfrage mit Strom nach links gestellt |
+| 12.11.2026 | Kontrollfrage Strom nach links, unter dem Leiter | **ohne Hilfe richtig: out of the page**. Wollte es genauer verstehen → Umkehrregel und Bild «Ringe durch das Papier» erklärt |
+| 12.11.2026 | Exam B Q7 (zwei Leiter) begonnen | Teil a) in 4 Schritten gestellt |
+| 12.11.2026 | Exam B Q7 vorgezeigt (auf Wunsch) | ganze Lösung a) 8.0·10⁻⁵ T nach oben und b) 7.5 cm mit Blockregel gezeigt. Übungsaufgabe ohne Hilfe: Example 20-10 (5.0 A ⊙, 7.0 A ⊗) |
+| 12.11.2026 | Example 20-10 ohne Hilfe (zu Hause, 16:56) | Schritte 1–3 **richtig** (r, B₁ = 2.0·10⁻⁵, B₂ = 2.8·10⁻⁵, beide nach oben, auch beim Leiter ⊗). Einheit T fehlte. Schritt 4 falsch («Left» statt addieren) |
+| 12.11.2026 | Example 20-10 Schritt 4 | 4.8 und Einheit T richtig, aber 10⁵ statt 10⁻⁵ und Richtung fehlte → 4.8·10⁻⁵ T nach oben. Zwei Leiter physikalisch verstanden |
+| 12.11.2026 | Lektion 9: Elektromagnet (Exam B Q1c) | 3 Fakten erklärt, Q1c gestellt |
+| 12.11.2026 | Exam B Q1c | **ohne Hilfe alle 3 richtig** (stärker/doppelt, Pole tauschen, ein- und ausschaltbar) |
+| 12.11.2026 | Lektion 10: zwei Stabmagnete (Exam B Q2b) | erklärt mit Skizze, 3 Fragen gestellt |
+| 12.11.2026 | Exam B Q2b | **ohne Hilfe alle 3 richtig** (Schleife N→S, im Uhrzeigersinn, stärkstes Feld zwischen den Magneten). **Level 4 geschafft, alle Aufgaben von Exam B einmal bearbeitet** |
+| 12.11.2026 | Probeprüfung vorbereitet | [[04 Exam B – Probeprüfung]] (nur Aufgaben) erstellt. Start nach dem Abendessen, 45 Minuten |
+| 12.11.2026 | Frage: «Ist das wirklich alles?» | **Korrektur:** Laut Study-Problems-Regeln («If you understand them, then you are prepared for the exam») gehören die Study Problems zum Prüfungsstoff → **Level 5 ist wahrscheinlich prüfungsrelevant** (A1–A3, B1–B5, C1–C4, E1–E3), dazu Giancoli 24, 32, 34. Plan A oder B vorgeschlagen |
+| 12.11.2026 | Plan A gewählt | Lektion 11 (Level 5, Teil 1): F = BIL sin θ, Gradmodus, Rechte-Hand-Regel für die Kraft. Aufgabe A1 gestellt |
+| 12.11.2026 | A1 ohne Hilfe | **richtig**: sin 65° = 0.9, F = 1.09 N mit Einheit |
+| 12.11.2026 | A3 (Railgun) gestellt | a) Richtung (Strom nach Norden, B aus der Ebene), b) F = BIL mit L = 5 cm |
+| 12.11.2026 | A3 a) und b) (mit Bild der Aufgabe) | a) **east richtig**, aber Begründung falsch (⊙ als Drähte/Strom gedeutet statt als Magnetfeld). b) 8.94·10³ N statt 893.75 N: **5 cm = 0.5 m** gerechnet statt 0.05 m |
+| 12.11.2026 | Lektion 12 (Level 5, Teil 2): F = qvB, Richtung, negative Ladung umkehren | B1 als Bild geschickt, (a) gemeinsam gelöst (left), (b)–(f) gestellt |
+| 12.11.2026 | B1 (b) und (f) | als «counterclockwise/clockwise» beantwortet → Regel für Leiterfeld (Kreise) mit Kraftregel (gerade Richtung) verwechselt. Unterschied erklärt, (b) gemeinsam gelöst (left), (c) gestellt |
+| 12.11.2026 | B1 (c) und (d) | (c): wiederholte v und B statt der Kraft → Trick «Kraft steht senkrecht auf v und B» erklärt, (c) = up gezeigt. (d): Antwort «down/left» → Kreistrick right → up → out eingeführt, (d) = into gezeigt. (e) gestellt |
+| 12.11.2026 | B1 (e) und (f) | (e) **ohne Hilfe richtig** (sin 180° = 0 → keine Kraft). (f): Hand richtig (up für positiv), aber **Umkehren für negative Ladung vergessen** → down. Checkliste: Ausschliessen → Hand/Kreis → negativ? umkehren |
+| 12.11.2026 | Lektion 13 (Level 5, Teil 3): Kreisbahn r = mv/(qB), Beispiel 20-6 | C1 (Zyklotron) als Bild geschickt und gestellt |
+| 12.11.2026 | C1 | **richtig**: r = 0.055 m (Durchmesser halbiert, cm → m richtig), B = 7.45·10⁻¹ T = 0.745 T |
+| 12.11.2026 | Lektion 14 (Level 5, Teil 4): Spule B = μ₀NI/L, Fläche egal | E1 als Bild geschickt, (a) gezeigt, (b) und (c) gestellt |
+| 12.11.2026 | E1 (b) und (c) | dachte zuerst, die Fläche stehe in der Formel → Buchstaben einzeln durchgegangen. Dann (b) 2B und (c) (4·½)/2 = 1 → B **richtig** |
+| 12.11.2026 | Lektion 15: entgegengesetzte Ladungen (zwischen + und − addieren, Richtung zur negativen Ladung) | Giancoli 24 als Bild geschickt und gestellt |
+| 12.11.2026 | Giancoli 24 | r = 0.03 m, E₁ = 7.99·10⁷, E₂ = 5.79·10⁷, Summe 1.38·10⁸ **richtig**. Richtung nur «pulls» (statt «toward the negative charge»), Einheit N/C fehlte. **Alle Themen einmal gelernt** |
+| 12.11.2026 | Pause, dann gemischter Test geplant | Aufgaben aus den Study Problems, die noch nicht gelöst wurden, ohne Hilfe |
+| 12.11.2026 | Gemischter Test gestartet (20:46) | 5 Aufgaben ohne Hilfe. Aufgabe 1: Giancoli 27 (Elektron beschleunigt nach Norden) |
+| 12.11.2026 | Test 1: Giancoli 27 | **0/2**: Elektron negativ erkannt, aber Zahl falsch (8.56·10⁵) und Richtung fehlte. Lösung: F = m·a, E = F/q = 5.97·10⁻¹⁰ N/C, Süden. Test 2: D1 a) gestellt |
+| 12.11.2026 | Test 2: D1 a) | **0/2**: 1.62·10⁻⁵ N/C, wohl mit r **multipliziert** statt dividiert, Einheit N/C statt **T**, Prozent fehlte. Lösung 2.24 µT ≈ 4.5 %. Test 3: B2 gestellt |
+| 12.11.2026 | Test 3: B2 (B gesucht) | **1/3**: (c) right richtig; (a) «out/up» statt down, (b) out statt into. Ausschlusstrick + Kreistrick gezeigt. Tipp: bei «find B» max. 2 Minuten. Test 4: E2 gestellt |
+| 12.11.2026 | Test 4: E2 | **0/2**: «6.0·10⁻¹ N/ms²», Formeln und Einheit vermischt. Lösung: Spule 3.8 mT (n = 300/m), Leiter 0.1 mT. Zwischenstand Test 1/9 Punkte, Müdigkeit (4½ h gelernt). Vorschlag: Spickzettel statt Aufgabe 5 |
+| 12.11.2026 | Rückmeldung: «Du hast mir nie die wichtigen Formeln gegeben» | Berechtigt: Formeln waren nur verteilt in den Lektionen. [[05 Formelkarte für die Prüfung]] erstellt (gegebene Formeln, auswendig zu lernende, Einheiten, Richtungen, Rezepte, Fehler-Checkliste) |
+| 12.11.2026 | Alle 10 Formeln nochmals erklärt, je mit Beispiel aus den Tests und Einheit | als Teil 7 in [[05 Formelkarte für die Prüfung]] gespeichert. Ende der Vorbereitung, morgen früh Formelkarte lesen |
+| 13.11.2026 | Prüfungsmorgen (08:30) | [[06 Cheat Sheet – welche Formel wann]] erstellt: Signalwörter → Formel |
+| 12.11.2026 | Kontrollfrage Strom nach links | **ohne Hilfe richtig**: unter der Leitung aus der Ebene. Exam B Q6 abgeschlossen |
+| 12.11.2026 | Lektion 9 (Level 4, Teil 3): zwei Leiter | Exam B Q7 begonnen, Schritt 1 (B₁, B₂ im Mittelpunkt) gestellt |
 | 11.11.2026 | Exam B Q5 | b) richtig (umgekehrt → im Uhrzeigersinn). a) zuerst leer, dann falsch (down, up, right, left statt left, right, down, up). Mit Uhr-Vergleich erklärt: 1 und 3 vorgezeigt, 2 und 4 selbst |
 
 ## Hier geht es weiter (Do 12.11.)
@@ -114,7 +169,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 - In der Schule: Lehrer fragen, ob Level 5 (Lorentzkraft, Kreisbahn, Spule) an der Prüfung kommt.
 - In einer Schulpause: «Check yourself» von Level 0–2 in [[01 Electric and Magnetic Fields – Summary]] durchgehen.
 
-1. **Exam B Q6** (Stromleitung, 200 A): a) r = 2·10⁻⁷·I/B mit 50 µT = 5.0·10⁻⁵ T → 0.80 m; b) unter der Leitung **in die Ebene**. Aufgabe ist gestellt, aber noch nicht beantwortet
+1. ~~Exam B Q6~~ ✅ erledigt am 12.11. in der Schulpause
 2. **Exam B Q7** (zwei Leiter): Feld im Mittelpunkt und Nullstelle mit Blockregel (ohne Wurzel!)
 3. **Exam B Q1c** (Elektromagnet) und **Q2b** (zwei Stabmagnete, Feldlinien)
 4. **Ganze Exam B in 45 Minuten**, mit Lösungsschlüssel korrigieren, Schwächen wiederholen (besonders Q3 und Q4)
@@ -126,7 +181,7 @@ Stand-Stufen: noch nicht begonnen → erklärt → mit Hilfe gelöst → **ohne 
 | Do 12.11. | Level 4 fertig (zwei Leiter, Magnete, Elektromagnet). Dann ganze Exam B in 45 Minuten, mit Lösungsschlüssel des Lehrers korrigieren, Schwächen wiederholen |
 | Fr 13.11. | Morgens 10 Minuten: Exam-Checkliste (Einheiten, Richtungen) |
 
-Priorität nach Punkten in Exam B: Level 4 ≈ 23 Punkte, Level 3 = 5 Punkte. Level 2 Zusatzaufgaben (G34, G24, G32) nur bei Zeit. Level 5 nur, falls der Lehrer es für die Prüfung bestätigt.
+Priorität nach Punkten in Exam B: Level 4 ≈ 23 Punkte, Level 3 = 5 Punkte. Level 2 Zusatzaufgaben (G34, G24, G32) nur bei Zeit. ~~Level 5 nur, falls der Lehrer es für die Prüfung bestätigt.~~ Korrektur 12.11.: Level 5 gehört laut Study-Problems-Regeln wahrscheinlich dazu.
 
 ## Später, falls Zeit bleibt
 1. Kurze Wiederholung: Nullstellen-Methode mit Blöcken (Exam B 3b nochmals selbst rechnen)
