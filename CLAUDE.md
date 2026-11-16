@@ -19,7 +19,7 @@ Jeder Lebensbereich hat einen eigenen Ordner im Hauptverzeichnis.
 | `Persönliches/` | Texte, die ich selbst geschrieben habe, als Vorlage für meine Schreibstimme: `Die Familienchronik über Aezri Peglow.md` und das daraus abgeleitete Stilprofil `Schreibstimme Aezri.md`. Claude liest das Stilprofil, bevor es Texte in meinem Namen schreibt oder überarbeitet. |
 | `Physik/` | Physik im 4. Jahr, aktuell elektrische und magnetische Felder (Prüfungsvorbereitung). Startpunkt: `00 Start.md` |
 | `math/` | Mathematik (G4, Lehrer T. Turini), aktuell Differential Calculus 2 (Kurztest 16.11.2026). Startpunkt: `00 Start.md` |
-| `Deutsch/` | Deutsch, aktuell Satire (Aufsatz 17.11.2026: eigene Satire schreiben). Startpunkt: `00 Start.md` |
+| `Deutsch/` | Deutsch, aktuell Satire (Aufsatz 17.11.2026: individueller Satire-Text mit Reflexion). Startpunkt: `00 Start.md` |
 
 Neue Bereiche bitte hier in der Tabelle ergänzen.
 
