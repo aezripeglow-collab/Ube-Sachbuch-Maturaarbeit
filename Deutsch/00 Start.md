@@ -3,7 +3,8 @@
 Startpunkt für alles rund um Deutsch (Kantonsschule Baden).
 
 ## Aktuelles Thema: Satire
-- **Aufsatz: Dienstag, 17.11.2026**: eine eigene Satire schreiben.
+- **Aufsatz: Dienstag, 17.11.2026**: «Individueller Satire-Text mit Reflexion», also eine eigene Satire und dazu eine Reflexion über den eigenen Text.
+- Geübt: der satirische Bericht «Physik spielt gerne» und ein fiktives Interview mit dem Schüler Eneas (Minecraft statt Physik), beide mit Claude überarbeitet (Texte nicht im Vault, weil das Repository öffentlich ist).
 - Unterlagen aus dem Unterricht (nicht im Vault, weil das Repository öffentlich ist):
   - Arbeitsblatt «Was ist eine Satire?» (ScA1) mit dem Text «Familienfeier» (Cornelsen, Deutschbuch 10) und den Aufträgen 1 bis 3
   - Folien «Satire», September 2026: Zitate von Tucholsky und Kästner, satirischer Bericht, fiktives Interview, 6 Tipps für eine gelungene Satire
@@ -14,3 +15,4 @@ Startpunkt für alles rund um Deutsch (Kantonsschule Baden).
 - [[02 Satire – Analyse der Unterrichtstexte]]: «Familienfeier» (Aufträge 1 und 2 gelöst, mit Zeilen) und Sargnagels «Opernball»
 - [[03 Satire – Musterbeispiele]]: drei eigene Beispieltexte (Episode, Bericht, Interview), jeweils mit Erklärung, warum sie funktionieren
 - [[04 Satire – Kurzcheck vor dem Aufsatz]]: eine Seite zum Durchlesen am Morgen und eine Checkliste für die Überarbeitung
+- [[05 Satire – Zusammenfassung für den Aufsatz]]: **die Zusammenfassung für morgen**, mit Satire und Reflexion (Aufbau, Satzanfänge, Beispiel), deinen Werkzeugen und deinen typischen Fehlern
