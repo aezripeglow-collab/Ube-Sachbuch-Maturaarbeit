@@ -144,3 +144,9 @@ Was Claude über eure Maturaarbeit weiss (Stand: 9. November 2026). Du kannst di
 - **Branch:** Seit dem 12.11. gilt laut Startnotiz **main**. Die Notiz zu den Plakaten lag zuerst nur auf master und ist am 13.11. nach main übernommen worden.
 - **12.11.:** Blatt der Schule zur Ausstellung (zwei A3-Plakate quer, Ränder 3 cm, Arial 16 Punkt, Abgabe 18.11.2026, kein Titel und keine Namen auf den Plakaten). Vorgaben und Prompt für ChatGPT: [[Plakate für die Ausstellung (18.11.2026)]].
 - **13.11.:** Aezri wollte einen Abstract, der aussieht wie ein Beispiel einer anderen Maturaarbeit (Foto). Ergebnis: [[Abstract (13.11.2026)]] und [[Abstract_Ube_Maturaarbeit.docx]]. Unpersönlich formuliert wie die Vorlage, 315 Wörter, eine Seite. Die formale Recherche zu Sachbüchern steht nicht als Grundlage drin, weil diese Texte erst im November mit dem Kommentar dazugekommen sind.
+
+## Präsentation der Maturaarbeit (20. November 2026)
+- Aezri hat eine Gliederung geschickt (Preview Buch, Themenfindung, Vorgehensweise, Recherche, Inhalt und Ergebnisse, Produkt zeigen, Reflexion, Buch anschauen, dazu Dekoration im Raum) und eine sehr übersichtliche, interessante PowerPoint gewünscht.
+- Ergebnis: [[Ube_Maturapraesentation.pptx]] im neuen Ordner `08 Präsentation`, Übersicht in [[Präsentation der Maturaarbeit]]. 19 Folien, Ube-Violett, sechs Punkte oben rechts als Orientierung, Seiten aus dem Buch als Bilder, ein Säulendiagramm zur Ernte, Sprechnotizen auf jeder Folie.
+- Offen: erlaubte Dauer der Präsentation, Foto des gedruckten Buches und Cover, wer welche Folie spricht.
+- Technik: Skript im Scratchpad `r15/bau.js` (pptxgenjs), geprüft mit `validate.py` und als Bilder angeschaut.
