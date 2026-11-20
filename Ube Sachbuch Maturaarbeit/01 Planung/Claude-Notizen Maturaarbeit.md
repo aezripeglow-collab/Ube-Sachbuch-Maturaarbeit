@@ -150,3 +150,4 @@ Was Claude über eure Maturaarbeit weiss (Stand: 9. November 2026). Du kannst di
 - Ergebnis: [[Ube_Maturapraesentation.pptx]] im neuen Ordner `08 Präsentation`, Übersicht in [[Präsentation der Maturaarbeit]]. 19 Folien, Ube-Violett, sechs Punkte oben rechts als Orientierung, Seiten aus dem Buch als Bilder, ein Säulendiagramm zur Ernte, Sprechnotizen auf jeder Folie.
 - Offen: erlaubte Dauer der Präsentation, Foto des gedruckten Buches und Cover, wer welche Folie spricht.
 - Technik: Skript im Scratchpad `r15/bau.js` (pptxgenjs), geprüft mit `validate.py` und als Bilder angeschaut.
+- **Zweite Gestaltung (20.11., 11:30 Uhr):** Aezri wollte es viel schöner, vor allem die Schrift. Jetzt überall Georgia statt Cambria und Calibri, Gold als Akzentfarbe, runde Fotos aus dem Buch, drei dunkle Folien. Inhalt und Sprechnotizen sind gleich. Skript: `r15/bau2.js`.

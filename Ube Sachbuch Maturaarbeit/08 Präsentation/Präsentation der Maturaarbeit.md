@@ -6,6 +6,13 @@ stand: 2026-11-20
 
 Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (19 Folien, Breitbild, von Claude am 20.11.2026 nach Aezris Gliederung gebaut). Jede Folie hat Sprechnotizen mit Stichworten.
 
+## Gestaltung (zweite Fassung vom 20.11.2026, 11:30 Uhr)
+Aezri wollte die erste Fassung «viel schöner, vor allem auch die Schrift». Die zweite Fassung hat denselben Inhalt und dieselben Sprechnotizen, aber eine neue Gestaltung.
+
+- **Schrift:** überall Georgia, Titel gross und nicht fett, einzelne Wörter kursiv. Georgia ist auf Windows, Mac und iPad vorhanden. Fehlt sie auf einem Gerät, ersetzt PowerPoint sie durch eine andere Schrift.
+- **Farben:** dunkles Aubergine, Ube-Violett, Flieder und Gold als Akzent. Drei Folien sind dunkel (Titel, Leitthese, was von der Leitthese bleibt) und der Schluss.
+- **Bilder:** runde Fotos und zwei freigestellte Bilder (Ube Halaya, Halo-Halo). Sie stammen alle aus dem Buch-PDF, die Fundstellen stehen in Johns Liste der Bildquellen.
+
 ## Aufbau (Gliederung von Aezri vom 20.11.2026)
 | Teil | Folien | Inhalt |
 | --- | --- | --- |
