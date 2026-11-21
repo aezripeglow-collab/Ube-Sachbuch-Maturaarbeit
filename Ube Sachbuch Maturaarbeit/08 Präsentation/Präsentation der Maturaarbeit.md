@@ -4,35 +4,37 @@ stand: 2026-11-20
 ---
 # Präsentation der Maturaarbeit
 
-Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (19 Folien, Breitbild, von Claude am 20.11.2026 nach Aezris Gliederung gebaut). Jede Folie hat Sprechnotizen mit Stichworten.
+Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, dritte Gestaltung vom 21.11.2026). Jede Folie hat Sprechnotizen mit Stichworten.
 
-## Gestaltung (zweite Fassung vom 20.11.2026, 11:30 Uhr)
-Aezri wollte die erste Fassung «viel schöner, vor allem auch die Schrift». Die zweite Fassung hat denselben Inhalt und dieselben Sprechnotizen, aber eine neue Gestaltung.
+## Gestaltung (dritte Fassung vom 21.11.2026)
+Aezri wollte es nach der zweiten Fassung «noch schöner». Der Inhalt und die Sprechnotizen sind gleich geblieben, die Gestaltung ist neu. Übersicht aller Folien als Bild: ![[Ube_Maturapraesentation_Uebersicht.jpg]]
 
-- **Schrift:** überall Georgia, Titel gross und nicht fett, einzelne Wörter kursiv. Georgia ist auf Windows, Mac und iPad vorhanden. Fehlt sie auf einem Gerät, ersetzt PowerPoint sie durch eine andere Schrift.
-- **Farben:** dunkles Aubergine, Ube-Violett, Flieder und Gold als Akzent. Drei Folien sind dunkel (Titel, Leitthese, was von der Leitthese bleibt) und der Schluss.
-- **Bilder:** runde Fotos und zwei freigestellte Bilder (Ube Halaya, Halo-Halo). Sie stammen alle aus dem Buch-PDF, die Fundstellen stehen in Johns Liste der Bildquellen.
+- **Hintergründe:** weiche Farbverläufe statt einfarbiger Flächen, dunkel in Aubergine und Violett, hell in Weiss und Flieder.
+- **Auftaktfolien:** Jeder der sechs Teile beginnt mit einer dunklen Folie mit grosser Ziffer, Titel und einem Bogenbild aus dem Buch. Dadurch sind es 25 statt 19 Folien, die Auftaktfolien bleiben aber nur ein paar Sekunden stehen.
+- **Karten:** weiss mit weichem Schatten, Gold als Akzent, feine goldene Ringe hinter den Bildern.
+- **Schrift:** weiterhin überall Georgia (auf Windows, Mac und iPad vorhanden).
+- **Bilder:** alle aus dem Buch-PDF, die Fundstellen stehen in Johns Liste der Bildquellen.
 
 ## Aufbau (Gliederung von Aezri vom 20.11.2026)
 | Teil | Folien | Inhalt |
 | --- | --- | --- |
 | Einstieg, Preview Buch | 1 bis 3 | Titel, «Violett im Becher. Aber woher kommt es?», Ablauf |
-| 1 Thema | 4 bis 6 | Vom Kochbuch zu Ube, warum Ube, Leitfrage und Leitthese |
-| 2 Vorgehen | 7 und 8 | Zeitleiste vom 21.08. bis 10.11., wer was gemacht hat |
-| 3 Recherche | 9 und 10 | Vier Wege der Recherche, Schema der Thesen, Interview mit «Tita» |
-| 4 Inhalt und Ergebnisse | 11 bis 15 | Drei Kapitel, Ernte (minus 43 %), Exporte, vier Thesen, was von der Leitthese bleibt |
-| 5 Das Buch | 16 | Doppelseiten und Zahlen zum Buch. **Hier das Buch herumgeben.** |
-| 6 Reflexion | 17 und 18 | Stolz, schwierig, anders machen. Was jeder mitnimmt |
-| Schluss | 19 | «Salamat!», Fragen, Buch anschauen, Ube-Candy |
+| 1 Thema | 4 bis 7 | Auftakt, vom Kochbuch zu Ube, warum Ube, Leitfrage und Leitthese |
+| 2 Vorgehen | 8 bis 10 | Auftakt, Zeitleiste vom 21.08. bis 10.11., wer was gemacht hat |
+| 3 Recherche | 11 bis 13 | Auftakt, vier Wege der Recherche und Schema der Thesen, Interview mit «Tita» |
+| 4 Inhalt und Ergebnisse | 14 bis 19 | Auftakt, drei Kapitel, Ernte (minus 43 %), Exporte, vier Thesen, was von der Leitthese bleibt |
+| 5 Das Buch | 20 und 21 | Auftakt, Doppelseiten und Zahlen zum Buch. **Hier das Buch herumgeben.** |
+| 6 Reflexion | 22 bis 24 | Auftakt, stolz, schwierig, anders machen, was jeder mitnimmt |
+| Schluss | 25 | «Salamat!», Fragen, Buch anschauen, Ube-Candy |
 
 ## Dauer
-Mit allen Folien etwa 25 Minuten. Für eine kürzere Präsentation zuerst die Folien 5, 8, 13 und 18 ausblenden (Rechtsklick auf die Folie, «Folie ausblenden»), das spart etwa 5 Minuten. Die erlaubte Dauer steht nicht im Vault, bitte bei Frau Büschlen nachfragen.
+Mit allen Folien etwa 25 Minuten. Für eine kürzere Präsentation zuerst die Folien 6, 10, 17 und 24 ausblenden (Rechtsklick auf die Folie, «Folie ausblenden»), das spart etwa 5 Minuten. Die erlaubte Dauer steht nicht im Vault, bitte bei Frau Büschlen nachfragen.
 
 ## Woher die Angaben stammen
-Alle Zahlen und Aussagen stammen aus dem schriftlichen Kommentar, dem Arbeitsjournal, dem Buch und dem Interview. Die Bilder sind Seiten aus dem Buch-PDF vom 08.11.2026. Ein Foto des gedruckten Buches und das Cover fehlen im Vault. Wer eines hat, kann es auf Folie 1 oder 16 einsetzen.
+Alle Zahlen und Aussagen stammen aus dem schriftlichen Kommentar, dem Arbeitsjournal, dem Buch und dem Interview. Die Bilder sind Seiten aus dem Buch-PDF vom 08.11.2026. Ein Foto des gedruckten Buches und das Cover fehlen im Vault. Wer eines hat, kann es auf Folie 1 oder 21 einsetzen.
 
-- Das Zitat von Tita auf Folie 10 ist sinngemäss übersetzt, so wie es im Buch bei These 3 steht.
-- Die 0,7 Prozent auf Folie 13 sind mit Absicht als unsichere Zahl dargestellt, weil der Kommentar (Kapitel 5.4) sie zurücknimmt.
+- Das Zitat von Tita auf Folie 13 ist sinngemäss übersetzt, so wie es im Buch bei These 3 steht.
+- Die 0,7 Prozent auf Folie 17 sind mit Absicht als unsichere Zahl dargestellt, weil der Kommentar (Kapitel 5.4) sie zurücknimmt.
 - Die Rückmeldung zur Zwischenpräsentation ist umschrieben und nicht wörtlich zitiert, weil der Wortlaut im Kommentar noch als ungeprüft markiert war.
 
 ## Mögliche Fragen
@@ -46,4 +48,4 @@ Alle Zahlen und Aussagen stammen aus dem schriftlichen Kommentar, dem Arbeitsjou
 - [ ] Schale mit Ube
 - [ ] Ube-Produkte
 - [ ] Ube-Candy als Mitbringsel
-- [ ] Das Buch, zum Herumgeben bei Folie 16 und zum Anschauen am Schluss
+- [ ] Das Buch, zum Herumgeben bei Folie 21 und zum Anschauen am Schluss
