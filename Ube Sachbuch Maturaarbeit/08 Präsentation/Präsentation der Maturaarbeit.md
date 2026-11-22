@@ -4,15 +4,16 @@ stand: 2026-11-20
 ---
 # Präsentation der Maturaarbeit
 
-Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, vierte Gestaltung vom 23.11.2026). Jede Folie hat Sprechnotizen mit Stichworten.
+Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, fünfte Gestaltung vom 23.11.2026, schlicht in Weiss und Violett). Jede Folie hat Sprechnotizen mit Stichworten.
 
-## Gestaltung (vierte Fassung vom 23.11.2026)
-Nach drei Fassungen hat Claude Aezri gefragt, in welche Richtung es gehen soll. Antworten: **durchgehend dunkel und edel**, gestört haben **die Schrift** und **zu viel Text**, gewünscht sind **Serifen für die Titel und eine schlichte Schrift für den Text**. Übersicht aller Folien als Bild: ![[Ube_Maturapraesentation_Uebersicht.jpg]]
+## Gestaltung (fünfte Fassung vom 23.11.2026)
+Nach der dunklen vierten Fassung schrieb Aezri: «Simple gestalten einfache farben». Deshalb ist jetzt alles Aufwendige wieder weg. Übersicht aller Folien als Bild: ![[Ube_Maturapraesentation_Uebersicht.jpg]]
 
-- **Alle Folien dunkel:** Aubergine und Violett mit weichem Verlauf, Gold als Akzent, feine goldene Ringe um die Bilder.
+- **Farben:** weisser Hintergrund, ein einziges Violett, dazu helles Flieder für Flächen und dunkle Schrift. Keine Verläufe, kein Gold, keine Ringe, keine Schatten auf den Karten.
+- **Violette Folien:** nur die Titelfolie, die sechs Auftaktfolien und die Schlussfolie sind ganz violett, alle anderen sind weiss.
 - **Schrift:** Titel, grosse Zahlen und Zitate in Georgia, der übrige Text in Calibri. Beide sind auf Windows, Mac und in PowerPoint auf dem iPad vorhanden.
-- **Viel weniger Text:** Auf jeder Folie stehen nur noch Stichworte, Zahlen und Bilder. Was vorher auf den Folien stand, steht jetzt in den Sprechnotizen. Die Zahl 0,7 Prozent steht nicht mehr auf der Folie, nur noch in den Notizen.
-- **25 Folien:** sechs Auftaktfolien mit grosser Ziffer und Bogenbild, dazu die 19 Inhaltsfolien.
+- **Wenig Text:** wie in der vierten Fassung nur Stichworte, Zahlen und Bilder. Die Einzelheiten stehen in den Sprechnotizen.
+- **25 Folien:** Aufbau, Texte und Sprechnotizen sind gleich wie in der vierten Fassung.
 - **Bilder:** alle aus dem Buch-PDF, die Fundstellen stehen in Johns Liste der Bildquellen.
 
 ## Aufbau (Gliederung von Aezri vom 20.11.2026)
