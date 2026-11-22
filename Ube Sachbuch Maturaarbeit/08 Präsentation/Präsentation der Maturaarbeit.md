@@ -4,15 +4,15 @@ stand: 2026-11-20
 ---
 # Präsentation der Maturaarbeit
 
-Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, dritte Gestaltung vom 21.11.2026). Jede Folie hat Sprechnotizen mit Stichworten.
+Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, vierte Gestaltung vom 23.11.2026). Jede Folie hat Sprechnotizen mit Stichworten.
 
-## Gestaltung (dritte Fassung vom 21.11.2026)
-Aezri wollte es nach der zweiten Fassung «noch schöner». Der Inhalt und die Sprechnotizen sind gleich geblieben, die Gestaltung ist neu. Übersicht aller Folien als Bild: ![[Ube_Maturapraesentation_Uebersicht.jpg]]
+## Gestaltung (vierte Fassung vom 23.11.2026)
+Nach drei Fassungen hat Claude Aezri gefragt, in welche Richtung es gehen soll. Antworten: **durchgehend dunkel und edel**, gestört haben **die Schrift** und **zu viel Text**, gewünscht sind **Serifen für die Titel und eine schlichte Schrift für den Text**. Übersicht aller Folien als Bild: ![[Ube_Maturapraesentation_Uebersicht.jpg]]
 
-- **Hintergründe:** weiche Farbverläufe statt einfarbiger Flächen, dunkel in Aubergine und Violett, hell in Weiss und Flieder.
-- **Auftaktfolien:** Jeder der sechs Teile beginnt mit einer dunklen Folie mit grosser Ziffer, Titel und einem Bogenbild aus dem Buch. Dadurch sind es 25 statt 19 Folien, die Auftaktfolien bleiben aber nur ein paar Sekunden stehen.
-- **Karten:** weiss mit weichem Schatten, Gold als Akzent, feine goldene Ringe hinter den Bildern.
-- **Schrift:** weiterhin überall Georgia (auf Windows, Mac und iPad vorhanden).
+- **Alle Folien dunkel:** Aubergine und Violett mit weichem Verlauf, Gold als Akzent, feine goldene Ringe um die Bilder.
+- **Schrift:** Titel, grosse Zahlen und Zitate in Georgia, der übrige Text in Calibri. Beide sind auf Windows, Mac und in PowerPoint auf dem iPad vorhanden.
+- **Viel weniger Text:** Auf jeder Folie stehen nur noch Stichworte, Zahlen und Bilder. Was vorher auf den Folien stand, steht jetzt in den Sprechnotizen. Die Zahl 0,7 Prozent steht nicht mehr auf der Folie, nur noch in den Notizen.
+- **25 Folien:** sechs Auftaktfolien mit grosser Ziffer und Bogenbild, dazu die 19 Inhaltsfolien.
 - **Bilder:** alle aus dem Buch-PDF, die Fundstellen stehen in Johns Liste der Bildquellen.
 
 ## Aufbau (Gliederung von Aezri vom 20.11.2026)
@@ -34,7 +34,7 @@ Mit allen Folien etwa 25 Minuten. Für eine kürzere Präsentation zuerst die Fo
 Alle Zahlen und Aussagen stammen aus dem schriftlichen Kommentar, dem Arbeitsjournal, dem Buch und dem Interview. Die Bilder sind Seiten aus dem Buch-PDF vom 08.11.2026. Ein Foto des gedruckten Buches und das Cover fehlen im Vault. Wer eines hat, kann es auf Folie 1 oder 21 einsetzen.
 
 - Das Zitat von Tita auf Folie 13 ist sinngemäss übersetzt, so wie es im Buch bei These 3 steht.
-- Die 0,7 Prozent auf Folie 17 sind mit Absicht als unsichere Zahl dargestellt, weil der Kommentar (Kapitel 5.4) sie zurücknimmt.
+- Die 0,7 Prozent stehen nur noch in den Sprechnotizen zu Folie 17, weil der Kommentar (Kapitel 5.4) diese Zahl zurücknimmt.
 - Die Rückmeldung zur Zwischenpräsentation ist umschrieben und nicht wörtlich zitiert, weil der Wortlaut im Kommentar noch als ungeprüft markiert war.
 
 ## Mögliche Fragen
