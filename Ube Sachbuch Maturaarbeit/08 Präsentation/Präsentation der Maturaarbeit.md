@@ -21,6 +21,17 @@ Am 23.11. hat die Gruppe eine eigene PowerPoint hochgeladen (`Ube_Vorlage_Praese
 - **Sprechnotizen:** neu auf 17 Folien, mit den gleichen Angaben wie in der Fassung von Claude.
 - **Der Gruppe gemeldet:** Folie 7 «Nichts neues» sollte «nichts Neues» heissen.
 
+## Vorlage im Magazin-Stil (23.11.2026, 17:15 Uhr)
+Aezri baut die Präsentation inzwischen selbst in der Datei `Ube_Vorlage_Praesentation.pptx` (Folien 1 bis 16 mit Video und Übergängen, liegt nicht im Vault, weil sie mit dem Video 40 MB gross ist). Am 23.11. kam die Rückmeldung, dass alles immer noch nach Claude aussieht. Auf Nachfrage: Claude soll **nur das Design** der leeren Vorlagefolien neu machen, Richtung **Magazin**, gestört haben **abgerundete Kästen, Symbole in Kreisen und die Texte auf den Folien**.
+
+- Datei nur mit dem Design: [[Ube_Vorlage_Magazin.pptx]] (14 Beispielfolien). Übersicht: ![[Ube_Vorlage_Magazin_Uebersicht.jpg]]
+- Dazu hat Aezri im Chat die eigene Datei zurückbekommen (`Ube_Praesentation_Magazin.pptx`): Folien 1 bis 16 unverändert, ab Folie 17 die neuen Vorlagenfolien statt der alten.
+- **Aussehen:** Fotos bis an den Rand, grosse fette Titel in Arial (Grossbuchstaben kommen von selbst), Vorspann und Zitate in Times New Roman kursiv, dünne Linien statt Kästen, eckige Farbflächen in Violett und Dunkelviolett. Keine abgerundeten Kästen, keine Symbole.
+- **14 Layouts**, alle beginnen mit «Magazin»: Titelseite, Kapitel, Bild links, Bild rechts, Zitat, Grosse Zahl, Drei Spalten, Vier Punkte, Zeitleiste, Bildseite, Zwei Bilder, Text, Schluss, Nur Titel.
+- **Texte:** nur Blindtext («Lorem ipsum») und die Überschriften aus Aezris Gliederung. Den Inhalt schreibt die Gruppe selbst.
+- **Bilder tauschen:** Bild löschen, dann im leeren Feld auf das Bildsymbol tippen. Das neue Bild wird von selbst passend zugeschnitten.
+- Die Beispielbilder stammen aus dem Buch und aus Aezris Datei.
+
 ## Gestaltung (fünfte Fassung vom 23.11.2026)
 Nach der dunklen vierten Fassung schrieb Aezri: «Simple gestalten einfache farben». Deshalb ist jetzt alles Aufwendige wieder weg. Übersicht aller Folien als Bild: ![[Ube_Maturapraesentation_Uebersicht.jpg]]
 
