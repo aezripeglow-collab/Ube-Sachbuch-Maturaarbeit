@@ -4,7 +4,7 @@ stand: 2026-11-23
 ---
 # Skript zur Präsentation (fünfte Fassung, drei Teile zu je 5 Minuten)
 
-Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript hat Claude am 23.11.2026 um 23:30 Uhr entworfen. Aezri wollte die Einteilung wieder in drei Blöcken ohne Abwechseln, jeder Teil fünf Minuten lang, mit einem Anfang und vor allem einem Schluss, die im Kopf bleiben. Das Skript folgt Folie für Folie der PowerPoint `Ube_Maturaarbeit.pptx` (27 Folien). Alle Angaben stammen aus dem Buch, dem Kommentar und dem Arbeitsjournal.
+Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript hat Claude am 23.11.2026 um 23:30 Uhr entworfen und um 23:50 Uhr in Aezris Teil überarbeitet (etwas länger und näher an Aezris eigener Sprache). Aezri wollte die Einteilung wieder in drei Blöcken ohne Abwechseln, jeder Teil fünf Minuten lang, mit einem Anfang und vor allem einem Schluss, die im Kopf bleiben. Das Skript folgt Folie für Folie der PowerPoint `Ube_Maturaarbeit.pptx` (27 Folien). Alle Angaben stammen aus dem Buch, dem Kommentar und dem Arbeitsjournal.
 
 | Wer | Teil | Folien | Zeit |
 | --- | --- | --- | --- |
@@ -84,58 +84,62 @@ Wie wir recherchiert haben, erzählt Ihnen jetzt Aezri.
 ## Teil 2: Aezri (5:00 bis 10:00)
 
 ### Folie 12 · Wie wir recherchiert haben
-Danke, Tim. Ich erzähle Ihnen jetzt, wie wir recherchiert haben, und stelle Ihnen danach den Inhalt des Buches vor.
+Danke, Tim. Ich erzähle Ihnen jetzt zuerst, wie wir recherchiert haben, und danach, was in unserem Buch steht.
 
-Bei der Recherche ist uns ganz schnell aufgefallen, dass es über Ube nur wenig Forschung gibt. Zum Trend haben wir zum Beispiel vor allem Zeitungsartikel aus diesem Jahr gefunden.
+Bei der Recherche ist uns ganz schnell aufgefallen, dass es über Ube gar nicht so viel Forschung gibt. Zum Trend haben wir zum Beispiel vor allem Zeitungsartikel aus diesem Jahr gefunden. Deshalb mussten wir uns die Informationen aus ganz verschiedenen Quellen zusammensuchen, und im dritten Kapitel sind es am Ende 60 Quellen geworden.
 
-*[der Reihe nach auf die vier Kästchen zeigen]*
+*[auf «Nachrechnen» zeigen]*
 
-Deshalb haben wir viele Quellen gesammelt, allein im dritten Kapitel sind es 60. Wir haben Zahlen nicht einfach übernommen, sondern nachgerechnet. Wir haben uns Zutatenlisten angeschaut, weil wir wissen wollten, wie viel Ube in einem Ube-Produkt wirklich steckt. Und es gab ein Interview.
+Wichtig war uns auch, dass wir Zahlen nicht einfach übernehmen, sondern selbst nachrechnen. Ich gebe Ihnen ein Beispiel. In einer Mitteilung des Landwirtschaftsministeriums stand, dass 1'000 zusätzliche Hektaren die Anbaufläche verdoppeln würden. Die Fläche ist aber 2'367 Hektaren gross, und das geht dann eben nicht auf. Deshalb haben wir diese Angabe nicht übernommen.
 
-Jede unserer Thesen haben wir gleich aufgebaut. Zuerst kommen drei Behauptungen, danach die Einwände und am Schluss ein Fazit. Wegen der Einwände mussten wir gezielt nach Quellen suchen, die uns widersprechen.
+*[auf «Zutatenlisten» und «Interview» zeigen]*
+
+Dazu haben wir uns Zutatenlisten von Ube-Produkten angeschaut, weil wir wissen wollten, wie viel Ube da wirklich drin ist. Und es gab ein Interview, zu dem ich gleich komme.
+
+Unsere Thesen haben wir alle gleich aufgebaut. Zuerst kommen drei Behauptungen, dann die Einwände und am Schluss ein Fazit. Wegen der Einwände mussten wir bei jeder These extra nach Quellen suchen, die uns widersprechen.
 
 ### Folie 13 · Das Interview mit «Tita»
-Zum Interview muss ich noch etwas dazusagen. Wir haben es nämlich nicht selbst geführt. Johns Onkel hat für uns am 23. Oktober auf dem Markt von Talisay City auf der Insel Cebu mit einer Verkäuferin gesprochen. Wir nennen sie Tita, das heisst «Tante», weil sie anonym bleiben wollte.
+Jetzt zum Interview. Ich muss dazusagen, dass wir es nicht selbst geführt haben. Johns Onkel hat für uns am 23. Oktober auf dem Markt von Talisay City auf der Insel Cebu mit einer Verkäuferin gesprochen. Sie wollte anonym bleiben, und deshalb nennen wir sie Tita, das heisst «Tante».
 
 *[das Zitat langsam von der Folie lesen]*
 
 «Jedes Jahr gibt es weniger Ube-Bauern, weil die neue Generation nicht mehr Ube anbauen will.»
 
-Tita hat auch erzählt, dass ein Kilo Ube auf ihrem Markt heute 150 Pesos kostet und früher 100. Für uns war dieses Gespräch sehr wertvoll. Es ist aber nur eine einzelne Stimme, und einige Dinge haben wir leider nicht geklärt.
+Tita hat uns auch erzählt, dass ein Kilo Ube auf ihrem Markt heute 150 Pesos kostet und früher 100. Für uns war dieses Gespräch sehr wertvoll. Es ist aber nur eine einzelne Stimme, und einige Dinge haben wir leider nicht geklärt.
 
 ### Folien 14 und 15 · Inhalt & Ergebnisse, Das Buch in drei Kapiteln
 *[Folie 14 nur kurz zeigen, dann Folie 15]*
 
-Jetzt komme ich zum Inhalt. Unser Buch hat drei Kapitel.
+Jetzt komme ich zum Inhalt. Unser Buch hat drei Kapitel, und ich fange mit dem ersten an, weil ich es selbst geschrieben habe.
 
-Das erste Kapitel habe ich geschrieben, und es erzählt die Geschichte von Ube. Die ältesten Reste, die man auf den Philippinen gefunden hat, sind über 10'000 Jahre alt. Die wichtigste Ube-Provinz ist die Insel Bohol. Dort lernen schon die Kinder, dass man eine Ube, die auf den Boden fällt, aufhebt und ihr einen Kuss gibt. Für mich waren die violetten Desserts als Kind eine Erinnerung daran, dass ich auch philippinisch bin.
+Das erste Kapitel erzählt die Geschichte von Ube. Die ältesten Reste, die man auf den Philippinen gefunden hat, sind über 10'000 Jahre alt. Die wichtigste Ube-Provinz ist die Insel Bohol, und dort lernen schon die Kinder, dass man eine Ube, die auf den Boden fällt, aufhebt und ihr einen Kuss gibt. An Weihnachten gehört Ube bis heute auf den Tisch, zum Beispiel als Ube Halaya. Das ist eine Art süsse violette Konfitüre. Für mich waren diese violetten Desserts als Kind eine Erinnerung daran, dass ich auch philippinisch bin.
 
-Das zweite Kapitel ist von Tim und zeigt, wie Ube zum Trend geworden ist. Ende 2015 hat ein philippinisches Restaurant in Brooklyn einen Ube-Donut mit echtem Blattgold verkauft. Was denken Sie, was ein einziger Donut gekostet hat?
+Das zweite Kapitel hat Tim geschrieben, und es zeigt, wie Ube zum Trend geworden ist. Ende 2015 hat ein philippinisches Restaurant in Brooklyn einen Ube-Donut mit echtem Blattgold verkauft. Was denken Sie, was so ein Donut gekostet hat?
 
 *[zwei oder drei Antworten abwarten]*
 
 Es waren ungefähr 100 Dollar. Viele Medien haben darüber berichtet, und heute gibt es Ube-Getränke sogar bei Starbucks in der Schweiz.
 
-Das dritte Kapitel ist der wissenschaftliche Teil mit unseren vier Thesen.
+Im dritten Kapitel sind wir dann wissenschaftlicher geworden. Dort stehen unsere vier Thesen.
 
 ### Folie 16 · Vier Thesen
 *[der Reihe nach auf die vier Felder zeigen]*
 
-Die erste These nennen wir das Ube-Paradox. Je grösser die Nachfrage auf der Welt wird, desto knapper wird Ube auf den Philippinen selbst.
+Die erste These nennen wir das Ube-Paradox. Sie sagt, dass Ube auf den Philippinen knapper wird, je grösser die Nachfrage auf der Welt ist.
 
-Die zweite heisst «Matcha oder Quinoa?». Matcha ist in Japan zu einer geschützten Marke geworden. Bei Quinoa haben nach dem Boom vor allem andere verdient. Wir wollten herausfinden, auf welchem der beiden Wege Ube gerade ist.
+Die zweite heisst «Matcha oder Quinoa?». Matcha ist in Japan zu einer geschützten Marke geworden, bei Quinoa haben nach dem Boom vor allem andere verdient. Wir wollten herausfinden, auf welchem der beiden Wege Ube gerade ist.
 
 Die dritte These sagt, dass Ube im Westen vor allem als Farbe konsumiert wird, während sie auf den Philippinen ein Symbol ist. Und die vierte sagt, dass mehr Felder allein nicht reichen, weil es auch genug Pflanzmaterial braucht.
 
-Drei Thesen konnten wir grösstenteils bestätigen, eine haben wir neu formuliert. Ich muss aber dazusagen, dass wir am Ende alle vier vorsichtiger fassen mussten als am Anfang.
+Wie Sie auf der Folie sehen, konnten wir drei Thesen grösstenteils bestätigen, und eine haben wir neu formuliert. Ich muss aber noch dazusagen, dass wir am Ende alle vier vorsichtiger fassen mussten, als wir sie am Anfang aufgestellt hatten.
 
 *[noch auf Folie 16 bleiben]*
 
-Bevor ich weiterklicke, habe ich eine Frage an Sie. Tim hat am Anfang gesagt, dass Ube auf der ganzen Welt im Trend ist. Wird auf den Philippinen heute also mehr oder weniger Ube geerntet als 2010? Wer denkt mehr?
+Bevor John weitermacht, habe ich noch eine Frage an Sie. Tim hat am Anfang gesagt, dass Ube auf der ganzen Welt im Trend ist. Was denken Sie, wird auf den Philippinen heute mehr oder weniger Ube geerntet als im Jahr 2010? Wer denkt, es ist mehr?
 
 *[Hände abwarten]*
 
-Und wer denkt weniger?
+Und wer denkt, es ist weniger?
 
 *[Hände abwarten]*
 
@@ -224,13 +228,13 @@ Salamat. Das heisst auf den Philippinen Danke.
 - **Echte Ube:** Der Schluss braucht eine echte Ube aus der Schale in Aezris Raumplan. Ohne Ube zeigt John auf das Bild der Knolle auf Folie 8 oder hält das Buch in der Hand.
 - **Candy am Anfang:** Im Raumplan war das Candy als Mitbringsel am Schluss gedacht. Wenn ihr dabei bleibt, beginnt Tim mit «Wer von Ihnen kannte Ube schon vor heute?», und John sagt am Schluss statt des Satzes mit dem Candy nur «Aufhören möchte ich mit der Knolle selbst».
 - **Wer mag, kann mehr machen:** John kann die Ube nach dem Satz über Bohol kurz an die Lippen halten. Das bleibt sicher im Kopf, passt aber nur, wenn es sich für John richtig anfühlt.
-- **Sprechanteile:** Tim hat 604 gesprochene Wörter, Aezri 548 und John 612. Tim braucht dazu Zeit für das Candy, Aezri für zwei Fragen ans Publikum, John für das Buch und den Schluss mit der Ube. Stoppt beim Üben jeden Teil einzeln.
+- **Sprechanteile:** Tim hat 604 gesprochene Wörter, Aezri 669 und John 612. Tim braucht dazu Zeit für das Candy, Aezri für zwei Fragen ans Publikum, John für das Buch und den Schluss mit der Ube. Stoppt beim Üben jeden Teil einzeln.
 - **Künstliche Intelligenz:** In eurem Journal steht, dass die Karte von Bohol mit Claude erstellt wurde und dass die Grammatik im Buchtext mit KI korrigiert wurde. Wenn ihr das offenlegen wollt, passt es bei der Herstellung (Folie 22) in einem Satz.
 - **PowerPoint:** Die Hinweise zu den Folien 3, 7, 8, 15, 20 und 26 stehen in der dritten Fassung des Skripts und gelten weiter.
 
 ## Wenn es zu lang wird
 - **Tim:** den Satz zum Bananenketchup und den Satz zu den Lumpia weglassen.
-- **Aezri:** den Absatz zum Aufbau der Thesen (Folie 12) weglassen. Die Frage am Schluss nicht kürzen, sie ist die Übergabe an John.
+- **Aezri:** das Beispiel mit den 1'000 Hektaren oder den Absatz zum Aufbau der Thesen (beides Folie 12) weglassen. Die Frage am Schluss nicht kürzen, sie ist die Übergabe an John.
 - **John:** die Folie 25 nur zeigen und nichts dazu sagen. Den Schluss nicht kürzen.
 
 ## Fragen, die nach dem Vortrag kommen können
