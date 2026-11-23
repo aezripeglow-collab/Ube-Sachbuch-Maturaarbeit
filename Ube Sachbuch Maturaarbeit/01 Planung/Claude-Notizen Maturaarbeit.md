@@ -193,3 +193,13 @@ Aezri schrieb, das Skript solle viel dynamischer klingen und sich von anderen Pr
 - **Neu:** Die drei sprechen abwechselnd statt in drei Blöcken. Einstieg mit dem Ube-Candy auf der schwarzen Folie 2, am Schluss Johns Hinweis auf die Zutatenliste des Candys. Schätzfrage zum Donut, Abstimmung «mehr oder weniger Ernte» vor Folie 17. Jede These stellt vor, wer sie geschrieben hat. Beim Fazit und bei der Reflexion sagt jede Person einen eigenen Punkt.
 - **Zu klären:** Das Candy war in Aezris Raumplan als Mitbringsel am Schluss gedacht. Johns letzter Satz setzt voraus, dass auf dem Papier eine Zutatenliste steht.
 - Alle Tatsachen sind am Buch, am Kommentar und am Journal geprüft (unter anderem Johns zwei Geschichten zum gleichen Gericht, 750'000 Beiträge, Bananenketchup, was jede Person mitnimmt). Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.
+
+## Skript, fünfte Fassung, drei Teile zu je 5 Minuten (23.11.2026, 23:30 Uhr)
+Aezri wollte das Abwechseln aus der vierten Fassung nicht. Vorgabe: Einteilung wie vorher, jeder fünf Minuten, Tim den Anfang, Aezri den mittleren Teil, John den letzten Teil. Der Anfang und vor allem der Schluss sollen allen im Kopf bleiben.
+
+- **Ergebnis:** [[Skript zur Präsentation (fünfte Fassung, drei Teile zu je 5 Minuten)]] und [[Skript_Praesentation_fuenfte_Fassung.docx]], zur PowerPoint `Ube_Maturaarbeit.pptx`. Tim Folien 2 bis 11 (604 Wörter), Aezri 12 bis 16 (548), John 17 bis 27 (612).
+- **Anfang:** Candy probieren auf der schwarzen Folie 2, dazu Tims Rätsel (überall im Trend, aber immer weniger geerntet).
+- **Übergabe Aezri an John:** Abstimmung «mehr oder weniger Ernte als 2010», die Antwort gibt John auf Folie 17.
+- **Schluss:** John nimmt eine echte Ube aus der Schale, nimmt Tims Rätsel, Titas Satz und den Kuss aus Bohol wieder auf und endet mit «Salamat». Fragen erst danach.
+- **Merken:** Aezri will feste Blöcke pro Person und kein Hin und Her. Wichtig sind ein starker Anfang und ein starker Schluss.
+- Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.
