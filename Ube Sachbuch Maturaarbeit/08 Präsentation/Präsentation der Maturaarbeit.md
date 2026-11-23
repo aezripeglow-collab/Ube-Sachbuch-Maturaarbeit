@@ -25,7 +25,10 @@ Aezri wollte eine Präsentation, die einer Maturapräsentation gerecht wird, wei
 - Skript: Scratchpad `r18/fertig.py` (baut auf `r16/mag.py` auf).
 
 ## Skript für den Vortrag (23.11.2026)
-> [!tip] Neuste Fassung (23.11.2026, 22:50 Uhr)
+> [!tip] Neuste Fassung (23.11.2026, 23:10 Uhr)
+> [[Skript zur Präsentation (vierte Fassung, dynamisch)]]: gleiche PowerPoint (`Ube_Maturaarbeit.pptx`), aber die drei sprechen abwechselnd, der Einstieg beginnt mit dem Ube-Candy, und das Publikum macht mit. Zum Ausdrucken: [[Skript_Praesentation_vierte_Fassung.docx]].
+
+> [!note] Dritte Fassung (23.11.2026, 22:50 Uhr)
 > [[Skript zur Präsentation (dritte Fassung, zur PowerPoint der Gruppe)]]: folgt Folie für Folie der neuen PowerPoint der Gruppe (`Ube_Maturaarbeit.pptx`, 27 Folien, nur im Chat), einfacher und näher an der Sprache von Tim, Aezri und John. Zum Ausdrucken: [[Skript_Praesentation_dritte_Fassung.docx]].
 
 > [!note] Zweite Fassung

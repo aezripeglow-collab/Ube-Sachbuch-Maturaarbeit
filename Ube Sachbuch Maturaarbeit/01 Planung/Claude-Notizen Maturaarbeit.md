@@ -185,3 +185,11 @@ Aezri schickte um 22:29 Uhr die aktuelle PowerPoint der Gruppe (`Ube_Maturaarbei
 - **Sprache:** einfacher als die zweite Fassung, ohne Pointen, nach dem Stilprofil in `Persönliches/Schreibstimme Aezri.md` (Tim ordentlich und erklärend, Aezri mit Wegweisern und «Ich muss dazusagen», John kurz). Neue wahre Einzelheiten aus dem Journal: Treffen bei John am 12. August, die vier Probleme, der Umweg über Bananenketchup, Tims fehlendes Gefühl für die Eile, Satz und Druck (A4, zwei Spalten, zwei eigene Fotos auf Seite 4, Abholung am Drucktag), Unzufriedenheit mit der Gestaltung von Kapitel 3.
 - **An der PowerPoint aufgefallen:** Arbeitsnotizen auf Folie 3 und im Titel von Folie 15, «Maturapräsentationn», «Salo-Salo» auf Folie 7 (im Journal «Salu-Salo»), «2016» auf Folie 8 (Donut Ende 2015).
 - Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude. Im Skript steht der Hinweis, dass die Gruppe die KI-Hilfe bei der Herstellung (Karte von Bohol, Grammatikkorrektur) im Vortrag offenlegen kann.
+
+## Skript, vierte Fassung, dynamisch (23.11.2026, 23:10 Uhr)
+Aezri schrieb, das Skript solle viel dynamischer klingen und sich von anderen Präsentationen unterscheiden.
+
+- **Ergebnis:** [[Skript zur Präsentation (vierte Fassung, dynamisch)]] und [[Skript_Praesentation_vierte_Fassung.docx]], weiterhin zur PowerPoint `Ube_Maturaarbeit.pptx` (27 Folien). Tim 535, Aezri 570, John 560 gesprochene Wörter.
+- **Neu:** Die drei sprechen abwechselnd statt in drei Blöcken. Einstieg mit dem Ube-Candy auf der schwarzen Folie 2, am Schluss Johns Hinweis auf die Zutatenliste des Candys. Schätzfrage zum Donut, Abstimmung «mehr oder weniger Ernte» vor Folie 17. Jede These stellt vor, wer sie geschrieben hat. Beim Fazit und bei der Reflexion sagt jede Person einen eigenen Punkt.
+- **Zu klären:** Das Candy war in Aezris Raumplan als Mitbringsel am Schluss gedacht. Johns letzter Satz setzt voraus, dass auf dem Papier eine Zutatenliste steht.
+- Alle Tatsachen sind am Buch, am Kommentar und am Journal geprüft (unter anderem Johns zwei Geschichten zum gleichen Gericht, 750'000 Beiträge, Bananenketchup, was jede Person mitnimmt). Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.
