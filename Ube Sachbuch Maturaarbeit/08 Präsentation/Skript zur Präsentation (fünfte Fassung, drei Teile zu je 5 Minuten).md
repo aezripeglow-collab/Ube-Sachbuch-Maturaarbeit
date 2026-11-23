@@ -86,11 +86,11 @@ Wie wir recherchiert haben, erzählt Ihnen jetzt Aezri.
 ### Folie 12 · Wie wir recherchiert haben
 Danke, Tim. Ich erzähle Ihnen jetzt zuerst, wie wir recherchiert haben, und danach, was in unserem Buch steht.
 
-Bei der Recherche ist uns ganz schnell aufgefallen, dass es über Ube gar nicht so viel Forschung gibt. Zum Trend haben wir zum Beispiel vor allem Zeitungsartikel aus diesem Jahr gefunden. Deshalb mussten wir uns die Informationen aus ganz verschiedenen Quellen zusammensuchen, und im dritten Kapitel sind es am Ende 60 Quellen geworden.
+Bei der Recherche ist uns ganz schnell aufgefallen, dass es über Ube gar nicht so viel Forschung gibt. Deshalb mussten wir uns die Informationen aus ganz verschiedenen Quellen zusammensuchen, und im dritten Kapitel sind es am Ende 60 Quellen geworden.
 
 *[auf «Nachrechnen» zeigen]*
 
-Wichtig war uns auch, dass wir Zahlen nicht einfach übernehmen, sondern selbst nachrechnen. Ich gebe Ihnen ein Beispiel. In einer Mitteilung des Landwirtschaftsministeriums stand, dass 1'000 zusätzliche Hektaren die Anbaufläche verdoppeln würden. Die Fläche ist aber 2'367 Hektaren gross, und das geht dann eben nicht auf. Deshalb haben wir diese Angabe nicht übernommen.
+Wichtig war uns auch, dass wir Zahlen nicht einfach übernehmen, sondern selbst nachrechnen. In einer Mitteilung des Landwirtschaftsministeriums stand, dass 1'000 zusätzliche Hektaren die Anbaufläche verdoppeln würden. Die Fläche ist aber 2'367 Hektaren gross, und das geht dann eben nicht auf. Deshalb haben wir diese Angabe nicht übernommen.
 
 *[auf «Zutatenlisten» und «Interview» zeigen]*
 
@@ -110,7 +110,7 @@ Tita hat uns auch erzählt, dass ein Kilo Ube auf ihrem Markt heute 150 Pesos ko
 ### Folien 14 und 15 · Inhalt & Ergebnisse, Das Buch in drei Kapiteln
 *[Folie 14 nur kurz zeigen, dann Folie 15]*
 
-Jetzt komme ich zum Inhalt. Unser Buch hat drei Kapitel, und ich fange mit dem ersten an, weil ich es selbst geschrieben habe.
+Unser Buch hat drei Kapitel, und ich fange mit dem ersten an, weil ich es selbst geschrieben habe.
 
 Das erste Kapitel erzählt die Geschichte von Ube. Die ältesten Reste, die man auf den Philippinen gefunden hat, sind über 10'000 Jahre alt. Die wichtigste Ube-Provinz ist die Insel Bohol, und dort lernen schon die Kinder, dass man eine Ube, die auf den Boden fällt, aufhebt und ihr einen Kuss gibt. An Weihnachten gehört Ube bis heute auf den Tisch, zum Beispiel als Ube Halaya. Das ist eine Art süsse violette Konfitüre. Für mich waren diese violetten Desserts als Kind eine Erinnerung daran, dass ich auch philippinisch bin.
 
@@ -131,11 +131,11 @@ Die zweite heisst «Matcha oder Quinoa?». Matcha ist in Japan zu einer geschüt
 
 Die dritte These sagt, dass Ube im Westen vor allem als Farbe konsumiert wird, während sie auf den Philippinen ein Symbol ist. Und die vierte sagt, dass mehr Felder allein nicht reichen, weil es auch genug Pflanzmaterial braucht.
 
-Wie Sie auf der Folie sehen, konnten wir drei Thesen grösstenteils bestätigen, und eine haben wir neu formuliert. Ich muss aber noch dazusagen, dass wir am Ende alle vier vorsichtiger fassen mussten, als wir sie am Anfang aufgestellt hatten.
+Drei Thesen konnten wir grösstenteils bestätigen, und eine haben wir neu formuliert. Ich muss aber noch dazusagen, dass wir am Ende alle vier vorsichtiger fassen mussten, als wir sie am Anfang aufgestellt hatten.
 
 *[noch auf Folie 16 bleiben]*
 
-Bevor John weitermacht, habe ich noch eine Frage an Sie. Tim hat am Anfang gesagt, dass Ube auf der ganzen Welt im Trend ist. Was denken Sie, wird auf den Philippinen heute mehr oder weniger Ube geerntet als im Jahr 2010? Wer denkt, es ist mehr?
+Bevor John weitermacht, habe ich noch eine Frage an Sie. Ube ist auf der ganzen Welt im Trend. Was denken Sie, wird auf den Philippinen heute mehr oder weniger Ube geerntet als im Jahr 2010? Wer denkt, es ist mehr?
 
 *[Hände abwarten]*
 
@@ -228,7 +228,7 @@ Salamat. Das heisst auf den Philippinen Danke.
 - **Echte Ube:** Der Schluss braucht eine echte Ube aus der Schale in Aezris Raumplan. Ohne Ube zeigt John auf das Bild der Knolle auf Folie 8 oder hält das Buch in der Hand.
 - **Candy am Anfang:** Im Raumplan war das Candy als Mitbringsel am Schluss gedacht. Wenn ihr dabei bleibt, beginnt Tim mit «Wer von Ihnen kannte Ube schon vor heute?», und John sagt am Schluss statt des Satzes mit dem Candy nur «Aufhören möchte ich mit der Knolle selbst».
 - **Wer mag, kann mehr machen:** John kann die Ube nach dem Satz über Bohol kurz an die Lippen halten. Das bleibt sicher im Kopf, passt aber nur, wenn es sich für John richtig anfühlt.
-- **Sprechanteile:** Tim hat 604 gesprochene Wörter, Aezri 669 und John 612. Tim braucht dazu Zeit für das Candy, Aezri für zwei Fragen ans Publikum, John für das Buch und den Schluss mit der Ube. Stoppt beim Üben jeden Teil einzeln.
+- **Sprechanteile:** Tim hat 604 gesprochene Wörter, Aezri 634 und John 612. Tim braucht dazu Zeit für das Candy, Aezri für zwei Fragen ans Publikum, John für das Buch und den Schluss mit der Ube. Stoppt beim Üben jeden Teil einzeln.
 - **Künstliche Intelligenz:** In eurem Journal steht, dass die Karte von Bohol mit Claude erstellt wurde und dass die Grammatik im Buchtext mit KI korrigiert wurde. Wenn ihr das offenlegen wollt, passt es bei der Herstellung (Folie 22) in einem Satz.
 - **PowerPoint:** Die Hinweise zu den Folien 3, 7, 8, 15, 20 und 26 stehen in der dritten Fassung des Skripts und gelten weiter.
 
