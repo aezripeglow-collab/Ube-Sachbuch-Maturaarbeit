@@ -21,6 +21,9 @@ Am 23.11. hat die Gruppe eine eigene PowerPoint hochgeladen (`Ube_Vorlage_Praese
 - **Sprechnotizen:** neu auf 17 Folien, mit den gleichen Angaben wie in der Fassung von Claude.
 - **Der Gruppe gemeldet:** Folie 7 «Nichts neues» sollte «nichts Neues» heissen.
 
+## Vorgabe für Prezi (23.11.2026, 17:40 Uhr)
+Text, mit dem Prezi AI die Präsentation erstellen soll: [[Prezi-Vorgabe (23.11.2026)]], als Word-Datei zum Hochladen: [[Prezi_Vorgabe_Ube.docx]].
+
 ## Vorlage im Magazin-Stil (23.11.2026, 17:15 Uhr)
 Aezri baut die Präsentation inzwischen selbst in der Datei `Ube_Vorlage_Praesentation.pptx` (Folien 1 bis 16 mit Video und Übergängen, liegt nicht im Vault, weil sie mit dem Video 40 MB gross ist). Am 23.11. kam die Rückmeldung, dass alles immer noch nach Claude aussieht. Auf Nachfrage: Claude soll **nur das Design** der leeren Vorlagefolien neu machen, Richtung **Magazin**, gestört haben **abgerundete Kästen, Symbole in Kreisen und die Texte auf den Folien**.
 
