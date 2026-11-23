@@ -25,7 +25,10 @@ Aezri wollte eine Präsentation, die einer Maturapräsentation gerecht wird, wei
 - Skript: Scratchpad `r18/fertig.py` (baut auf `r16/mag.py` auf).
 
 ## Skript für den Vortrag (23.11.2026)
-> [!tip] Neuste Fassung (23.11.2026, 23:30 Uhr)
+> [!tip] Neuste Fassung (24.11.2026, 00:10 Uhr)
+> [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]]: zur neusten PowerPoint der Gruppe (`Ube_Maturaarbeit_1.pptx`, 26 Folien, nur im Chat), ein Abschnitt zu jeder Folie, Tim Folien 1 bis 11, Aezri 12 bis 19, John 20 bis 26, höchstens fünf Minuten pro Person. Zum Ausdrucken: [[Skript_Praesentation_sechste_Fassung.docx]].
+
+> [!note] Fünfte Fassung (23.11.2026, 23:30 Uhr), zur älteren PowerPoint mit 27 Folien
 > [[Skript zur Präsentation (fünfte Fassung, drei Teile zu je 5 Minuten)]]: wieder drei Blöcke ohne Abwechseln (Tim Anfang, Aezri Mitte, John Schluss, je fünf Minuten), Einstieg mit dem Ube-Candy, Schluss mit der echten Ube in Johns Hand. Zum Ausdrucken: [[Skript_Praesentation_fuenfte_Fassung.docx]].
 
 > [!note] Vierte Fassung (23.11.2026, 23:10 Uhr), von Aezri verworfen, weil abwechselnd gesprochen

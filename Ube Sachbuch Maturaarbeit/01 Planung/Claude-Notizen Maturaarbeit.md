@@ -204,3 +204,12 @@ Aezri wollte das Abwechseln aus der vierten Fassung nicht. Vorgabe: Einteilung w
 - **Merken:** Aezri will feste Blöcke pro Person und kein Hin und Her. Wichtig sind ein starker Anfang und ein starker Schluss.
 - Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.
 - **Nachtrag 23:50 Uhr:** Aezri fragte, ob es wirklich fünf Minuten pro Person sind. Antwort: nur geschätzt aus der Wortzahl, Aezris Teil war der kürzeste. Auf Wunsch hat Claude Aezris Teil verlängert (Beispiel zum Nachrechnen mit den 1'000 Hektaren, Ube Halaya an Weihnachten) und natürlicher geschrieben, nach dem Stilprofil (Wegweiser wie «Ich erzähle Ihnen jetzt zuerst», «Ich muss dazusagen», «gar nicht so viel», «eben nicht»). Neuer Stand: Tim 604, Aezri 634, John 612 gesprochene Wörter. Tims und Johns Teile sind unverändert.
+
+## Skript, sechste Fassung, Folie für Folie (24.11.2026, 00:10 Uhr)
+Tim schickte um 23:46 Uhr eine neue Fassung der PowerPoint (`Ube_Maturaarbeit_1.pptx`, 26 Folien, 44 MB, nur im Chat) und wollte ein natürliches, menschliches Skript, das wirkt, als würden die drei aus dem Herzen präsentieren. Vorgaben: ein Abschnitt zu jeder Folie, Tim Folien 1 bis 11, Aezri 12 bis 19, John 20 bis 26, höchstens fünf Minuten pro Person.
+
+- **Neuer Aufbau der PowerPoint:** 1 Video, 2 schwarz, 3 Titel, 4 Ablauf, 5 bis 7 Themenfindung, 8 bis 11 Vorgehensweise (neuer Zeitstrahl «Vom Kochbuch zum Sachbuch», Aufteilung mit Fotos, Recherche), 12 Interview, 13 bis 19 Inhalt und Ergebnisse, 20 und 21 Herstellung, 22 bis 26 Produkt und Reflexion. Die Folien 19 und 25 haben nur einen Titel.
+- **Ergebnis:** [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]] und [[Skript_Praesentation_sechste_Fassung.docx]]. Tim 593, Aezri 606, John 459 gesprochene Wörter.
+- **Persönliche Sätze:** stammen aus dem Vorwort (Ube hat für uns eine besondere Bedeutung, für wen das Buch ist, Dank), dem Schlusswort (Ube kannten wir schon lange, Zutatenliste, was uns am meisten beschäftigt hat, mehrere Bauern befragen) und der Rückschau im Journal. Nichts davon ist erfunden.
+- **Anfang und Schluss:** Tim beginnt auf der schwarzen Folie 2 persönlich, John endet mit einer echten Ube in der Hand, dem Dank und «Salamat». Das Candy gibt es hier wieder am Schluss.
+- Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.
