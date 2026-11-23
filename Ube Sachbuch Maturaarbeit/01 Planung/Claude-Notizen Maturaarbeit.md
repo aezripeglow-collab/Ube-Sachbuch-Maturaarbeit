@@ -176,3 +176,12 @@ Aezri wollte ein sehr gutes Skript, das unterhaltsam und gleichzeitig profession
 - **Nichts erfunden:** Alle Tatsachen stehen schon in der ersten Fassung, im Buch oder im Journal. Begrüssung, Dank und die kleinen Scherze sind Vorschläge, die die Gruppe streichen kann. Der Name des Onkels kommt nicht vor.
 - Die erste Fassung bleibt unverändert im Vault, die Sprechnotizen in der PowerPoint enthalten noch die erste Fassung.
 - Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.
+
+## Skript, dritte Fassung zur PowerPoint der Gruppe (23.11.2026, 22:50 Uhr)
+Aezri schickte um 22:29 Uhr die aktuelle PowerPoint der Gruppe (`Ube_Maturaarbeit.pptx`, 27 Folien, 39 MB, nur im Chat) und wollte das Skript genau dazu, möglichst menschlich und authentisch.
+
+- **Aufbau der PowerPoint:** 1 Video, 2 schwarz, 3 Titel, 4 Ablauf (Themenfindung, Vorgehensweise, Inhalt und Ergebnisse, Herstellung des Buches, Unser Produkt), 5 bis 8 Themenfindung, 9 bis 13 Vorgehensweise mit Recherche und Interview, 14 bis 19 Inhalt und Ergebnisse, 21 und 22 Herstellung, 23 bis 27 Produkt und Reflexion. Viele Folien stammen aus Claudes schlichter Fassung vom 23.11. Die Folien 20 und 26 sind noch leer, eine Folie für Leitfrage und Leitthese und eine Schlussfolie gibt es nicht.
+- **Ergebnis:** [[Skript zur Präsentation (dritte Fassung, zur PowerPoint der Gruppe)]] und [[Skript_Praesentation_dritte_Fassung.docx]]. Tim Folien 3 bis 11 (671 Wörter), Aezri 12 bis 16 (566), John 17 bis 27 (625).
+- **Sprache:** einfacher als die zweite Fassung, ohne Pointen, nach dem Stilprofil in `Persönliches/Schreibstimme Aezri.md` (Tim ordentlich und erklärend, Aezri mit Wegweisern und «Ich muss dazusagen», John kurz). Neue wahre Einzelheiten aus dem Journal: Treffen bei John am 12. August, die vier Probleme, der Umweg über Bananenketchup, Tims fehlendes Gefühl für die Eile, Satz und Druck (A4, zwei Spalten, zwei eigene Fotos auf Seite 4, Abholung am Drucktag), Unzufriedenheit mit der Gestaltung von Kapitel 3.
+- **An der PowerPoint aufgefallen:** Arbeitsnotizen auf Folie 3 und im Titel von Folie 15, «Maturapräsentationn», «Salo-Salo» auf Folie 7 (im Journal «Salu-Salo»), «2016» auf Folie 8 (Donut Ende 2015).
+- Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude. Im Skript steht der Hinweis, dass die Gruppe die KI-Hilfe bei der Herstellung (Karte von Bohol, Grammatikkorrektur) im Vortrag offenlegen kann.

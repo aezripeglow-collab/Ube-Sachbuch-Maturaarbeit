@@ -25,7 +25,10 @@ Aezri wollte eine Präsentation, die einer Maturapräsentation gerecht wird, wei
 - Skript: Scratchpad `r18/fertig.py` (baut auf `r16/mag.py` auf).
 
 ## Skript für den Vortrag (23.11.2026)
-> [!tip] Neuste Fassung
+> [!tip] Neuste Fassung (23.11.2026, 22:50 Uhr)
+> [[Skript zur Präsentation (dritte Fassung, zur PowerPoint der Gruppe)]]: folgt Folie für Folie der neuen PowerPoint der Gruppe (`Ube_Maturaarbeit.pptx`, 27 Folien, nur im Chat), einfacher und näher an der Sprache von Tim, Aezri und John. Zum Ausdrucken: [[Skript_Praesentation_dritte_Fassung.docx]].
+
+> [!note] Zweite Fassung
 > [[Skript zur Präsentation (15 Minuten, zweite Fassung)]] vom 23.11.2026, 22:15 Uhr: unterhaltsamer (fünf Fragen ans Publikum, Schale mit Ube, Dank am Schluss), gleiche Folien und gleiche Aufteilung. Zum Ausdrucken: [[Skript_Praesentation_zweite_Fassung.docx]].
 
 Das Skript für 15 Minuten steht in [[Skript zur Präsentation (15 Minuten)]]. Aufteilung laut Aezri: Tim spricht den Anfang bis zur Vorgehensweise (Folien 2 bis 13), Aezri Recherche und Inhalt (Folien 14 bis 18), John Ergebnisse, das Buch und die Reflexion (Folien 19 bis 24), jeder fünf Minuten.
