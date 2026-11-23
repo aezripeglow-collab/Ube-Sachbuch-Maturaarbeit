@@ -4,7 +4,7 @@ stand: 2026-11-23
 ---
 # Skript zur Präsentation (15 Minuten)
 
-Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript hat Claude am 23.11.2026 auf Wunsch von Aezri entworfen. Es passt zur Datei `Ube_Vorlage_Praesentation_ergaenzt.pptx` (24 sichtbare Folien). Alle Angaben stammen aus dem Buch, dem Kommentar und dem Arbeitsjournal.
+Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript hat Claude am 23.11.2026 auf Wunsch von Aezri entworfen. Es passt zur Datei `Ube_Maturapraesentation_komplett.pptx` (24 sichtbare Folien, Stand 23.11.2026, 18 Uhr) und steht dort ab Folie 16 auch in den Sprechnotizen. Alle Angaben stammen aus dem Buch, dem Kommentar und dem Arbeitsjournal.
 
 | Wer | Teil | Folien | Zeit |
 | --- | --- | --- | --- |
@@ -101,7 +101,7 @@ Inzwischen haben auch grosse Ketten wie Starbucks Ube-Getränke im Angebot, seit
 ### Folie 18 · Vier Thesen
 Das dritte Kapitel ist der wissenschaftliche Teil. Weil unsere Arbeit im Juni als zu wenig wissenschaftlich beurteilt worden war, wollten wir hier nicht nur beschreiben, sondern etwas prüfen. Deshalb haben wir vier Thesen aufgestellt, denn eine These kann sich auch als falsch herausstellen.
 
-*[auf die vier Bilder zeigen]*
+*[auf die vier Thesen zeigen]*
 
 Die erste nennen wir das Ube-Paradox. Je grösser die Nachfrage auf der Welt wird, desto knapper wird Ube auf den Philippinen selbst. Die zweite heisst «Matcha oder Quinoa?». Sie fragt, ob Ube ein geschütztes Markenprodukt wird wie Matcha in Japan oder ob es ihr geht wie Quinoa, bei der nach dem Boom vor allem andere verdient haben. Die dritte heisst «Vom Lebensmittel zum Bild», weil Ube im Westen vor allem als Farbe konsumiert wird. Und die vierte sagt, dass mehr Felder allein nicht reichen, weil es auch genug Pflanzmaterial braucht.
 

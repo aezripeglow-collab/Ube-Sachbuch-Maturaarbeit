@@ -6,6 +6,24 @@ stand: 2026-11-20
 
 Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, fünfte Gestaltung vom 23.11.2026, schlicht in Weiss und Violett). Jede Folie hat Sprechnotizen mit Stichworten.
 
+## Fertige Präsentation in der Datei der Gruppe (23.11.2026, 18:10 Uhr)
+Aezri wollte eine Präsentation, die einer Maturapräsentation gerecht wird, weil neben den beiden Betreuungslehrpersonen auch Familie und andere Gäste kommen. Claude hat dafür die Datei der Gruppe fertig gebaut: `Ube_Maturapraesentation_komplett.pptx` (24 sichtbare Folien, mit Video 41 MB, deshalb nur im Chat und nicht im Vault). Übersicht: ![[Ube_Maturapraesentation_komplett_Uebersicht.jpg]]
+
+| Folien | Inhalt | Von wem |
+| --- | --- | --- |
+| 1 bis 15 | Video, Titel, Themenfindung, Leitfrage, Leitthese, Vorgehensweise, Recherche, «Das Buch» | Gruppe, unverändert (nur die leere Folie 3 hat jetzt den Ablauf mit den Namen der Sprechenden) |
+| 16 und 17 | Kapitel 1 «Die Geschichte von Ube», Kapitel 2 «Der Ube-Trend» | Claude, Magazin-Stil |
+| 18 | Vier Thesen | Claude |
+| 19 und 20 | Ergebnisse in Zahlen (−43 %, 3,06 Mio., über 60 %), Unsere Zahlen (9 %, −50 %, +14 %) | Claude |
+| 21 | Fazit: Was von der Leitthese bleibt | Claude |
+| 22 bis 24 | Das Buch, Reflexion, Schluss «Salamat» | Claude |
+
+- Die Reihenfolge ist die gleiche wie im [[Skript zur Präsentation (15 Minuten)]]. Ab Folie 16 und auf Folie 3 steht der Text aus dem Skript in den Sprechnotizen.
+- Für Gäste ohne Vorwissen: Folie 16 sagt in einem Satz, was Ube ist, und auf jeder Folie stehen nur wenige Worte und grosse Zahlen.
+- Die alte Vorlagenfolie 16 der Gruppe (Zusammenfassung der Themenfindung) steht ausgeblendet am Schluss. Die übrigen Beispielfolien der Vorlage sind in dieser Datei nicht mehr enthalten, die hochgeladene Datei selbst ist unverändert.
+- In Claudes Vorschau aufgefallen, von der Gruppe in PowerPoint zu prüfen: Folie 5 (Text läuft ins Foto, Titel «Anfang/Zuerst»), Folie 7 («Nichts neues» statt «nichts Neues»), Folie 9 und 10 (Bild verdeckt die letzte Textzeile), Folie 14 (Titel halb verdeckt).
+- Skript: Scratchpad `r18/fertig.py` (baut auf `r16/mag.py` auf).
+
 ## Skript für den Vortrag (23.11.2026)
 Das Skript für 15 Minuten steht in [[Skript zur Präsentation (15 Minuten)]]. Aufteilung laut Aezri: Tim spricht den Anfang bis zur Vorgehensweise (Folien 2 bis 13), Aezri Recherche und Inhalt (Folien 14 bis 18), John Ergebnisse, das Buch und die Reflexion (Folien 19 bis 24), jeder fünf Minuten.
 
