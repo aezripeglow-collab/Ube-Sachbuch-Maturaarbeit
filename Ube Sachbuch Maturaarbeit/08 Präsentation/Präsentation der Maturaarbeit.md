@@ -6,6 +6,18 @@ stand: 2026-11-20
 
 Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, fünfte Gestaltung vom 23.11.2026, schlicht in Weiss und Violett). Jede Folie hat Sprechnotizen mit Stichworten.
 
+## Eigene Vorlage der Gruppe, von Claude ergänzt (23.11.2026, 16:00 Uhr)
+Am 23.11. hat die Gruppe eine eigene PowerPoint hochgeladen (`Ube_Vorlage_Praesentation.pptx`, 31 Folien, mit dem Vorschau-Video zum Buch auf Folie 1) und geschrieben: «Ergänze alle leeren felder und ergänze wichtiges noch». Die Folien 1 bis 15 hat die Gruppe selbst gebaut, die Folien 16 bis 31 waren noch Vorlagenfolien mit Beispieltext und leeren Bildfeldern. Die ergänzte Datei heisst `Ube_Vorlage_Praesentation_ergaenzt.pptx`. Sie liegt wegen des Videos (41 MB) nicht im Vault, sondern nur im Chat. Übersicht der sichtbaren Folien: ![[Ube_Vorlage_Praesentation_ergaenzt_Uebersicht.jpg]]
+
+- **Nicht verändert:** die Folien 1, 2 und 4 bis 15 der Gruppe (nur Sprechnotizen sind dazugekommen).
+- **Folie 3 (war leer):** jetzt «Unser Ablauf» mit sechs Punkten.
+- **Nach «Das Buch» in dieser Reihenfolge:** Kapitel 1, Kapitel 2, Vier Thesen, Ergebnisse in Zahlen, Unsere Zahlen, Fazit «Was von der Leitthese bleibt» (war leer), Produkt, Reflexion, Schluss «Salamat!» (war leer).
+- **Gefüllt:** alle Beispieltexte, 34 Bildfelder mit Bildern aus dem Buch und aus der Datei der Gruppe, das Kreisdiagramm (9 % Ube im Ube-Latte-Pulver von Barú) und die zwei Balken (Anbaufläche 50 %, Ernte 57 % im Vergleich zu 2010).
+- **Ausgeblendet am Schluss, nicht gelöscht:** sieben Vorlagenfolien, die doppelt zu den Folien der Gruppe sind (Thema, Titel, Einstieg, Leitfrage, Vorgehen, Recherche) und die Folie mit Schriften und Farben. Mit Rechtsklick «Folie einblenden» kommen sie zurück.
+- **Leer geblieben:** die Bildfelder hinter dem Text auf «Die Vorgehensweise», «Das Buch» und auf der ausgeblendeten Folie zum Thema. Ein Bild würde dort den Text verdecken.
+- **Sprechnotizen:** neu auf 17 Folien, mit den gleichen Angaben wie in der Fassung von Claude.
+- **Der Gruppe gemeldet:** Folie 7 «Nichts neues» sollte «nichts Neues» heissen.
+
 ## Gestaltung (fünfte Fassung vom 23.11.2026)
 Nach der dunklen vierten Fassung schrieb Aezri: «Simple gestalten einfache farben». Deshalb ist jetzt alles Aufwendige wieder weg. Übersicht aller Folien als Bild: ![[Ube_Maturapraesentation_Uebersicht.jpg]]
 
