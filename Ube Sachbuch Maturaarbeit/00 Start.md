@@ -20,6 +20,7 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 - [[Präsentation der Maturaarbeit]] (PowerPoint mit 25 Folien: [[Ube_Maturapraesentation.pptx]], Ordner `08 Präsentation`)
 
 ## Buch
+- [[Hörbuch-Manuskript (23.11.2026)]] (Vorlesefassung des ganzen Buches für ein Hörbuch)
 1. [[Vorwort]]
 2. Kapitel 1: [[Kapitel 1 – Kurzeinleitung]] · [[Teil 1 – Ube auf den Philippinen]]
 3. Kapitel 2: [[Kapitel 2 – Kurzeinleitung]] · [[Teil 2 – Der Ube-Trend]]
