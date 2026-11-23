@@ -167,3 +167,12 @@ Aezri schickte das gesetzte Buch als PDF (`Ube - Zwischen Tradition und Trend.pd
 - **Geliefert:** die Vorlesefassung [[Hörbuch-Manuskript (23.11.2026)]] im Ordner `02 Buch`, dazu im Chat `Ube_Hoerbuch_Manuskript.docx` und `.txt`. Rund 10'900 Wörter, vorgelesen ungefähr 75 bis 85 Minuten. Weggelassen: Inhaltsverzeichnis, Kopfzeilen, Seitenzahlen, Bildlegenden, Kartenlegende (S. 13), Fussnoten (S. 51 und 52), Fussnotenziffern und der Zusatz «(übers. d. Verf.)». Zahlen wie 10’000 stehen ohne Apostroph, damit Vorleseprogramme sie richtig lesen. Neu ist nur die Ansage am Anfang (Titel und die drei Namen).
 - **Im gesetzten Buch aufgefallen (PDF vom 23.11.):** Auf S. 38 stehen die zwei Absätze aus dem Fazit zur zweiten These noch einmal (gleich wie auf S. 36). Auf S. 32 bricht die neu formulierte These 1 nach «oder auf Zwischenhändler» ab, es fehlt «angewiesen sind.». Auf S. 9 fehlt der Punkt nach «Kriege erlebt». Im Manuskript ist das Doppelte weggelassen und das Fehlende nach dem Text im Vault ergänzt. Dazu kommen ein paar falsche Trennungen im Satz (zum Beispiel «Grun-dlage», «Herkunftss-chutz», «beant-ragt»).
 - Skripte: Scratchpad `r19/lesen.py` und `r19/aus.py`.
+
+## Skript, zweite Fassung (23.11.2026, 22:15 Uhr)
+Aezri wollte ein sehr gutes Skript, das unterhaltsam und gleichzeitig professionell klingt, weil neben den Betreuungslehrpersonen auch Familie und andere Gäste zuhören.
+
+- **Ergebnis:** [[Skript zur Präsentation (15 Minuten, zweite Fassung)]] und [[Skript_Praesentation_zweite_Fassung.docx]] im Ordner `08 Präsentation`. Gleiche Folien (Datei `Ube_Maturapraesentation_komplett.pptx`) und gleiche Aufteilung wie in der ersten Fassung: Tim 614, Aezri 628, John 608 gesprochene Wörter.
+- **Neu:** Begrüssung «Mabuhay», fünf Fragen ans Publikum, die Schale mit Ube aus Aezris Raumplan als Requisit, drei Rückbezüge (Tims Frage, Leitthese, Zutatenliste), einfache Erklärungen für Gäste, Dank an Frau Büschlen, Herrn Franceschi und die Familien.
+- **Nichts erfunden:** Alle Tatsachen stehen schon in der ersten Fassung, im Buch oder im Journal. Begrüssung, Dank und die kleinen Scherze sind Vorschläge, die die Gruppe streichen kann. Der Name des Onkels kommt nicht vor.
+- Die erste Fassung bleibt unverändert im Vault, die Sprechnotizen in der PowerPoint enthalten noch die erste Fassung.
+- Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.

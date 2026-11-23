@@ -4,6 +4,8 @@ stand: 2026-11-23
 ---
 # Skript zur Präsentation (15 Minuten)
 
+> [!tip] Es gibt eine neuere, unterhaltsamere Fassung: [[Skript zur Präsentation (15 Minuten, zweite Fassung)]].
+
 Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript hat Claude am 23.11.2026 auf Wunsch von Aezri entworfen. Es passt zur Datei `Ube_Maturapraesentation_komplett.pptx` (24 sichtbare Folien, Stand 23.11.2026, 18 Uhr) und steht dort ab Folie 16 auch in den Sprechnotizen. Alle Angaben stammen aus dem Buch, dem Kommentar und dem Arbeitsjournal.
 
 | Wer | Teil | Folien | Zeit |
