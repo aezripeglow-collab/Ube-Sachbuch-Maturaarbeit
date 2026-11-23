@@ -6,6 +6,9 @@ stand: 2026-11-20
 
 Zurück zu [[00 Start]]. PowerPoint-Datei: [[Ube_Maturapraesentation.pptx]] (25 Folien, Breitbild, von Claude nach Aezris Gliederung gebaut, fünfte Gestaltung vom 23.11.2026, schlicht in Weiss und Violett). Jede Folie hat Sprechnotizen mit Stichworten.
 
+## Skript für den Vortrag (23.11.2026)
+Das Skript für 15 Minuten steht in [[Skript zur Präsentation (15 Minuten)]]. Aufteilung laut Aezri: Tim spricht den Anfang bis zur Vorgehensweise (Folien 2 bis 13), Aezri Recherche und Inhalt (Folien 14 bis 18), John Ergebnisse, das Buch und die Reflexion (Folien 19 bis 24), jeder fünf Minuten.
+
 ## Eigene Vorlage der Gruppe, von Claude ergänzt (23.11.2026, 16:00 Uhr)
 Am 23.11. hat die Gruppe eine eigene PowerPoint hochgeladen (`Ube_Vorlage_Praesentation.pptx`, 31 Folien, mit dem Vorschau-Video zum Buch auf Folie 1) und geschrieben: «Ergänze alle leeren felder und ergänze wichtiges noch». Die Folien 1 bis 15 hat die Gruppe selbst gebaut, die Folien 16 bis 31 waren noch Vorlagenfolien mit Beispieltext und leeren Bildfeldern. Die ergänzte Datei heisst `Ube_Vorlage_Praesentation_ergaenzt.pptx`. Sie liegt wegen des Videos (41 MB) nicht im Vault, sondern nur im Chat. Übersicht der sichtbaren Folien: ![[Ube_Vorlage_Praesentation_ergaenzt_Uebersicht.jpg]]
 
