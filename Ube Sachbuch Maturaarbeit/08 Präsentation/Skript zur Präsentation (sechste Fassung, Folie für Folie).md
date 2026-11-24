@@ -9,10 +9,12 @@ Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript ha
 | Wer | Folien | Teil | Wörter | Geschätzte Zeit |
 | --- | --- | --- | --- | --- |
 | **Tim** | 1 bis 10 | Einstieg, Ablauf, Themenfindung, Vorgehensweise | 600 | ca. 4:55 |
-| **Aezri** | 11 bis 19 | Recherche, Interview, Inhalt und Ergebnisse | 626 | ca. 5:00 |
+| **Aezri** | 11 bis 19 | Recherche, Interview, Inhalt und Ergebnisse | 627 | ca. 5:00 |
 | **John** | 20 bis 26 | Herstellung des Buches, unser Produkt, Reflexion, Schluss | 459 | ca. 4:15 |
 
 Die Zeiten sind aus der Wortzahl geschätzt (130 Wörter pro Minute, dazu Pausen, Klicks, das Herumgeben des Buches und der Schluss mit der Ube). Das Video auf Folie 1 ist nicht eingerechnet. Stoppt beim Üben jeden Teil einzeln.
+
+**Stand 24.11.2026, 10:50 Uhr:** Aezris Teil ist noch einmal umgeschrieben, damit er nach Aezri klingt (einfachere Wörter, Wegweiser, eigene Wendungen aus dem Stilprofil). Inhalt und Erklärungen sind gleich geblieben.
 
 **Stand 24.11.2026, 10:35 Uhr:** Aezris Teil hat einen neuen Übergang zum Zitat (Folie 12) und erklärt das Nachrechnen an der Ernte (Folie 16), dazu Rohware (Folie 17) und Pflanzmaterial (Folie 15).
 
@@ -95,20 +97,22 @@ Wie wir recherchiert haben und was dabei herausgekommen ist, erklärt Ihnen jetz
 ## Teil 2: Aezri (Folien 11 bis 19)
 
 ### Folie 11 · Wie wir recherchiert haben
-Vielen Dank, Tim. Bei der Recherche ist uns wirklich sehr schnell aufgefallen, wie wenig über Ube geforscht wurde. Wir haben deshalb ganz unterschiedliche Quellen zusammengesucht, allein im dritten Kapitel sind es 60.
+Danke, Tim. Ich fange jetzt mit der Recherche an.
+
+Bei der Recherche ist uns ganz schnell aufgefallen, dass es über Ube gar nicht so viele Quellen gibt. Im dritten Kapitel sind es am Ende trotzdem 60 Quellen geworden.
 
 *[auf «Nachrechnen» zeigen]*
 
-Zahlen haben wir dabei nicht einfach übernommen, sondern selbst nachgerechnet. Wie das konkret aussieht, zeige ich Ihnen gleich bei der Ernte.
+Die Zahlen aus diesen Quellen haben wir nicht einfach übernommen, sondern selbst nachgerechnet. Wie wir das gemacht haben, zeige ich Ihnen später an einem Beispiel.
 
 *[auf «Zutatenlisten» und «Interview» zeigen]*
 
-Zusätzlich haben wir die Zutatenlisten von Ube-Produkten gelesen, weil dort steht, wie viel Ube ein Produkt wirklich enthält. Und schliesslich gab es ein Interview.
+Wir haben uns auch die Zutatenlisten von Ube-Produkten angeschaut, weil dort steht, wie viel Ube wirklich drin ist. Und dann gab es noch ein Interview.
 
 ### Folie 12 · Das Interview mit «Tita»
-Dieses Interview haben wir nicht selbst geführt, das muss ich gleich dazusagen. Johns Onkel hat für uns am 23. Oktober auf einem Markt auf der Insel Cebu mit einer Verkäuferin gesprochen. Weil sie anonym bleiben wollte, nennen wir sie Tita, was «Tante» bedeutet.
+Zum Interview muss ich noch dazusagen, dass wir es nicht selbst geführt haben. Johns Onkel hat für uns am 23. Oktober auf einem Markt auf der Insel Cebu mit einer Verkäuferin gesprochen. Sie wollte anonym bleiben, und deshalb nennen wir sie Tita, das heisst «Tante».
 
-Eine ihrer Aussagen steht heute sogar im Schlusswort unseres Buches. Ich lese sie Ihnen vor.
+Einen Satz von ihr möchte ich Ihnen vorlesen, weil er auch im Schlusswort von unserem Buch vorkommt.
 
 *[kurze Pause, dann langsam von der Folie lesen]*
 
@@ -116,46 +120,46 @@ Eine ihrer Aussagen steht heute sogar im Schlusswort unseres Buches. Ich lese si
 
 *[einen Moment wirken lassen]*
 
-Das haben wir erst durch dieses Gespräch erfahren. Tita hat ausserdem erzählt, dass ein Kilo Ube auf ihrem Markt inzwischen 150 Pesos kostet statt wie früher 100. So wertvoll dieses Gespräch für uns war, es bleibt eine einzelne Stimme, und einige Fragen konnten wir leider nicht klären.
+Das haben wir wirklich erst durch dieses Gespräch erfahren. Es ist aber nur eine einzelne Stimme, und einige Dinge haben wir leider nicht geklärt.
 
 ### Folie 13 · Inhalt & Ergebnisse
-Nun zum Inhalt und zu unseren Ergebnissen.
+Das war jetzt die Recherche, und ich fahre mit dem Inhalt weiter.
 
 ### Folie 14 · Das Buch in drei Kapiteln
-Unser Buch besteht aus drei Kapiteln. Das erste stammt von mir und erzählt die Geschichte von Ube. Für mich persönlich waren die violetten Desserts in meiner Kindheit eine Erinnerung daran, dass ich auch philippinisch bin.
+Unser Buch hat drei Kapitel. Das erste habe ich geschrieben, und es erzählt die Geschichte von Ube. Für mich waren die violetten Desserts als Kind nämlich eine Erinnerung daran, dass ich auch philippinisch bin.
 
-Das zweite Kapitel hat Tim geschrieben. Es zeigt, wie Ube zum Trend geworden ist. Im dritten Kapitel prüfen wir dann unsere vier Thesen.
+Das zweite Kapitel über den Trend ist von Tim, und im dritten sind unsere vier Thesen.
 
 ### Folie 15 · Vier Thesen
 *[der Reihe nach auf die vier Felder zeigen]*
 
-Die erste These nennen wir das Ube-Paradox. Sie besagt, dass Ube auf den Philippinen knapper wird, je stärker die Nachfrage auf der Welt wächst. Die zweite trägt den Titel «Matcha oder Quinoa?». Sie fragt, ob Ube wie Matcha zu einer geschützten Marke wird oder ob wie bei Quinoa vor allem andere daran verdienen. Die dritte besagt, dass Ube im Westen vor allem eine Farbe ist und auf den Philippinen ein Symbol. Und nach der vierten reichen mehr Felder allein nicht aus. Ube wird nämlich aus Stücken alter Knollen vermehrt, und dieses Pflanzmaterial fehlt.
+Die erste These nennen wir das Ube-Paradox. Sie sagt, dass Ube auf den Philippinen knapper wird, obwohl die Nachfrage auf der Welt immer grösser wird. Die zweite heisst «Matcha oder Quinoa?». Da geht es darum, ob Ube wie Matcha eine geschützte Marke wird oder ob wie bei Quinoa vor allem andere daran verdienen. Die dritte sagt, dass Ube im Westen vor allem eine Farbe ist und auf den Philippinen ein Symbol. Und die vierte sagt, dass mehr Felder allein nicht reichen. Ube wird nämlich aus Stücken von alten Knollen vermehrt, und genau dieses Pflanzmaterial fehlt.
 
-Drei dieser Thesen konnten wir grösstenteils bestätigen, eine haben wir neu formuliert.
+Drei davon konnten wir grösstenteils bestätigen, eine haben wir neu formuliert.
 
 ### Folie 16 · Mehr Nachfrage, weniger Ernte
-2010 wurden auf den Philippinen noch fast 22'000 Tonnen Ube geerntet, 2025 nur noch rund 12'500. Das ist ein Rückgang von 43 Prozent, und das bei steigender Nachfrage.
+Jetzt komme ich zur Ernte, und diese Zahlen waren für uns ganz neu. 2010 wurden auf den Philippinen noch fast 22'000 Tonnen Ube geerntet, und 2025 waren es nur noch rund 12'500. Das sind 43 Prozent weniger, obwohl die Nachfrage steigt.
 
 *[auf «Anbaufläche» und «Ertrag pro Hektare» zeigen]*
 
-Hier kommt das Nachrechnen ins Spiel. In unserer Quelle standen die Ernte und die Anbaufläche, und die Fläche hat sich in dieser Zeit halbiert. Wir haben deshalb für beide Jahre die Ernte durch die Fläche geteilt. 2010 ergibt das rund 4,6 Tonnen pro Hektare und 2025 rund 5,3. Der Ertrag ist also sogar um 14 Prozent gestiegen. Auf den Feldern wächst demnach nicht weniger, es gibt einfach weniger Felder.
+Hier haben wir eben selbst nachgerechnet. In unserer Quelle standen die Ernte und die Anbaufläche. Wir haben dann für beide Jahre die Ernte durch die Fläche geteilt. 2010 waren das rund 4,6 Tonnen pro Hektare und 2025 rund 5,3. Der Ertrag ist also sogar um 14 Prozent gestiegen. Das zeigt uns, dass auf den Feldern nicht weniger wächst, sondern dass es einfach weniger Felder gibt.
 
 ### Folie 17 · Wer verdient am Boom?
-Und wer verdient am Boom? 2025 haben die Philippinen Ube im Wert von 3,06 Millionen US-Dollar exportiert. Über 60 Prozent davon waren Rohware, also noch nicht verarbeitete Ube. Den grössten Gewinn machen laut einer unserer Quellen aber Hersteller im Ausland, die daraus teure Extrakte herstellen.
+Dann wollten wir wissen, wer am Boom eigentlich verdient. 2025 haben die Philippinen Ube für 3,06 Millionen US-Dollar exportiert. Über 60 Prozent davon waren Rohware, also Ube, die noch nicht verarbeitet ist.
 
-Dazu passt, was auf den Zutatenlisten steht. Im Ube-Latte-Pulver der Marke Barú steht Zucker an erster Stelle, und Ube macht nur 9 Prozent aus.
+Dazu passt, was wir auf den Zutatenlisten gefunden haben. Im Ube-Latte-Pulver der Marke Barú steht Zucker an erster Stelle, und Ube macht nur 9 Prozent aus.
 
 ### Folie 18 · Was von unserer Leitthese bleibt
-Was bleibt nun von unserer Leitthese? Als Tendenz hat sie sich bewährt, an drei Stellen waren wir jedoch zu sicher.
+Was bleibt jetzt von unserer Leitthese? Als Tendenz stimmt sie, aber an drei Stellen waren wir zu sicher.
 
 *[der Reihe nach auf die drei Punkte zeigen]*
 
-Der Rückgang der Ernte hat schon vor dem Boom eingesetzt. Das Wort «verlieren» ist nicht belegt, weil unsere Quellen nicht zeigen, dass die Philippinen diese Kontrolle je hatten. Und was Ube bedeutet, bestimmen die Menschen auf den Philippinen nach wie vor selbst.
+Der Rückgang der Ernte hat schon vor dem Boom angefangen. Dass die Philippinen die Kontrolle «verlieren», können wir nicht belegen, weil unsere Quellen nicht zeigen, dass sie diese Kontrolle je hatten. Und was Ube bedeutet, bestimmen die Menschen auf den Philippinen immer noch selbst.
 
 ### Folie 19 · Inhalt und Ergebnisse
 *[ins Publikum schauen, nicht auf die Folie]*
 
-Am meisten beschäftigt hat uns, dass auf den Philippinen immer weniger Ube geerntet wird, obwohl die Nachfrage weltweit steigt.
+Ich bin jetzt am Ende von meinem Teil angekommen. Am meisten beschäftigt hat uns, dass auf den Philippinen immer weniger Ube geerntet wird, obwohl auf der ganzen Welt mehr davon verlangt wird.
 
 Wie aus all dem ein Buch geworden ist, zeigt Ihnen jetzt John.
 
