@@ -25,6 +25,9 @@ Aezri wollte eine Präsentation, die einer Maturapräsentation gerecht wird, wei
 - Skript: Scratchpad `r18/fertig.py` (baut auf `r16/mag.py` auf).
 
 ## Skript für den Vortrag (23.11.2026)
+> [!important] Fachgespräch
+> [[Fachgespräch – Vorbereitung (24.11.2026)]]: Ablauf und Kriterien, die Arbeit in Stichworten, alle Zahlen, die vier Thesen mit Einwänden, Methode, bekannte Fehler im Buch, KI-Einsatz, 22 Übungsfragen. Zum Ausdrucken: [[Fachgespraech_Vorbereitung.docx]].
+
 > [!tip] Gültiges Skript (24.11.2026, 10:15 Uhr)
 > [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]] mit den sprachlich überarbeiteten Teilen von Tim (Folien 1 bis 10) und Aezri (11 bis 19) und Johns Teil (20 bis 26). Zum Ausdrucken: [[Skript_Praesentation_sechste_Fassung.docx]].
 

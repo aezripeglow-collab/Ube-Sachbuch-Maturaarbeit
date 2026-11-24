@@ -19,6 +19,9 @@ Kantonsschule Baden · Gruppe: [[Aezri]], [[Tim]], [[John]] · Abgabe: **10.11.2
 - [[Abstract (13.11.2026)]] (kurzer Abstract in drei Absätzen, Word-Datei [[Abstract_Ube_Maturaarbeit.docx]])
 - [[Präsentation der Maturaarbeit]] (PowerPoint mit 25 Folien: [[Ube_Maturapraesentation.pptx]], Ordner `08 Präsentation`)
 
+## Fachgespräch
+- [[Fachgespräch – Vorbereitung (24.11.2026)]] (20 Prozent der Note, nach der Präsentation)
+
 ## Buch
 - [[Hörbuch-Manuskript (23.11.2026)]] (Vorlesefassung des ganzen Buches für ein Hörbuch)
 1. [[Vorwort]]
