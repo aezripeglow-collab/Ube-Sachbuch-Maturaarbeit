@@ -4,6 +4,9 @@ stand: 2026-11-24
 ---
 # Skript Tim, Folien 1 bis 10 (24.11.2026)
 
+> [!warning] Sprachlich überarbeitet am 24.11.2026, 10:15 Uhr
+> Die neuste Fassung von Tims Teil steht jetzt zusammen mit Aezris und Johns Teil in [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]]. Inhalt und Aufbau sind gleich geblieben, nur die Sprache ist geschliffen.
+
 Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Diese Fassung von Tims Teil hat Claude am 24.11.2026 um 07:50 Uhr nach Tims Rückmeldung entworfen. Sie ersetzt Tims Teil in [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]] und gehört zur PowerPoint `Ube_Maturaarbeit_1.pptx`. Die Teile von Aezri und John stehen weiterhin dort.
 
 Was sich geändert hat:

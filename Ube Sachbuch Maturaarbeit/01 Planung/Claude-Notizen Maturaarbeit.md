@@ -223,3 +223,11 @@ Tim fand seinen Teil in der sechsten Fassung noch nicht gut genug. Rückmeldung:
 - **Offen:** Aezris Teil wird mit der Folie 11 länger (rund 660 Wörter) und müsste gekürzt werden. Die Teile von Aezri und John in der sechsten Fassung sind nicht angepasst.
 - **Merken:** Tim will einen prägnanten, professionellen Einstieg ohne Nebensächliches. Details wie die Lumpia stören ihn.
 - **Nachtrag 24.11., 09:40 Uhr:** Tim fand die Einstiegsfrage mit Donut, Starbucks und Knolle nicht passend. Neu beginnt er mit einer allgemeinen Frage («Wer von Ihnen kennt Ube oder hat das Wort Ube schon einmal gesehen oder gehört?», Hände aufstrecken). Auf Folie 9 steht jetzt zuerst ein Absatz zu April bis Juni (Kochbuch mit philippinischen Gerichten, Zwischenpräsentation), danach die Sommerferien. Geändert in der Notiz und im Word-Dokument, im Chat nur als Text geliefert. Neuer Stand: 613 Wörter. Merken: Tim mag einfache, direkte Fragen und keine Rätsel.
+
+## Tims und Aezris Teil sprachlich überarbeitet (24.11.2026, 10:15 Uhr)
+Aezri bat darum, den eigenen Teil und Tims Teil sprachlich viel besser zu machen.
+
+- **Ergebnis:** Beide Teile stehen neu in [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]] und in [[Skript_Praesentation_sechste_Fassung.docx]]. Das ist wieder das eine gültige Skript für alle drei. Tim Folien 1 bis 10 (600 Wörter), Aezri 11 bis 19 (611), John 20 bis 26 unverändert (459).
+- **Sprache:** weniger Wiederholungen, genauere Verben (zum Beispiel «verfasst», «erarbeitet», «eingesetzt», «besagt»), flüssigere Übergänge («Damit komme ich zu…», «Hinzu kam…», «Als Nächstes…»). Aezris eigene Wendungen sind geblieben («Ich muss dazusagen», «nämlich», «leider», «wirklich»). Inhalt und Zahlen sind unverändert.
+- **Gekürzt bei Aezri, damit Folie 11 Platz hat:** der Kuss in Bohol, Starbucks im zweiten Kapitel, die längere Erklärung zu Matcha und Quinoa.
+- Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.

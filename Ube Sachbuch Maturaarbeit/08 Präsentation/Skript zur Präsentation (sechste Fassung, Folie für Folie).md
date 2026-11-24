@@ -8,11 +8,13 @@ Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript ha
 
 | Wer | Folien | Teil | Wörter | Geschätzte Zeit |
 | --- | --- | --- | --- | --- |
-| **Tim** | 1 bis 11 | Einstieg, Ablauf, Themenfindung, Vorgehensweise, Recherche | 593 | ca. 4:50 |
-| **Aezri** | 12 bis 19 | Interview, Inhalt und Ergebnisse | 606 | ca. 4:55 |
+| **Tim** | 1 bis 10 | Einstieg, Ablauf, Themenfindung, Vorgehensweise | 600 | ca. 4:55 |
+| **Aezri** | 11 bis 19 | Recherche, Interview, Inhalt und Ergebnisse | 611 | ca. 4:55 |
 | **John** | 20 bis 26 | Herstellung des Buches, unser Produkt, Reflexion, Schluss | 459 | ca. 4:15 |
 
 Die Zeiten sind aus der Wortzahl geschätzt (130 Wörter pro Minute, dazu Pausen, Klicks, das Herumgeben des Buches und der Schluss mit der Ube). Das Video auf Folie 1 ist nicht eingerechnet. Stoppt beim Üben jeden Teil einzeln.
+
+**Stand 24.11.2026, 10:15 Uhr:** Die Teile von Tim und Aezri sind sprachlich überarbeitet. Tims Änderungen vom Morgen sind eingebaut (allgemeine Einstiegsfrage, Folie 6 kürzer, Folie 7 persönlicher, April bis Juni auf Folie 9). Tim spricht die Folien 1 bis 10, Aezri beginnt bei Folie 11. Johns Teil ist unverändert.
 
 > [!info] So ist das Skript gemeint
 > - *Kursiv in eckigen Klammern* steht, was ihr tut. Das wird nicht gesprochen.
@@ -22,115 +24,126 @@ Die Zeiten sind aus der Wortzahl geschätzt (130 Wörter pro Minute, dazu Pausen
 
 ---
 
-## Teil 1: Tim (Folien 1 bis 11)
-
-> [!warning] Überholt seit 24.11.2026, 07:50 Uhr
-> Tim hat diesen Teil überarbeiten lassen. Die gültige Fassung steht in [[Skript Tim, Folien 1 bis 10 (24.11.2026)]]. Tim spricht neu die Folien 1 bis 10, Aezri beginnt bei Folie 11.
+## Teil 1: Tim (Folien 1 bis 10)
 
 ### Folie 1 · Video
 *[Video starten. Niemand spricht, bis es fertig ist.]*
 
 ### Folie 2 · schwarz
-*[vorne in der Mitte stehen, ins Publikum schauen, ruhig anfangen]*
-
-Ube kennen wir drei schon lange, viel länger, als es sie auf Instagram und TikTok gibt. Sie gehört zu unserer philippinischen Kultur, und wir sind mit ihr aufgewachsen, beispielsweise an einer Feier oder in einem Kuchen. In diesem Frühling stand sie dann plötzlich bei Starbucks auf der Karte. Zuerst haben wir uns einfach gefreut. Danach wollten wir wissen, wie es dazu gekommen ist.
+*[Nichts sagen. Nach vorne in die Mitte gehen, das Publikum anschauen, zwei Sekunden warten und auf Folie 3 klicken.]*
 
 ### Folie 3 · Titel
-Guten Tag und herzlich willkommen zu unserer Maturapräsentation. Wir sind Aezri Peglow, John Meuwly und ich bin Tim Rosal. Aus dieser Frage ist ein Sachbuch geworden, und es heisst «Ube – Zwischen Tradition und Trend».
+*[ins Publikum schauen und mit der Frage beginnen]*
 
-Mich würde zuerst etwas interessieren. Wer von Ihnen hat schon einmal etwas mit Ube gegessen oder getrunken?
+Wer von Ihnen kennt Ube oder hat das Wort schon einmal gesehen oder gehört? Strecken Sie bitte kurz die Hand auf.
 
-*[auf die Hände schauen und einen Satz dazu sagen]*
+*[selbst die Hand heben, auf die Hände schauen und einen Satz dazu sagen, zum Beispiel «Das sind schon einige» oder «Dann lernen Sie heute etwas Neues kennen»]*
+
+Guten Tag und herzlich willkommen zu unserer Maturapräsentation. Mein Name ist Tim Rosal, und neben mir stehen Aezri Peglow und John Meuwly. Ube ist eine violette Knolle von den Philippinen. Über sie haben wir gemeinsam ein Sachbuch geschrieben und gestaltet, es trägt den Titel «Ube – Zwischen Tradition und Trend».
 
 ### Folie 4 · Ablauf
-Ich erzähle Ihnen jetzt, wie wir auf das Thema gekommen sind und wie wir vorgegangen sind. Aezri stellt Ihnen danach den Inhalt und die Ergebnisse vor. John zeigt Ihnen am Schluss, wie das Buch entstanden ist, und dann das Buch selbst.
+Ich zeige Ihnen zuerst, wie wir zu unserem Thema gekommen und wie wir vorgegangen sind. Danach führt Aezri Sie durch die Recherche und die Ergebnisse, und zum Schluss stellt John das Buch vor.
 
 ### Folie 5 · Themenfindung
-Ich fange mit der Themenfindung an.
+Beginnen möchte ich mit der Themenfindung.
 
 ### Folie 6 · Wie sind wir auf das Thema gekommen?
-*[zuerst auf das Kochbuch links zeigen]*
+*[auf das Kochbuch links zeigen]*
 
-Eigentlich wollten wir nämlich gar kein Buch über Ube schreiben. Links sehen Sie unsere erste Idee, ein Kochbuch über die philippinische Küche mit Gerichten aus allen 18 Regionen. Im Juni haben wir es an der Zwischenpräsentation vorgestellt, und ich hatte dafür sogar selbst gemachte Lumpia mitgebracht. Die Rückmeldung war jedoch, dass unsere Arbeit noch zu wenig wissenschaftlich ist. Das hat uns zuerst enttäuscht, aber es hat gestimmt. Ausserdem gibt es schon sehr viele philippinische Kochbücher, und wir hätten kaum etwas Neues schreiben können.
+Ursprünglich hatten wir gar kein Buch über Ube geplant. Links sehen Sie unsere erste Idee, ein Kochbuch über die philippinische Küche. An der Zwischenpräsentation im Juni haben wir jedoch die Rückmeldung erhalten, dass unsere Arbeit noch zu wenig wissenschaftlich ist. Das hat uns zuerst enttäuscht, im Nachhinein war die Kritik aber berechtigt. Hinzu kam, dass es bereits sehr viele philippinische Kochbücher gibt.
 
 *[auf das Ube-Buch rechts zeigen]*
 
-Deshalb haben wir nach einer einzelnen Zutat gesucht. Zuerst war es übrigens Bananenketchup und erst danach Ube. Bei Ube mussten wir dann nicht mehr lange überlegen, weil sie für uns drei eine besondere Bedeutung hat.
+Beim Lesen dieser Bücher ist uns aufgefallen, dass Ube in vielen von ihnen vorkommt, ein Buch nur über Ube aber kaum zu finden ist. So ist die Idee entstanden, uns ganz auf diese eine Knolle zu konzentrieren.
 
 ### Folie 7 · Violett im Becher. Aber woher kommt es?
+Für uns drei ist dieses Violett nichts Neues. Wir kannten Ube schon lange, bevor sie auf Instagram und TikTok zum Trend wurde. Sie gehört zu unserer philippinischen Kultur und begleitet uns seit der Kindheit, sei es an einer Feier oder in einem Kuchen.
+
 *[der Reihe nach auf die drei Bilder zeigen]*
 
-Auf den Philippinen wird Ube seit über 10'000 Jahren gegessen. Im Westen wurde sie erst vor ungefähr zehn Jahren bekannt, unter anderem durch einen Donut mit Blattgold. Und heute wird sie in Schweizer Cafés als etwas ganz Neues verkauft.
+Wie alt diese Tradition ist, war uns allerdings nicht bewusst. Auf den Philippinen wird Ube seit über 10'000 Jahren gegessen. Im Westen ist sie erst seit rund zehn Jahren bekannt, unter anderem durch einen Donut mit Blattgold. Und in Schweizer Cafés wird sie heute als etwas völlig Neues verkauft.
 
-Daraus ist unsere Leitfrage entstanden. Wir wollten wissen, inwiefern der internationale Ube-Trend die traditionelle Bedeutung, die Verwendung und die Produktion von Ube auf den Philippinen verändert. Unsere Leitthese dazu lautet, dass die Philippinen beim Ube-Boom nicht ihre Kultur verlieren, sondern die Kontrolle über sie. Ob das stimmt, hören Sie später von Aezri.
+Als Ube in diesem Frühling bei Starbucks auf der Karte stand, haben wir uns zuerst einfach gefreut. Bald wollten wir aber wissen, wie es dazu gekommen ist und ob auch die Menschen, die Ube anbauen, etwas von diesem Erfolg haben.
+
+Daraus ist unsere Leitfrage entstanden. Inwiefern verändert der internationale Ube-Trend die traditionelle Bedeutung, die Verwendung und die Produktion von Ube auf den Philippinen? Unsere Leitthese dazu lautet, dass die Philippinen beim Ube-Boom nicht ihre Kultur verlieren, sondern die Kontrolle über sie. Ob sich das bestätigt hat, erfahren Sie später von Aezri.
 
 ### Folie 8 · Vorgehensweise
-Jetzt komme ich zur Vorgehensweise.
+Damit komme ich zu unserer Vorgehensweise.
 
 ### Folie 9 · Vom Kochbuch zum Sachbuch
 *[beim Erzählen von oben nach unten zeigen]*
 
-In den Sommerferien waren John und ich mit unseren Familien auf den Philippinen. Dabei haben wir auf Märkten und bei Familienessen gefragt, woher die Gerichte kommen. Das Ergebnis war leider ernüchternd, weil die meisten über die Herkunft nur wenig wussten.
+Von April bis Juni haben wir an unserer ersten Idee gearbeitet, dem Kochbuch mit philippinischen Gerichten. Im Juni folgte die Zwischenpräsentation, deren Rückmeldung Sie bereits kennen.
 
-Am 21. August haben wir deshalb neu angefangen, mit einem Sachbuch nur über Ube. Im September und Oktober haben wir recherchiert und die drei Kapitel geschrieben. Im November hat John das Buch gestaltet, und am 10. November haben wir es abgegeben. Für das ganze Buch blieben uns also knapp zwölf Wochen. Ich muss ehrlich sagen, dass mir am Anfang das Gefühl gefehlt hat, dass es eilt.
+Die Sommerferien haben John und ich mit unseren Familien auf den Philippinen verbracht. Dort haben wir auf Märkten und bei Familienessen nachgefragt, woher die Gerichte stammen. Das Ergebnis war leider ernüchternd, denn über die Herkunft wussten die meisten nur wenig.
+
+Am 21. August haben wir deshalb neu begonnen, diesmal mit einem Sachbuch nur über Ube. Im September und Oktober haben wir recherchiert und die drei Kapitel geschrieben, im November hat John das Buch gestaltet, und am 10. November haben wir es abgegeben. Vom Neustart bis zur Abgabe blieben uns also knapp zwölf Wochen. Ehrlich gesagt hat mir am Anfang das Gefühl gefehlt, dass die Zeit drängt.
 
 ### Folie 10 · Wer was gemacht hat
-Aufgeteilt haben wir die Arbeit so. Aezri hat das erste Kapitel, die Thesen 1 und 2 und das Schlusswort geschrieben. Von mir stammen das zweite Kapitel, die These 4 und das Vorwort. John hat die These 3 geschrieben, das Buch gestaltet und den Druck organisiert. Die Leitfrage, die Leitthese und die vier Thesen haben wir gemeinsam formuliert.
+Die Arbeit haben wir folgendermassen aufgeteilt. Aezri hat das erste Kapitel, die Thesen 1 und 2 sowie das Schlusswort verfasst. Von mir stammen das zweite Kapitel, die These 4 und das Vorwort. John hat die These 3 geschrieben, das Buch gestaltet und den Druck organisiert. Die Leitfrage, die Leitthese und die vier Thesen haben wir gemeinsam erarbeitet.
 
-### Folie 11 · Wie wir recherchiert haben
-Zum Schluss noch kurz zur Recherche. Über Ube gibt es nur wenig Forschung. Deshalb haben wir viele Quellen gesammelt, im dritten Kapitel sind es 60. Zahlen haben wir nicht einfach übernommen, sondern selbst nachgerechnet. Ausserdem haben wir uns Zutatenlisten von Ube-Produkten angeschaut.
+*[auf Folie 10 bleiben und zu Aezri schauen]*
 
-Und dann gab es noch ein Interview. Davon erzählt Ihnen jetzt Aezri.
+Wie wir recherchiert haben und was dabei herausgekommen ist, erklärt Ihnen jetzt Aezri.
+
+*[Tim tritt zur Seite, Aezri klickt auf Folie 11]*
 
 ---
 
-## Teil 2: Aezri (Folien 12 bis 19)
+## Teil 2: Aezri (Folien 11 bis 19)
+
+### Folie 11 · Wie wir recherchiert haben
+Vielen Dank, Tim. Bei der Recherche ist uns wirklich sehr schnell aufgefallen, wie wenig über Ube geforscht wurde. Wir haben deshalb ganz unterschiedliche Quellen zusammengesucht, allein im dritten Kapitel sind es 60.
+
+*[der Reihe nach auf die Kästchen zeigen]*
+
+Zahlen haben wir dabei nicht einfach übernommen, sondern selbst nachgerechnet. Zusätzlich haben wir die Zutatenlisten von Ube-Produkten gelesen. Und schliesslich gab es ein Interview.
 
 ### Folie 12 · Das Interview mit «Tita»
-Danke, Tim. Ich fange mit dem Interview an, und ich muss gleich dazusagen, dass wir es nicht selbst geführt haben. Johns Onkel hat für uns am 23. Oktober auf dem Markt von Talisay City auf der Insel Cebu mit einer Verkäuferin gesprochen. Sie wollte anonym bleiben, und deshalb nennen wir sie Tita, das heisst «Tante».
+Zu diesem Interview muss ich gleich etwas dazusagen. Wir haben es nämlich nicht selbst geführt. Johns Onkel hat für uns am 23. Oktober auf einem Markt auf der Insel Cebu mit einer Verkäuferin gesprochen. Weil sie anonym bleiben wollte, nennen wir sie Tita, was «Tante» bedeutet.
 
 *[das Zitat langsam von der Folie lesen]*
 
 «Jedes Jahr gibt es weniger Ube-Bauern, weil die neue Generation nicht mehr Ube anbauen will.»
 
-Diesen Satz haben wir sogar in das Schlusswort unseres Buches aufgenommen. Tita hat uns auch erzählt, dass ein Kilo Ube auf ihrem Markt heute 150 Pesos kostet und früher 100. Es ist aber nur eine einzelne Stimme, und einige Dinge haben wir leider nicht geklärt.
+Tita hat ausserdem erzählt, dass ein Kilo Ube auf ihrem Markt inzwischen 150 Pesos kostet statt wie früher 100. So wertvoll dieses Gespräch für uns war, es bleibt eine einzelne Stimme, und einige Fragen konnten wir leider nicht klären.
 
 ### Folie 13 · Inhalt & Ergebnisse
-Jetzt komme ich zum Inhalt und zu den Ergebnissen.
+Damit komme ich zum Inhalt und zu unseren Ergebnissen.
 
 ### Folie 14 · Das Buch in drei Kapiteln
-Unser Buch hat drei Kapitel. Das erste habe ich geschrieben, und es erzählt die Geschichte von Ube. Dass auf den Philippinen schon vor über 10'000 Jahren Ube gegessen wurde, wussten wir vorher selbst nicht. Die wichtigste Ube-Provinz ist die Insel Bohol, und dort lernen schon die Kinder, dass man eine Ube, die auf den Boden fällt, aufhebt und ihr einen Kuss gibt. Für mich waren die violetten Desserts als Kind eine Erinnerung daran, dass ich auch philippinisch bin.
+Unser Buch besteht aus drei Kapiteln. Das erste stammt von mir und erzählt die Geschichte von Ube. Dass sie auf den Philippinen schon vor über 10'000 Jahren gegessen wurde, war auch für uns neu. Für mich persönlich waren die violetten Desserts in meiner Kindheit eine Erinnerung daran, dass ich auch philippinisch bin.
 
-Das zweite Kapitel hat Tim geschrieben. Es zeigt, wie Ube zum Trend geworden ist und heute sogar bei Starbucks verkauft wird. Im dritten Kapitel stehen unsere vier Thesen.
+Das zweite Kapitel hat Tim geschrieben. Es zeigt, wie Ube zum Trend geworden ist. Im dritten Kapitel prüfen wir dann unsere vier Thesen.
 
 ### Folie 15 · Vier Thesen
 *[der Reihe nach auf die vier Felder zeigen]*
 
-Die erste These nennen wir das Ube-Paradox. Sie sagt, dass Ube auf den Philippinen knapper wird, je grösser die Nachfrage auf der Welt ist. Die zweite heisst «Matcha oder Quinoa?». Matcha ist in Japan zu einer geschützten Marke geworden, bei Quinoa haben nach dem Boom vor allem andere verdient, und wir wollten wissen, auf welchem Weg Ube ist. Die dritte sagt, dass Ube im Westen vor allem als Farbe konsumiert wird, während sie auf den Philippinen ein Symbol ist. Und die vierte sagt, dass mehr Felder allein nicht reichen, weil es auch genug Pflanzmaterial braucht.
+Die erste These nennen wir das Ube-Paradox. Sie besagt, dass Ube auf den Philippinen knapper wird, je stärker die Nachfrage auf der Welt wächst. Die zweite trägt den Titel «Matcha oder Quinoa?». Sie fragt, ob Ube wie Matcha zu einer geschützten Marke wird oder ob wie bei Quinoa vor allem andere daran verdienen. Die dritte These besagt, dass Ube im Westen vor allem als Farbe konsumiert wird, während sie auf den Philippinen ein Symbol ist. Und nach der vierten reichen mehr Felder allein nicht aus, weil es auch genügend Pflanzmaterial braucht.
 
-Drei Thesen konnten wir grösstenteils bestätigen, eine haben wir neu formuliert. Ich muss aber dazusagen, dass wir am Ende alle vier vorsichtiger fassen mussten als am Anfang.
+Drei dieser Thesen konnten wir grösstenteils bestätigen, eine haben wir neu formuliert. Ich muss allerdings dazusagen, dass wir am Ende alle vier vorsichtiger fassen mussten als zu Beginn.
 
 ### Folie 16 · Mehr Nachfrage, weniger Ernte
-Diese Zahl war für uns ganz neu. Wir hatten nämlich gedacht, dass Ube in grossen Mengen angebaut wird. 2010 wurden noch fast 22'000 Tonnen geerntet, 2025 waren es nur noch rund 12'500. Das sind 43 Prozent weniger, obwohl die Nachfrage steigt.
+Diese Zahl war für uns ganz neu. Wir waren nämlich davon ausgegangen, dass Ube in grossen Mengen angebaut wird. 2010 wurden aber noch fast 22'000 Tonnen geerntet und 2025 nur noch rund 12'500. Das ist ein Rückgang von 43 Prozent, und das bei steigender Nachfrage.
 
-Die Anbaufläche hat sich in dieser Zeit halbiert. Der Ertrag pro Hektare ist aber um 14 Prozent gestiegen, das haben wir selbst nachgerechnet. Es wächst also nicht weniger auf den Feldern, es gibt einfach weniger Felder.
+Die Anbaufläche hat sich in dieser Zeit halbiert, während der Ertrag pro Hektare sogar um 14 Prozent gestiegen ist. Das haben wir selbst nachgerechnet. Auf den Feldern wächst also nicht weniger, es gibt einfach weniger Felder.
 
 ### Folie 17 · Wer verdient am Boom?
-Dann wollten wir wissen, wer am Boom verdient. 2025 haben die Philippinen Ube für 3,06 Millionen US-Dollar exportiert, und über 60 Prozent davon waren Rohware. Wer nur Rohware liefert, überlässt die Marke anderen.
+Als Nächstes wollten wir wissen, wer am Boom verdient. 2025 haben die Philippinen Ube im Wert von 3,06 Millionen US-Dollar exportiert, und über 60 Prozent davon waren Rohware. Wer jedoch nur Rohware liefert, überlässt die Marke anderen.
 
-Dazu passt, was wir auf den Zutatenlisten gefunden haben. Im Ube-Latte-Pulver der Marke Barú steht Zucker an erster Stelle, und Ube macht nur 9 Prozent aus.
+Dazu passt, was auf den Zutatenlisten steht. Im Ube-Latte-Pulver der Marke Barú steht Zucker an erster Stelle, und Ube macht nur 9 Prozent aus.
 
 ### Folie 18 · Was von unserer Leitthese bleibt
-Was bleibt jetzt von unserer Leitthese, die Tim Ihnen am Anfang vorgestellt hat? Als Tendenz hat sie sich bewährt, aber an drei Stellen waren wir zu sicher.
+Was bleibt nun von unserer Leitthese? Als Tendenz hat sie sich bewährt, an drei Stellen waren wir jedoch zu sicher.
 
 *[der Reihe nach auf die drei Punkte zeigen]*
 
-Der Rückgang der Ernte hat schon vor dem Boom begonnen. Das Wort «verlieren» ist nicht belegt, weil unsere Quellen nicht zeigen, dass die Philippinen diese Kontrolle je hatten. Und was Ube bedeutet, bestimmen die Menschen auf den Philippinen immer noch selbst.
+Der Rückgang der Ernte hat schon vor dem Boom eingesetzt. Das Wort «verlieren» ist nicht belegt, weil unsere Quellen nicht zeigen, dass die Philippinen diese Kontrolle je hatten. Und was Ube bedeutet, bestimmen die Menschen auf den Philippinen nach wie vor selbst.
 
 ### Folie 19 · Inhalt und Ergebnisse
 *[ins Publikum schauen, nicht auf die Folie]*
 
-Am meisten beschäftigt hat uns, dass auf den Philippinen immer weniger Ube geerntet wird, obwohl die Nachfrage auf der ganzen Welt steigt. Trotzdem finden wir im Nachhinein, dass es die richtige Entscheidung war, uns auf Ube zu konzentrieren.
+Am meisten beschäftigt hat uns, dass auf den Philippinen immer weniger Ube geerntet wird, obwohl die Nachfrage weltweit steigt. Trotzdem finden wir im Nachhinein, dass es die richtige Entscheidung war, uns ganz auf Ube zu konzentrieren.
 
 Wie aus all dem ein Buch geworden ist, zeigt Ihnen jetzt John.
 
@@ -204,8 +217,8 @@ Wir beantworten jetzt gerne Ihre Fragen.
 - **Künstliche Intelligenz:** In eurem Journal steht, dass die Karte von Bohol mit Claude erstellt wurde und dass die Grammatik im Buchtext mit KI korrigiert wurde. Wenn ihr das im Vortrag offenlegen wollt, passt es bei der Herstellung (Folie 21) in einem Satz.
 
 ## Wenn jemand über fünf Minuten kommt
-- **Tim:** den Satz zum Bananenketchup (Folie 6) und die Frage ans Publikum (Folie 3) weglassen.
-- **Aezri:** den Absatz zu den Zutatenlisten (Folie 17) oder den Satz zum Kuss in Bohol (Folie 14) weglassen.
+- **Tim:** auf Folie 9 den Satz zu den zwölf Wochen weglassen und auf Folie 10 nur sagen, wer welches Kapitel geschrieben hat.
+- **Aezri:** auf Folie 15 den Satz weglassen, dass alle vier Thesen vorsichtiger gefasst wurden, oder auf Folie 17 den Absatz zu den Zutatenlisten.
 - **John:** zur Folie 24 nichts sagen. Den Schluss nicht kürzen.
 
 ## Fragen, die nach dem Vortrag kommen können
