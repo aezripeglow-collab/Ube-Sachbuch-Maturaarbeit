@@ -25,6 +25,9 @@ Aezri wollte eine Präsentation, die einer Maturapräsentation gerecht wird, wei
 - Skript: Scratchpad `r18/fertig.py` (baut auf `r16/mag.py` auf).
 
 ## Skript für den Vortrag (23.11.2026)
+> [!tip] Tims Teil neu (24.11.2026, 07:50 Uhr)
+> [[Skript Tim, Folien 1 bis 10 (24.11.2026)]]: neuer Anfang mit einer Frage, Folie 6 kürzer, Folie 7 persönlicher, Übergang zu Aezri bei Folie 11. Zum Ausdrucken: [[Skript_Tim_Folien_1_bis_10.docx]].
+
 > [!tip] Neuste Fassung (24.11.2026, 00:10 Uhr)
 > [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]]: zur neusten PowerPoint der Gruppe (`Ube_Maturaarbeit_1.pptx`, 26 Folien, nur im Chat), ein Abschnitt zu jeder Folie, Tim Folien 1 bis 11, Aezri 12 bis 19, John 20 bis 26, höchstens fünf Minuten pro Person. Zum Ausdrucken: [[Skript_Praesentation_sechste_Fassung.docx]].
 

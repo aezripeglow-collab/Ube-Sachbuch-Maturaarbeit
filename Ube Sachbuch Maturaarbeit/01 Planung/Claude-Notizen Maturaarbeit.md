@@ -213,3 +213,12 @@ Tim schickte um 23:46 Uhr eine neue Fassung der PowerPoint (`Ube_Maturaarbeit_1.
 - **Persönliche Sätze:** stammen aus dem Vorwort (Ube hat für uns eine besondere Bedeutung, für wen das Buch ist, Dank), dem Schlusswort (Ube kannten wir schon lange, Zutatenliste, was uns am meisten beschäftigt hat, mehrere Bauern befragen) und der Rückschau im Journal. Nichts davon ist erfunden.
 - **Anfang und Schluss:** Tim beginnt auf der schwarzen Folie 2 persönlich, John endet mit einer echten Ube in der Hand, dem Dank und «Salamat». Das Candy gibt es hier wieder am Schluss.
 - Für den KI-Nachweis: Auch diese Fassung ist ein Entwurf von Claude.
+
+## Tims Teil überarbeitet (24.11.2026, 07:50 Uhr)
+Tim fand seinen Teil in der sechsten Fassung noch nicht gut genug. Rückmeldung: Text zur schwarzen Folie 2 überflüssig, Anfang professioneller und prägnanter, damit das Publikum sofort hinschaut. Folie 6 mit weniger Details (Lumpia weg) und neuem Schluss. Folie 7 mit mehr Herz. Tim spricht nur noch die Folien 1 bis 10, Aezri beginnt bei Folie 11.
+
+- **Ergebnis:** [[Skript Tim, Folien 1 bis 10 (24.11.2026)]] und [[Skript_Tim_Folien_1_bis_10.docx]], 576 gesprochene Wörter.
+- **Anfang:** Frage «Was haben ein Donut für 100 Dollar, ein Getränk bei Starbucks und eine über 10'000 Jahre alte Knolle gemeinsam?», Antwort «Alle drei sind violett, und alle drei sind Ube.» Folie 7 zeigt genau diese drei Dinge. Eine zweite Variante steht in der Notiz.
+- **Folie 6 und 7:** Schlusssatz aus dem Vorwort («uns ganz auf diese eine Knolle zu konzentrieren»), persönliche Sätze aus dem Schlusswort («Ube kannten wir schon lange…») und dem Vorwort («ob die Menschen, die Ube anbauen, etwas vom Erfolg haben»).
+- **Offen:** Aezris Teil wird mit der Folie 11 länger (rund 660 Wörter) und müsste gekürzt werden. Die Teile von Aezri und John in der sechsten Fassung sind nicht angepasst.
+- **Merken:** Tim will einen prägnanten, professionellen Einstieg ohne Nebensächliches. Details wie die Lumpia stören ihn.

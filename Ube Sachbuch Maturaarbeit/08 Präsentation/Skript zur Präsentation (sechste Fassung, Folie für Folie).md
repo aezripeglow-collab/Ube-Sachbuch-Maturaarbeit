@@ -24,6 +24,9 @@ Die Zeiten sind aus der Wortzahl geschätzt (130 Wörter pro Minute, dazu Pausen
 
 ## Teil 1: Tim (Folien 1 bis 11)
 
+> [!warning] Überholt seit 24.11.2026, 07:50 Uhr
+> Tim hat diesen Teil überarbeiten lassen. Die gültige Fassung steht in [[Skript Tim, Folien 1 bis 10 (24.11.2026)]]. Tim spricht neu die Folien 1 bis 10, Aezri beginnt bei Folie 11.
+
 ### Folie 1 · Video
 *[Video starten. Niemand spricht, bis es fertig ist.]*
 
