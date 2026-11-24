@@ -7,12 +7,12 @@ stand: 2026-11-24
 Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Diese Fassung von Tims Teil hat Claude am 24.11.2026 um 07:50 Uhr nach Tims Rückmeldung entworfen. Sie ersetzt Tims Teil in [[Skript zur Präsentation (sechste Fassung, Folie für Folie)]] und gehört zur PowerPoint `Ube_Maturaarbeit_1.pptx`. Die Teile von Aezri und John stehen weiterhin dort.
 
 Was sich geändert hat:
-- **Anfang:** Auf der schwarzen Folie 2 wird nichts mehr gesagt. Tim beginnt auf Folie 3 mit einer Frage, die das Publikum sofort zum Mitdenken bringt, und begrüsst erst danach.
+- **Anfang:** Auf der schwarzen Folie 2 wird nichts mehr gesagt. Tim beginnt auf Folie 3 mit einer allgemeinen Frage ans Publikum (Hände aufstrecken) und begrüsst erst danach. Die Frage mit Donut, Starbucks und Knolle hat Tim am 24.11. um 09:37 Uhr verworfen.
 - **Folie 6:** kürzer, ohne Lumpia und ohne Bananenketchup, mit einem neuen Schlusssatz.
 - **Folie 7:** persönlicher, mit Sätzen aus eurem Schlusswort und Vorwort.
 - **Aufteilung:** Tim spricht die Folien 1 bis 10. Aezri beginnt neu bei Folie 11.
 
-Tims Teil hat jetzt 576 gesprochene Wörter mit dem Übergabesatz. Das sind geschätzt etwa 4:45 Minuten (130 Wörter pro Minute, dazu Pausen und Klicks). Bitte einmal mit der Stoppuhr prüfen.
+Tims Teil hat jetzt 613 gesprochene Wörter mit dem Übergabesatz. Das sind geschätzt knapp fünf Minuten (130 Wörter pro Minute, dazu Pausen und Klicks). Bitte einmal mit der Stoppuhr prüfen.
 
 > [!info] So ist das Skript gemeint
 > - *Kursiv in eckigen Klammern* steht, was du tust. Das wird nicht gesprochen.
@@ -29,15 +29,13 @@ Tims Teil hat jetzt 576 gesprochene Wörter mit dem Übergabesatz. Das sind gesc
 *[Nichts sagen. Nach vorne in die Mitte gehen, das Publikum anschauen, zwei Sekunden warten und auf Folie 3 klicken.]*
 
 ### Folie 3 · Titel
-*[langsam und deutlich, ins Publikum schauen]*
+*[ins Publikum schauen und mit der Frage beginnen]*
 
-Was haben ein Donut für 100 Dollar, ein Getränk bei Starbucks und eine über 10'000 Jahre alte Knolle gemeinsam?
+Wer von Ihnen kennt Ube oder hat das Wort Ube schon einmal gesehen oder gehört? Strecken Sie bitte kurz die Hand auf.
 
-*[zwei Sekunden Pause]*
+*[selbst die Hand heben, auf die Hände schauen und einen Satz dazu sagen, zum Beispiel «Das sind schon einige» oder «Dann lernen Sie heute etwas Neues kennen»]*
 
-Alle drei sind violett, und alle drei sind Ube.
-
-Guten Tag und herzlich willkommen zu unserer Maturapräsentation. Wir sind Aezri Peglow, John Meuwly und ich bin Tim Rosal. Über diese Knolle haben wir ein Sachbuch geschrieben und gestaltet. Es heisst «Ube – Zwischen Tradition und Trend».
+Guten Tag und herzlich willkommen zu unserer Maturapräsentation. Wir sind Aezri Peglow, John Meuwly und ich bin Tim Rosal. Ube ist eine violette Knolle von den Philippinen, und wir haben über sie ein Sachbuch geschrieben und gestaltet. Es heisst «Ube – Zwischen Tradition und Trend».
 
 ### Folie 4 · Ablauf
 Ich erzähle Ihnen zuerst, wie wir auf das Thema gekommen sind und wie wir vorgegangen sind. Aezri stellt Ihnen danach die Recherche, den Inhalt und die Ergebnisse vor. John zeigt Ihnen am Schluss, wie das Buch entstanden ist, und dann das Buch selbst.
@@ -59,7 +57,7 @@ Für uns ist dieses Violett nichts Neues. Ube kannten wir schon lange, bevor sie
 
 *[der Reihe nach auf die drei Bilder zeigen]*
 
-Was wir nicht wussten, ist, wie alt diese Tradition ist. Auf den Philippinen wird Ube seit über 10'000 Jahren gegessen. Im Westen wurde sie erst vor ungefähr zehn Jahren bekannt, unter anderem durch den Donut vom Anfang. Und heute wird sie in Schweizer Cafés als etwas ganz Neues verkauft.
+Was wir nicht wussten, ist, wie alt diese Tradition ist. Auf den Philippinen wird Ube seit über 10'000 Jahren gegessen. Im Westen wurde sie erst vor ungefähr zehn Jahren bekannt, unter anderem durch einen Donut mit Blattgold. Und heute wird sie in Schweizer Cafés als etwas ganz Neues verkauft.
 
 Als wir Ube in diesem Frühling bei Starbucks gesehen haben, haben wir uns zuerst einfach gefreut. Dann wollten wir aber wissen, wie es dazu gekommen ist und ob die Menschen, die Ube anbauen, auch etwas von diesem Erfolg haben.
 
@@ -70,6 +68,8 @@ Jetzt komme ich zur Vorgehensweise.
 
 ### Folie 9 · Vom Kochbuch zum Sachbuch
 *[beim Erzählen von oben nach unten zeigen]*
+
+Von April bis Juni haben wir an unserer ersten Idee gearbeitet. Wir wollten ein Kochbuch mit philippinischen Gerichten gestalten. Im Juni haben wir es an der Zwischenpräsentation vorgestellt, und die Rückmeldung dazu kennen Sie schon.
 
 In den Sommerferien waren John und ich mit unseren Familien auf den Philippinen. Dabei haben wir auf Märkten und bei Familienessen gefragt, woher die Gerichte kommen. Das Ergebnis war leider ernüchternd, weil die meisten über die Herkunft nur wenig wussten.
 
@@ -95,7 +95,7 @@ Aufgeteilt haben wir die Arbeit so. Aezri hat das erste Kapitel, die Thesen 1 un
 ---
 
 ## Noch zu beachten
-- **Der Anfang wirkt nur mit der Pause.** Nach der Frage wirklich zwei Sekunden warten und die Leute anschauen. Wenn dir die Frage nicht liegt, geht es auch so: «Seit über 10'000 Jahren wird sie auf den Philippinen gegessen. Seit diesem Frühling steht sie bei Starbucks in der Schweiz auf der Karte. Und trotzdem wird jedes Jahr weniger davon geerntet. Sie ist violett, und sie heisst Ube.»
-- **Folie 7 nimmt den Anfang wieder auf.** Dort sind der Donut, das Getränk und die Knolle zu sehen, nach denen du am Anfang fragst. Auf der Folie steht beim Donut «2016», laut Buch wurde er Ende 2015 verkauft.
+- **Anfang:** Nach der Frage wirklich warten, bis die Hände oben sind, und erst dann weiterreden.
+- **Folie 7:** Auf der Folie steht beim Donut «2016», laut Buch wurde er Ende 2015 verkauft.
 - **Aezris Teil wird länger.** Mit der Folie 11 kommen bei Aezri rund 60 Wörter dazu. Dann hat Aezri rund 660 Wörter und liegt bei ruhigem Tempo über fünf Minuten. Aezri kann dafür den Absatz zu den Zutatenlisten (Folie 17) und den Satz zum Kuss in Bohol (Folie 14) weglassen.
 - **Im Ablauf auf Folie 4** sagst du jetzt, dass Aezri auch die Recherche vorstellt.
