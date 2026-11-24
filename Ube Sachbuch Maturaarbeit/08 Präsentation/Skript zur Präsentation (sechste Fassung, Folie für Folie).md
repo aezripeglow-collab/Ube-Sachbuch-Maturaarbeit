@@ -9,7 +9,7 @@ Zurück zu [[Präsentation der Maturaarbeit]] und [[00 Start]]. Dieses Skript ha
 | Wer | Folien | Teil | Wörter | Geschätzte Zeit |
 | --- | --- | --- | --- | --- |
 | **Tim** | 1 bis 10 | Einstieg, Ablauf, Themenfindung, Vorgehensweise | 600 | ca. 4:55 |
-| **Aezri** | 11 bis 19 | Recherche, Interview, Inhalt und Ergebnisse | 634 | ca. 5:00 |
+| **Aezri** | 11 bis 19 | Recherche, Interview, Inhalt und Ergebnisse | 626 | ca. 5:00 |
 | **John** | 20 bis 26 | Herstellung des Buches, unser Produkt, Reflexion, Schluss | 459 | ca. 4:15 |
 
 Die Zeiten sind aus der Wortzahl geschätzt (130 Wörter pro Minute, dazu Pausen, Klicks, das Herumgeben des Buches und der Schluss mit der Ube). Das Video auf Folie 1 ist nicht eingerechnet. Stoppt beim Üben jeden Teil einzeln.
@@ -119,7 +119,7 @@ Eine ihrer Aussagen steht heute sogar im Schlusswort unseres Buches. Ich lese si
 Das haben wir erst durch dieses Gespräch erfahren. Tita hat ausserdem erzählt, dass ein Kilo Ube auf ihrem Markt inzwischen 150 Pesos kostet statt wie früher 100. So wertvoll dieses Gespräch für uns war, es bleibt eine einzelne Stimme, und einige Fragen konnten wir leider nicht klären.
 
 ### Folie 13 · Inhalt & Ergebnisse
-Damit komme ich zum Inhalt und zu unseren Ergebnissen.
+Nun zum Inhalt und zu unseren Ergebnissen.
 
 ### Folie 14 · Das Buch in drei Kapiteln
 Unser Buch besteht aus drei Kapiteln. Das erste stammt von mir und erzählt die Geschichte von Ube. Für mich persönlich waren die violetten Desserts in meiner Kindheit eine Erinnerung daran, dass ich auch philippinisch bin.
@@ -141,7 +141,7 @@ Drei dieser Thesen konnten wir grösstenteils bestätigen, eine haben wir neu fo
 Hier kommt das Nachrechnen ins Spiel. In unserer Quelle standen die Ernte und die Anbaufläche, und die Fläche hat sich in dieser Zeit halbiert. Wir haben deshalb für beide Jahre die Ernte durch die Fläche geteilt. 2010 ergibt das rund 4,6 Tonnen pro Hektare und 2025 rund 5,3. Der Ertrag ist also sogar um 14 Prozent gestiegen. Auf den Feldern wächst demnach nicht weniger, es gibt einfach weniger Felder.
 
 ### Folie 17 · Wer verdient am Boom?
-Und wer verdient am Boom? 2025 haben die Philippinen Ube im Wert von 3,06 Millionen US-Dollar exportiert. Über 60 Prozent davon waren Rohware, also Ube, die noch nicht zu einem fertigen Produkt verarbeitet wurde. Den grössten Gewinn machen laut einer unserer Quellen aber Hersteller im Ausland, die daraus teure Extrakte herstellen.
+Und wer verdient am Boom? 2025 haben die Philippinen Ube im Wert von 3,06 Millionen US-Dollar exportiert. Über 60 Prozent davon waren Rohware, also noch nicht verarbeitete Ube. Den grössten Gewinn machen laut einer unserer Quellen aber Hersteller im Ausland, die daraus teure Extrakte herstellen.
 
 Dazu passt, was auf den Zutatenlisten steht. Im Ube-Latte-Pulver der Marke Barú steht Zucker an erster Stelle, und Ube macht nur 9 Prozent aus.
 
