@@ -21,7 +21,7 @@ Jeder Lebensbereich hat einen eigenen Ordner im Hauptverzeichnis.
 | `Physik/` | Physik im 4. Jahr, aktuell elektrische und magnetische Felder (Prüfungsvorbereitung). Startpunkt: `00 Start.md` |
 | `math/` | Mathematik (G4, Lehrer T. Turini), aktuell Differential Calculus 2 (Kurztest 16.11.2026). Startpunkt: `00 Start.md` |
 | `Deutsch/` | Deutsch, aktuell Satire (Aufsatz 17.11.2026: individueller Satire-Text mit Reflexion). Startpunkt: `00 Start.md` |
-| `Wirtschaft/` | Wirtschaft und Recht, aktuell Gesellschaftsrecht des OR: die Aktiengesellschaft (Aufgaben F 139 bis F 143). Startpunkt: `00 Start.md` |
+| `Wirtschaft/` | Wirtschaft und Recht, aktuell Gesellschaftsrecht des OR: die Aktiengesellschaft (Aufgaben F 131 und F 139 bis F 143) sowie Rechnungswesen: Gewinnverwendung und Kapitalerhöhung bei der AG (Zusatzaufgaben 51.03 bis 51.12). Startpunkt: `00 Start.md` |
 | `Englisch/` | Englisch, aktuell Reading: *The Picture of Dorian Gray* (Oscar Wilde). Unterordner `reading/` für Lektüre-Notizen. Startpunkt: `00 Start.md` |
 
 Neue Bereiche bitte hier in der Tabelle ergänzen.
