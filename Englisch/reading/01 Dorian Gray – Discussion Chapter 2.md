@@ -6,6 +6,51 @@ Antworten zum Vorlesen in der Diskussion. Die Zitate vor der Diskussion mit der 
 
 ---
 
+## Chapter 2 at a glance
+
+### Setting
+- Basil Hallward's studio in London and the garden behind it, on a hot summer day. Lilacs, roses and bees in the garden.
+- It's the last sitting for the portrait.
+
+### Characters
+- **Dorian Gray**: about twenty, extremely beautiful, innocent and easily impressed. Before this chapter he has never really thought about himself.
+- **Lord Henry Wotton ("Harry")**: witty aristocrat who loves shocking ideas and paradoxes. He wants to see what his words do to Dorian.
+- **Basil Hallward**: the painter. He adores Dorian and sees him as the inspiration for his art. In Chapter 1 he asked Henry not to influence Dorian.
+- Mentioned: **Lady Agatha**, Henry's aunt. Dorian helps her with charity work in the East End (Whitechapel).
+
+### What happens
+1. Dorian arrives and is playing Schumann on the piano when he meets Lord Henry. Basil wants Henry to leave, but Dorian asks him to stay.
+2. While Dorian poses, Henry talks about influence and self-development. He says influence is immoral, that people are afraid of themselves, and that "the only way to get rid of a temptation is to yield to it."
+3. Dorian is deeply shaken. He feels completely new thoughts, but they seem to come from himself.
+4. Dorian goes into the garden and Henry follows him. Henry gives his big speech about youth: beauty fades, "Time is jealous of you", so live now and try out everything ("a new Hedonism"). Dorian is frightened and fascinated.
+5. They go back in and Basil finishes the portrait. When Dorian sees it, he recognises his own beauty for the first time, "like a revelation."
+6. Because of Henry's words, the joy turns into pain. Dorian becomes jealous of the painting and makes his wish: the picture should grow old and he should stay young. He says he would give his soul for it.
+7. Basil blames Henry. When Basil takes a palette knife to destroy the painting, Dorian stops him: "It would be murder!" Basil gives Dorian the portrait.
+8. Henry invites Dorian to the theatre that evening. Dorian goes with Henry instead of having dinner with Basil. Basil stays behind, hurt, with the painting. He says he'll stay "with the real Dorian."
+
+### Key quotes
+- "The aim of life is self-development." (Henry)
+- "The only way to get rid of a temptation is to yield to it." (Henry)
+- "Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul." (Henry)
+- "Live! Live the wonderful life that is in you!" (Henry)
+- "I am jealous of everything whose beauty does not die." (Dorian)
+- "I would give my soul for that!" (Dorian)
+- "It would be murder!" (Dorian)
+
+### Themes
+- **Influence and manipulation**: Henry changes Dorian with words alone.
+- **Youth and beauty**: they're shown as the most valuable things in life, and they don't last.
+- **Art vs. life**: the painting stays the same while the real person changes.
+- **Hedonism**: living for pleasure and new experiences.
+- **The soul**: Dorian's wish is a kind of Faustian pact.
+
+### Why the chapter matters
+- It's the turning point of the book. Dorian's innocence ends here.
+- Dorian's wish sets up the whole plot, because later the portrait ages and changes instead of him.
+- Dorian's choice between Basil and Henry at the end shows which influence will win.
+
+---
+
 ## 1. Pursuing your desires vs. society's expectations
 
 > Lord Henry suggests that people should pursue their desires rather than conform to society's expectations. How might this philosophy influence the choices a young person makes today?
