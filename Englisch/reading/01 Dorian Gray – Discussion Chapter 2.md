@@ -32,7 +32,9 @@ For the second question I thought about who in pop culture is similar to Lord He
 
 Another one is Mephistopheles from the Faust story, so the devil who tempts someone into trading his soul. This fits especially well with Chapter 2, because Dorian really says "I would give my soul for that" when he wishes to stay young.
 
-I would also compare Henry to some influencers, not to one specific person but more to the type. They show a lifestyle where looks, youth and pleasure are the most important things, they sound very sure of themselves, and young followers often just believe them without thinking about it. Like Henry, they are good with words, but they don't take responsibility for what happens to the people who listen to them.
+I would also compare Henry to Jordan Belfort in the film *The Wolf of Wall Street*. He gives big, exciting speeches and gets young men to believe that money, luxury and pleasure are the only things that matter. Like Henry, he is really good with words, and the people around him get pulled into this lifestyle without thinking about the consequences.
+
+And in a way you could also compare Henry to some influencers, not to one specific person but more to the type. They show a lifestyle where looks, youth and pleasure are the most important things, they sound very sure of themselves, and young followers often just believe them without thinking about it. Like Henry, they are good with words, but they don't take responsibility for what happens to the people who listen to them.
 
 ### 3. How Lord Henry uses language to influence Dorian
 
