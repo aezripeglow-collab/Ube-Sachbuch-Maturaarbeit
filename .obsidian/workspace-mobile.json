@@ -11,10 +11,14 @@
             "id": "32646e92735f6687",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/reading/01 Dorian Gray – Discussion Chapter 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Dorian Gray – Discussion Chapter 2"
             }
           }
         ]
@@ -189,6 +193,10 @@
   },
   "active": "32646e92735f6687",
   "lastOpenFiles": [
+    "Englisch/reading/01 Dorian Gray – Discussion Chapter 2.md",
+    "Englisch/00 Start.md",
+    "Englisch/reading",
+    "Englisch",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Skript_Praesentation_fuenfte_Fassung.docx",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Ube_Maturapraesentation.pptx",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Skript_Praesentation_dritte_Fassung.docx",
@@ -208,16 +216,13 @@
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Ube_Vorlage_Magazin.pptx",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Ube_Maturapraesentation_komplett_Uebersicht.jpg",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Ube_Maturapraesentation_Uebersicht.jpg",
-    "Ube Sachbuch Maturaarbeit/08 Präsentation/Skript_Praesentation_zweite_Fassung.docx",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Präsentation der Maturaarbeit.md",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Prezi-Vorgabe (23.11.2026).md",
     "Ube Sachbuch Maturaarbeit/08 Präsentation/Fachgespräch – Vorbereitung (24.11.2026).md",
-    "Ube Sachbuch Maturaarbeit/08 Präsentation/Fachgespraech_Vorbereitung.docx",
     "Ube Sachbuch Maturaarbeit/02 Buch/Hörbuch-Manuskript (23.11.2026).md",
     "Wirtschaft/02 Nichtig vs. anfechtbar.md",
     "Wirtschaft/01 AG – Aufgaben F 139 bis F 143.md",
     "Wirtschaft/00 Start.md",
-    "Religion/Ayya Khema – Die wunschlose Befreiung.docx",
     "Religion/01 Ayya Khema – Die wunschlose Befreiung.md",
     "Deutsch/05 Satire – Zusammenfassung für den Aufsatz.md",
     "math/02 Lernfortschritt.md",
@@ -228,7 +233,6 @@
     "Deutsch/02 Satire – Analyse der Unterrichtstexte.md",
     "Deutsch/00 Start.md",
     "Physik/05 Formelkarte für die Prüfung.md",
-    "Ube Sachbuch Maturaarbeit/01 Planung/Plakate für die Ausstellung (18.11.2026).md",
     "Ube Sachbuch Maturaarbeit/99 Archiv/10 Überarbeitung/Abbildungen/zeitstrahl.png",
     "Ube Sachbuch Maturaarbeit/99 Archiv/10 Überarbeitung/Abbildungen/thesenschema.png",
     "Ube Sachbuch Maturaarbeit/99 Archiv/10 Überarbeitung/Abbildungen/flaeche_ernte.png",
